@@ -1,0 +1,1695 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "ARTERIAL CANNULATION SOP"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "20024"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff performing ABG, arterial cannulation or care of arterial cannulas"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "21 December 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "20 December 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Local Critical Incident"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "FS 12 Safe Care and Treatment"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Anaesthetics, Theatres and Critical Care"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Dr B Rodda, Consultant Anaesthetist"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2612 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group:"
+                    },
+                    {
+                        "text": "Anaesthesia, General ICU and Burns ICU Lead Clinician Triumvirate"
+                    },
+                    {
+                        "text": "19 August 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr P Berry, Clinical Director Anaesthesia and Theatres"
+                    },
+                    {
+                        "text": "19 August 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "15 December 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "January 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr P Berry"
+                    },
+                    {
+                        "text": "Consultant Anaesthetist, CD Anaesthesia"
+                    },
+                    {
+                        "text": "19 August 2020"
+                    },
+                    {
+                        "text": "Dr C Westall"
+                    },
+                    {
+                        "text": "ICM Consultant, General ICU Lead Clinician"
+                    },
+                    {
+                        "text": "19 August 2020"
+                    },
+                    {
+                        "text": "Dr C Spoors"
+                    },
+                    {
+                        "text": "Consultant Anaesthetist, Burns ICU Lead Clinician"
+                    },
+                    {
+                        "text": "19 August 2020"
+                    },
+                    {
+                        "text": "Nicole Lee"
+                    },
+                    {
+                        "text": "Senior Sister/Clinical Facilitator Burns ICU"
+                    },
+                    {
+                        "text": "21 August 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Injectable Medicines Policy or equivalent"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr B Rodda, Dr C Leahy"
+                    },
+                    {
+                        "text": "Newly created document"
+                    },
+                    {
+                        "text": "21 December 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions ................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust .................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Arterial Cannulation ................................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Ongoing Care .............................................................................................................. 8"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Arterial Blood Sampling from an Indwelling Arterial Cannula ................................ 8"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Arterial Cannula Removal ........................................................................................ 10"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Complications ........................................................................................................... 11 10 Training Requirements ............................................................................................. 14 11 Monitoring and Audit ................................................................................................ 14 12 Approval and Implementation ................................................................................. 14 13 Equality Impact Assessment ................................................................................... 14 14 References ................................................................................................................ 14 Appendix 1: Allen Test .................................................................................................... 16 Appendix 2: Three way tap positions ............................................................................. 17 Appendix 2: Preliminary Equality Analysis ................................................................... 20"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "This document provides guidance to staff regarding the insertion, ongoing care, sampling from, removal of and treatment of complications associated with arterial cannulae. This document has been predominately informed by The Royal Marsden Manual of Clinical and Cancer Nursing Procedures (10th Edition)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Purpose 1 \u2013  ensure  no  harm  comes  to  patients  as  a  result  of  arterial cannulation or arterial pressure measurement or arterial blood sampling from an arterial cannula."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Purpose 2 \u2013  ensure no harm comes to staff as a result of arterial cannulation or  arterial  pressure  measurement  or  arterial  blood  sampling from an arterial cannula."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 24,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "ADoN"
+                    },
+                    {
+                        "text": "Associate Director of Nursing"
+                    },
+                    {
+                        "text": "ODP"
+                    },
+                    {
+                        "text": "Operating Department Practitioner"
+                    },
+                    {
+                        "text": "Arterial Cannula"
+                    },
+                    {
+                        "text": "A plastic tube inserted and secured in a peripheral or central artery. They are most commonly used in intensive care units and in theatre to provide the means for: continuous intra\u2010arterial pressure monitoring frequent arterial blood sampling"
+                    },
+                    {
+                        "text": "Arterial Puncture"
+                    },
+                    {
+                        "text": "A one\u2010off insertion of a needle in order to enable the aspiration of blood from the artery."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The Executive team is responsible for ensuring that systems and processes are in place  throughout  their  Divisions  to  ensure  that  this  document  is  disseminated appropriately and that monitoring of compliance is undertaken, with remedial action implemented  as  appropriate.  In  addition,  the  Divisional  Clinical  Directors  are responsible for ensuring that all medical staff complies with the contents of the document. Individual responsibilities (i.e. Chief Executive)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The ADoN are responsible for ensuring that the policy is disseminated throughout the Division and that the required monitoring and audit are undertaken, with the resources provided to support this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Lead Nurses and ODPs are responsible for ensuring that all staff within the theatre and ICU environments comply with the contents of this document and for taking action when this is not the case."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Medical and Anaesthetic Staff are responsible for complying with this SOP, with the Clinical Director having ultimate responsibility for addressing non-compliance."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Arterial cannulation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Indications for insertion of arterial cannulae"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Continuous direct blood pressure monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Requiring more accurate measurements than sphygmomanometric (cuff) blood pressure readings;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Inability to use indirect BP monitoring;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Frequent blood sampling;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Frequent arterial blood gas sampling;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Insertion of arterial cannula"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 38,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "Before inserting an arterial line consider the following factors: Indication for requiring an arterial line; Location choice; e.g. consider ease of access, operator familiarity, anatomical structures, preferable avoidance of end-arteries; Examination e.g. if cannulating radial artery then the circulation of the hand is assessed: temperature, capillary refill, the colour of the hand and consider ultrasound assessment of flow or Allen's test (Appendix 1) if there is evidence of vascular insufficiency; Cannulation of non-dominant hand is preferred where possible; Equipment availability and familiarity."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 39,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Consider if there are any contraindications for arterial cannulation such as (not exhaustive): Relative Arteritis Raynaud's disease Coagulopathy Peripheral vascular disease Previous axillary clearance or other surgery eg flap harvesting Absolute Infection at planned insertion site Arteriovenous fistula"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "There are two main techniques for insertion of peripheral arterial lines Seldinger technique (Vygon LeaderCath or Arrow devices) Catheter-over-needle (BD Insyte or Abbocath)"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Gauge and length of the arterial cannula may be influenced by patient factors, e.g. size and anatomy location, e.g. femoral would usually require a longer length than radial"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "Ultrasound guidance can be helpful for assessing vessel patency, size and to guide insertion and confirming position."
+                    },
+                    {
+                        "text": "6 ."
+                    },
+                    {
+                        "text": "Gather essential equipment Personal protective equipment 500 mL pressure infuser bag Transducer set Cables Transducer Mount Transducer tubing Drip stand Designated arterial cannula Sterile intravenous pack Transparent dressing 10 mL syringe 5 mL syringe ChloraPrepTM applicator (2% Chlorhexidine Gluconate/70% Isopropyl Alcohol) Transpore tape Red arterial line labels Trolley 2.0 synthetic, monofilament suture (Prolene), or Steri-Strips as required Needle free connector, if in local use (ICU areas) Drug products 500 mL bag of 0.9% sodium chloride solution 1% lidocaine injection"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 40,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "6."
+                    },
+                    {
+                        "text": "Pre\u2010procedure: Introduce yourself to the patient, positively identify the patient, explain and discuss the procedure with them, and gain their consent to proceed. If the patient is unable to consent e.g. unconscious, then appropriate consideration must be given to patient autonomy in line with the Mental Capacity Act and local policies around this. Wash hands with soap and water, or an alcohol\u2010based handrub, and dry. Prepare the infusion and transducer sets using aseptic technique. Check that all Luer\u2010Lok connections are secure. Attach needle free connector to three-way tap at patient end of the set (replacing the bung), if in local use."
+                    },
+                    {
+                        "text": "7."
+                    },
+                    {
+                        "text": "Procedure: Connect the transducer to a 500 mL bag of 0.9% sodium chloride solution, which must be prescribed. Open the roller clamp fully and squeeze the flush device actuator (see instructions with set). Check thoroughly for air bubbles in the circuit. Insert the bag into the pressure bag 300 mmHg. An automatic flush mode is activated within the system, which delivers 3 mL per hour, which maintains the patency of the cannula. Wash hands with soap and water, or an alcohol\u2010based handrub, and dry. Prepare a trolley near the patient. Prepare the insertion site with a ChloraPrepTM and place a sterile towel under the appropriate area. Administer adequate local anaesthetic. Put on sterile gloves. An assistant may hold the patient's foot or arm. If the radial artery is cannulated, the wrist can be hyperextended. Promptly return the wrist to the neutral position following cannulation. Insert the cannula and observe for blood flashback. Attach the transducer set and fully open the roller clamp. Arterial cannula can be secured with either Steri-Strips or sutures, depending on clinical setting and projected time of insertion (>24 hours, or for ICU/HDU care must be sutured). Apply a transparent dressing over the cannula and tape the tubing securely. Clearly label the device as arterial, on the dressing as well as on the tubing. Loop the tubing around the thumb, ensuring this is not too tight (appendix 2). Connect the transducer to the monitoring equipment. Calibrate the arterial device to atmospheric air, known as \u201czeroing\u201d"
+                    },
+                    {
+                        "text": "8."
+                    },
+                    {
+                        "text": "Post-procedure: Remove gloves and dispose of equipment and clinical waste appropriately. Clearly document the date of insertion and the placement of the arterial cannula in the patient's records."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "Patient education:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform the patient about the danger of dislodging the cannula and the amount of movement that is preferred."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Ongoing care"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 44,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "Arterial cannulae are not replaced routinely so frequent and accurate assessment is essential in order to minimize complications"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "If cannula was inserted in emergency conditions and asepsis was compromised then review the cannula within 24 hours, and consider replacement"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "In the event of a spike in temperature and raised inflammatory markers, removal may be considered"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "The arterial site should (where appropriate) be left exposed to minimize any delay in detecting dislodgement of the device or exsanguination from the artery."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "Ideally, non\u2010invasive blood pressure readings should not be taken on the same limb as the arterial cannula"
+                    },
+                    {
+                        "text": "6."
+                    },
+                    {
+                        "text": "The arterial cannula site must be assessed at regular intervals to check for appropriate labelling of the device use of the correct flush fluid pain or erythema at the site"
+                    },
+                    {
+                        "text": "7."
+                    },
+                    {
+                        "text": "On each shift it is advisable that the following are checked and documented: site of the cannulated artery appropriate flush agent prescribed labelling is appropriate any pain or colour changes distal to the cannula."
+                    },
+                    {
+                        "text": "8."
+                    },
+                    {
+                        "text": "Arterial administration sets should be replaced every 72 hours, depending on local policy"
+                    },
+                    {
+                        "text": "9."
+                    },
+                    {
+                        "text": "Take care when moving patient and avoid putting stress on the arm and connections"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Arterial blood sampling from an indwelling arterial cannula"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 46,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "Specific patient preparation: Any sample taken must be analysed within the context of the ventilatory status of the patient. Ideally, prior to obtaining any arterial blood gas sample, the patient should be in a respiratory steady state for 15\u201320 minutes. The oxygen should not be reduced, and, if the patient is ventilated, suction should not be attempted and ventilation parameters should not be adjusted."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "For non-ICU patients the \u201cABG Sample Request Form\u201d must be completed when obtaining a sample for blood gas analysis which includes the patient's details, responsible consultant, temperature and the FiO at the time of collection. 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 47,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "The following volumes of blood should be withdrawn, in order to clear 0.9% sodium chloride, old blood and small emboli from the dead space, the cannula and the three\u2010way tap: Peripheral artery cannula: generally, a minimum of 3 mL must be taken and discarded. Femoral artery cannula: these devices are longer and a minimum of 5 mL should be taken and discarded The withdrawn blood may either be discarded, or immediately returned to the patient circulation, either via the arterial line, or via a venous cannula, depending on local (GICU/HDU or BICU) practice. This has been demonstrated to reduce anaemia as a result of repeated blood sampling in critical care areas."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Essential equipment Personal protective equipment 5 mL Luer\u2010Lok syringe Sterile Luer\u2010Lok cap 2% chlorhexidine in 70% alcohol (e.g. Sani-Cloth CHG 2% wipe) Clean tray or receiver Sample collectors, e.g. pre\u2010heparinized ABG syringe or Vacutainer adaptor and bottles"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "Pre\u2010procedure Introduce yourself to the patient, and explain and discuss the procedure with them. Obtain consent to proceed in all cases except in emergencies when the patient is unable to consent. Wash hands with bactericidal soap and water or an alcohol\u2010based handrub. Prepare trolley. Apply gloves and apron. Check the three\u2010way tap is closed to port (Appendix II) If safe to do so, press the silence button on the arterial monitor for duration of sampling."
+                    },
+                    {
+                        "text": "6."
+                    },
+                    {
+                        "text": "Procedure Remove the cap from the three\u2010way tap and clean the port or clean the needle free port with a swab soaked in 2% chlorhexidine in 70% alcohol for 15 seconds and allow to dry. Attach a 5 mL Luer\u2010Lok syringe. Turn the three\u2010way tap to the artery and port (Appendix II) Slowly withdraw 3\u20135 mL of blood. Turn the three\u2010way tap diagonally to close off both the artery and the flush Remove the 5 mL syringe and discard. Connect the Vacutainer adapter or blood gas syringe to the three\u2010port. Turn the three\u2010way tap to the artery and port (Appendix II). Slowly remove the required amount of blood. Turn the three\u2010way tap diagonally (Appendix II) to close off both the artery and the flush Remove the Vacutainer adapter or gas syringe, gently rotating as you do so."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 48,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "7."
+                    },
+                    {
+                        "text": "Post\u2010procedure Turn the three\u2010way tap to the \u2018open to port' position (Appendix II); to flush the port, apply a sterile swab or the blood withdrawing syringe to the port and flush by squeezing the actuator If the withdrawn blood is to be returned to the patient via the arterial line, do this now by turning the three-way tap to the \u2018open to artery' position (Appendix II) and slowly injecting. Once the syringe is empty, refill it with saline as above and inject that, so that the port or needle free port is clear of blood. If the withdrawn blood is to be returned to the patient via a venous cannula, this can also be done now, and must be followed by a flush of a minimum of 5mL 0.9% sodium chloride solution to maintain cannula patency. Turn the three\u2010way tap to the \u2018open to artery' position (Appendix II) and flush the cannula towards the artery by gently squeezing the actuator. As the cannula is flushed, observe the patient's digits for signs of blanching or discolouration, and listen for complaints of pain from the patient. Clean the port with chlorhexidine in 70% alcohol swab and allow to dry. If required, apply a new sterile Luer\u2010Lok cap and check it is secure. Remove gloves and wash hands. Check the pressure infuser cuff is inflated to 300 mmHg. Analyse blood gas samples as soon as possible. Document the result and report abnormalities."
+                    },
+                    {
+                        "text": "8."
+                    },
+                    {
+                        "text": "There should always be vigilance if the sample taken from the arterial cannula is not within the expected range, and staff must be trained in considering and eliminating any risk of contamination as this may affect blood results. Such errors could lead to patient harm if therapies are changed as a result of erroneous measurements."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Arterial cannula removal"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 50,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "Essential equipment Personal protective equipment Sterile dressing pack Hypoallergenic tape 2% chlorhexidine in 70% alcohol swab (e.g. Sani-Cloth CHG 2% wipe) Trolley Stitch cutter- if sutured"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Pre\u2010procedure Introduce yourself to the patient, positively identify the patient, explain and discuss the procedure with them, and gain their consent to proceed. Check the patient's platelet and coagulation screen. Prepare a trolley. Wash hands with soap and water, or an alcohol\u2010based handrub, and dry before leaving the clinical room."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 51,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Procedure Turn the three\u2010way tap diagonally or turn off the flow switch, depending on the arterial product. Turn off the flush set. Deflate the pressure cuff. Loosen the transparent dressing and tape from the cannula site. Clean hands with an alcohol\u2010based handrub. Apply gloves. Remove dressing and tape. Clean the cannula site area with a 2% chlorhexidine in 70% alcohol swab. Remove sutures (if present), using a \u201cstitch cutter\u201d blade, cutting away from the cannula. Place sterile gauze over the area and gently remove the cannula, ensuring that all of the cannula is removed from the patient. Apply pressure for a minimum of 5 minutes. Apply a clean, sterile, low\u2010linting gauze dressing. Secure with tape. Do not create a tourniquet\u2010type dressing."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Post\u2010procedure Remove gloves and dispose of equipment appropriately. Document the date and time of removal in the patient's notes."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "Post\u2010procedural care: Following the procedure, check the patient's hand, and assess and document the temperature, colour, swelling and any signs of bleeding. Avoid taking blood pressure measurement manually on the arm where the arterial cannula was removed for 24 hours to minimize bleeding or haematoma formation Medical staff must be informed immediately if the hand or forearm becomes discoloured or swollen, or if the patient complains of pain in the limb. In the event of any complication, careful documentation is essential; consider a request for medical photography of the affected area."
+                    },
+                    {
+                        "text": "6."
+                    },
+                    {
+                        "text": "Patient education: Ask the patient to apply pressure if they notice any oozing from the dressing and immediately inform a member of staff."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Complications"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 53,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "There are a number of complications that can occur as a result of arterial cannulation: Vascular thrombosis Distal embolism Proximal embolism: digital ischaemia Local or systemic infection Vascular spasm"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 54,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Skin necrosis of the catheter site due to accidental intra\u2010arterial injection Hypovolaemia secondary to accidental disconnection secondary to dislodgement Cannula fracture or breakage Pseudo\u2010aneurysm formation Median nerve palsy Damage to nearby structures"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "In the event of complications the patient's medical team are to be informed promptly, and they should discuss with the leading consultant and/or vascular or plastic surgical team for further advice where appropriate"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Some specific complications and bedside actions to prevent or manage: Action Prevention Cause Problem"
+                    },
+                    {
+                        "text": "Backflow of blood into the cannula"
+                    },
+                    {
+                        "text": "The pressure infusor cuff may not be inflated to the optimum level"
+                    },
+                    {
+                        "text": "Ensure that the pressure infusor cuff is inflated to 300 mmHg."
+                    },
+                    {
+                        "text": "Check that the pressure infusor cuff is inflated to 300 mmHg and, if not, inflate it to the correct level."
+                    },
+                    {
+                        "text": "Arterial spasm"
+                    },
+                    {
+                        "text": "Forceful flushing or forceful aspiration when withdrawing blood"
+                    },
+                    {
+                        "text": "When the flushing pressure is higher than arterial blood pressure, an automatic flush mode is activated in the system that delivers 3 mL per hour. This maintains the patency of the circuit, cannula and artery"
+                    },
+                    {
+                        "text": "Check that the pressure infusor cuff is inflated to 300 mmHg and, if not, inflate it to the correct level."
+                    },
+                    {
+                        "text": "Cerebral embolism"
+                    },
+                    {
+                        "text": "Prolonged, high\u2010 pressure flushing can drive a clot or gas bubbles retrograde to produce cerebral embolism"
+                    },
+                    {
+                        "text": "Avoid forceful flushing or aspiration and maintain slow, even pressure when withdrawing blood."
+                    },
+                    {
+                        "text": "Check that the pressure infusor cuff is inflated to 300 mmHg and, if not, inflate it to the correct level."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Ischaemia"
+                    },
+                    {
+                        "text": "Local damage to the artery is the most common complication of arterial"
+                    },
+                    {
+                        "text": "cannulation."
+                    },
+                    {
+                        "text": "Distal ischaemia risk is increased in low cardiac output, shock, sepsis or"
+                    },
+                    {
+                        "text": "prolonged cannulation."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Arterial catheter\u2010related ischaemia can present as:"
+                    },
+                    {
+                        "text": "absent pulse dampened waveform mottled or blanched skin delayed capillary refill painful or cold hand motor weakness."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 55,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "The medical team should be informed if any of the above are discovered. If a"
+                    },
+                    {
+                        "text": "distal embolism is suspected, the cannula may be removed and further"
+                    },
+                    {
+                        "text": "treatment considered."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "Treatment of distal embolism Remove the cannula Arrange for Doppler imaging After consultation with a consultant, anticoagulate (if no contraindications) Consider a peripheral vasodilator"
+                    },
+                    {
+                        "text": "6."
+                    },
+                    {
+                        "text": "No medicines are intended for intra-arterial injection, distal vascular injury may occur as a result of intra-vascular injection. In the event of accidental injection of any drug stop administering the drug and immediately report the incident to medical staff and the senior nurse then attempt to withdraw blood from the three\u2010way tap in order to aspirate any of the drug assess the limb pulse, colour and temperature hourly, or more frequently if required, and complete an accident form and/or other relevant documentation It is beyond the scope of this document to discuss specific treatment as this may change depending on which drug was injected intra-arterially. Most interventions attempt to maintain perfusion distal to the site of injury,"
+                    },
+                    {
+                        "text": "involve elevation of the limb and patient analgesia."
+                    },
+                    {
+                        "text": "Specific management should be discussed with senior medical personnel and"
+                    },
+                    {
+                        "text": "plastic surgical team or vascular surgical team."
+                    },
+                    {
+                        "text": "7."
+                    },
+                    {
+                        "text": "Incomplete removal of cannula, leading to a retained foreign body. Always check that the removed cannula is complete If it is not, i.e. part of the plastic tube of the cannula has been left in the patient, contact a doctor appropriate to the clinical setting (theatres/recovery \u2013 anaesthetist, GICU \u2013 ICU junior doctor, BICU \u2013 BICU junior doctor) Ensure blood supply to hand/distal structures is not compromised \u2013 colour, warmth, SpO2, pulses distal to arterial cannulation site. Absence of distal blood flow is a clinical emergency as the foreign body must be removed as soon as possible. Explain to the patient the situation and the need to arrange surgical removal of the foreign body. Contact either the vascular or hand trauma plastic surgical teams (at Broomfield), to arrange removal of the foreign body. Inform senior supervising doctor. Complete an incident reporting form (Datix)."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Training requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Individual clinical areas will have their own training requirements for clinical staff to ensure knowledge of and compliance with the standards set out in this document. These standards apply equally to all groups of staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "New members of staff will be required to either go through a training process or self- certify their reading of this document and future compliance with these standards."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Monitoring and audit"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Issues of non-compliance with these guidelines must be locally reported via the Datix system and investigated to establish if system change or additional individual training is required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Approval and implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "This policy will be approved by the clinical leads of Anaesthesia and Theatres, General ICU and Burns ICU, which is the specialist group with the authority to approve. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "It is the author's responsibility to inform the Anaesthesia and Theatres, General ICU and Burns ICU clinical leads of the approved policy documents when they are uploaded to the Trust's Intranets."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Equality impact assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "(2016). Association of Anaesthetists of Great Britain and Ireland: Safe Vascular Access 2016. [online] Anaesthesia. Available at: https://pubmed.ncbi.nlm.nih.gov/26888253/ [Accessed 30 May 2020]."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Allen test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "The  Allen  test  is  a  bedside  examination  to  assess  collateral  perfusion  of  the  hand. Although  not  fully  reliable,  the  Allen  test  should  be  completed  prior  to radial  arterial cannulation in order to establish whether there is adequate blood supply to the hand."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "The Allen test consists of:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Approximately 5 seconds afterwards, the extended hand should blush owing to capillary refilling."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "If blanching occurs, palmar arch circulation is inadequate, and a radial cannula could lead to ischaemia of the hand"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 73,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Three way tap positions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "Closed to port:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 76,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "Open to artery and port:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 78,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Turned diagonally to close off flush, artery and port:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 80,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Turned to flush and port:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 82,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.007.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 1,
+                "text": "Loop and thumb technique"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 84,
+            "data": {
+                "url": "20024 Arterial cannulation SOP 1.0.008.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Suggested insertion sites for locally available arterial cannulae"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 86,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Brand"
+                    },
+                    {
+                        "text": "Device"
+                    },
+                    {
+                        "text": "Gauge"
+                    },
+                    {
+                        "text": "Length"
+                    },
+                    {
+                        "text": "Suggested Insertion"
+                    },
+                    {
+                        "text": "Vygon"
+                    },
+                    {
+                        "text": "LeaderCath"
+                    },
+                    {
+                        "text": "18G (4Ch)"
+                    },
+                    {
+                        "text": "10cm"
+                    },
+                    {
+                        "text": "Femoral"
+                    },
+                    {
+                        "text": "Vygon"
+                    },
+                    {
+                        "text": "LeaderCath"
+                    },
+                    {
+                        "text": "20G (3Ch)"
+                    },
+                    {
+                        "text": "8cm"
+                    },
+                    {
+                        "text": "Radial, Brachial or Dorsalis Pedis"
+                    },
+                    {
+                        "text": "ICUMedical"
+                    },
+                    {
+                        "text": "Abbocath"
+                    },
+                    {
+                        "text": "20G"
+                    },
+                    {
+                        "text": "32mm"
+                    },
+                    {
+                        "text": "Radial, Brachial or Dorsalis Pedis"
+                    },
+                    {
+                        "text": "ICUMedical"
+                    },
+                    {
+                        "text": "Abbocath"
+                    },
+                    {
+                        "text": "20G"
+                    },
+                    {
+                        "text": "51mm"
+                    },
+                    {
+                        "text": "Radial, Brachial or Dorsalis Pedis"
+                    },
+                    {
+                        "text": "ICUMedical"
+                    },
+                    {
+                        "text": "Abbocath"
+                    },
+                    {
+                        "text": "22G"
+                    },
+                    {
+                        "text": "32mm"
+                    },
+                    {
+                        "text": "Radial, Brachial or Dorsalis Pedis"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "18G"
+                    },
+                    {
+                        "text": "23cm"
+                    },
+                    {
+                        "text": "Femoral"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "18G"
+                    },
+                    {
+                        "text": "16cm"
+                    },
+                    {
+                        "text": "Femoral"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "18G"
+                    },
+                    {
+                        "text": "12cm"
+                    },
+                    {
+                        "text": "Femoral"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "20G"
+                    },
+                    {
+                        "text": "10cm"
+                    },
+                    {
+                        "text": "Femoral"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "20G"
+                    },
+                    {
+                        "text": "8cm"
+                    },
+                    {
+                        "text": "Radial, Brachial or Dorsalis Pedis"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "22G"
+                    },
+                    {
+                        "text": "8cm"
+                    },
+                    {
+                        "text": "Radial, Brachial or Dorsalis Pedis"
+                    },
+                    {
+                        "text": "Arrow"
+                    },
+                    {
+                        "text": "Arterial SAC"
+                    },
+                    {
+                        "text": "22G"
+                    },
+                    {
+                        "text": "5cm"
+                    },
+                    {
+                        "text": "Radial or Dorsalis Pedis"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "Arterial Cannulation SOP / 20024 /1.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "Arterial Cannulation SOP / 20024 /1.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Preliminary equality analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Arterial Cannulation SOP (please tick all that apply)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 92,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing policy"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new policy"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 93,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Formalising the standard of care for arterial cannulation, care of arterial cannula, blood sampling from arterial cannula, removal of arterial cannula and treatment of known complications of arterial cannula."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "No policy existed for arterial cannulation. In response to an accidental intra- arterial injection of medicine."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients benefit as there are now clear standards of care set out for arterial cannula. Staff benefit as this is a resource for teaching and a clear statement of the acceptable standards of care."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "This document has been shared with the clinical leads of the departments where these devices are used \u2013 Anaesthetics and Theatres, General ICU and Burns ICU. Yes; refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 94,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Dr B Rodda"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Consultant Anaesthetist"
+                    },
+                    {
+                        "text": "17 August 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Page  of"
+            }
+        }
+    ]
+}

@@ -1,0 +1,534 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP019 - Outpatient Access Planning - Cancel Offer"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP019"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Outpatient Access Planning - Cancel Offer"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Business Change Analyst"
+                    },
+                    {
+                        "text": "17/05/2019"
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Vanessa Evans- Green"
+                    },
+                    {
+                        "text": "Outpatient Assistant Service Manager"
+                    },
+                    {
+                        "text": "24/05/2019"
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "ADO Medicine"
+                    },
+                    {
+                        "text": "30/05/2019"
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO Women's & Childrens"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "ADO Surgery"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "27/06/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2020"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "17/05/2019"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "24/05/2019"
+                    },
+                    {
+                        "text": "Updates to step no. 18 following feedback from RTT Validators"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell"
+                    },
+                    {
+                        "text": "Delivery Group"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers / Assistant SM / Coordinators):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Debra Mead, Abbi Simpson"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 11,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline the principles of access planning"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Document the process for managing appointment cancellations from access plans"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "When a patient led or hospital led single appointment cancellation is required this carried out from the clinic search booking function. There may be operational or clinical reasons why the appointment is cancelled and not rebooked immediately. Those patients booked from access plans will retain an open access plan entry and be visibly waiting rebooking."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Administrative"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure \u2013 Cancel appointment from an access plan (and rebook if required)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "If a booking has been made from an access plan it is indicated within the APE ID / APE Details column. This is available within \u2018search booking' and within the clinic pegboard view. The clinic pegboard view provides a hyperlink to access planning details pop up:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 23,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.003.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "i.  Review  the  information  within  the  results,  appointment  status  should  be \u2018booked'"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 25,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 26,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.007.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 27,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "RTT start date"
+                    },
+                    {
+                        "text": "RTT breach date"
+                    },
+                    {
+                        "text": "GAD for 1st appt"
+                    },
+                    {
+                        "text": "23/06/2018"
+                    },
+                    {
+                        "text": "27/10/2018"
+                    },
+                    {
+                        "text": "17/08/2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "The above example gives the service 10 weeks to treat the patient after first appointment. If this patient was being booked in May 2019 the screen would put the start search date as the current May 2019 date and end search as GAD date of 17/08/2018:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 30,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "The end search will need to be adjusted in this example otherwise Lorenzo will give the user a warning \u2018the start search date can not be greater than end search date'."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 32,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.011.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "For patient cancellations without a rebooking the access plan entry status will be resources identified"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "For patient cancellations with a rebooking the access plan entry status will be resources confirmed"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 36,
+            "data": {
+                "url": "MEHTSOP019 OP Access Planning Cancel Offer 2.0.012.png"
+            }
+        }
+    ]
+}

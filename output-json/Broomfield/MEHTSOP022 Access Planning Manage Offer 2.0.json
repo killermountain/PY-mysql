@@ -1,0 +1,551 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP022 - Access Planning - Manage Offer (book appointment)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP022"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Access Planning - Manage Offer (book appointment)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business Change Analyst"
+                    },
+                    {
+                        "text": "April 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "24/06/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "04/07/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of cooperate delivery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2020"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "24/06/2019"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Caroline May, Carly Savage, Joanne Gilbey."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline the principles of access planning"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Document the process for managing patients with access planning"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Access planning supports a structured and process driven approach to managing waiting lists. The relationship between an access plan and appointment is 1:1. A single access plan cannot support a series of bookings. An access plan entry (APE) is open until the appointment that is booked against it is departed. Once the appointment has taken place the related access plan entry is closed. Access plans and appointment outcoming must be carried out in the correct sequence or a number of data quality errors can occur."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Administrative Procedure \u2013 Manage offer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "This SOP does not describe the prioritisation of patients that require booking or how to use the PTL. The trigger for booking a patient from an access plan could be:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "At the request of service"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient contact (call, email, in person)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinic capacity located (possibly from a short notice cancellation)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "If \u2018manage offer' is carried out from the access plan entry the search for appointments is based on the rules in the patient access plan and the overarching access plan profile. This means in some cases user will be aware of an available clinic slot but be unable to locate it via the \u2018check availability'. Equally if a patient APE cannot be found from the clinic pegboard the access plan profile should be checked to ensure compatibility."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Where a slot has been found from a clinic pegboard view:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 25,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 26,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 27,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.006.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 29,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "duplication then the status must not change i.e. if clock is ticking it will remain"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "ticking, if clock stopped it should remain stopped. If access plan is being closed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "as activity has taken place outside of Lorenzo (for example a sleep study has"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "been carried out and the appointment booked and managed via TomCat) the"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "outcome of that appointment would be required to inform the RTT status."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient access plan entry in question is closed and their referral remains open The access plan entry no longer appears on the active view"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "The APE is visible with modification history from the \u2018show all' check box"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 38,
+            "data": {
+                "url": "MEHTSOP022 Access Planning Manage Offer 2.0.003.png"
+            }
+        }
+    ]
+}

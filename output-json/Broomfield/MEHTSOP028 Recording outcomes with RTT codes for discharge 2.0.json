@@ -1,0 +1,2071 @@
+{
+    "elements": [
+        {
+            "type": "ListItem",
+            "sequence_num": 1,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP028 Recording outcomes with appropriate Referral to Treatment codes for discharge following an inpatient or day case admission."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Inpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP028"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Recording outcomes with appropriate Referral To Treatment codes for discharge following an inpatient or day case admission."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business change analyst"
+                    },
+                    {
+                        "text": "July 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authorisers Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "10/07/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of cooperate delivery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "10/07/2019"
+                    },
+                    {
+                        "text": "Updated RTT table with descriptions of the RTT codes"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers / Assistant SM / Coordinators / Ward managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Debra Mead, Abbi Simpson, All ADOs , ADONs, Ward managers , Wendy Matthews"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "Document and standardise the process of recording outcomes with appropriate Referral To Treatment codes for discharge following an inpatient or day case admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for tracking and updating the patient's pathway status to ensure accurate RTT information is recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "text": "Overview"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "This document will outline how to choose and record the correct referral to treatment codes when a patient is been discharged from a day case or an inpatient admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Please refer to the Inpatient Care SOP for a detailed description of end to end inpatient processes and workflow."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "The tasks listed below must be completed before the process below can be carried out:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "A completed \u201cDischarge summary\u201d in the status of \u201cauthorised\u201d in the patient record in Lorenzo. The discharge summary is completed by the consultant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Medications on discharge must be reviewed and requested by the nursing staff"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "The Plan Discharge Date (PDD ) must be updated by the nursing staff or ward clerks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Process - Record RTT codes and discharge patient in Lorenzo Role \u2013 Ward clerk / Nurse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Please complete as shown below"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Discharge"
+                    },
+                    {
+                        "text": "Discharge Method"
+                    },
+                    {
+                        "text": "Select as appropriate from the options listed : - Patient discharged on clinical advice or with clinical consent - Patient discharged him/herself or was discharged by a relative or advocate - Patient died - Still birth (For Maternity & Neonatal wards)"
+                    },
+                    {
+                        "text": "Actual discharge date/time"
+                    },
+                    {
+                        "text": "Defaults to current time. please amend as appropriate if not real time"
+                    },
+                    {
+                        "text": "Discharge outcome"
+                    },
+                    {
+                        "text": "Select as appropriate from the options listed : - Treatment completed - Treatment deferred (Use only for electives when treatment did not occurred) - Left before being treated - Left refused treatment"
+                    },
+                    {
+                        "text": "Current actual RTT status"
+                    },
+                    {
+                        "text": "Defaults to current RTT"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 24,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "New actual RTT status"
+                    },
+                    {
+                        "text": "Please see Appendix 1 for detailed screenshots"
+                    },
+                    {
+                        "text": "Intention to readmit"
+                    },
+                    {
+                        "text": "Select as appropriate"
+                    },
+                    {
+                        "text": "Destination"
+                    },
+                    {
+                        "text": "Select as appropriate"
+                    },
+                    {
+                        "text": "Destination Address"
+                    },
+                    {
+                        "text": "Enter as appropriate"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Enter all relevant discharge information i.e. details of follow up activity"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "text": "End point"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient is discharged in Lorenzo. All follow up activities / care following inpatient discharge should be booked as per the agreed protocol and process for each ward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "Scenario 1 - Discharging a patient who was admitted on an emergency pathway"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 1,
+                "text": "The New actual RTT status field will default to \u201c98 Not applicable to RTT\u201d as patients admitted on an emergency pathway are not RTT monitored - the user does not need to do anything - DO NOT SELECT ANY OTHER VALUE."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "Once the patient has been discharged no further activity must be associated to that referral and the referral must be closed as shown below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge screen must be completed as shown below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 32,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.003.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Close referral screen is launched \u2013 Patients who have been admitted under the emergency referral must be discharged and referral closed at discharge."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "text": "**Please note if the patient has follow up appointments e.g. dressings/wounds in the assessment clinics discharge, a NEW referral must be added with the referral source entered as \u201cfollowing emergency admission\u201d."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "Lorenzo \u201cclose referral\u201d screen"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 36,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.004.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Click \u201cFinish\u201d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 1,
+                "text": "Scenario 2 - Discharging a patient who was admitted for an elective procedure as treatment. For example, the patient has undergone some kind of treatment procedure i.e. cataracts, hernia repair, knee replacement, hysterectomy etc."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "The Nurse / ward clerk will select a Discharge method of Patient discharged on clinical advice or with clinical consent a Discharge outcome of Treatment completed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge screen must be completed as shown below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 1,
+                "text": "Scenario 3 - Discharging a patient who was admitted for an \u201cElective Diagnostic\u201d procedure. For example, the patient has undergone an investigative procedure/test/diagnostic e.g. colonoscopy, hysteroscopy etc."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse/ward clerk will select a \u201cDischarge method\u201d of \u201cPatient discharged on clinical advice or with clinical consent\u201d and a \u201cDischarge outcome\u201d of \u201cTreatment completed.\u201d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge screen must be completed as shown below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 45,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.006.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Scenario 4 \u2013 Discharging a patient that dies during admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse/ward clerk will select a \u201cDischarge method\u201d of \u201cPatient Died \u201cand \u201ca Discharge outcome\u201d of Patient Died will auto default."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge screen must be completed as shown below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 49,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.007.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "text": "Scenario 5 - Discharging a patient that is admitted but was unable to have elective surgery / treatment for Trust or medical reason."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse/ward clerk will select a \u201cDischarge method\u201d of \u201cPatient discharged on clinical advice or with clinical consent\u201d and a \u201cDischarge outcome\u201d of \u201cTreatment deferred.\u201d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "The user will select a Defer reason as to why the patient was cancelled."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge screen must be completed as shown below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 54,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.008.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 1,
+                "text": "Scenario 6 - Discharging a patient where the surgery is stopped and not completed but was unable to have elective surgery / treatment for Trust or medical reason."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse/ward clerk will select a \u201cDischarge method\u201d of \u201cPatient discharged on clinical advice or with clinical consent\u201d and a \u201cDischarge outcome\u201d of \u201cTreatment deferred.\u201d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "The user will select a Defer reason as to why the patient was cancelled."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge screen must be completed as shown below"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 60,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 61,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.009.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 62,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "The appropriate dropdown values which should be selected at this point are:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 64,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Current Actual RTT status value & description"
+                    },
+                    {
+                        "text": "New Actual RTT status & description"
+                    },
+                    {
+                        "text": "10 \u2013 Start of 1st Activity after ref in RTT. I.e. clock start"
+                    },
+                    {
+                        "text": "20 \u2013 Ongoing further activity in pathway i.e. treatment not started"
+                    },
+                    {
+                        "text": "11 - Re-start after period of active monitoring"
+                    },
+                    {
+                        "text": "20\u2013 Ongoing further activity in pathway i.e. treatment not started"
+                    },
+                    {
+                        "text": "20 \u2013 Ongoing further activity in pathway i.e. treatment not started"
+                    },
+                    {
+                        "text": "20\u2013 Further activity in pathway i.e. treatment not started"
+                    },
+                    {
+                        "text": "30 - First definitive treatment started, this indicates clock stop"
+                    },
+                    {
+                        "text": "90 - Activity after first treatment"
+                    },
+                    {
+                        "text": "31 - Active monitoring started (patient's decision)"
+                    },
+                    {
+                        "text": "91 - Activity during active monitoring"
+                    },
+                    {
+                        "text": "32 - Active monitoring started (clinician's decision)"
+                    },
+                    {
+                        "text": "91- Activity during active monitoring"
+                    },
+                    {
+                        "text": "90 - Activity after first treatment"
+                    },
+                    {
+                        "text": "90 - Activity after first treatment"
+                    },
+                    {
+                        "text": "91 - Activity during active monitoring"
+                    },
+                    {
+                        "text": "91 - Activity during active monitoring"
+                    },
+                    {
+                        "text": "Emergency Pathway"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "RTT status 98"
+                    },
+                    {
+                        "text": "New actual RTT status"
+                    },
+                    {
+                        "text": "98 - Not applicable to RTT"
+                    },
+                    {
+                        "text": "98 - Not applicable to RTT"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "**Please note -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "The access plan will return to a status of Resources identified with an offer status of deferred for such patients. When going on to manage an offer for such patients the user will need to change the search date from the date of the admission with an end search of 28 days from the patient's admission to ensure the patient is re-admitted within 28 days."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 67,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.009.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 68,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "text": "High Level flow of Inpatient Discharge Process"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 70,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 18,
+                "table_items": [
+                    {
+                        "text": "Inpatient Discharge"
+                    },
+                    {
+                        "text": "Phase"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Makes decision to discharge patient"
+                    },
+                    {
+                        "text": "Completes discharge letter in Lorenzo"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Start"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient is ready to be discharged"
+                    },
+                    {
+                        "text": "Selects patient to be discharged from the ward pegboard on Lorenzo"
+                    },
+                    {
+                        "text": "Launch clinical chart to review the discharge summary"
+                    },
+                    {
+                        "text": "Generate summary of discharge letter as clinical correspondence"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Start"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "End"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "User must review the discharge summary to ensure that TTOs etc have been"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Book follow up care"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Discharge team process"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "End"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "From the ward pegboard, select pt and click \u201cActual discharge\u201d"
+                    },
+                    {
+                        "text": "Complete \u201cDischarge\u201d screen"
+                    },
+                    {
+                        "text": "Discharge letter distributed to the GP"
+                    },
+                    {
+                        "text": "Print out a copy and hand to pt."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "End"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 71,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.009.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "User must review the discharge summary to ensure that TTOs etc have been"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 73,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.011.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 74,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.010.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 75,
+            "data": {
+                "url": "MEHTSOP028 Recording outcomes with RTT codes for discharge 2.0.009.png"
+            }
+        }
+    ]
+}

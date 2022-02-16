@@ -1,0 +1,1149 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "STANDARDISED OPERATIONAL POLICY: VITALPAC BUSINESS CONTINUITY PLAN"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MEHTSOP002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Trust staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th25 November 2019"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th24 November 2022"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "VitalPac System Implementation to the Trust."
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Informatics"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Lee Ellis, Trigger Response Nurse"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "MEHT \u25a1 BTUH \u25a1 SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Jo Francis, Associate Director of Nursing Emergency Care"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group"
+                    },
+                    {
+                        "text": "Date: November 2019"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Intranet & Website"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP002 VitalPAC BCP 5.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dan Spooner"
+                    },
+                    {
+                        "text": "Deputy Director of Nursing"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": "Dilsh Arawwawala"
+                    },
+                    {
+                        "text": "CCIO"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": "Lucinda Davis Rebecca Race"
+                    },
+                    {
+                        "text": "VitalPAC System Admin"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": "Sam Neville"
+                    },
+                    {
+                        "text": "CNIO"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": "Noemi Supina"
+                    },
+                    {
+                        "text": "Digital Clinical Change Lead"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Policy for Standard Infection Prevention Precautions 04072 Hand Hygiene 08086 Clinical Record Keeping Standards Policy 10080 Adult Patient Observation Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Bruce Saunders"
+                    },
+                    {
+                        "text": "Document created"
+                    },
+                    {
+                        "text": "September 2015"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Lee Ellis"
+                    },
+                    {
+                        "text": "Review post upgrade"
+                    },
+                    {
+                        "text": "September 2016"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Lee Ellis"
+                    },
+                    {
+                        "text": "Review post upgrade"
+                    },
+                    {
+                        "text": "January 2017"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Rebecca Race"
+                    },
+                    {
+                        "text": "Review post upgrade"
+                    },
+                    {
+                        "text": "February 2019"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Noemi Supina"
+                    },
+                    {
+                        "text": "Review"
+                    },
+                    {
+                        "text": "November 2019"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1: Appendix 1: Clinical Staff Responsibilities to Report an Issue"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "text": "on VitalPAC and How to Activate BCP"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The aim of this Business Continuity Plan (BCP) is to minimise the risk to immediate patient care in the event of a failure of the VitalPAC system."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "VitalPAC is a clinical system of inputting patient's vital signs/observations within a eObservations module. The module is active in all inpatient areas and the Emergency department. This SOP documents the required actions and authorization process of reverting to BCP in the event of a system failure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "The SOP refers to all areas including inpatients and the emergency department using VitalPAC to record patient vital signs"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "BCP activation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The BCP should be initiated by the System Administrator/IT Managers/ Clinical Operations Manager (during office hours) or on-call IT staff / Clinical Operations Managers (outside of office hours). This decision should be based upon the nature of the fault and likely duration."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "BCP De-activation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Once any problem has been fixed, the System Administrator / IT Managers (during office hours) or on-call IT staff / Site Managers (outside of office hours) will check that iPods and Tablets are connecting and that observations can be viewed electronically on PCs."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "A post incident report will be prepared within 48hours by the MEHT Helpdesk problems. VitalPAC Healthcare Improvement Partner will provide any additional information required to complete the report"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Fault Notification"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The VitalPAC system is robust and allows for the continued collection of patient observations on mobile devices even if the wireless and wired networks and servers are unavailable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "If a user experiences problems accessing the system, they should first check whether it is a problem with an individual device or workstation rather than a"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "system problem. The steps to follow are detailed in the VitalPAC Operational Policy and Troubleshooting guide which are in hard copy format alongside the BCP available on wards. All documents will be available via a web portal however, these may or may not be accessible e.g. during a power outage."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "All VitalPAC system faults should be reported, in the first instance, to System Administrator via the MEHT Helpdesk or through IT Self-Service Portal. Please see Appendix 1 on how to report an issue to IT. It is recommended that the Vitals Helpdesk (System-C) is contacted in addition, to inform of nature and footprint of issue (e.g. Software problem on 3 wards etc.) when BCP is invoked and also when business as usual occurs. The identified Ward Superusers / Ward Managers are able to troubleshoot user queries and minor system problems. The Systems Administrator or other suitable individual (IT on-call Manager) should only contact Vitals Helpdesk (System-C) directly to inform them that the BCP has been invoked or when there is a return to Business as Usual. VitalPAC Support Team and can be contacted using the email address shown in Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Actions for Clinical Staff"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Senior ward nurses"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "On confirming \u201cVitalPAC BCP activated\u201d, the senior nurses will:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform their ward staff that VitalPAC is not available"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that ward staff continue to use the VitalPAC iPods to collect patients' observations and transcribe onto paper charts \u2013 dual recording until instructed to do otherwise."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform their ward staff that when the patient is triggering high NEWS2 score, they need to call the Trigger response team (bleep 2043) or Hospital out of Hours team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "On receipt of the message \u201cVitalPAC BCP deactivated\u201d the senior nurses will:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the VitalPAC PC application is now available and observations taking during the BCP period appear on the electronic charts"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform all ward staff that VitalPAC is available again and that they should continue to use the VitalPAC iPods to record patients' observations"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Stop dual recording on paper charts"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "File the paper charts in patients' notes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Work with the VitalPAC System Administrator to ensure that all corrective action has been undertaken"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Clinical Operations Managers"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "On receipt of the message \u201cVitalPAC BCP activated\u201d, the Clinical Operations Manager will:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "Double check that wards areas are aware that the VitalPAC system is not available"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that nurses in charge know that their staff should continue to use the VitalPAC iPods to collect patients' observations and transcribe onto paper charts \u2013 dual recording"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "On receipt of the message \u201cVitalPAC BCP deactivated\u201d the Clinical Operations Manager will:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "Confirm with senior staff on ward that VitalPAC is available and observations taking during the BCP period appear on the electronic charts."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Confirm that dual recording on paper charts can cease and that staff should continue to use the VitalPAC iPods to record patients' observations"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Confirm with senior nurse on each ward that paper charts should be filed in patients' notes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Doctors \u2013 To use VTE form to record VTE assessment (found on the intranet and within battle"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "Note: VitalPac team will send out communications when there's a system failure and also when the problem is already resolved so the clinical areas will know when to activate/deactivate BCP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Actions for Continual Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "The table below details actions to be taken in the event of a system failure."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 49,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "TYPE OF SYSTEM FAILURE"
+                    },
+                    {
+                        "text": "RECOMMENDED ACTION"
+                    },
+                    {
+                        "text": "IMPACT ON VITALPAC"
+                    },
+                    {
+                        "text": "ACTIONS WHEN THE SYSTEM IS FIXED"
+                    },
+                    {
+                        "text": "Confirmed failure of the local wireless network"
+                    },
+                    {
+                        "text": "1) Inform the Systems Administrator via MEHT Helpdesk on ext. 5000 in normal office hours. Out of hours contact the Clinical Operations Management team,"
+                    },
+                    {
+                        "text": "Nurse iPods continue to display observations taken up to the time of system failure. However, whilst the system is down, observations captured on each Nurse and Doctor's iPod are"
+                    },
+                    {
+                        "text": "Data captured on the iPods whilst the system was down is uploaded so that"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 50,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "TYPE OF SYSTEM FAILURE"
+                    },
+                    {
+                        "text": "RECOMMENDED ACTION"
+                    },
+                    {
+                        "text": "IMPACT ON VITALPAC"
+                    },
+                    {
+                        "text": "ACTIONS WHEN THE SYSTEM IS FIXED"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "who will escalate to the on IT Manager 2) Print off charts up to time of failure from the VitalPAC CLINICAL application set up on the ward PCs 3) Dual-record observations on iPods and paper TPR charts for up to 30 hours. 4)If unable to print off charts, manually record last set of observations onto paper chart"
+                    },
+                    {
+                        "text": "only displayed on that iPod. The VitalPAC CLINICAL PC application remains accessible but only displays data captured up to the time of system failure. Tablets with VitalPAC WARD will not display any information. Doctor/Outreach iPods will not display information unless it has been viewed previously."
+                    },
+                    {
+                        "text": "VitalPAC is up to date File paper records in the patient's notes."
+                    },
+                    {
+                        "text": "Confirmed failure of the servers or of the wired network (assuming the whole hospital wired network has failed)"
+                    },
+                    {
+                        "text": "1) Inform the Systems Administrator via MEHT Helpdesk on ext. 5000 Out of hours: 2) Contact the Clinical Operations Management team, who will escalate to the on call IT Manager 3) Dual-record observations on iPods and paper charts for up to 30 hours 4) If unable to print off charts, manually record last set of observations onto paper chart"
+                    },
+                    {
+                        "text": "Nurse iPods continue to display observations taken up to the time of system failure. However, whilst the system is down, observations captured on each Nurse iPod are only displayed on that iPod. The VitalPAC CLINICAL PC application cannot be accessed. Tablets with VitalPAC WARD will not display any information. Doctor/Outreach iPods will not display any information. When the Nurse devices are not connected to the server, a user can only log in to a device that the user has previously used with VitalPAC whilst it was connected to the"
+                    },
+                    {
+                        "text": "Data captured on the iPods whilst the system was down is uploaded so that VitalPAC is up to date File paper records in the patient's notes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 51,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "TYPE OF SYSTEM FAILURE"
+                    },
+                    {
+                        "text": "RECOMMENDED ACTION"
+                    },
+                    {
+                        "text": "IMPACT ON VITALPAC"
+                    },
+                    {
+                        "text": "ACTIONS WHEN THE SYSTEM IS FIXED"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "server at any time. If an account has been locked at any time, the user will need to have logged in on the device since the account was unlocked and whilst it was connected to the server. If the user's PIN has been changed, the user will need to have logged in on the device since the change of PIN and whilst it was connected to the server. If the conditions above are not met a user's name will not appear in the drop down list on any device and they will be unable to take obs using their logon while the connection is lost."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Suspected/confirmed data loss or corruption; non recorded observations"
+                    },
+                    {
+                        "text": "1) Inform the Systems Administrator via MEHT Helpdesk on ext. 5000 2) Dual-record observations on iPods and paper charts for up to 30 hours"
+                    },
+                    {
+                        "text": "Nurse iPods, Doctor iPads, PCs, etc. will continue to display observations and other patient and clinical information. However, whilst data loss/corruption is addressed, observations and other information in VitalPAC should be used carefully."
+                    },
+                    {
+                        "text": "Staff will be informed if any information is lost or corrupted and so not available in VitalPAC. Paper charts used for these patients must be filed in the patient notes."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Resolving the Problem"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "The VitalPAC System administrator in conjunction with the IT Department will rectify any problem."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "If the problem is likely to continue for an extended period of time, the VitalPAC team will meet and liaise closely with the MEHT Helpdesk and Site Operations team to ensure the system is fixed as quickly as possible and that the clinical staff briefed on developments."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Auditing this Policy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Any significant outage of the VitalPAC system will be captures through the Datix system and a full RCA will be completed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Any incidences where the BCP plans have no be followed and VitalPAC not recorded appropriately will be captured through the Datix system and investigated locally with support from the VitalPAC team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Clinical Staff Responsibilities to Report an Issue on VitalPAC and How to Activate BCP"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 59,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Before raising a call to IT, kindly refer to the Troubleshooting Guide document if the issue can be resolved straightaway. This document is included in the VitalPAC Ward Information folder. If the clinical staff is unable to resolve the issue on the ward, please follow the next step. http://meht-intranet/clinical-pages/vitalpac/"
+                    },
+                    {
+                        "text": "In hours: Raise a call to IT Helpdesk (ext 5000); or log the issue through IT Self-"
+                    },
+                    {
+                        "text": "Service Portal (Hornbill) via (24/7) Out of hours: Call the local Site Manager to ask permission to speak to the on-call IT to report the issue"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 1,
+                "text": "If System admin/On-call IT is unable to fix the issue, the clinical staff on ward will inform"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 61,
+            "data": {
+                "url": "MEHTSOP002 VitalPAC BCP 5.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "the on-call Manager through Site team about the issue and to authorise activation of BCP when it's out of hours. If it's within office hours, VitalPAC team will inform Site team/Deputy Director or Director of Nursing about the issue and to let them know about the activation of BCP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "text": "Do an Incident Report regarding the system issue/failure Appendix 3: Contact details"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 64,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "MEHT IT Helpdesk"
+                    },
+                    {
+                        "text": "Ext 5000 E-mail : support@meht.nhs.uk IT Self-Service Portal (can access on every Desktop/PC)"
+                    },
+                    {
+                        "text": "VitalPAC System Administrator"
+                    },
+                    {
+                        "text": "Vital.Pac@meht.nhs.uk"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "VitalPAC Business Continuity Plan SOP/MEHTSOP002/5.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 67,
+            "data": {
+                "url": "MEHTSOP002 VitalPAC BCP 5.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: VitalPack Business Continuity Plan SOP/MEHTSOP002"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 69,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "A change in a service to patients"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A change to an existing policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A change to the way staff work"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A new policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Something else (please give details)"
+                    },
+                    {
+                        "text": "Updated with correct version"
+                    },
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full review and version control"
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "Clarity around escalation and expectations of implementing BCP"
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Staff and Patients"
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change? b) If so, with whom?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "text": "Preliminary analysis completed by:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 71,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Daniel Spooner"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Deputy Director of Nursing"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 72,
+            "data": {
+                "url": "MEHTSOP002 VitalPAC BCP 5.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "VitalPAC Business Continuity Plan SOP/MEHTSOP002/5.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.End of policy\u2026\u2026\u2026\u2026\u2026\u2026"
+            }
+        }
+    ]
+}

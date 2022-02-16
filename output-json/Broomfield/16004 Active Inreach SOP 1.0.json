@@ -1,0 +1,728 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "16004 Active Inreach SOP 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Active/Assertive Inreach Standard Operating Procedure"
+                    },
+                    {
+                        "text": "Type: Policy Register No: 16004 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "SAFER(R) Flow Bundle (See appendix)"
+                    },
+                    {
+                        "text": "Contributes to CQC Regulation:"
+                    },
+                    {
+                        "text": "9, 11"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With"
+                    },
+                    {
+                        "text": "Post/Committee/Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Hilary Bowring"
+                    },
+                    {
+                        "text": "Associate Chief Nurse for Medicine"
+                    },
+                    {
+                        "text": "January 2016"
+                    },
+                    {
+                        "text": "Chirag Oza"
+                    },
+                    {
+                        "text": "Consultant \u2013 Gastroenterologist & Hepatologist"
+                    },
+                    {
+                        "text": "January 2016"
+                    },
+                    {
+                        "text": "Gerald Clesham"
+                    },
+                    {
+                        "text": "Consultant Cardiologist Lead Clinician"
+                    },
+                    {
+                        "text": "January 2016"
+                    },
+                    {
+                        "text": "Jo Smith"
+                    },
+                    {
+                        "text": "Matron - Terling"
+                    },
+                    {
+                        "text": "January 2016"
+                    },
+                    {
+                        "text": "Malcolm Lawson"
+                    },
+                    {
+                        "text": "Consultant \u2013 Respiratory"
+                    },
+                    {
+                        "text": "January 2016"
+                    },
+                    {
+                        "text": "Professionally Approved By"
+                    },
+                    {
+                        "text": "Mags Farley \u2013 Chief Operating Officer"
+                    },
+                    {
+                        "text": "January 2016"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Corporate"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "Ratified on:"
+                    },
+                    {
+                        "text": "27th January 2016"
+                    },
+                    {
+                        "text": "Executive Management Board Sign Off Date"
+                    },
+                    {
+                        "text": "February 2016"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "5th February 2016"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "4th February 2019"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Huw Jenkins"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "All Clinical Staff within MEHT"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet & Website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Discharge Policy Difficult Discharge Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 0,
+                "text": "Document Review History"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version Number - (for updated documents \u2013 also list the changed paragraph numbers)"
+                    },
+                    {
+                        "text": "Authored/Reviewed by"
+                    },
+                    {
+                        "text": "Active Date"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Huw Jenkins"
+                    },
+                    {
+                        "text": "5th February 2016"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "SAFER Patient Flow Bundle \u2013 MEHT adapted"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this document is to provide guidance for all members on  Active/Assertive Inreach based processes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Evidence shows that early specialist involvement improves outcomes and mortality and reduces length of stay."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "2.1. Prompt speciality referral is crucial for quality of care and patient flow. Clinical teams are to be encouraged to review referrals promptly and identify early (\u2018pull') those which need to move to their ward, ideally also identifying early discharges to facilitate this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Equality of Service"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Whilst the Trust is introducing a standardised system, it is understood that there are patients with special needs which must be met and the Trust is committed to making reasonable adjustments to its procedures when these are necessary. Failure to take into account special needs, should be reported as a risk event."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "In the context of this document, the reasonable adjustments for patients with learning disabilities and autism could include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Additional time spent with the patient and their carer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to contact the Specialist Nurse for ID & Autism"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "This document accepts that staff must at all times operate within the frameworks of:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "09116 Caring for Adult Patients with a Learning Disability"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "13003 Carers Policy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "15010 Making Reasonable Adjustments"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Aims"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "All specialties move as soon as possible to electronic referrals via Extramed ensuring that this only happens after the patient has been admitted on PAS. Patients must never be admitted on Extramed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Standards should be adopted by all teams at senior and junior level."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "All specialties to make daily contact with EAU to review appropriate patients and direct patients to empty beds generated on the base ward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Response times to referrals to be audited."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Delays of more than 24 hours to be escalated to bed office."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "This document is applicable across all ward areas"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Roles and Responsibilities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "6.1. Clinical Director"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "It is the responsibility of the Clinical Director to ensure compliance amongst the medical teams for expectations outlined in this document."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "text": "6.2. Associate Chief Nurse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "It is the responsibility of the Associate Chief Nurse to ensure compliance amongst the nursing teams for expectations outlined in this document."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "text": "6.3. Matrons"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Matrons are responsible for ensure supervision of the ward nursing teams, with compliance against this SOP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "text": "6.4. Medical Teams"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "It is the medical team's responsibility to ensure compliance with this SOP, especially in regards to discharge letters."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "text": "6.5. Nursing Staff"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "At least 1 member of nursing staff to ensure compliance against this SOP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Operational standards"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Active Inreach \u2013 Medical Specialties"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "Patients with clear specialty needs should be reviewed by a Consultant from that team as early as possible in their hospital stay, ideally within  hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Referrals to Specialty teams should be seen within 24 hours of referral. Patients should not wait in hospital pending specialist review"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Referrals are more efficiently handled using an electronic referral system which allows real time response, audit trail and avoids the risk of lost referrals (compared to fax)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Specialty teams should identify patients, especially from EMAU, that need to be moved to their ward base, and actively pull them across to the ward by identifying discharges to create beds and liaising closely with the Bed Office"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 1,
+                "text": "Where patients do not need to be transferred across to the base ward, instructions need to be clear to the existing ward team regarding treatment plan, criteria for discharge and follow up arrangements (including how to arrange this robustly)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Breaches"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients waiting longer than 24 hours for a specialty inpatient referral \u2013 these will be identified through Extramed and monitored/escalated where required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Auditing/Monitoring of will be used as a Active/Assertive Inreach quality assurance procedure undertaken by either a clinician or senior nurse who is independent of and separate from the ward/area under review."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "The purpose of auditing/monitoring Active/Assertive Inreach is to evaluate conduct and compliance with the Active/Assertive Inreach standard operating procedure (SOP) and guidelines."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Audit/Monitoring visits may take place at any time (random peer reviews), although adequate notice could be given depending on the circumstances."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "http://www.england.nhs.uk/wp-content/uploads/2015/03/breaking-the-cycle-safer- flow.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "SAFER Patient Flow Bundle \u2013 MEHT adapted"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 63,
+            "data": {
+                "url": "16004 Active Inreach SOP 1.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Page 6 of 6"
+            }
+        }
+    ]
+}

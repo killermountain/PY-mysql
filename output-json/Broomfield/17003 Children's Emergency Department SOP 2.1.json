@@ -1,0 +1,5336 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "CHILDREN's EMERGENCY DEPARTMENT STANDARD OPERATING PROCEDURE (SOP)"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "17003"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th24 December 2019"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "rd23 December 2022"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Service Development"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "11, 12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Women and Children's"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Dr Chavakula, Paediatric Consultant"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "MEHT BTUH SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr Datta, Clinical Director Children's Services"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "19th December 2019"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "24th December 2019"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group"
+                    },
+                    {
+                        "text": "Date: January 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Intranet & Website"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Annam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Cyriac"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Das"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Hassan"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Joseph"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Lethaby"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Lim"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Nambiar"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Ottayil"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Pradeep"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Srinivasagam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Rachel Thomas"
+                    },
+                    {
+                        "text": "Associate Specialist"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Mel Chambers"
+                    },
+                    {
+                        "text": "Head of Nursing and Quality for CYP"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": "Dr Ajay Thomas"
+                    },
+                    {
+                        "text": "Consultant in Emergency Medicine"
+                    },
+                    {
+                        "text": "19/12/19"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "09026 Discharge Policy Children less than 16 years 11046 Children's Observation Policy 16025 Care of the Critically Ill Child"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr Dean Lethaby"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "18 January 2017"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Sarah Moon and Mel Chambers"
+                    },
+                    {
+                        "text": "Clarification to names and titles of front page"
+                    },
+                    {
+                        "text": "7th February 2018"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Mel Chambers"
+                    },
+                    {
+                        "text": "Clarification to point 2 \u2013 Amended staffing levels, Pathway for children with eating disorder and CEWT Score cards"
+                    },
+                    {
+                        "text": "11th July 2018"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Dr Chavakula"
+                    },
+                    {
+                        "text": "Full Review"
+                    },
+                    {
+                        "text": "24th December 2019"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Rachel Smith"
+                    },
+                    {
+                        "text": "Addition of point 9.3 \u2013 patient flow for those presenting with Mental Health Issues"
+                    },
+                    {
+                        "text": "1st April 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose ............................................................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Aim ....................................................................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Operational Hours and Pathways .......................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Operational Management ....................................................................................................... 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Clinical Areas .......................................................................................................................... 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Clinical Responsibility ............................................................................................................ 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Outline Description of Role of Paediatric ED Consultants .................................................. 7"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Emergency and Acute Care Pathway .................................................................................... 9"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Paediatric Emergency Department Patient Flow ................................................................. 9  Paediatric Assessment Unit Pateint Flow ........................................................................... 12  Triage\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026.14 12 Assessment\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...14 13 Recognition of a critically ill child\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026.17 14 Safeguarding\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u202617 15 Facilities\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u202617 16 ED Staffing\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.18 17 Transfer\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..18 18 Pharmacy\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...18 19 Contingency Plans\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..18 20 Clinical Governance\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202618 21 Key Relationships\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202619 22 Key Requirements\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...20 23 Staff Training\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...............20 24 Audit and Monitoring\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..21 25 Communication\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.21 26 Equality and Diversity\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.....21 27 References\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.21"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Sudden high Volume of patient risk of breaching Triage times of 15 mins ......."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "escalation pathway \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202622"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Pathway for Escalation of Medical Staffing Requirements\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.23 Appendix 3: Escalation of the Deteriorating Paediatric Patient in PAU/Phoenix Ward/ED..30 Appendix 4: Flow chart for transfer of a child to a paediatric Tertiary centre\u2026\u2026\u2026\u2026\u2026\u202632"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Appendix 5: Pathway for Under  years requiring EWMHS Crisis Mental Health"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Assessment\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.33"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6: Escalation Procedure when a Young Person Requires a Psychaitric Inpatient Bed\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.34"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7: Pathway for Children attending ED or PAU with an eating Disorder\u2026\u2026\u2026\u2026..35 Appendix 8: CEWT Score charts\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..36 Appendix 9: Preliminary Equality Analysis\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u202644"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This Standard operating Procedure applies to all children attending the Paediatric Emergency Department. The procedure highlights the patient flow and management."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Aim"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "To provide an efficient assessment facility for all children and young people who present to the emergency department."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2004.0,
+                "text": "This is undertaken by suitably qualified staff (NSF 2003) and achieved by working together with other departments/agencies to safeguard children using local SET procedures(2006) and national policy and guidelines Every Child Matters, Choice for Children 2004, Children's Act 1989,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "To ensure children are assessed, treated and discharged or referred to the relevant specialty teams or admitted as quickly as possible and within a 4 hour target from arrival in ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "To ensure children, young people and their families are fully informed as to the process from the moment of arrival."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Operational Hours and Pathways"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Hours of opening: 24 hours \u2013 Children's Emergency Department (ED)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Categories of children seen: All children between 0-16 years."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Special cases:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "16-19 year old young people who have complex chronic conditions, including diabetes, who are already under the care of paediatricians."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.0,
+                "text": "3.3.1 New diabetics up to the age of  years will be managed by the Paediatric Team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "3.3.2 A yellow card system operates under the supervision of the paediatric consultants, resulting in individually selected patients (based on their conditions) having direct parental access to the paediatric assessment unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "3.3.3 All patients who are known or likely to be immuno-compromised, such as oncology patients, should not be assessed in Children's ED and have direct access to the paediatric assessment unit via the yellow card system. If they arrive by ambulance and are significantly unwell they should be brought to ED in line with any other significantly unwell child and the Paediatric team should be informed immediately."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Operational Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Joint Medical Staffing for Paediatric ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The day to day operational management of all nursing staff within paediatric ED is the responsibility of the Women's and Children's Division."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "There is a designated Paediatric Lead for ED who sits within the medicine and Emergency care working in collaboration with the lead for Paediatric ED within Women's and Children's for education, clinical governance, training, Audit and policy and pathway's."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "The Paediatric Assessment unit is located presently on Phoenix Ward (Acute Children's Ward) this is managed by the Division of Women's and Children's and will provide support and guidance and work in collaboration with the ED staff to ensure high standards of care for children and young people."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Clinical Areas"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "The acute assessment areas for children comprise two clinical areas, Children's ED and the Paediatric Assessment Unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "The Children's ED has 2 triage rooms, 2 majors' cubicles, 3 standard cubicles, 1 isolation room and a plaster room."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "The Children's ED has designated waiting / play area that is separate to the adult waiting area. It provides an entry point into the trust for all CYP who present for emergency treatment or assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "The Children's ED has a dedicated resuscitation bay within ED Resuscitation area incorporating a resuscitaire and bed space."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "The PAU has 1 cubicle, 8 beds and a waiting area and indoor and outdoor play area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Clinical Responsibility"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Doctors Responsibility:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.1 Patients arriving in ED: The responsibility of individual patients lies with the ED consultant on call before referral to and review by other Specialities (including Paediatrics, Surgeons, Orthopaedics, Ears Nose Throat (ENT), Max-fax, Plastics and Burns and others), they are then the joint responsibility between the Speciality consultant on call and the ED Consultant on call whilst in the ED department and the responsibility of the Speciality Consultant on-call once they leave the ED. The paediatric ED consultant/consultant on-call should be involved in the care of any critically unwell child, regardless of the main speciality input required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.2 Patients arriving in areas other than ED:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "The responsibility of individual patients lies with the admitting Speciality consultant on call."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "The paediatric ED consultant/Paediatric consultant on-call should be involved in the care of any critically unwell child, regardless of the main speciality input required. Please see below the role of new Paediatric ED consultants (section 7.0)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Nursing and allied health professionals"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's ED will be staffed by dedicated registered children's nurses and supported by ED nurses and Emergency Nurse Practitioners (ENP)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "The nursing staff will be responsible for the child's care in collaboration with the family, advocate for the child and family, regular observations, dispensing medication, care of property and valuables (in line with Trust policy), moving and handling of patients, appropriate paperwork and admission documentation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "The Paediatric Band 7's are responsible for ensuring that all checks and compliance actions are done in accordance with trust policy as well as supporting the staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "The nursing staff may also play a part in expediting patient assessment (following Trust training) by inserting cannula, taking appropriate blood tests, organising investigations (urinalysis, Eco-cardiogram (ECG), Blood Monitoring (BM), swabs), liaising with radiology for X-rays."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "The nurse in charge will coordinate the flow of children through the units and encourage timely decision-making processes by the on-call teams."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "System One checks to be completed on all patients with injuries and for all children with suspected safeguarding concerns in accordance with safeguarding processes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 1,
+                "text": "Nursing staff will be responsible for the transfer and handover of patient care to the appropriate definitive treatment area by using SBAR (Situation Background assessment and recommendation) tool."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Outline description of the role of the new Paediatric ED consultants"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Bleep 1123 will be carried at all times when a senior Paediatric ED Doctor is covering the Paediatric ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Cover arrangements are as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "x Paediatric ED Consultants will be available in Paediatric ED Monday to Thursday between 08:45 to 21:15 (excluding bank holidays)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "Paediatric ED Consultants will be available in Paediatric ED on Friday 09:30 to 16:45 (excluding bank holidays)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "A Paediatric registrar designated to ED may be available in Paediatric ED on Fridays 16:45 to 21:15 (excluding bank holidays) depending on the availability."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "text": "In the absence of Paediatric ED consultant, this may be back filled by a Paediatric registrar if available this cover will only be provided between 08:45 and 17:15 on these dates. This will not always not be possible due to lack of existing resources currently. Once there are enough resources, the gaps will be filled more regularly in the future(details of how to access this information for any given date will be circulated separately (in brief see http://meht-intranet/clinical-pages/doctors-rosters PAEDIATRIC REG + SHO Roster 2019-2020 and click on \u201cED Consultant rota\u201d tab)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The primary aim of this new role is to improve the quality of care provided to the children who attend our Paediatric ED department; this will include (but is not limited to):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "The above aims will be achieved by working closely with the existing ED teams."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.3,
+                "text": "For all patients who present to Paediatric ED:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.4,
+                "text": "Doctors who are expected to attend all Paediatric resuscitation (crash and trauma) calls:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Emergency and Acute Care Pathway"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All children and young people are streamed after arrival in ED by a registered Nurse with the exception of direct access Paediatric cases (Yellow card holders, Oncology/immunocompromised patients and GP referrals) who go directly the Paediatric Assessment Unit on Phoenix ward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "All children or young people with a suspicion of a non-accidental injury or where there is a safeguarding concern (Refer to the \u2018Safeguarding Children Policy'; register number 04064)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Paediatric Emergency Department Patient Flow"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "All walk in attendances follow the below process:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Booked in at reception"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "On arrival either the child, young person or their representative will be requested to confirm their personal information is accurate on the Electronic Patient Record (EPR) system."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "The receptionist will establish the relationship of the person accompanying the child or young person and document this in the patient's notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "The receptionist will establish if the address given for the child is the usual place of residence or a temporary address. Where the child is staying in temporary accommodation, the child's permanent and temporary address will be recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients will be admitted on to Lorenzo"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Triaged in Children's ED by a registered Nurse with Paediatric Qualification or experience."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "The child / young person will be seen in order of priority as highlighted by the Manchester Triage System or Children's Early Warning Tool (CEWT)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.0,
+                "text": "System One is checked for all children who are known to Social Care , have a CPIS alert on Lorenzo or who have attended with certain criteria requiring a Systmone Check such as Head Injury under 1 year, any fracture under  months old."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "Seen by appropriate team as below:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "Assessed and appropriate management initiated by ED team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "If \u226410 day old should be discussed with ED Paediatric Consultant (if available) who will specify where the baby should be seen (i.e. ED or PNW), if the baby is deemed suitable to be sent to PNW then the ED nurses should refer to the Neonatal registrar (bleep 3522) and inform the receiving area about the baby's transfer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "If >10 days and younger than  months (13 weeks) of age should be discussed with ED Paediatric Consultant (if available) who will specify where the baby should be seen, if stable and safe to transfer, the baby should be transferred to PAU for review by Paediatric team after referral to the Paediatric Registrar on bleep 3520."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "If older than  months (13 weeks) and without fever up to  months (26 weeks), should be seen by ED Doctors (including all ED doctors/ED Paediatric Consultant/ED consultants) or Paediatric ENP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "If younger than 6 months (26 weeks) of age with fever history or fever present at triage, should be discussed with ED Paediatric Consultant (if available) who will specify where the baby should be seen, if stable and safe to transfer, the baby should be transferred to PAU for review by Paediatric team after referral to the Paediatric Registrar on bleep 3520. This will be reviewed in 6 months' time."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to speciality if required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Please see \u201cCare of the critically ill child\u201d, policy No 16025\u201d for escalation policies in relation to clinically deteriorating patients"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment commenced/completed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Exit ED by either being:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharged home (refer to Children's Discharge Policy 09026)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to PAU for further assessment/admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to another hospital for definitive care (e.g. Paediatric intensive care unit (PICU), tertiary surgical centre, trauma centre, no bed capacity)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate follow up planned as required depending on ED exit location"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "For children and young people who are being discharged, the discharging nurse will ensure that the patient has the appropriate discharge advice sheet which has been documented in the patient record, any prescribed medications which they have checked and explained to the child/young person and carers and have provided an information leaflet. (Refer to Children's Discharge Policy 09026)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "Summary letter sent to General practitioner (GP)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "Ambulance referrals (non-critically unwell patients):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "Child brought into Children's ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "Ambulance service provide information and book in whilst they are assessed by Children ED Nurse."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "Triaged in Children's ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "The child / young person will be seen in order of priority as highlighted by the Manchaester Triage System or Children's Early Warning Tool (CEWT)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "System One Check in criteria as stated previously."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "Seen by appropriate team as below:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "text": "If \u226410 day old should be discussed with ED Paediatric Consultant (if available) who will specify where the baby should be seen (i.e. ED or PNW), if the baby is deemed suitable to be sent to PNW then the ED nurses should refer to the Neonatal registrar (bleep 3522) and inform the receiving area about the baby's transfer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "If >10 days and younger than 3 months (13 weeks) of age should be discussed with ED Paediatric Consultant (if available) who will specify where the baby should be seen, if stable and safe to transfer, the baby should be transferred to PAU for review by Paediatric team after referral to the Paediatric Registrar on bleep 3520."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "If older than 3 months (13 weeks) and without fever up to 6 months (26 weeks), should be seen by ED Doctors (including all ED doctors/ED Paediatric Consultant/ED consultants) or Paediatric ENP"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "If younger than 6 months (26 weeks) of age with fever history or fever present at triage, should be discussed with ED Paediatric Consultant (if available) who will specify where the baby should be seen, if stable and safe to transfer, the baby should be transferred to PAU for review by Paediatric team after referral to the Paediatric Registrar on bleep 3520. This will be reviewed in 6 months' time."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "Assessed and appropriate management initiated by appropriate team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to speciality if required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to \u201cCare of the critically ill child\u201d (16025) for escalation policies in relation to clinically deteriorating patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment commenced."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Exit ED by either being:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharged home (refer to  Children's Discharge Policy 09026)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to PAU for further assessment/admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to another hospital for definitive care (e.g. PICU, tertiary surgical centre, trauma centre, no bed capacity)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate follow up planned as required depending on ED exit location."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "Summary letter sent to GP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.2,
+                "text": "Ambulance referrals (critically unwell patients)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Call received to red phone in adult department."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse in-charge places 2222 call \u201cPaediatric Trauma\u201d or \u201cPaediatric cardiac arrest call\u201d."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "Child brought straight in to Paediatric Resuscitation Bay."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate team arrivals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "Seen, assessed and appropriate management initiated by appropriate teams."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to \u201cCare of the critically ill child\u201d; register number 16025 for escalation policies in relation to clinically deteriorating patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to further speciality if required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment commenced."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "Exit ED by either being:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to PAU for further assessment/admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharged home (refer to Children's Discharge Policy 09026)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to PAU/HDU for further assessment/admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to another hospital for definitive care (e.g. PICU, tertiary surgical centre, trauma centre, no bed capacity)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate follow up planned as required depending on ED exit location."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "For children and young people who are being discharged, the discharging nurse will ensure that the patient has the appropriate discharge advice sheet which has been documented in the patient record, any prescribed medications which they have checked and explained to the child/young person and carers and have provided an information leaflet . (Refer to Children's Discharge Policy 09026)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Children and Young people requiring external specialist review or transfer, a copy of the notes will be copied placed in a sealed envelope marked private and confidential and given to the guardian for transfer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "text": "Summary letter sent to GP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.3,
+                "text": "Patients with Mental Health Issues"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "9.3.1 Patients that attend the emergency department with mental health issues will be assessed by the triage nurse which will include a full history and a full set of observations and then placed in a room (where available). Also the risk absconder assessment must be completed in the ED notes including a description of the patient and what they are wearing."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "9.3.2 The patients will be then be seen by the ED doctors and if medically fit for discharge they will then be referred to the CRISIS team for EWMHS ( Emotional Wellbeing and Mental Health Services) where they will take the details and advise the referrer if and when the patient will be seen in the ED for a mental health assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": "9.3.3 If the patient requires medical treatment then the CRISIS team will not assess until the patient has completed the treatment and deemed fit for discharge."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 1,
+                "text": "9.3.4 When the assessment has taken place by the CRISIS team a plan of care will be drawn up and the patient will either go home with outpatient follow up if necessary or they may require admission to a Tier 4 Specialist Unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 1,
+                "text": "9.3.5 In the case of the patient requiring a mental health bed and there are none available the patient will be looked after in the most appropriate environment ,taking into account the safety of not only them but the other patients attending the ED and where admission is necessary the safety of the inpatients. Also the children's ward bed availability / capacity and safe staffing levels."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 1,
+                "text": "9.3.6 If the sourcing of a Tier 4 bed is to take some time then a multi disciplinary meeting via conference call should be convened at the earliest possible opportunity to clarify the care pathway for the patient and to ensure the care needs are met for them during their stay in the ED and possible subsequent admission to the children's ward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 1,
+                "text": "9.3.7 If there are outside carers accompanying the patient then their responsibilities to the patient whilst in the hospital need to be defined and clarified with the hospital staff and a careplan written and agreed by both parties."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Paediatric Assessment Unit Patient Flow (co-located within Children's Ward)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.1,
+                "text": "The Patient flow through PAU is described below:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "Booked in at PAU reception"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "text": "On arrival either the child, young person or their representative will be requested to complete a Patient Registration Form to ensure all of their personal information is accurate on the Electronic Patient Record (EPR) system."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients will then be admitted onto the Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "text": "Triaged in Paediatric Assessment Unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "The child / young person will be seen in order of priority as highlighted by the Triage or Children's Early Warning Tool (CEWT)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "Seen by speciality doctor that meets child's needs (depending on source of referral),"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "text": "referrals include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "Yellow card holders (self-referrals) \u2013 seen by Paediatric Team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "GP referrals - seen by Paediatric Team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "text": "Open access patients (recently discharged from PAU) \u2013 seen by team providing the open access."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "Speciality referrals from other sites \u2013 seen by appropriate team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "Oncology patients - seen by Paediatric Team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "Diary patients \u2013 seen by team providing appointment in diary."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "text": "Assessed and appropriate management initiated by appropriate teams."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to Care of the critically ill child Policy (16025) for escalation policies in relation to clinically deteriorating patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to further speciality if required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 0,
+                "text": "For children / young people requiring admission to the children's ward, the Children's PAU nurse in charge of the children's area will be advised so that an appropriate bed can be identified and transfer arrangements can be agreed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment commenced."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "Exit PAU by either being:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharged home refer to Children's Discharge Policy (09026)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Transfer to another hospital for definitive care (e.g. PICU, tertiary surgical centre, trauma centre, no bed capacity)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "For children and young people who are being discharged, the discharging nurse will ensure that the patient has the appropriate discharge advice sheet which has been documented in the patient record, any prescribed medications which they have checked and explained to the child/young person and carers and have provided an information leaflet , a Nurse Discharge letter will be given to the parents/guardians to sign and a copy returned to them."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Children and Young people requiring external specialist review or transfer, a copy of the notes will be copied placed in a sealed envelope marked private and confidential and given to the guardian for transfer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "text": "Summary letter sent to GP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.2,
+                "text": "Special Cases:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 0,
+                "text": "Paediatric 2222 calls: 2222 call placed stating \u201cPaediatric Trauma\u201d or \u201cPaediatric cardiac arrest\u201d and specifying location. Appropriate team crash bleeped by switch board to attend. Management as appropriate to situation encountered. Aim to get child to area where critical care can be provided as soon as practicable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.3,
+                "text": "Paediatric Trauma:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "text": "10.3.1 Any major trauma or significant injury to any child (including neonates) that presents to ED should be discussed with our linked major trauma centre (Addenbrookes) via a designated number (clearly shown on all trauma paperwork in ED)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "10.3.2 This telephone number (option 3) takes you directly to the on call trauma consultant hours a day; they can provide clinical management advice and further advice on transfer methods/practicalities."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 0,
+                "text": "10.3.3 They can also connect in other specialists to the call in real-time if required or get the"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "text": "specialist, such as a neurosurgeon, to call back immediately if required.If the above trauma pathway is not accessible or has not met the needs of the child then the Children's Acute Transfer Team (CATS) can be contacted for advice on management and or transfer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.4,
+                "text": "Paediatric general surgery:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 0,
+                "text": "All suspected Paediatric surgery cases who are under 5 years of age should be referred to the Paediatric ED consultant (if available) or Paediatric Registrar for review and onward referral if deemed necessary. All suspected Paediatric surgery cases who are over 5 years of age should be referred to the General surgeons for review and to formulate an initial management plan."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "All Paediatric Orthopaedic cases should be referred to the orthopaedic surgeons."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.6,
+                "text": "All Paediatric Maxfax cases should be referred to the Maxfax surgeons."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.7,
+                "text": "All Paediatric Burns or plastics cases should be referred to the Burns or plastics team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.8,
+                "text": "All Paediatric ENT cases should be referred to the ENT surgeons."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.9,
+                "text": "All Paediatric mental health patients without co-existing medical problems requiring intervention or treatment should be managed in line with the attached pathways (Refer to appendix 5 and 6)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Triage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Children and Young people should be assessed by a children's nurse (a nurse with at least 6months paediatric nursing experience and a current PILS or EPLS certification)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 0,
+                "text": "11.1.1 The triage nurse or nurse in charge in CED will assess all children. This assessment will include pain and CEWT scores, high-flow pathways and use of sepsis 6 pathways as appropriate. They will initiate treatment as required (i.e. antipyretic) and designate any child or young person directly to the appropriate team as per pathway and policy. The triage can happen either in triage room or paediatric major cubicle."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "The triage and rapid initial assessment should be done within  minutes of registration in ED. If there is delay the escalation pathway should be followed. (Refer to appendix 1)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "The child/young person will be seen in order of priority (as highlighted by the Triage system)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "Every child/young person will have a CEWT (children's early warning tool) assessment at triage, which is documented in their record and appropriate action / escalation taken and clearly documented by medical and nursing staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.5,
+                "text": "The nurse making the assessment should take responsibility for the child until they formally hand over to another member of the team, admit or discharge the child home."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.6,
+                "text": "At shift handover all patients must be formally handed over to the nurse who will be taking responsibility until discharge or admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": "All children should have a pain score completed at triage. Analgesia is dispensed for moderate and severe pain within  minutes of arrival."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Children's ED Internal Professional Standard: The triage and rapid initial assessment should be done within 15 minutes of registration in ED or arrival in PAU (Refer Table 1). If there is delay the escalation pathway should be followed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1: Key Performance indicators"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 202,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Pathway"
+                    },
+                    {
+                        "text": "Reference patient group"
+                    },
+                    {
+                        "text": "Key Performance Indicator"
+                    },
+                    {
+                        "text": "Streaming/Triage"
+                    },
+                    {
+                        "text": "All patients"
+                    },
+                    {
+                        "text": "95% seen within 15 min of registration"
+                    },
+                    {
+                        "text": "Clinical Decision Maker review"
+                    },
+                    {
+                        "text": "All patients (excluding minor injuries)"
+                    },
+                    {
+                        "text": "95% seen within 1 hour See table 2, section 8.3 for"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 203,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "(ENP or Doctor)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "escalation policy if target not being met"
+                    },
+                    {
+                        "text": "Senior final clinical decision maker review"
+                    },
+                    {
+                        "text": "All patients"
+                    },
+                    {
+                        "text": "95% discharged or referred to speciality within 3 hours See table 2, section 8.3 for escalation policy if target not being met"
+                    },
+                    {
+                        "text": "Critical illness/ deteriorating sick child"
+                    },
+                    {
+                        "text": "CEWT/clinical impression suggests need for immediate intervention"
+                    },
+                    {
+                        "text": "100% in Resus bay within 15 minutes Admission to appropriate clinical area within 3 hours (this may be remaining in resus)"
+                    },
+                    {
+                        "text": "Injuries"
+                    },
+                    {
+                        "text": "All injuries"
+                    },
+                    {
+                        "text": "95% injuries seen within 2 hours"
+                    },
+                    {
+                        "text": "Requires admission"
+                    },
+                    {
+                        "text": "Condition requiring admission beyond ED (e.g. PAU or Inpatient ward)"
+                    },
+                    {
+                        "text": "95% transferred to appropriate area (PAU or Inpatient ward) within 3 hours"
+                    },
+                    {
+                        "text": "Mental health"
+                    },
+                    {
+                        "text": "Mental health concerns without associated medical condition"
+                    },
+                    {
+                        "text": "See attached mental health crisis pathway"
+                    },
+                    {
+                        "text": "Radiology"
+                    },
+                    {
+                        "text": "All radiology requests"
+                    },
+                    {
+                        "text": "Clinically critical: 60 minutes Discharge critical: 120 minutes from request"
+                    },
+                    {
+                        "text": "Pathology"
+                    },
+                    {
+                        "text": "All pathology requests where immediate testing possible"
+                    },
+                    {
+                        "text": "Clinically critical: 60 minutes Discharge critical: 120 minutes from receipt in laboratory"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "Assessment in ED: The first assessment should be completed within 1 hour of triage by a doctor or paediatric ENP. If there is delay the escalation pathway should be followed (Refer to Table 2)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "text": "Table 2"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 206,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1 Hour"
+                    },
+                    {
+                        "text": "Children have been initially triaged within 15 minutes, analgesia, antipyretics and/or fluid challenges have been administered or commenced"
+                    },
+                    {
+                        "text": "2 Hours"
+                    },
+                    {
+                        "text": "Children have a Management plan in place or have been discharged (refer to 09026 Children's Discharge Policy)"
+                    },
+                    {
+                        "text": "3 Hours"
+                    },
+                    {
+                        "text": "Treatment is in progress or they have been discharged If children with medical complaints have not been seen or are unlikely to be seen by ED medical staff within 4 hours, the ED consultant should be in the department assisting and allocate all available ED staff to help see patients."
+                    },
+                    {
+                        "text": "4 Hours"
+                    },
+                    {
+                        "text": "All children have been admitted or discharged If there is still a backlog of medical children (i.e. non injuries or other specialty patients), the ED Consultant should be assisting in ED, have obtained all avaialable ED staff assistance and then should contact the Paediatric Consultant on-call to request assistance in seeing paediatric medical patients. The Paediatric Consultant can then manage staff within the Paediatric department to assist when possible."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "If the child requires a referral to a Speciality team, they should be seen within 30 minutes of referral."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "If any child is significantly unwell they should be seen by the ED consultant/Paediatric ED consultant (plus speciality registrar if appropriate) immediately. If there is any delay they must be escalated using the escalation pathway in line with the \u201cCEWT escalation Aid\u201d located on the back of all Paediatric observation charts and subsequently the \u201cescalation of a deteriorating paediatric patient\u201d (Refer to Appendix 3)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "Escalation Principles for delays in care in ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.6,
+                "text": "Nursing staff follow (Appendix 1) if equity and capacity is high resulting in delays."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.7,
+                "text": "The following does not apply to children who warrant rapid clinical assessment due to abnormal CEWT scores or nursing concerns, refer to the \u201cCEWT escalation Aid\u201d for these patients and the \u201cescalation of a deteriorating paediatric patient\u201d (Appendix 3)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.8,
+                "text": "Assessment in PAU: The first assessment should be completed within 1 hour of arrival by a suitable doctor depending on the reason for attendance. If there is delay the escalation pathway should be followed (Refer to table 3)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 213,
+            "data": {
+                "is_heading": 0,
+                "text": "Table 3"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 214,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1 Hour"
+                    },
+                    {
+                        "text": "The first assessment of all patients should be completed"
+                    },
+                    {
+                        "text": "2 Hours"
+                    },
+                    {
+                        "text": "Children have a Management plan in place or have been discharged (see 09026 Children's Discharge Policy)"
+                    },
+                    {
+                        "text": "3 Hours"
+                    },
+                    {
+                        "text": "Treatment is in progress or they have been discharged If children have not been seen or are unlikely to be seen within 4 hours, the Paediatric consultant should be informed"
+                    },
+                    {
+                        "text": "4 Hours"
+                    },
+                    {
+                        "text": "All children have been admitted or discharged If there is still a backlog the Paediatric Consultant should be assisting and obtain all available Paediatric staff assistance."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.9,
+                "text": "The team accepting the child into PAU are responsible for managing the child until there is a formal acceptance by another team to take over the management of the patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "If the child requires a referral to a Speciality team, they should be seen within 30 minutes of being accepted by the specialist team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.11,
+                "text": "If any child is significantly unwell they should be seen by Paediatric Registrar and/or speciality registrar if appropriate immediately. If there is any delay they must be escalated. Clinical escalation in relation to children who are unwell should be in line with the CEWT escalation aid and the \u201cescalation of a deteriorating paediatric patient\u201d (Refer to appendix 3)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.12,
+                "text": "During the period of observation in the assessment unit, the observations should be recorded as required depending on the initial assessment. The planned frequency of observations should be recorded on the relevant age appropriate observation chart. The frequency of observations should be reviewed each time the child is reassessed and the CEWT score recorded."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.13,
+                "text": "When children are discharged home the family must be given information about where they should go if their child deteriorates, contact numbers for the ward and any other relevant parent information. A final clinical assessment of the child should be carried out by the nurse including recording vital signs and Children's Early Warning Tool (CEWT) score before the child leaves the ward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.14,
+                "text": "All care, treatment and discussions with the child and family should be documented in line with the Clinical Record Keeping Policy (08086)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.15,
+                "text": "All treatments or decisions to admit must be completed within 4 hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Recognition of a Critically ill Child"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Cardiac arrest in children is usually the result of respiratory and or circulatory failure that develops over time and is rarely a sudden event. The recognition of a critically ill child who may deteriorate is key to improving outcomes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 224,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Clinical judgement and experience in recognising the critically ill or deteriorating child is of paramount importance. The use of a Children's Early Warning Tool (CEWT) has been introduced on the Children's Wards and the Emergency Department as an adjunct to the monitoring of unwell children to aid in the early recognition of serious illness. (Refer to CYP Observation Policy; register number 11046)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "The staff should respond promptly to children whose score is 5-6 (red) or increasing as well as where there are other concerns (including parental concerns) about the child's clinical status. This scoring system has been introduced to support junior staff in the assessment of sick children and to be more objective in informing senior staff of the condition of the patient. The staff with clinical concerns about a child should not allow themselves to be falsely reassured by a low score."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Safeguarding"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "The safeguarding section of the assessment documentation must be completed for every child/young person and any safeguarding concerns must be clearly identified and appropriate onward referral made. If there is any doubt about the action to take, the children's safeguarding team/Paediatric ED consultants should be contacted in hours, out of hours advice can be sought form the paediatric registrar. (Refer to safeguarding children policy 04064)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Facilities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "Toilet/bathroom facilities: there will be access to a toilet and changing facilities in Children's ED."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Sluice facilities: this is a shared facility with main ED department."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 231,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.3,
+                "text": "There is a vending machine in main reception area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.4,
+                "text": "Medication Preparation: the medication will be stored in the Children's ED"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Waiting areas: the children's ED have designated waiting area with play facilities for all age groups of children."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Emergency Department Staffing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "Receptionist: 24/7 covers ED/CED"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.2,
+                "text": "Nursing:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 237,
+            "data": {
+                "is_heading": 0,
+                "text": "Band 7 senior sisters 2 WTE overall responsibility children's ED department."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 238,
+            "data": {
+                "is_heading": 0,
+                "text": "Day time: 1 band 6 in-charge, 1 trained and 1 band 3 HCA."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 0,
+                "text": "Twilight (14:00 \u2013 00:00)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "text": "Night time: 1 band 6 in-charge, 1 trained and 1 band 3 HCA."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 241,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "Doctors:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 242,
+            "data": {
+                "is_heading": 0,
+                "text": "Doctors covered by ED rota."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 243,
+            "data": {
+                "is_heading": 0,
+                "text": "4 Paediatric ED Consultants covered by Paediatric Consultant rota."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 244,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Transfer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 245,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "A child will be assessed and transferred to an appropriate environment which may include in-line with trust paediatric transfer policy: (Refer to appendix 4)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 246,
+            "data": {
+                "is_heading": 0,
+                "text": "Theatre"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 247,
+            "data": {
+                "is_heading": 0,
+                "text": "Tertiary referral unit"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 248,
+            "data": {
+                "is_heading": 0,
+                "text": "Another District General Hospital (in the event of bed shortages)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 249,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Pharmacy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 250,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "The department will be supported by Pharmacy. The patients go to pharmacy to collect prescribed medications during day (09:00-17:00). The department has supply of emergency medication to take away during out-of-hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 251,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Contingency Plans"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 252,
+            "data": {
+                "is_heading": 0,
+                "text": "If PAU is full patients will remain in ED to be managed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 253,
+            "data": {
+                "is_heading": 0,
+                "text": "Escalation policy for bed and staffing shortages."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 254,
+            "data": {
+                "is_heading": 0,
+                "text": "Use of Equipment library if equipment shortage."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 255,
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency telephones, mobile phones if telephones go down."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 256,
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency corridor lighting available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 257,
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen cylinders available on the unit if disruption to gas supply."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 258,
+            "data": {
+                "is_heading": 0,
+                "text": "Backup generator available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 259,
+            "data": {
+                "is_heading": 0,
+                "text": "All monitoring, pumps and infusion devices have battery back ups."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 260,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Clinical Governance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 261,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.1,
+                "text": "All incidents/DATIX reports are discussed each morning at the safety huddle for Women's and Children's Services. The incidents are then allocated to the appropriate person to investigate. Those incidents involving ED medical staffing will be sent to adult ED to investigate. Those incidents involving specialties such as surgery and plastics will be sent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 262,
+            "data": {
+                "is_heading": 0,
+                "text": "to them to investigate. The Clinical Governance Facilitator for Women's and Children's works closely with the other Divisional Clinical Governance Facilitators and also with the Trust Governance Team to ensure that reporting, actions and recommendations are complete in line with Trust policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 263,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.2,
+                "text": "Concise and Comprehensive reports: where appropriate it may be deemed necessary for a concise or comprehensive report to be undertaken. This will be required in a timely fashion and the clinical governance facilitator will work closely with the investigating officer to ensure this is done. The decision as to the level of report required will be made either at the daily safety huddle by the Clinical Director and Lead Nurses or at the Trust Serious Incident Management Group (SIMG) meeting held daily by representatives of the Trust Governance Team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 264,
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "Key Relationships"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 265,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "The Paediatric Service is provided by or works closely with the following services / staff:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 266,
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Key Requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 267,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.1,
+                "text": "The department will meet the standards of the Children and Young People's National Service Framework (NSF) (2003)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 268,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.2,
+                "text": "Staffing will be suitable to meet the needs of the children and young people, the guidance from the Royal College of Nursing, Staffing Children's Wards document will be used."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 269,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.3,
+                "text": "Staff will have the appropriate training as identified in the mandatory training policy and NSF for children."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 270,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.4,
+                "text": "Staff will have appropriate training to ensure that they are able to meet the requirement to safeguard children during their assessment episode and that all Safeguarding Children policies and procedures are adhered to."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 271,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.5,
+                "text": "The service is fair, accessible and meets the needs of everybody; signposting and access are suitable to meet the needs of all our clients including wide doors for wheelchairs and double buggies and family friendly signage within the ward area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 272,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.6,
+                "text": "All reception desks are low enough to allow children to see the faces of the staff sitting behind a desk."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 273,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.7,
+                "text": "Patient records to be available for planned admission, if notes are not available a temporary set are prepared."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 274,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.8,
+                "text": "A play specialist or nursery nurse will be available to support children and their families during their assessment episode and to assist with the preparation for painful or distressing procedures."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 275,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.9,
+                "text": "A chaperone is available to meet the requirements of the Chaperone Policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 276,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.1,
+                "text": "Specialist equipment is stored appropriately to ensure that the environment remains safe for the children and young people."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 277,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.11,
+                "text": "A separate room is available for nursing staff to treat and dress patients' wounds."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 278,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.12,
+                "text": "Psychotherapy Staff are given appropriate space and to enable them to meet children in the department in a quiet space where they are free from interruptions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 279,
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "Staff Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 280,
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.1,
+                "text": "All staff have mandatory and core skills training and departmental induction when they join the trust. Staff are allocated time to facilitate mandatory training. The doctors have a regular weekly teaching programme in ED and Paediatrics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 281,
+            "data": {
+                "is_heading": 1,
+                "prefix": 24.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 282,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Women's and Children's annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 283,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Paediatric Departmental Meeting and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 284,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 285,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Clinical Governance Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 286,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.5,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 287,
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 288,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.1,
+                "text": "Approved guidelines will be disseminated to appropriate staff via email after ratification of guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 289,
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Equality Impact Assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 290,
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals. (Refer to Appendix 9)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 291,
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 292,
+            "data": {
+                "is_heading": 0,
+                "text": "NHS England (2003) National Service Framework Department of Health: April"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 293,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": "With thanks to North East London Foundation Trust (NELFT) for supply of Pathway for Under  Years Requiring EWMHS Crisis Mental Health Assessment (appendix 5) and Escalation Procedure when a Young Person Requires a Psychiatric Inpatient Bed (Refer to Appendix 6)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 294,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 295,
+            "data": {
+                "is_heading": 1,
+                "text": "Sudden high volume of patient risk of breaching Triage times of 15 minutes escalation pathway"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 296,
+            "data": {
+                "is_heading": 1,
+                "text": "In hours"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 297,
+            "data": {
+                "is_heading": 0,
+                "text": "Senior Nurse to bleep Nurse  Escalate to Nurse in charge"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 298,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 299,
+            "data": {
+                "is_heading": 0,
+                "text": "in charge of Paediatric  of Emergency Department,  Review Triage list and Emergency Department OR  and COMS to request  priortise all unwell patients Childrens Lead Nurse to  support from ENPs or  over minor injuries assist with Triage  floater Nurse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 300,
+            "data": {
+                "is_heading": 0,
+                "text": "Review of patients within department to be performed by the nurse in charge of Children's Emergency Department when capacity and acuity are higher than expected."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 301,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 302,
+            "data": {
+                "is_heading": 0,
+                "text": "Paediatric Nurses on Admin duty's to be cancelled to support the unit Additional Nurses in Children's services have been trained to triage as extra support."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 303,
+            "data": {
+                "is_heading": 1,
+                "text": "Out of Hours"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 304,
+            "data": {
+                "is_heading": 0,
+                "text": "Senior Nurse for  Escalate to COMS to risk"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 305,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 306,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency  assess staffing and  Review Triage list and Department to inform  allocate ENPs and  priortise all unwell patients"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 307,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse in charge of  children's Ward Nurses to  over minor injuries Emergency Department  assist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 308,
+            "data": {
+                "is_heading": 1,
+                "text": "Major internal incident or high capacity and acuity in all units"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 309,
+            "data": {
+                "is_heading": 0,
+                "text": "Review of patients within department to be performed by the nurse in charge of Children's Emergency Department when capacity and acuity are higher than expected."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 310,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 311,
+            "data": {
+                "is_heading": 0,
+                "text": "Additional Nurses in Children's services have been trained to triage as extra support"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 312,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 313,
+            "data": {
+                "is_heading": 1,
+                "text": "Pathway for Escalation of Medical Staffing Requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 314,
+            "data": {
+                "is_heading": 1,
+                "text": "In hours"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 315,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is a Paediatric  Hot week consultant for Paediatric Doctors handover  Registrar gap to cover  Ward to inform the"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 316,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 317,
+            "data": {
+                "is_heading": 0,
+                "text": "- Review staffing levels (5  Paediatric Emergency  Emergency Department registrars)  Department  Consultant in Charge"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 318,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.012.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 319,
+            "data": {
+                "is_heading": 0,
+                "text": "safe staffing levels will be  Paediatric Consultant to reviewed by Hot week  Divisional  escalate to medical"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 320,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.015.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 321,
+            "data": {
+                "is_heading": 0,
+                "text": "consultant and staff  Director/Executive Lead  staffing to action filling"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 322,
+            "data": {
+                "is_heading": 0,
+                "text": "moved to cover greatest  to approve funding for off  this vacancy (within"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 323,
+            "data": {
+                "is_heading": 0,
+                "text": "clinical priority  framework Dr's  approved framework)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 324,
+            "data": {
+                "is_heading": 0,
+                "text": "In times of increased activity and acuity, where additional staff are required, the consultant will contact colleagues"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 325,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.018.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 326,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure for arranging medical cover out of hours (OOH)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 327,
+            "data": {
+                "is_heading": 0,
+                "text": "Out of Hours (OOH) refer to the following times when the Medical Resource department is not operational"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 328,
+            "data": {
+                "is_heading": 0,
+                "text": "After 17.00 hours and before 07.30 hours Monday to Friday"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 329,
+            "data": {
+                "is_heading": 0,
+                "text": "Saturday and Sunday"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 330,
+            "data": {
+                "is_heading": 0,
+                "text": "All public holidays & bank holidays"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 331,
+            "data": {
+                "is_heading": 0,
+                "text": "Doctors  receiving  communication  are  requested  to  contact  the  appropriate Registrar/Consultant informing them of a potential shortfall as soon as possible. The Registrar/Consultant can be contacted via switchboard and in turn will inform the Site Operations Manager. Registrars should contact the appropriate Consultant on call also."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 332,
+            "data": {
+                "is_heading": 0,
+                "text": "When a doctor contacts the appropriate Registrar/Consultant OOH and informs them that they are unable to fulfil their duties, the Site Operations Manager should be contacted and the following action should be implemented."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 333,
+            "data": {
+                "is_heading": 0,
+                "text": "Review internal cover conjunction with the Consultant or Registrar on duty."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 334,
+            "data": {
+                "is_heading": 0,
+                "text": "All the medical staffing rotas for the Trust are listed on the Trust Intranet under Clinical Pages and Doctors rosters \u2013 the rotas also contain the contact details for the doctors: http://meht-intranet/clinical-pages/doctors-rosters/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 335,
+            "data": {
+                "is_heading": 1,
+                "text": "Once the internal cover has been exhausted, the Site Operations Manager will contact LMS who will outsource the shift to all agencies on the approved framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 336,
+            "data": {
+                "is_heading": 1,
+                "text": "Locums must be booked within the TDA capped rates. Agency rates requested over and above the TDA/Monitor capped rates must have on call manager permission out of hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 337,
+            "data": {
+                "is_heading": 0,
+                "text": "Agencies should not be requesting higher rates for doctors OOH. The Medical Resource Department must be notified if this happens."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 338,
+            "data": {
+                "is_heading": 0,
+                "text": "If LMS cannot find a locum through framework suppliers \u2013on call manager permission must be requested to use off frame work agencies. Off framework agencies are subject to the same compliance checks and the attached form must be completed and checked before approval for the doctor can be made. Compliance checks for TDA capped rates must also be adhered to."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 339,
+            "data": {
+                "is_heading": 0,
+                "text": "If no alternative cover can be found, the Site Operations Manager will contact the appropriate Registrar/Consultant informing them of the need to realign internal services to ensure adequate safe cover (Acting down Policy may need to be followed)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 340,
+            "data": {
+                "is_heading": 0,
+                "text": "The Site Operations Manager will be responsible for ensuring all the required recruitment checks are in place prior to the doctor commencing the duty."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 341,
+            "data": {
+                "is_heading": 0,
+                "text": "If the agency locum booking was made during the OOH period specific employment details will be required (Medical Agency Doctors Compliance Checklist listed below must be filled in by the agency when submitting a doctor for the shift)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 342,
+            "data": {
+                "is_heading": 0,
+                "text": "All OOH agency locum requests require specific requirements to be met i.e. competencies, these must be agreed with by the Consultant on call depending on the specialty requiring the cover."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 343,
+            "data": {
+                "is_heading": 0,
+                "text": "The Site Operations Managers must ensure the attached checklist is completed and returned to the Medical Resource department daily to ensure accurate records of instances such as sick leave and locum bookings are maintained."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 344,
+            "data": {
+                "is_heading": 0,
+                "text": "If approval has been given to breach CAP rates or use an off framework agency the Medical Resource department must be informed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 345,
+            "data": {
+                "is_heading": 0,
+                "text": "If locum cover cannot be sourced internally or externally the CD/Consultant is responsible for realigning all available resources to ensure that the department has adequate cover."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 346,
+            "data": {
+                "is_heading": 1,
+                "text": "Induction Packs"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 347,
+            "data": {
+                "is_heading": 0,
+                "text": "Induction packs are delivered to the Security Office included in the packs will be a photograph of the doctor, details on how to access the Trusts IT systems and IT access and if attending for the first time an induction checklist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 348,
+            "data": {
+                "is_heading": 0,
+                "text": "If the doctor is attending for the first time an induction checklist will need to be completed by the doctor following the photographic check. This check list must be returned with the ID badge to the Security Office on completion of the shift."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 349,
+            "data": {
+                "is_heading": 0,
+                "text": "If the doctor has attended in the past only the photographic evidence will be required and the Security officer will give their ID badge and IT access."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 350,
+            "data": {
+                "is_heading": 0,
+                "text": "Any doctors attending the ED department on a regular basis will have permanent IT access and ID badge."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 351,
+            "data": {
+                "is_heading": 0,
+                "text": "Locums can access induction information and the guides to the Trust IT systems Via the Trust intranet:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 352,
+            "data": {
+                "is_heading": 0,
+                "text": "http://meht-intranet/clinical-pages/doctors-locum-doctors-information-pack/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 353,
+            "data": {
+                "is_heading": 1,
+                "text": "Medical Agency Compliance Checklist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 354,
+            "data": {
+                "is_heading": 1,
+                "text": "Framework and Non Framework"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 355,
+            "data": {
+                "is_heading": 1,
+                "text": "Agency Worker Placement Checklist for the Supply of Medical Locums"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 356,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "HQ reference number"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 357,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Authority name (location)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authority ref number (if provided)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Grade"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Speciality"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "EPP?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Start and end date/proposed working pattern"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Non- residential on call"
+                    },
+                    {
+                        "text": "No Yes"
+                    },
+                    {
+                        "text": "Hourly pay rate"
+                    },
+                    {
+                        "text": "\u00a3"
+                    },
+                    {
+                        "text": "Total hourly charge excl. VAT"
+                    },
+                    {
+                        "text": "\u00a3"
+                    },
+                    {
+                        "text": "Hourly agency fee"
+                    },
+                    {
+                        "text": "\u00a3"
+                    },
+                    {
+                        "text": "VAT (as appropriate)"
+                    },
+                    {
+                        "text": "Exc. VAT"
+                    },
+                    {
+                        "text": "Travel and/or other disbursements"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Accommodation required"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Details:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 358,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 12,
+                "table_items": [
+                    {
+                        "text": "Agency Worker's full name"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Previously worked at the authority as above?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Available for full placement period"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If No, please specify"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Full CV attached"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Verified ID attached (Proof of Address x 2)"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Recent photograph attached"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Nationality and immigration (Right to Work in UK)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Attached"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Visa limitations"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If Yes, please specify"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 359,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Enhanced DBS disclosure number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "GMC or GDC full registration date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of DBS issue"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "GMC or GDC registration number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Are there any DBS alert notifications?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "GMC or GDC registration \u2013 date of last check"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of employer on the DBS"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "GMC fax back on file"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is the DBS portable"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DBS online check attached"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 360,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency Department SOP/17003/2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 361,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 362,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Mandatory training"
+                    },
+                    {
+                        "text": "Date of issue"
+                    },
+                    {
+                        "text": "Mandatory training Children's Emergency Department"
+                    },
+                    {
+                        "text": "Date of issue SOP/17003/2.1"
+                    },
+                    {
+                        "text": "Basic Life Support"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Health and Safety"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Fire Safety"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "COSHH"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Lone Worker"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "RIDDOR"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Handling Violence and Aggression"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Safeguarding Adults Level 2"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Complaints Handling and Conflict Resolution"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Safeguarding Children Level 2 (Level 3 for A&E/Paeds & Neonates/Surgery)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "The Caldicott Protocols"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 363,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 10,
+                "table_items": [
+                    {
+                        "text": "Competent in oral and written English"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Two references attached (from two most recent posts, of 2 weeks duration or more)"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of last appraisal"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Next appraisal date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Appraiser name"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Appraiser GMC number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 364,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Other information as required by the authority"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 365,
+            "data": {
+                "is_heading": 0,
+                "text": "The above named agency worker has been submitted by the supplier for consideration in the provision of the services;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 366,
+            "data": {
+                "is_heading": 0,
+                "text": "i) In response to a request from the authorised officer of the authority;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 367,
+            "data": {
+                "is_heading": 0,
+                "text": "ii) Has undergone all of the necessary and appropriate pre-employment screening checks as required by the NHS Conditions of Contract for the supply of medical locums to ensure their compliance prior to supply and"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 368,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Position"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Signature"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 369,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Certificate of fitness"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of issue"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 370,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 371,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Checklist"
+                    },
+                    {
+                        "text": "Date and time"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Doctor has contacted appropriate registrar or consultant, informing them that they are unable to work, e.g. sick leave"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of doctor: Shift: Speciality:"
+                    },
+                    {
+                        "text": "Registrar / consultant has: contacted COM, who will ask if internal cover can be arranged; exhausted internal cover options, which is usually the case if at weekends and out of hours. COM will then go out to MEDACS requesting the grade and specialty of the doctor required. Any CVs submitted will be reviewed by SPR on duty or consultant, dependant on time of day. If no CV after one hour, seek permission to go off framework from the manager on call and the escalation of rates"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of registrar / consultant:"
+                    },
+                    {
+                        "text": "COM will contact Medacs out of hours on 07156 703000, who will outsource the shift to all agencies on the approved framework"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of COM:"
+                    },
+                    {
+                        "text": "Approval to go off framework by on-call manager"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of COM: Name of on-call manager:"
+                    },
+                    {
+                        "text": "Approval to go beyond cap by on-call manager"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of COM: Name of on-call manager:"
+                    },
+                    {
+                        "text": "No alternative cover found, so internal services realigned with discussion with registrar /consultant on call"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of COM: Name of doctor:"
+                    },
+                    {
+                        "text": "Medical Agency Doctors' Compliance Checklist filled in by the agency when submitting a doctor for the shift"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of checking COM:"
+                    },
+                    {
+                        "text": "This checklist must be sent to the Medical Resources Department"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 372,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency Department SOP/17003/2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 373,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 374,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 375,
+            "data": {
+                "is_heading": 0,
+                "text": "PAU/Phoenix Ward"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 376,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.019.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 377,
+            "data": {
+                "is_heading": 0,
+                "text": "Escalation of deteriorating Paediatric patient in ED"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 378,
+            "data": {
+                "is_heading": 0,
+                "text": "1.Deteriorating patient -CEWT score increasing/nursing concern"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 379,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.021.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 380,
+            "data": {
+                "is_heading": 0,
+                "text": "2.Nurse in charge to review patient-"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 381,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.022.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 382,
+            "data": {
+                "is_heading": 0,
+                "text": "Is there concern of significant deterioration?"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 383,
+            "data": {
+                "is_heading": 0,
+                "text": "Can a clear plan to be agreed between the registrar and nurse in charge"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 384,
+            "data": {
+                "is_heading": 0,
+                "text": "Or Senior ED clinician Yes  No  unable to attend in a"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 385,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.026.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 386,
+            "data": {
+                "is_heading": 0,
+                "text": "timely manner"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 387,
+            "data": {
+                "is_heading": 0,
+                "text": "contact the on call paediatric registrar on bleep 3520"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 388,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.028.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 389,
+            "data": {
+                "is_heading": 0,
+                "text": "Yes"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 390,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.031.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 391,
+            "data": {
+                "is_heading": 0,
+                "text": "If improvement, continue  6. Follow plan and reassess patient in 1"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 392,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.033.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 393,
+            "data": {
+                "is_heading": 0,
+                "text": "with the plan  hour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 394,
+            "data": {
+                "is_heading": 0,
+                "text": "No improvement"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 395,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.034.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 396,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Discuss with Paediatric Consultant to agree with a plan or attend and review the patient"
+                    },
+                    {
+                        "text": "At any of these points do these steps need to be considered. Do trigger response need to be contacted? Bleep 2043 8am \u2013 9pm Does the anaesthetist need to be called?"
+                    },
+                    {
+                        "text": "N B If there are any problems using this escalation policy, contact the coordinator on bleep 2200 or 2127 and speak to the on call manager"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 397,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 398,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency Department SOP/17003/2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 399,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 400,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 401,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.038.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 402,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Pathway for Under  Years Requiring EWMHS Crisis Mental Health Assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 403,
+            "data": {
+                "is_heading": 1,
+                "text": "Young person admitted to Broomfield Hospital - Chelmsford Accident and Emergency Department"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 404,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.042.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 405,
+            "data": {
+                "is_heading": 0,
+                "text": "Young Person presents to A&E in a mental health crisis"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 406,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.045.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 407,
+            "data": {
+                "is_heading": 1,
+                "text": "Once medically fitorTeam"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 408,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.049.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 409,
+            "data": {
+                "is_heading": 1,
+                "text": "EWMHS Crisis Team West & Mid"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 410,
+            "data": {
+                "is_heading": 1,
+                "text": "MONDAY \u2013 FRIDAY: 8AM to 8PM \u2013 0300 300 1600. opt1 > opt4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 411,
+            "data": {
+                "is_heading": 1,
+                "text": "or 07970 157174"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 412,
+            "data": {
+                "is_heading": 1,
+                "text": "8PM to 8AM & WEEKENDS \u2013 0300 555 1200 Request the EWMHS Crisis Team covering Broomfield Hospital (Via Essex Emotional Wellbeing OOH Support Line)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 413,
+            "data": {
+                "is_heading": 1,
+                "text": "FOLLOWING ASSESSMENT BY"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 414,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.053.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 415,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge with follow-up as required by the local relevant EWMHS team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 416,
+            "data": {
+                "is_heading": 0,
+                "text": "Admission to CAMHS Tier 4 Inpatient Unit"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 417,
+            "data": {
+                "is_heading": 0,
+                "text": "Admission to Paediatric Ward as per NICE Guidelines (NICE CG16) pathway, untilidentified. Refer to the Escalation Procedure for Staff when a young person requires a Psychiatric Inpatient Bed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 418,
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge home with"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 419,
+            "data": {
+                "is_heading": 1,
+                "text": "Ifcan Emergency Social Needs"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 420,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.058.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 421,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional support:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 422,
+            "data": {
+                "is_heading": 1,
+                "text": "EWMHS Mental Health Direct"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 423,
+            "data": {
+                "is_heading": 1,
+                "text": "Refer to Social Services  Telephone support for young people/parents/carers via Emergency Duty Team:  NELFT switchboard on 0300 555 1200"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 424,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.059.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 425,
+            "data": {
+                "is_heading": 1,
+                "text": "Day \u2013 0345 603 7634  NELFT on call Manager"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 426,
+            "data": {
+                "is_heading": 0,
+                "text": "Available for advice and consultation if required via NELFT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 427,
+            "data": {
+                "is_heading": 1,
+                "text": "Night \u2013 0345 606 1212  switchboard on 0300 555 1200"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 428,
+            "data": {
+                "is_heading": 1,
+                "text": "NELFT EWMHS Consultant Psychiatrist on call"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 429,
+            "data": {
+                "is_heading": 0,
+                "prefix": 33.0,
+                "text": "Available via EWMHS Crisis Nurse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 430,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency Department SOP/17003/2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 431,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 432,
+            "data": {
+                "is_heading": 1,
+                "text": "Escalation Procedure when a Young Person Requires a Psychiatric Inpatient Bed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 433,
+            "data": {
+                "is_heading": 0,
+                "text": "Young person arrives at Broomfield Hospital with suspected mental health difficutlies"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 434,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.060.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 435,
+            "data": {
+                "is_heading": 0,
+                "text": "Young person is declared medically fit"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 436,
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital staff contact Crisis Team and requests an urgent assessment (see EWMHS crisis assessment pathway)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 437,
+            "data": {
+                "is_heading": 0,
+                "text": "Young person assessed by crisis team but requires an urgent psychiatric inpatient admission"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 438,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Psychiatric Tier 4 Inpatient bed not immiedately available"
+                    },
+                    {
+                        "text": "Crisis nurse creates and documents a JOINT care plan & risk assessment, to include additional support for the ward if risks identified. Copy of care plan to be added to MEHT notes. Ward to identify a ward manager for EWMHS to liaise with."
+                    },
+                    {
+                        "text": "Crisis team will update ward at least once within each 24 hour period Hospital team can contact crisis team to discuss concerns as necessary MONDAY \u2013 FRIDAY: 8AM to 8PM \u2013 0300 300 1600 opt1 > opt4 or 07970 157174 KENDS \u2013 o 8AM & WEE8PM t0300 555 1200 Request the EWMHS Crisis Team covering Broomfield Hospital"
+                    },
+                    {
+                        "text": "Ward staff to inform Senior Sister/ Matron & Comms Team. Datix process for medically well children to be followed, datix every 24 hours child remains on the ward awaiting psychaitric bed. Ward staff to review Missing and Absconding Patients Policy risk assessment"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 439,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "If Senior Sister, Matron, Safeguarding Team, or OOH Nurse in Charge or Comms team wish to discuss progress or issues relating to admission they can contact"
+                    },
+                    {
+                        "text": "Natasha Ramcharitar - Crisis Team Manager- 07970 157174 Monday - Friday 9-5"
+                    },
+                    {
+                        "text": "Sharon Hall - Essex Crisis Team Manager 0300 300 1600 - option 1 >option 6 Monday - Friday 9-5"
+                    },
+                    {
+                        "text": "Out of Hours NELFT on call manager - 0300 555 1200"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 440,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7 Pathway for Children attending the Emergency Department/PAU with an Eating Disorder"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 441,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.061.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 442,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 8"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 443,
+            "data": {
+                "is_heading": 1,
+                "text": "CEWT Score cards"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 444,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.062.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 445,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.063.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 446,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.064.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 447,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.065.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 448,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.066.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 449,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.067.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 450,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.068.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 451,
+            "data": {
+                "url": "17003 Children's Emergency Department SOP 2.1.069.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 452,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency Department SOP/17003/2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 453,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 454,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Emergency Department SOP/17003/2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 455,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 9: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 456,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Children's Emergency Department SOP/17003"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 457,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "A change in a service to patients"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A change to an existing policy"
+                    },
+                    {
+                        "text": "X"
+                    },
+                    {
+                        "text": "A change to the way staff work"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A new policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full Review"
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3 year review"
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and clinicians"
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change? b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 458,
+            "data": {
+                "is_heading": 1,
+                "text": "Preliminary analysis completed by:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 459,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Dr Chavakula"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Paediatric Consultant for ED"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "November 2019"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 460,
+            "data": {
+                "is_heading": 0,
+                "prefix": 44.0,
+                "text": ""
+            }
+        }
+    ]
+}

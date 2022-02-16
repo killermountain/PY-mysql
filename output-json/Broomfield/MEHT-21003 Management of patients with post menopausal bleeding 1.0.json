@@ -1,0 +1,1989 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "MANAGEMENT OF PATIENTS WITH POST MENOPAUSAL BLEEDING"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MEHT-21003"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Gynaecology doctors and Nurses"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "24 February 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "23 February 2024"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Created in response to action plan"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Miss Dutta Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2612 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Maternity and Gynaecology Practice Steering Group"
+                    },
+                    {
+                        "text": "12 November 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Miss Thakur, Clinical Director"
+                    },
+                    {
+                        "text": "12 November 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "23 February 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "March 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Miss Rao"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Mr Gangooly"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Mr Partington"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Mr Spencer"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Miss Sharma"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Mr Fiadjoe"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Miss Joshi"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Miss Kausar"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Lavina D'Souza"
+                    },
+                    {
+                        "text": "Lead Midwife for Gynaecology Services"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Jo Luck"
+                    },
+                    {
+                        "text": "Senior Sister Gynaecology Outpatients"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    },
+                    {
+                        "text": "Claire Fitzgerald"
+                    },
+                    {
+                        "text": "Pharmacy"
+                    },
+                    {
+                        "text": "16 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) 04071 Policy for standard infection prevention precautions MSEPO-20215 Hand hygiene policy 06036 Maternity record keeping including documentation in handheld records"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Miss Dutta"
+                    },
+                    {
+                        "text": "Created in response to action plan"
+                    },
+                    {
+                        "text": "24 February 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions ................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust .................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Common Causes of PMB ........................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Polyps .......................................................................................................................... 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Incidental raised endometrial thickness in post-menopausal women ................... 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Women on Tamoxifen ................................................................................................ 7"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Fibroid ......................................................................................................................... 7 10 Risk Factors ................................................................................................................ 7 11 Diagnostic Procedures ............................................................................................... 8 12 Hysteroscopy .............................................................................................................. 9 13 Training Requirements ............................................................................................. 10 14 Monitoring and Audit ................................................................................................ 10 15 Approval and Implementation ................................................................................. 11 16 Equality Impact Assessment ................................................................................... 11 17 References ................................................................................................................ 11 Appendix 1: Post-menopausal Bleeding Pathway ........................................................ 13 Appendix 2: Preliminary Equality Analysis ................................................................... 14"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Postmenopausal bleeding (PMB) defined as uterine bleeding occurring after at least 1 year of amenorrhoea and in those not taking HRT; is a common clinical condition with an incidence of 10% immediately after menopause. PMB constitutes 75% of fast track referrals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The probability of endometrial cancer in women presenting with PMB is 5\u201310% but the chances increase with age and risk factors"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to provide up to date evidence based guidance in caring for women with postmenopausal bleeding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "PMB"
+                    },
+                    {
+                        "text": "Post-Menopausal Bleeding"
+                    },
+                    {
+                        "text": "EC"
+                    },
+                    {
+                        "text": "Endometrial Cancer"
+                    },
+                    {
+                        "text": "MEC"
+                    },
+                    {
+                        "text": "Mucinous Endometrial Cancer"
+                    },
+                    {
+                        "text": "PCOS"
+                    },
+                    {
+                        "text": "Polycystic Ovary Syndrome"
+                    },
+                    {
+                        "text": "TVS"
+                    },
+                    {
+                        "text": "Trans Vaginal Sonography"
+                    },
+                    {
+                        "text": "ET"
+                    },
+                    {
+                        "text": "Endometrium Thickness"
+                    },
+                    {
+                        "text": "HRT"
+                    },
+                    {
+                        "text": "Hormone Replacement Therapy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The Specialist Nurse for Guidelines and Audit is responsible for ensuring clinical policies, guidelines and SOPs, are evidence-based and developed in line with national guidelines and following appropriate consultation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The clinical director is responsible for the implementation of this guideline within the directorate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "The lead midwife for gynaecology is responsible for ensuring staff are aware of the guideline and implement it."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "The Gynaecology Clinical Lead Consultant and Gynaecology Ward Lead Consultant are responsible for ensuring the implementation of this guideline within the clinical setting."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "All staff are responsible for ensuring they are familiar with this guideline in relation to their practice and have the appropriate skills to implement this guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Common causes of PMB"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "There are various causes of PMB:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Vaginal Atrophy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Polyps"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Endometrial Hyperplasia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Endometrial Cancer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Polyps: The estimated prevalence of polyps in women with postmenopausal bleeding ranges from 13% to 50%."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Endometrial Hyperplasia: In the WHO classification revised in 2014, endometrial  hyperplasia is classified in two groups based upon the presence of cytological  atypia: i.e. (i) hyperplasia without atypia and (ii) atypical hyperplasia."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Endometrial cancer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.1 (EC): Is the sixth most frequently diagnosed cancer worldwide for females and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "the 14th most common cause of cancer mortality in women globally. Endometrial cancer incidence has increased by around 50% in the United Kingdom since"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "the 1990s.This increase in incidence is likely due to increasing obesity,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "increased life expectancy and adjuvant tamoxifen for breast cancer and is confined to endometrioid endometrial cancer; between two and 5% of cases of EC are inherited rather than sporadic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.2 Lynch syndrome is associated with a significantly increased risk of EC (both type I and II tumours) compared to the general population, with up to a 40-60% lifetime risk (cf. 3% in the general population)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 47.0,
+                "text": "5.4.3 The mean age at diagnosis is  years, compared to 60 years for non-inherited. EC Type1: 80% Low-grade: a slow-growing malignancy, thought to be linked to estrogen and obesity through the peripheral conversion of androstenedione to estrone in body fat, and it accounts for approximately 80% of cases. Endometrioid carcinoma is thought to progress through a premalignant stage of complex atypical hyperplasia in most cases."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.4 High Grade Type2 10-20%: including grade 3 endometrioid and other non- oestrogen related histological subtypes which have no precursor: papillary serous, clear-cell, mucinous endometrial cancer (MEC), and squamous, transitional cell, mesonephric, undifferentiated. Usually detected at a more advanced stage and have a poorer prognosis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "More than 95% of patients with endometrial cancer report having symptoms of PMB"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "text": "A.U.B. Pre- peri-menopause  A.U.B. Post \u2013menopause Aetiology  Prevalence   Aetiology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 1,
+                "text": "Prevalence"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Dysfunctional   >50%  Atrophy   60-70%"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Polyps, myomas,  Polyps, myomas"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Hyperplasia, adenomyosis 30-50%   hyperplasia,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "adenomyosis   20-40% Cancer   1%  Cancer   10%"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Polyps"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Polyps may be diagnosed in 10\u201340% of women with postmenopausal bleeding [83] and in 1\u201312% of asymptomatic women during a routine gynaecological examination that includes a transvaginal ultrasound examination."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Most polyps are benign, but some may be pre-malignant (simple or complex hyperplasia with cytological atypia) or malignant. malignant pathology is identified in 0.5% to 4.8% of polyps found in postmenopausal women. However, polyps are a known risk factor for the subsequent development of endometrial cancer ."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Incidental raised endometrial thickness in postmenopausal"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "text": "women."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Postmenopausal women are referred with raised endometrial thickness reported on ultrasound scan undertaken for indication other than postmenopausal bleeding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "It  is  inappropriate  to  investigate  every  asymptomatic  patient  with  thickened endometrium  >   mm Postmenopausal  asymptomatic  endometrial  thickening should be evaluated on a case-by-case basis. Decision for endometrial biopsy should  be  based  on  the  risk  factors  for  endometrial  cancer  including  obesity, polycystic  ovary  syndrome,  and  type   diabetes  mellitus,  nulliparity,  delayed menopause."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "Endometrial thickness over  mm should have endometrial assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Women on Tamoxifen"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Women taking tamoxifen have a greater risk of endometrial cancer (absolute cancer increase 1-2 per 1000 user."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Thick endometrium on ultrasound scan-present in 500 per 1000 users, most have polyp; Tamoxifen induced polyps are not premalignant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Routine endometrial biopsy is not necessary in asymptomatic  women  who are taking tamoxifen. Endometrial thickening can be confused with stromal hypertrophy in these women. However, any abnormal bleeding should be evaluated."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Fibroid"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "PMB with the presence of a significant fibroid requires consideration of sarcoma. If a hysteroscopy and or Pipelle biopsy is negative, the patient should be reviewed following an ultrasound scan in 6-8 weeks to ensure it is not a rapidly enlarging fibroid. A rapidly enlarging fibroid raises the possibility of sarcoma. MRI and CT should be performed to assess both the character of the fibroid and for nodal disease and discussed at the MDT."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Risk factors"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "The pre-test probability for endometrial cancer is approximately 10% for the whole population of patients with PMB, but various clinical characteristics can alter this pre-test probability."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "The probability of endometrial carcinoma in women with PMB rises from 1% in women younger than 50 years to 23.8% in women older than 80 years and the incidence of malignancy is, regardless of age, higher in women with PMB and obesity (18%) or diabetes (21%) as compared to women without one of these risk factors (8.0%). In obese women with diabetes the incidence is reported to be as high as 29%. As the pre-test probability for malignancy is higher, the potential of the test to reduce the post-test probability to below 5% can be limited."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "History of chronic anovulation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Exposure to unopposed oestrogen"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "Polycystic ovary syndrome (PCOS) associated with chronic anovulation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "Exposure to tamoxifen"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Strong family history of endometrial or colon cancer (Lynch syndrome)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "Nulliparity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Obesity (often with diabetes and hypertension)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "Endometrial thickness > 8mm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Diagnostic procedures"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "A detailed history with particular emphasis on the risk facts for EC. Use of PMB Performa is advisable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.2,
+                "text": "Examination: This should be undertaken in all women referred with PMB PMB is usually attributed to an intrauterine source, but may arise from the vulva, vagina,  cervix,  fallopian  tubes,  or  it  may  be  related  to  ovarian  pathology. Haematometra may also result from cervical stenosis. The bleeding may originate from extra genital sites such as the urethra or bladder, and the rectum or bowel."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.3,
+                "text": "Transvaginal  Sonography  (TVS):  Ultrasound  scan  to  measure  endometrial thickness (ET) is a useful triaging tool as has a high negative predictive value. A large meta-analysis found that an endometrial thickness (ET) of \u22644mm reduced the probability  of  EC  to    TVS  should  evaluate  uterus  in  both  sagittal  and transverse planes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.4,
+                "text": "Pipelle Biopsy: If the endometrium is 4mm or more an outpatient endometrial biopsy using a Pipelle should be offered and attempted."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 1,
+                "text": "11.4.1 Endometrium thickness. ET should be evaluated and measured in the Sagittal plane,  perpendicular  to  the  long  axis  of  the  endometrium  at  the  maximum thickness."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.2 Poor visualisation has been reported in 10-25% due to distortion, uterine position, and distortion of the endometrial-myometrial interface from endometrial cancer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.3 The probability of endometrial pathology is strongly reduced in the presence of an ultrasound with an endometrial thickness \u22644mm. This cut-off of 4.0 mm yielded sensitivity for the detection of cancer of 98% and specificity of 36%-68% a negative predictive value of 99%"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 86,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.4 The studies have shown that an endometrial thickness of \u22644.0 mm safely predicts endometrial atrophy (NPV-99%) and justifies expectant management, when the patient understands the need for proper follow-up. This could be achieved with  a reduction in  the  use  of invasive  procedures  without  unwanted  delay in  cancer diagnosis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.5 Failure to adequately identify a thin, distinct endometrial echo in a postmenopausal woman with bleeding should trigger an alternative method of evaluation: endometrial biopsy/hysteroscopy. In some cases, endometrial fluid, which may result from atrophic changes or cervical stenosis or may represent blood."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.6 A thickened endometrium is more indicative of Type I EC risk, whereas Type II ECs are more often atrophic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 1,
+                "text": "11.4.7 How to measure endometrial thickness at transvaginal ultrasound: Endometrial thickness is measured on a sagittal scan through the uterus. The"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 1,
+                "text": "uterus is scanned from one side to the other, and the endometrial thickness is measured where it seems to be at its thickest from its outermost border on one side to that on the other. The endometrium must not be measured on a transverse scan, because a transverse scan may be an oblique scan and, if so, will yield too large a measurement. If spontaneous fluid fills the uterine cavity, each endometrial layer is measured separately, and the two measurements are added."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.5,
+                "text": "Pipelle biopsy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "11.5.1 Pipelle endometrial sampling is a rapid, safe and convenient way of obtaining an endometrial specimen for histological diagnosis of intrauterine pathology and it is well accepted by the majority of patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "11.5.2 A Pipelle biopsy leads to a high overall diagnostic accuracy when an adequate specimen is obtained (post-test probability of endometrial cancer of 81.7% for a positive test and 0.9% for a negative test), but is also acceptable when an insufficient sample is obtained provided the device was inserted more than 4cm through the cervical canal. However, further evaluation is warranted in cases of persistent abnormal vaginal bleeding despite negative biopsy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "11.5.3 Endometrial biopsy may result in pain, bleeding, infection, and uterine perforation. Most women want to rule out endometrial cancer with a certainty of 100% and they are prepared to undergo rather invasive and painful diagnostic tests in order to achieve this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "11.5.4 Outpatient EB has a high overall accuracy in diagnosing endometrial cancer when an adequate specimen is obtained. A positive result is more accurate for ruling in disease than a negative test result is for ruling it out."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.6,
+                "text": "The following justify endometrial sampling irrespective of endometrial thickness:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": ">1 episode of bleeding or the presence of diabetes,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "BMI >31 in women age >65."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.7,
+                "text": "The absence of endometrial tissue in an adequately sited Pipelle sample (i.e. inserted to a minimum depth of 7 cm may indicate endometrial atrophy especially in the absence of other endometrial cancer risk factors and a borderline endometrial thickness (4-6mm) on TVS. However, an outpatient hysteroscopy should be strongly considered for all non-diagnostic endometrial samples and any decision not to undertake hysteroscopy in this situation should be documented in the notes and patient letter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.8,
+                "text": "In cases of abnormal uterine bleeding where symptoms persist despite negative biopsy, further evaluation will be warranted."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Hysteroscopy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Women should be offered the option of outpatient hysteroscopy or hysteroscopy under general anaesthetic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "Outpatient hysteroscopy and treatment is particularly safe for women with morbid obesity and multiple co-morbidities."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "Hysteroscopy allows adequate visualisation of uterine cavity, focal lesions are removed under direction vision it is highly accurate and clinically useful in the diagnosis of endometrial cancer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "Direct visualisation and biopsy of the uterine cavity using hysteroscopy should be undertaken where endometrial hyperplasia has been diagnosed within a polyp or other discrete focal lesion. Failed hysteroscopy has been reported 3.4%, for both outpatient & those undertaken under general anaesthetic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "Further attempt should be undertaken by a more experienced clinician. Repeated failed hysteroscopy should be discussed at the Gynaecology oncology MDT."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Training requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "All staff are to ensure that their knowledge and skills are up-to-date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.2,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "13.2.1 As an integral part of the knowledge and skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Monitoring and Audit"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Approval and implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "All policies, procedures and guidelines will be approved by the Maternity and Gynaecology Practice Steering Group which is the specialist group with the authority to approve local guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "It is the author's responsibility to inform the Gynaecology Consultants and staff of the approved policy documents when they are uploaded to the Trust's Intranets."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Equality impact assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 2)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1995.0,
+                "text": "Gredmark T, Kvint S, Havel G, Mattson L,  Histopathological findings in women with postmenopausal bleeding. BJOG, 102(2), pp133-136."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "Tjarks M, Van Voorhis BJ, 2000. Treatment of endometrial polyps. Obstetrics and Gynecology, 96(6), pp886\u2013889."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "Meyer L, Broaddus R, Lu K, 2009. Endometrial Cancer and Lynch Syndrome: clinical and pathologic considerations. Cancer Control, 16(1), pp14-22."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Antunes A, Costa-Paiva L, Arthuso M, et al, 2007. Endometrial polyps in pre and postmenopausal women: factors associated with malignancy. Maturitas, 57(4), pp415\u2013421."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2004.0,
+                "text": "Smith-Bindman, Weiss E, Feldstein V,  How thick is too thick? When endometrial thickness should prompt biopsy in postmenopausal women without vaginal bleeding. Ultrasound in Obstetrics and Gynecology, 24(5), pp558-565."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2010.0,
+                "text": "Goldstein SR,  Modern evaluation of the endometrium. Obstetrics and Gynecology, 116(1), pp168\u2013176."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "American College of Obstetricians and Gynecologists Committee on Gynecologic Practice, 2006. ACOG Committee Opinion No. 336: tamoxifen and uterine cancer. Obstetrics and Gynecology, 107(6), pp1475\u20131478."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": "Masciullo V, Amadio G, Lo Russo D, Raimondo I, Giordano A, Scambia G,  Controversies in the management of endometrial cancer. Obstetrics and Gynecology International epub 2010 Jun"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Tabor A, Watt HC, Wald NJ, 2002. Endometrial thickness as a test for endometrial cancer in women with postmenopausal vaginal bleeding. Obstetrics and Gynecology, 99(4), pp663\u2013670."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Timmermans A, Opmeer BC, Khan KS, Bachmann LM, Epstein E, Clark TJ, et al, 2010. Endometrial thickness measurement for detecting endometrial cancer in women with postmenopausal bleeding: a systematic review and meta- analysis. Obstetrics and Gynecology, 116(1), pp160\u2013167."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2000.0,
+                "text": "Gull B, Carlsson S, Karlsson B, Ylostalo P, Milsom I, Granberg S,  Transvaginal ultrasonography of the endometrium in women with postmenopausal bleeding. Is it always necessary to perform an endometrial biopsy? American Journal of Obstetrics and Gynecology, 182(3), pp509\u2013515."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Wong AW, Lao TH, Cheung CW, et al, 2016. Reappraisal of endometrial thickness for the detection of endometrial cancer in postmenopausal bleeding: a retrospective cohort study. BJOG, 123(3), pp439\u2013446."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2010.0,
+                "text": "Felix AS, Weissfeld JL, Stone RA, Bowser R, Chivukula M, Edwards RP, et al, Factors associated  with  Type  I  and Type  II endometrial  cancer.  Cancer Causes Control, 21(11), pp1851-1856."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2010.0,
+                "text": "Leone FP, Timmerman D, Bourne T, et al,  Terms, definitions and measurements to describe the sonographic features of the endometrium and intrauterine lesions: a consensus opinion from the International Endometrial Tumor Analysis (IETA) group. Ultrasound in Obstetrics and Gynecology, 35(1), pp103\u2013112."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2002.0,
+                "text": "Clark TJ, Voit D, Gupta JK, Hyde C, Song F, Khan KS,  Accuracy of hysteroscopy in the diagnosis of endometrial cancer and hyperplasia: a systematic quantitative review. JAMA, 288(13), pp1610\u20131621."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "Matteson KA, Robison K, Jacoby VL, 2018. Opportunities for early detection of endometrial cancer in women with postmenopausal bleeding. JAMA Internal Medicine, 178(9), pp1222-1223."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "The American College of Obstetricians and Gynecologists Committee Opinion no 734 May 2018. The role of transvaginal ultrasonography in evaluating the endometrium of women with postmenopausal bleeding. Available at: www.acog.org/clinical/clinical-guidance/Committee-opinion/articles/2018/05/the- role-of-transvaginal-ultrasonography-in-evaluating-the-endometrium-of-women-with- postmenopausal- bleeding?utm_source=redirect&utm_medium=web&utm_campaign=otn"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Patient to remain on the fast track pathway till diagnosis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": "Postmenopausal Bleeding"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 146,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.007.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "Normal cervical smear, normal vulval, vagina &cervix on speculum examination"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "Measure endometrial thicknesses (ET) on Ultrasound scan (USS)"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 149,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.011.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "text": "ET \u22644mm  ET >4mm  ET not visualise"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 151,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.020.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "clearly Consider Risk Factors"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 153,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.023.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "Pipelle Endometrial nuBlMlipIa>3ro0u, sD, ilaabtee tmese,nopCaOSuse, ,  sampling"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 155,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.026.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "Tamoxifen, irregular ET, fluid in"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "cavity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "text": "Insufficient sampling"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 159,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.029.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "Yes  No  Sufficient sampling"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 161,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.019.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "Consider Pipelle  No need for endometrial  endometrial"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 163,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.041.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "sampling  sampling"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "text": "Outpatient Hysteroscopy"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 166,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.044.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "text": "Management"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 168,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.043.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "text": "No further  No / recurrent  according  to  Gynae Onc action,  PMB  histology  MDT"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 170,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.056.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 0,
+                "text": "discharge"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "GA hysteroscopy &"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 173,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.052.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "text": "endometrial sampling  Unsuccessful"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 175,
+            "data": {
+                "url": "MEHT-21003 Management of patients with post menopausal bleeding 1.0.062.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 0,
+                "text": "Management of patients with Postmenopausal Bleeding /MEHT-21003 /1.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "text": "Management of patients with Postmenopausal Bleeding /MEHT-21003 /1.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Preliminary equality analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Management of patients with Postmenopausal Bleeding /MEHT-21003 (please tick all that apply)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 181,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 182,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Creation of a new guideline"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "In response to an action plan"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and clinicians"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 183,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Miss Dutta"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Gynaecology Consultant"
+                    },
+                    {
+                        "text": "22 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Page  of"
+            }
+        }
+    ]
+}

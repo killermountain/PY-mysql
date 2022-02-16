@@ -1,0 +1,3180 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "URINARY TRACT INFECTION IN CHILDREN; DIAGNOSIS, TREATMENT AND LONG-TERM MANAGEMENT (0-16YRS)"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "10042"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Clinicians"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "10 March 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "09 March 2024"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Urinary Tract Infection in Under 16s; diagnosis and management NICE Guidance CG54"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Dr Cyriac, Paediatric Consultant"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2612 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Paediatric Practice Steering Group"
+                    },
+                    {
+                        "text": "23 February 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr Cyriac"
+                    },
+                    {
+                        "text": "23 February 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "09 March 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "March 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 25,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Datta"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Agrawal"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Abdussalam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Annam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Chavakula"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Cyriac"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Das"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Hassan"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Lethaby"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Lim"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Maraiyesa"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Nambiar"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Ottayil"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Pradeep"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Srinivasagam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Dr Thomas"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Mary Stebbens"
+                    },
+                    {
+                        "text": "Clinical Facilitator"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Jo Hennessey"
+                    },
+                    {
+                        "text": "Clinical Facilitator"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Lucy Horsman"
+                    },
+                    {
+                        "text": "Ward Manager Paediatric Assessment unit"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Angela Poulter"
+                    },
+                    {
+                        "text": "Ward Manager Phoenix Ward"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Joyce McIntosh"
+                    },
+                    {
+                        "text": "Matron for Neonatal Unit"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Nicola Waterson"
+                    },
+                    {
+                        "text": "Clinical Facilitator Neonatal Unit"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Jackie Kane"
+                    },
+                    {
+                        "text": "Senior Sister Neonatal Unit"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    },
+                    {
+                        "text": "Claire Fitzgerald"
+                    },
+                    {
+                        "text": "Pharmacy"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) 08038 Aseptic ANTT 10043 Feverish Illness in Children MSEPO-20215 Hand hygiene"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Caroline Fox"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "22 April 2010"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Victoria Machell"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "October 2014"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "6 February 2018"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Dr Ghavalkar"
+                    },
+                    {
+                        "text": "Full review to include latest NICE guidance, changes to urine sample collection"
+                    },
+                    {
+                        "text": "10 March 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Background ................................................................................................................ 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Role & Responsibilities within the Trust .................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Definitions .................................................................................................................. 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Areas Outside of Scope ............................................................................................. 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Clinical Assessment and Diagnosis ......................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Acute Management ................................................................................................... 10"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Long-Term Management .......................................................................................... 11"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Follow up ................................................................................................................... 13 10 Information and Advice for Children and Young People and Parents or Carers 14 11 Training Requirements ............................................................................................. 14 12 Infection Prevention ................................................................................................. 15 13 Monitoring and Audit................................................................................................ 15 14 Approval and Implementation ................................................................................. 15 15 Equality Impact Assessment ................................................................................... 16 16 References ................................................................................................................ 16 Appendix 1: Traffic Light system for identifying risk of serious illness ..................... 17 Appendix 2: Preliminary Equality Analysis ................................................................... 18"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The aim of this guideline is to support consistent clinical practice by considering the importance of accurate diagnosis and the effectiveness of subsequent investigations and treatment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Background"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Urinary tract infection UTI is a common bacterial infection causing illness in children. It may be difficult to recognize UTI in children because the presenting symptoms and/or signs are non-specific, particularly in younger children."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "Urine collection and interpretation of urine tests in children are not easy and therefore it may not always be possible to unequivocally confirm the diagnosis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "In the past 30\u201350 years, the natural history of UTI in children has changed as a result of the introduction of antibiotics and improvements in health care. This change has contributed to uncertainty about the most appropriate and effective way to diagnose and treat UTI in children and whether or not investigations and follow-up are justified."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Roles and responsibilities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "The Specialist Nurse for Guidelines and Audit is responsible for ensuring clinical policies, guidelines and SOPs, are evidence-based and developed in line with national guidelines and following appropriate consultation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "The clinical director is responsible for the implementation of this guideline within the  directorate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "The Head of Nursing and Quality for Children and Young People and paediatric wards' managers are responsible for ensuring paediatric staff are aware of the guideline and implement it."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "The Paediatric Clinical Lead Consultant is responsible for ensuring the implementation of this guideline within the clinical setting."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "All paediatric staff are responsible for ensuring they are familiar with this guideline in relation to their practice and have the appropriate skills to implement this guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Definitions"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 30,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "UTI"
+                    },
+                    {
+                        "text": "Urinary Tract Infection"
+                    },
+                    {
+                        "text": "SPA"
+                    },
+                    {
+                        "text": "Supra pubic aspiration"
+                    },
+                    {
+                        "text": "DMSA"
+                    },
+                    {
+                        "text": "dimercaptosuccinic acid"
+                    },
+                    {
+                        "text": "MCUG"
+                    },
+                    {
+                        "text": "micturating cysto-urethrogram"
+                    },
+                    {
+                        "text": "VUR"
+                    },
+                    {
+                        "text": "vesicoureteric reflux"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Areas outside of scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Children with urinary catheters in situ"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Children with neurogenic bladders"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Children already known to have significant pre-existing uropathies"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Children with underlying renal disease (for example, nephrotic syndrome)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Immunosuppressed children"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Infants and children in intensive care units"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Preventative measures or long-term management of sexually active girls with recurrent UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Clinical assessment and diagnosis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Symptoms and signs"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.1 Infants and children presenting with unexplained fever of 38\u00b0C or higher should have a urine sample tested within 24 hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "6.1.2 Infants and children with an alternative site of infection should not have a urine sample tested. When infants and children with an alternative site of infection remain unwell, urine testing should be considered after  hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.3 Infants and children with symptoms and signs suggestive of urinary tract infection (UTI) should have a urine sample tested for infection. Table 1 is a guide to the symptoms and signs that infants and children present with."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1 Presenting symptoms and signs in infants and children with UTI"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 45,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Age group"
+                    },
+                    {
+                        "text": "Symptoms and signs Most Common Least Common"
+                    },
+                    {
+                        "text": "Infants younger than 3 months"
+                    },
+                    {
+                        "text": "Fever Vomiting Lethargy Irritability"
+                    },
+                    {
+                        "text": "Poor feeding Failure to thrive"
+                    },
+                    {
+                        "text": "Abdominal pain Jaundice Haematuria Offensive urine"
+                    },
+                    {
+                        "text": "Infants and children, 3 months or older"
+                    },
+                    {
+                        "text": "Preverbal"
+                    },
+                    {
+                        "text": "Fever"
+                    },
+                    {
+                        "text": "Abdominal pain Loin tenderness Vomiting Poor feeding"
+                    },
+                    {
+                        "text": "Lethargy Irritability Haematuria Offensive urine Failure to thrive"
+                    },
+                    {
+                        "text": "Verbal"
+                    },
+                    {
+                        "text": "Frequency Dysuria"
+                    },
+                    {
+                        "text": "Dysfunctional voiding Changes to continence Abdominal pain Loin tenderness"
+                    },
+                    {
+                        "text": "Fever Malaise Vomiting Haematuria Offensive urine Cloudy urine"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Assessment of risk of serious illness"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "6.2.1 The illness level in infants and children should be assessed in accordance with recommendations in appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "History and examination on confirmed UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "6.3.1 The following risk factors for UTI and serious underlying pathology should be recorded:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Poor urine flow"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "History suggesting previous UTI or confirmed previous UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Recurrent fever of uncertain origin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Antenatally-diagnosed renal abnormality"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Family history of vesicoureteric reflux (VUR) or renal disease"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Constipation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Dysfunctional voiding"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "Enlarged bladder"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "Abdominal mass"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "Evidence of spinal lesion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "Poor growth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "text": "High blood pressure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.4,
+                "text": "Clinical differentiation between acute pyelonephritis/upper urinary tract infection and cystitis/lower urinary tract infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "6.4.1 Infants and children who have bacteriuria and fever of 38\u00b0C or higher should be considered to have acute pyelonephritis/upper urinary tract infection. Infants and children presenting with fever lower than 38\u00b0C with loin pain/tenderness and bacteriuria should also be considered to have acute pyelonephritis/upper urinary tract infection. All other infants and children who have bacteriuria but no systemic symptoms or signs should be considered to have cystitis/lower urinary tract infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.5,
+                "text": "Clinical differentiation between atypical and recurrent UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.1 Atypical UTI includes:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Seriously ill (for more information refer to \u2018Feverish illness in children'"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to guideline entitled Feverish Illness in Children; register number 10043)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "Poor urine flow"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Abdominal or bladder mass"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "Raised creatinine"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Septicaemia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "Failure to respond to treatment with suitable antibiotics within  hours infection with non-E. coliorganisms."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.2 Recurrent UTI ( as defined by NICE guidance)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Two or more episodes of UTI with acute pyelonephritis/upper urinary tract infection, or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "One episode of UTI with acute pyelonephritis/upper urinary tract infection plus one or   more episode of UTI with cystitis/lower urinary tract infection, or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Three or more episodes of UTI with cystitis/lower urinary tract infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "There is no highlighted time lapse between recurrent infections, it is at the clinicians"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "discretion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.6,
+                "text": "Urine collection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "6.6.1 A clean catch urine sample is the recommended method for urine collection and especially if a UTI is suspected. Ideally a positive diagnosis of UTI should only made on a urine sample collected by clean catch method or invasive methods like supra- pubic aspiration, catheter etc. Other methods like urine bag/ urine collection pads can be used if UTI is not suspected."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 1,
+                "text": "6.6.2 It is important to follow the manufacturer's instructions when using urine collection pads. Cotton wool balls, gauze and sanitary towels should not be used to collect urine in infants and children."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "6.6.3 When it is not possible or practical to collect urine by non-invasive methods, catheter samples or suprapubic aspiration (SPA) should be performed by a trained clinician."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "6.6.4 Before SPA is attempted, ultrasound guidance should be used to demonstrate the presence of urine in the bladder."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "6.6.5 In an infant or child with a high risk of serious illness it is highly preferable that a urine sample is obtained; however, treatment should not be delayed if a urine sample is unobtainable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.7,
+                "text": "Urine preservation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "6.7.1 If urine is to be cultured but cannot be cultured within 4 hours of collection, the sample should be refrigerated or preserved with boric acid immediately."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "6.7.2 The manufacturer's instructions should be followed when boric acid is used to ensure the correct specimen volume to avoid potential toxicity against bacteria in the specimen."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.8,
+                "text": "Urine testing procedures"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "6.8.1 The urine-testing strategies shown in tables 2\u20135 are recommended."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "6.8.2 As with all diagnostic tests there will be a small number of false negative results; therefore clinicians should use clinical criteria for their decisions in cases where urine testing does not support the findings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 2 Urine-testing strategy for infants younger than 3 months"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "All infants younger than 3 months with suspected UTI (see table 1) should be referred to paediatric specialist care and a urine sample should be sent for urgent microscopy and culture. These infants should be managed in accordance with the recommendations for this age group in \u2018Feverish illness in children' (NICE clinical guideline 47)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 3 Urine-testing strategies for infants and children 3 months or older but younger than 3 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Urgent microscopy and culture is the preferred method for diagnosing UTI in this age group; this should be used where possible."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 95,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 1,
+                "text": "If the infant or  \uf020 Urgent microscopy and culture should be arranged and antibiotic treatment child has  should be started."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 97,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 1,
+                "text": "specific urinary"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 99,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 1,
+                "text": "symptoms  \uf020 When urgent microscopy is not available, a urine sample should be sent for"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "microscopy and culture, and antibiotic treatment should be started."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 1,
+                "text": "If the  \uf020 For an infant or child with a high risk of serious illness: the infant or child should symptoms are  be urgently referred to a paediatric specialist where a urine sample should be non-specific to  sent for urgent microscopy and culture. Such infants and children should be"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 103,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 1,
+                "text": "UTI  managed in line with \u2018Feverish illness in children' (NICE clinical guideline NG143)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "\uf020 For an infant or child with an intermediate risk of serious illness: if the situation demands, the infant or child may be referred urgently to a paediatric specialist."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 106,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.004.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 107,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "For infants and children who do not require paediatric specialist referral, urgent microscopy and culture should be arranged. Antibiotic treatment should be started if microscopy is positive (see table 5). When urgent microscopy is not available, dipstick testing may act as a substitute. The presence of nitrites suggests the possibility of infection and antibiotic treatment should be started (see table 4). In all cases, a urine sample should be sent for microscopy and culture."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "\uf020"
+                    },
+                    {
+                        "text": "For an infant or child with a low risk of serious illness: microscopy and culture should be arranged. Antibiotic treatment should only be started if microscopy or culture is positive."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 4 Urine-testing strategies for children 3 years or older"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 109,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Dipstick testing for leukocyte esterase and nitrite is diagnostically as useful as microscopy and culture, and can safely be used."
+                    },
+                    {
+                        "text": "If both leukocyte esterase and nitrite are positive"
+                    },
+                    {
+                        "text": "The child should be regarded as having UTI and antibiotic treatment should be started. If a child has a high or intermediate risk of serious illness and/or a past history of previous UTI, a urine sample should be sent for culture."
+                    },
+                    {
+                        "text": "If leukocyte esterase is negative and nitrite is positive"
+                    },
+                    {
+                        "text": "Antibiotic treatment should be started if the urine test was carried out on a fresh sample of urine. A urine sample should be sent for culture. Subsequent management will depend upon the result of urine culture."
+                    },
+                    {
+                        "text": "If leukocyte esterase is positive and nitrite is negative"
+                    },
+                    {
+                        "text": "A urine sample should be sent for microscopy and culture. Antibiotic treatment for UTI should not be started unless there is good clinical evidence of UTI (for example, obvious urinary symptoms). Leukocyte esterase may be indicative of an infection outside the urinary tract which may need to be managed differently."
+                    },
+                    {
+                        "text": "If both leukocyte esterase and nitrite are negative"
+                    },
+                    {
+                        "text": "The child should not be regarded as having UTI. Antibiotic treatment for UTI should not be started, and a urine sample should not be sent for culture. Other causes of illness should be explored."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 5 Guidance on the interpretation of microscopy results"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 111,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Microscopy results"
+                    },
+                    {
+                        "text": "Pyuria positive"
+                    },
+                    {
+                        "text": "Pyuria negative"
+                    },
+                    {
+                        "text": "Bacteriuria positive"
+                    },
+                    {
+                        "text": "The infant or child should be regarded as having UTI"
+                    },
+                    {
+                        "text": "The infant or child should be regarded as having UTI"
+                    },
+                    {
+                        "text": "Bacteriuria negative"
+                    },
+                    {
+                        "text": "Antibiotic treatment should be started if clinically UTI"
+                    },
+                    {
+                        "text": "The infant or child should be regarded as not having UTI"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.9,
+                "text": "Indication for culture"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "6.9.1 Urine samples should be sent for culture:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "in infants and children who have a diagnosis of acute pyelonephritis/upper urinary tract infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "text": "in infants and children with a high to intermediate risk of serious illness"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "in infants and children under 3 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "in infants and children with a single positive result for leukocyte esterase or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "nitrite"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "in infants and children with recurrent UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "in infants and children with an infection that does not respond to treatment within 24\u2013 48 hours, if no sample has already been sent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "when clinical symptoms and dipstick tests do not correlate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Laboratory tests for localising UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "6.10.1 C-reactive protein alone should not be used to differentiate acute pyelonephritis/upper urinary tract infection from cystitis/lower urinary tract infection in infants and children."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.11,
+                "text": "Imaging tests for localising UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "6.11.1 The routine use of imaging in the localisation of a UTI is not recommended."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "6.11.2 In the rare instances when it is clinically important to confirm or exclude acute pyelonephritis/upper urinary tract infection, power Doppler ultrasound is recommended. When this is not available or the diagnosis still cannot be confirmed, a dimercaptosuccinic acid (DMSA) scintigraphy scan is recommended."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Acute management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Antibiotic requirements for infants and children with conditions that are outside the scope of this guideline (for example, infants and children already known to have significant pre-existing uropathies) have not been addressed and may be different from those given here."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Infants and children with a high risk of serious illness should be referred urgently to the care of a paediatric specialist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Infants younger than 3 months with a possible UTI should be referred immediately to the care of a paediatric specialist. Treatment should be with parenteral antibiotics in line with \u2018Feverish illness in children' (NICE CG 143)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.4,
+                "text": "For infants and children 3 months or older with acute pyelonephritis/upper urinary tract infection:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "7.4.1 Treat with oral antibiotics for 7\u201310 days. The use of an oral antibiotic with low resistance patterns is recommended, for example cephalosporin or co-amoxiclav."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "7.4.2 If oral antibiotics cannot be used, treat with an intravenous (IV) antibiotic agent such as cefotaxime or ceftriaxone for 2\u20134 days followed by oral antibiotics for a total duration of 10 days."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "For infants and children 3 months or older with cystitis/lower urinary tract infection treat with oral antibiotics for 3 days. The choice of antibiotics should be directed by locally developed multidisciplinary guidance. Trimethoprim, nitrofurantoin, cephalosporin or amoxicillin may be suitable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.6,
+                "text": "The parents or carers should be advised to bring the infant or child for reassessment if the infant or child is still unwell after 24\u201348 hours. If an alternative diagnosis is not made, a urine sample should be sent for culture to identify the presence of bacteria and determine antibiotic sensitivity if urine culture has not already been carried out."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.7,
+                "text": "For infants and children who receive aminoglycosides (gentamicin or amikacin), once daily dosing is recommended."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.8,
+                "text": "If parenteral treatment is required and IV treatment is not possible, intramuscular treatment should be considered."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.9,
+                "text": "If an infant or child is receiving prophylactic medication and develops an infection, treatment should be with a different antibiotic, not a higher dose of the same antibiotic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Asymptomatic bacteriuria in infants and children should not be treated with antibiotics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Long-term management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Prevention of recurrence"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "prefix": 81.1,
+                "text": "Dysfunctional elimination syndromes and constipation should be addressed in infants and children who have had a UTI."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.2 Children who have had a UTI should be encouraged to drink an adequate amount."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.3 Children who have had a UTI should have ready access to clean toilets when required and should not be expected to delay voiding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.4 Possibility of safeguarding issues should be kept in mind in children presenting with recurrent UTI and atypical symptoms."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Antibiotic Prophylaxis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.1 Antibiotic prophylaxis should not be routinely recommended in infants and children following first-time UTI."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.2 Antibiotic prophylaxis may be considered in infants and children with recurrent UTI."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.3 Asymptomatic bacteriuria in infants and children should not be treated with prophylactic antibiotics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "Imaging tests"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "8.3.1 Infants and children with atypical UTI (see box 1) should have ultrasound of the urinary tract during the acute infection to identify structural abnormalities of the urinary tract such as obstruction, as outlined in tables 6, 7 and  This is to ensure prompt management."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "8.3.2 For infants younger than 6 months with first-time UTI that responds to treatment, ultrasound should be carried out within 6 weeks of the UTI, as outlined in table"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "8.3.3 For infants and children aged 6 months and older with first-time UTI that responds  to treatment, routine ultrasound is not recommended unless the infant or child has  atypical UTI, as outlined in tables 7 and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.4 Infants and children who have had a lower urinary tract infection should undergo ultrasound (within 6 weeks) only if they are younger than 6 months or have had recurrent infections."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "8.3.5 A DMSA scan 4\u20136 months following the acute infection should be used to detect renal parenchymal defects, as outlined in tables 6, 7 and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.6 If the infant or child has a subsequent UTI while awaiting DMSA, the timing of the DMSA should be reviewed and consideration given to doing it sooner."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.7 Routine imaging to identify VUR is not recommended for infants and children who have had a UTI, except in specific circumstances, as outlined in tables 6, 7 and 8."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.8 When  a  micturating  cysto-urethrogram  (MCUG)  is  performed,  prophylactic  antibiotics should be given orally for 3 days with MCUG taking place on the second day."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.9 Infants and children who have had a UTI should be imaged as outlined in tables 6, 7 and 8."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 6 Recommended imaging schedule for infants younger than 6 months"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 161,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Test"
+                    },
+                    {
+                        "text": "Responds well to treatment within 48 hours"
+                    },
+                    {
+                        "text": "Atypical UTIa"
+                    },
+                    {
+                        "text": "Recurrent UTIa"
+                    },
+                    {
+                        "text": "Ultrasound during the acute infection"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yesc"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Ultrasound within 6 weeks"
+                    },
+                    {
+                        "text": "Yesb"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "DMSA 4\u20136 months following the acute infection"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "MCUG"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "a See box 1 for definitionb If abnormal consider MCUGc In an infant or child with a non-E. coli-UTI, responding well to antibiotics and with no other features of atypical infection, the ultrasound can be requested on a non-urgent basis to take place within 6 weeks"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 7 Recommended imaging schedule for infants and children 6 months or older but  younger than 3 years"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 163,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Test"
+                    },
+                    {
+                        "text": "Responds well to treatment within 48 hours"
+                    },
+                    {
+                        "text": "aAtypical UTI"
+                    },
+                    {
+                        "text": "Recurrent UTI[a]"
+                    },
+                    {
+                        "text": "Ultrasound during the acute infection"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yes [b]"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Ultrasound within 6 weeks"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "DMSA 4\u20136 months following the acute infection"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "MCUG"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No[c]"
+                    },
+                    {
+                        "text": "Nob"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "a See box 1 for definition"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "text": "b While MCUG should not be performed routinely it should be considered if the following features are present:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "text": "dilatation on ultrasound"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "text": "poor urine flow"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 0,
+                "text": "non-E. coli-infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "text": "family history of VUR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "c In an infant or child with a non-E. coli-UTI, responding well to antibiotics and with no other features of atypical infection, the ultrasound can be requested on a non-urgent basis to take place within 6 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.4,
+                "text": "Surgical intervention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "8.4.1 Surgical management of VUR is not routinely recommended."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Follow-up"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Infants and children who do not undergo imaging investigations should not routinely be followed up."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "The way in which the results of imaging will be communicated should be agreed with the parents or carers or the young person as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "When results are normal, a follow-up outpatient appointment is not routinely required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 0,
+                "text": "Parents or carers should be informed of the results of all the investigations in writing."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "Infants and children who have recurrent UTI or abnormal imaging results should be assessed by a paediatric specialist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "Assessment of infants and children with renal parenchymal defects should include height, weight, blood pressure and routine testing for proteinuria."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "Infants and children with a minor, unilateral renal parenchymal defect do not need long-term follow-up unless they have recurrent UTI or family history or lifestyle risk factors for hypertension."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.7,
+                "text": "Infants and children who have bilateral renal abnormalities, impaired kidney function, raised blood pressure and/or proteinuria should receive monitoring and appropriate management by a paediatric nephrologist to slow the progression of chronic kidney disease."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.8,
+                "text": "Infants and children who are asymptomatic following an episode of UTI should not routinely have their urine re-tested for infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.9,
+                "text": "Asymptomatic bacteriuria is not an indication for follow-up."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Information and Advice for Children, Young People and Parents or Carers"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Healthcare professionals should ensure that when a child or young person has been identified as having a suspected UTI, they and their parents or carers as appropriate are given information about the need for treatment, the importance of completing any course of treatment and advice about prevention and possible long-term management."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Healthcare professionals should ensure that children and young people, and their parents or carers as appropriate, are aware of the possibility of a UTI recurring and understand the need for vigilance and to seek prompt treatment from a healthcare professional for any suspected reinfection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Healthcare professionals should offer children and young people and/or their parents or carers appropriate advice and information on:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "text": "Prompt recognition of symptoms"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 0,
+                "text": "Urine collection, storage and testing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate treatment options"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 0,
+                "text": "Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 0,
+                "text": "Nature of and reason for any urinary tract investigation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 0,
+                "text": "Prognosis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "text": "Reasons and arrangements for long-term management if required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Training requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "All medical and nursing staff are to ensure that their knowledge, competencies and skills are up to date in order to complete their portfolio and appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "During induction all staff will receive instruction on current policies and guidelines and how to access them."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Staff will regularly receive updated guidelines to read."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Infection prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "All staff should follow Trust guidelines on infection prevention ensuring that they effectively \u2018decontaminate their hands' before and after procedures."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Audit and monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Where a Patient's notes have demonstrated that the appropriate action has not been   taken then a \u2018DATIX' form is to be completed. This will highlight further staff training   needs."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.5,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.6,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.7,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.8,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Approval and implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "All policies, procedures and guidelines will be approved locally by the Paediatric Practice Steering Group prior to submission to the Controlled Document team for ratification by the Joint Document Management Group."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.2,
+                "text": "It is the Guidelines and Audit Nurse's and author's responsibility to inform the Paediatric Practice Steering Group and appropriate Paediatric Services' staff of the approved policy documents when they are uploaded to the Trust's Intranets."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Equality impact assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "This Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individual."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 213,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 1,
+                "text": "NICE 2007 Clinical Guideline 54, Urinary Tract Infection in Children; diagnosis, and management., Updated 2018"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 0,
+                "text": "Urinary tract infection in children / 10042 / 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1   Traffic Light System for Identifying Risk of Serious Illness"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 218,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 1,
+                "text": "Children with fever and any of the symptoms or signs in the red column should be recognised as being"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 0,
+                "text": "at high risk. Similarly, children with fever and any of the symptoms or signs in the amber column and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "text": "none in the red column should be recognised as being at intermediate risk. Children with symptoms"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 0,
+                "text": "and signs in the green column and none in the amber or red column are at low risk. The management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "text": "of children with fever should be directed by the level of risk."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 224,
+            "data": {
+                "num_rows": 27,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Green \u2013 low risk"
+                    },
+                    {
+                        "text": "Amber \u2013 intermediate risk"
+                    },
+                    {
+                        "text": "Red \u2013 high risk"
+                    },
+                    {
+                        "text": "Normal colour of skin, lips and tongue"
+                    },
+                    {
+                        "text": "Pallor reported by parent/carer"
+                    },
+                    {
+                        "text": "Pale/mottled/ashen/blue"
+                    },
+                    {
+                        "text": "Responds normally to social cues"
+                    },
+                    {
+                        "text": "Not responding normally to social cues"
+                    },
+                    {
+                        "text": "No response to social cues Appears ill to a healthcare"
+                    },
+                    {
+                        "text": "Content/smiles"
+                    },
+                    {
+                        "text": "Wakes only with prolonged"
+                    },
+                    {
+                        "text": "professional"
+                    },
+                    {
+                        "text": "Stays awake or"
+                    },
+                    {
+                        "text": "stimulation"
+                    },
+                    {
+                        "text": "Unable to rouse or if"
+                    },
+                    {
+                        "text": "awakens quickly"
+                    },
+                    {
+                        "text": "Decreased activity"
+                    },
+                    {
+                        "text": "droouesse ndo t stay awake"
+                    },
+                    {
+                        "text": "Strong normal cry/not crying"
+                    },
+                    {
+                        "text": "No smile"
+                    },
+                    {
+                        "text": "Weak, high-pitched or continuous cry"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Nasal flaring"
+                    },
+                    {
+                        "text": "Grunting"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Tachypnoea:"
+                    },
+                    {
+                        "text": "Tachypnoea:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "RR > 50 breaths/minute age 6\u201312 months RR > 40 breaths /minute age > 12 months"
+                    },
+                    {
+                        "text": "RR > 60 breaths/minute Moderate or severe chest indrawing"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Oxygen saturation \u2264"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "95% in air"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Crackles"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Normal skin and eyes"
+                    },
+                    {
+                        "text": "Dry mucous membrane"
+                    },
+                    {
+                        "text": "Reduced skin turgor"
+                    },
+                    {
+                        "text": "Moist mucous"
+                    },
+                    {
+                        "text": "Poor feeding in infants"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "membranes"
+                    },
+                    {
+                        "text": "CRT \u2265 3 seconds"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reduced urine output"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "None of the amber or red symptoms or signs"
+                    },
+                    {
+                        "text": "Fever for \u2265 5 days"
+                    },
+                    {
+                        "text": "Age 0\u20133 months, temperature \u2265 38\u00b0C"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Age 3\u20136 months,"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "t\u2265 em39p\u00b0eCra ture"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Swelling of a limb or joint"
+                    },
+                    {
+                        "text": "Non-blanching rash"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Non-weight bearing/not"
+                    },
+                    {
+                        "text": "Bulging fontanelle"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "using an extremity"
+                    },
+                    {
+                        "text": "Neck stiffness"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Status epilepticus"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Focal neurological signs"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Focal seizures"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A new lump > 2 cm"
+                    },
+                    {
+                        "text": "Bile-stained vomiting"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 1,
+                "text": "Colour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 1,
+                "text": "Activity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 1,
+                "text": "Respiratory"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 1,
+                "text": "Hydration"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 1,
+                "text": "Other"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "text": "CRT- capillary refill time; RR - respiratory rate."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 231,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.005.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 232,
+            "data": {
+                "url": "10042 Urinary tract infection in children 4.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 0,
+                "text": "Urinary tract infection in children / 10042 / 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Preliminary equality analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Urinary tract infection in children / 10042 (please tick all that apply)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 236,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 237,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full review"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3yearly Review and updating in line with NICE guidance"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and Clinicians"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Please refer to pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 238,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Dr Ghavalkar"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Paediatric Registrar"
+                    },
+                    {
+                        "text": "03 February 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "text": "[a]"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 241,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Test"
+                    },
+                    {
+                        "text": "Responds well to treatment within 48 hours"
+                    },
+                    {
+                        "text": "Atypical UTIa"
+                    },
+                    {
+                        "text": "Recurrent UTIa"
+                    },
+                    {
+                        "text": "Ultrasound during the acute infection"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yesb"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Ultrasound within 6 weeks"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yesb"
+                    },
+                    {
+                        "text": "DMSA 4\u20136 months following the acute infection"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "MCUG"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "a See box 1 for definitionb Ultrasound in toilet-trained children should be performed with a full bladder with an estimate of bladder volume before and after micturition.c In a child with a non-E. coli-UTI, responding well to antibiotics and with no other features of atypical infection, the ultrasound can be requested on a non-urgent basis to take place within 6 weeks"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 242,
+            "data": {
+                "is_heading": 0,
+                "text": "[b]"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 243,
+            "data": {
+                "is_heading": 0,
+                "text": "[c]"
+            }
+        }
+    ]
+}

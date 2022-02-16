@@ -1,0 +1,3414 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "11019 Management of Severe Sepsis & Septic Shock in CYP 4.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "EARLY IDENTIFICATION AND MANAGEMENT OF SEVERE SEPSIS AND SEPTIC SHOCK IN CHILDREN AND YOUNG PEOPLE"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "11019"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Paediatric Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th5 March 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th4 March 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Women and Children's"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Mary Stebbens, Clinical Facilitator"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u221a Mid Essex Hospital Services NHS Trust (MEHT) \u25a1 Basildon and Thurrock University Hospitals NHS Foundation Trust (BTUH) \u25a1 Southend University Hospital NHS Foundation Trust (SUHT)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr Rachel Thomas Associate Specialist in Paediatrics"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "13th February 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "27th February 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group"
+                    },
+                    {
+                        "text": "Date: March 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "11019 Management of Severe Sepsis & Septic Shock in CYP 4.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Datta"
+                    },
+                    {
+                        "text": "Clinical Director"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Annam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Chavakula"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Cyriac"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Das"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Hassan"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Joseph"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Lethaby"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Lim"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Nambiar"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Ottayil"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Pradeep"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Dr Srinivasagam"
+                    },
+                    {
+                        "text": "Paediatric Consultant"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Claire Fitzgerald"
+                    },
+                    {
+                        "text": "Paediatric Specialist Pharmacist"
+                    },
+                    {
+                        "text": "31/01/2020"
+                    },
+                    {
+                        "text": "Ruth Byford"
+                    },
+                    {
+                        "text": "Warner Library"
+                    },
+                    {
+                        "text": "21st February 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Guideline for transferring children (0-16 years) 04071 Policy for standard infection prevention precautions 11046 Children and young people (CYP) observation policy 10043 Feverish illness in children: assessment and initial management in children younger than 5 years 08066: Antibiotic guidelines for neonates and paediatrics 06045: Antibiotic policy 09065 Preparing and administering intravenous infusions of drugs for children and young people 08076 Clinical audit strategy & policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Caroline Fox"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "15th June 2011"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Andrea Stanley"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "12th February 2015"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "30 January 2017"
+                    },
+                    {
+                        "text": "3.1"
+                    },
+                    {
+                        "text": "Victoria Machell/ Mary Stebbens"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "21st March 2017"
+                    },
+                    {
+                        "text": "3.2"
+                    },
+                    {
+                        "text": "Rachel Thomas"
+                    },
+                    {
+                        "text": "Author correction"
+                    },
+                    {
+                        "text": "September 2017"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Mary Stebbens"
+                    },
+                    {
+                        "text": "Full Review"
+                    },
+                    {
+                        "text": "5th March 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose ....................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Introduction ................................................................................................................. 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Recognition of Septic Shock ..................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Signs and Symptoms of Septic Shock ..................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Recognition of Sepsis 1 month to 4 years ............................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Recognition of Sepsis 5 years to 11 years ............................................................... 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Recognition of Sepsis 12 years old and over .......................................................... 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Features of Severe Disease ....................................................................................... 7  Patient/Parental/Family Concern and Advice ........................................................... 7  Management of Sepsis ............................................................................................... 7  Paediatric Sepsis \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u20267  Antibiotic Choice\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.8  Indications for Intubation\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Management following Intubation\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Further Management\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Staff Training\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. Equality and Diversity\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. Infection Prevention\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.13 Monitoring Compliance with Policy Requirements\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Implementation and Communication\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. References and Further Reading\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...Appendices:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix A \u2013 Paediatric Sepsis Screening & Action Tool (Under 5 years)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix B \u2013 Risk stratification tool for children aged under 5 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix C \u2013 Paediatric Sepsis Screening &Action Tool (aged 5 \u2013 11 years) Appendix D \u2013 Risk stratification tool for children aged 5-11 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix E \u2013 Paediatric Sepsis Screening & Action Tool (over 12 years)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix F \u2013 Risk stratification tool for adults, children and young people aged 12 years and over with suspected sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix G \u2013 Surviving sepsis International Consensus Flow Chart Appendix H \u2013 Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/ 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "prefix": 28.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "To ensure that effective care and timely response is achieved in the management of sepsis in children and young people."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": "These guidelines set out the principles of early identification and treatment of severe sepsis and septic shock in children and young people (up to their th birthday)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "These guidelines are for the use of all nursing and medical staff within Mid Essex Hospital Services NHS Trust."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Sepsis is a life-threatening condition that arises when the body's response to an infection injures its own tissues and organs."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Sepsis can lead to shock, multiple organ failure and death especially if not recognised early and treated promptly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Sepsis remains the primary cause of death from infection despite advances in modern medicine, including vaccines, antibiotics and acute care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "Severe sepsis is a clinical emergency. Signs and symptoms of sepsis in children can be subtle and deterioration to shock rapid. Early initiation of simple treatment improves outcomes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Recognition of Septic Shock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Pyrexia, tachycardia and some alteration in perfusion is very common in children with benign infections."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Those children who have this combination of clinical features but who are also displaying signs of altered mental status (inconsolable, irritable, poor interaction with parents or difficult to rouse) should be assessed as being at risk of having septic shock."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Sepsis is a systemic inflammatory response syndrome (SIRS) in the presence of or as a result of suspected or proven infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Signs of septic shock include the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Core temperature < 36\u00b0C or > 38.5\u00b0C;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "Inappropriate tachycardia (infants may display bradycardia);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "Altered mental state (including sleepiness / irritability / lethargy / floppiness);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Reduced peripheral perfusion / prolonged capillary refill;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Decreased urine output;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Tachypnoea."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Think: could this child have SEPSIS or SEPTIC SHOCK? If in doubt, consult a senior clinician"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Signs and Symptoms of Septic Shock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "As above with the addition of the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Tachypnoea;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Urine output decreased (<1mL/kg/hour) or absent;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Other end organ dysfunction;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Signs of either cold or warm shock."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "text": "Cold Shock:  Warm Shock:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Capillary Refill > 3s  Flash Capillary Refill Reduced Peripheral Pulses  Bounding Peripheral Pulses Cool Mottled Extremities   Warm to edges"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Narrow Pulse Pressure  Wide Pulse Pressure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 1,
+                "text": "Hypotension is a late sign of shock in children and is not required for diagnosis; if present it does however confirm diagnosis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Normal ranges for age (APLS)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 58,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Age (years)"
+                    },
+                    {
+                        "text": "Heart Rate"
+                    },
+                    {
+                        "text": "Respiratory Rate"
+                    },
+                    {
+                        "text": "Systolic BP (mmHg)"
+                    },
+                    {
+                        "text": "<1"
+                    },
+                    {
+                        "text": "110 - 160"
+                    },
+                    {
+                        "text": "30 - 40"
+                    },
+                    {
+                        "text": "80 - 90"
+                    },
+                    {
+                        "text": "1-2"
+                    },
+                    {
+                        "text": "100 - 150"
+                    },
+                    {
+                        "text": "25 - 35"
+                    },
+                    {
+                        "text": "85 \u2013 95"
+                    },
+                    {
+                        "text": "2-5y"
+                    },
+                    {
+                        "text": "95 - 140"
+                    },
+                    {
+                        "text": "25 - 30"
+                    },
+                    {
+                        "text": "85 \u2013 100"
+                    },
+                    {
+                        "text": "5-12"
+                    },
+                    {
+                        "text": "80 - 120"
+                    },
+                    {
+                        "text": "20 - 25"
+                    },
+                    {
+                        "text": "90 \u2013 110"
+                    },
+                    {
+                        "text": "> 12yrs"
+                    },
+                    {
+                        "text": "60 - 100"
+                    },
+                    {
+                        "text": "15 - 20"
+                    },
+                    {
+                        "text": "100 - 120"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Recognition of Sepsis 1month to 4 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Recognise that children aged under 5 years with suspected sepsis and any of the symptoms or signs below are at high risk of severe illness or death from sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Consider starting Sepsis 6 pathway immediately if any one of the following red flags is present:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Unresponsive to social cues/difficult to rouse;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "text": "Healthcare worker very worried;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 1,
+                "text": "Weak, high pitched or continuous cry;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 1,
+                "text": "Grunting respiration or apneic episodes;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 1,
+                "text": "Unexplained sp02 <90% or need for oxygen;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "text": "Severe unexplained tachypnea;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "text": "No wet nappies/ not passed urine in last 18 hours;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "text": "Clinically concerning non-blanching rash;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "text": "Mottled/ Ashen/Cyanotic;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "text": "Persistent temperature <36\u00b0C;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 1,
+                "text": "If under 3 months, temperature <38\u00b0C."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix A and B)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Recognition of Sepsis 5 years to 11 years of Age"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Recognise that children aged 5\u201311 years with suspected sepsis and any of the symptoms or signs below are at high risk of severe illness or death from sepsis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Consider starting Sepsis 6 pathway immediately if one of the below red flags is present:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "Objective change in behaviour or mental state;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "Doesn't wake if roused or won't stay awake;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Looks very ill to health professional;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Unexplained Sp02 <90%/ need for Oxygen;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Severe unexplained tachypnea;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Severe unexplained tachycardia;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Bradycardia (<60 per minute);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Not passed urine in last 18 hours;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "Mottled, ashen or blue skin, lips or tongue;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinically concerning non blanching rash. (Refer to Appendix C and D)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Recognition of Sepsis 12 years Old and Over"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Recognise that children aged 5\u201311 years with suspected sepsis and any of the symptoms or signs below are at high risk of severe illness or death from sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Consider starting Sepsis 6 pathway immediately if one of the below red flags is present:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "Responds only to voice or pain/unresponsive;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "Systolic BP \u226490mmHg (or drop > 40 from normal);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinically unexplained tachycardia;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinically unexplained tachypnoea;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Unexplained sp02 < 90% or need for oxygen;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinically concerning non blanching rash;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Mottled, ashen/Cyanotic;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "Not passed urine in last 18 hours;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "Recent Chemotherapy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix E and F)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Features of Severe Disease"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "Widespread or rapidly evolving rash;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "Hypotension;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "Base deficit \u2013 8 or worse / lactate > 4;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "Low WCC;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "Thrombocytopaenia;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "Coagulopathy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The immediate care of a child with suspected sepsis must follow the principles of ABCDE (Airway, Breathing, Circulation, Disability, Exposure/Examination, assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Baseline and subsequent measurement of vital signs must be recorded on an observation chart and a Children Early Warning Tool score calculated and recorded on each occasion. Frequency of recording of vital signs should be based on clinical assessment of the child and the calculated Children's Early Warning Tool (CEWT) score. (Refer to 11046 Children and young people (CYP) observation policy)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "Any child who is in shock and/or has organ dysfunction should be discussed with Children's Acute Transport Service (CATS)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Patient/Parental/Family Concern and Advice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Pay particular attention to concerns expressed by the person and their families or carers. The clinician must consider concerns raised about unusual behaviour for that particular child."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Assess people who might have sepsis with extra care if they cannot give a good history  (for  example people  with  English  as  a  second  language  or  people  with communication problems)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.3,
+                "text": "People who have sepsis and their families and carers"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "10.3.1 Ensure a care team member is nominated to give information to families and carers, particularly in emergency situations such as in the emergency department. This should include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "text": "An explanation that the person has sepsis, and what this means"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "An explanation of any investigations and the management plan"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "Regular and timely updates on treatment care and progress."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "10.3.2 Ensure information is given without using medical jargon. Check regularly that people understand the information and explanations they are given."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "10.3.3 Give people with sepsis and their family members and carers opportunities to ask questions about diagnosis, treatment options, prognosis and complications. Be willing to repeat any information as needed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "10.3.4 Give people with sepsis and their families and carers information about national charities and support groups that provide information about sepsis and the causes of sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.4,
+                "text": "Information at discharge for people assessed for suspected sepsis, but not diagnosed with sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "10.4.1 Give people who have been assessed for sepsis but have been discharged without a diagnosis of sepsis (and their family or carers, if appropriate) verbal and written information about:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "What sepsis is, and why it was suspected;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "What tests and investigations have been done;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Instructions about which symptoms to monitor;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "When to get medical attention if their illness continues;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "How to get medical attention if they need to seek help urgently."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "10.4.2 Confirm that people understand the information they have been given, and what actions they should take to get help if they need it."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.5,
+                "text": "Information at discharge for people at increased risk of sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "10.5.1 Ensure people who are at increased risk of sepsis (for example after surgery) are told  before  discharge  about  symptoms  that  should prompt  them  to  get medical attention and how to get it."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.6,
+                "text": "Information at discharge for people who have had sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "10.6.1 Ensure people and their families and carers if appropriate have been informed that they have had sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "10.6.2 Ensure discharge notifications to GPs include the diagnosis of sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "10.6.3 Give people who have had sepsis (and their families and carers, when appropriate) opportunities to discuss their concerns. These may include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Why they developed sepsis;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Whether they are likely to develop sepsis again;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "If more investigations are necessary;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Details of any community care needed, for example, related to peripherally inserted central venous catheters (PICC) lines or other intravenous catheters;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "What they should expect during recovery;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "Arrangements for follow-up, including specific critical care follow up if relevant;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "text": "Possible short-term and long-term problems."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "10.6.4 Give people who have had sepsis and their families and carers information about national charities and support groups that provide information about sepsis and causes of sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "10.6.5 Advise carers they have a legal right to have a carer's assessment of their needs, and give them information on how they can get this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Management of Sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "There is evidence showing that aggressive optimisation of the haemodynamic status within the first few hours of critical illness has a profound effect in reducing subsequent organ failure and improving overall survival."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Children in septic shock are consistently under resuscitated in the first few hours. It is not unusual to require > 60 ml/kg of fluid in the first hour of treatment. For every hour that a child remains in septic shock the mortality risk doubles."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Management of severe sepsis and septic shock follows the Surviving Sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "International Consensus Guidelines. (Refer to appendix G)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Paediatric Sepsis 6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "In severe sepsis and septic shock the following elements should be completed within the first hour of recognition. Use the age specific Paediatric Sepsis 6 proforma (refer to appendix A, C or E) to document completion and reasons for variation. This should be placed in the patients notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "Give high flow oxygen:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "Saturations > 95% - intubate if indicated."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "Obtain IV/IO access and take blood tests:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "Achieve x 2 access quickly;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood cultures;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "Full Blood Count, Urea, Electrolytes and Creatinine , Liver Function Test, Coagulation, Serum Calcium and Magnesium , C Reactive Protein, EDTA; (Ethylenediaminetetraacetic acid) sample for PCR(Polymerase chain reaction)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood glucose \u2013 treat low blood glucose 2ml/kg 10% Dextrose;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood gas including lactate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "Give IV or IO antibiotics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "High dose broad spectrum cover as per local policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "Consider fluid resuscitation:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "Aim to restore normal circulating volume and physiological parameters;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "Titrate 20 ml/kg Isotonic Fluid over 5 \u2013 10 min and repeat if necessary;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "Caution with fluid overload > Examine for crepitations & hepatomegaly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.6,
+                "text": "Involve senior clinicians / specialists early:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "text": "Contact consultant paediatrician on-call and CATS retrieval service;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "text": "Involve the Paediatric Anaesthetists for early review, especially if giving \u2265 30mls/Kg of IV fluids as intubation and ventilation may be required as well as continued CVP monitoring."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.7,
+                "text": "Consider Inotropic support early:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": "If normal physiological parameters are not restored after \u2265  ml/kg fluids Epinephrine or Dopamine may be given via peripheral IV or Intra Osseous (IO) access;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "If evidence of end organ dysfunction start dopamine. Add adrenaline for cold shock and noradrenaline for warm shock. Obtain urgent anaesthetic help for intubation and central line access."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.8,
+                "text": "Goals of the First Hour of resuscitation are to restore:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Normal perfusion;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "No difference in quality between central and peripheral pulses;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "text": "Warm extremities;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "text": "Capillary refill time < 3 seconds;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 0,
+                "text": "Normal range for age heart rate, blood pressure & respiratory rate (this may not be possible if the underlying cause is pneumonia);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 0,
+                "text": "Normal mental status;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "text": "Urine output > 1ml/kg/hour;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "text": "Serum lactate < 2."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Antibiotic Choice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Ensure urgent assessment mechanisms are in place to deliver antibiotics when any high-risk criteria are met in secondary care (within 1 hour of meeting a high risk criterion in an acute hospital setting)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Ensure GPs and ambulance services have mechanisms in place to give antibiotics for people with high risk criteria in pre-hospital settings in locations where transfer time is more than 1 hour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "For patients in hospital who have suspected infections, take microbiological samples before prescribing an antimicrobial and review the prescription when the results are available. For people with suspected sepsis take blood cultures before antibiotics are given."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "For all people with suspected sepsis where the source of infection is clear use existing local antimicrobial guidance."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.5,
+                "text": "For people aged up to 17 years with suspected community acquired sepsis of any cause please refer to Micro Guide found on the Intranet: https://cms.horizonsp.co.uk/viewer/meht/adult."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.0,
+                "text": "For people aged up to  years with suspected sepsis who are already in hospital, or who are known to have previously been infected with or colonised with ceftriaxone- resistant bacteria, Refer to Micro Guide or speak to the on-call microbiologist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.7,
+                "text": "For children younger than 3 months give an additional antibiotic active against listeria (for example, Ampicillin or Amoxicillin). Refer to Micro Guide or speak to on call Microbiologist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.8,
+                "text": "For Neonates please refer to the Neonatal Antibiotic Policy on the Trust Intranet: http://meht-intranet/search/?q=antibiotic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Indications for Intubation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 0,
+                "text": "Impending cardiorespiratory collapse;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 0,
+                "text": "Poor airway reflexes;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 0,
+                "text": "Depressed conscious level GCS \u2264 8 or AVPU \u2264 P;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 0,
+                "text": "Worsening tachypnoea or oxygen requirement;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "prefix": 60.0,
+                "text": "Fluid refractory shock (>  mls/kg fluid resuscitation in the first hour without reversal of shock)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Induction of anesthesia presents a significant risk of hypoxia, myocardial depression and afterload reduction. This can be minimised by:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring the most experienced team member performs the intubation - anaesthetic / Intensive Care Unit (ICU) or Paediatric consultant;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 0,
+                "text": "Use induction drugs as per CATS team advice;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 0,
+                "text": "Optimal volume replacement prior to induction;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "text": "Having volume running with bolus attached;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "text": "Dopamine infusion running or drawn up;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre-oxygenation with 100% O2;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 0,
+                "text": "Preferably intubate with a cuffed ETT (endotracheal tubes)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.2,
+                "text": "Inhalation anaesthetics present significant risk of causing cardiovascular collapse, as do Thiopentone, Propofol and benzodiazepines."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.3,
+                "text": "Modified rapid sequence induction (with cricoid pressure)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Management Following Intubation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "text": "End tidal CO2 monitoring is mandatory;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "text": "Secure ETT \u2013 do not cut length down;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "Check appropriate position with CXR (Tip at T2-T3);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "text": "Sedate and muscle relax as per CATS induction of anaesthesia guidelines."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "These children are at risk of acute respiratory distress syndrome (ARDS). A low tidal volume strategy of 4-7 ml/kg with an initial PEEP of 5 cm/H0) should be used. PEEP can be titrated up depending on blood gases and evidence of pulmonary oedema."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Further Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 0,
+                "text": "Consider Sodium Bicarbonate if pH remains below 7.15;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 213,
+            "data": {
+                "is_heading": 0,
+                "text": "Exclude other possible causes for refractory shock (pericardial effusion, pneumothorax, ongoing blood losses etc);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 0,
+                "text": "Elevated clotting times (INR >1.5) should be treated with 10-20mL/kg of Fresh Frozen Plasma (FFP);"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 0,
+                "text": "Low platelet counts in the absence of active bleeding should not be supplemented unless <20 x 103/mm3. FFP or platelets should be infused, not bolused;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "text": "Assess and review for signs of raised Intra Cranial Pressure; treat appropriately;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "text": "Treat hypomagnesaemia and hypocalcaemia as per CATS advice."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Staff Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "All medical and nursing staff to ensure that their knowledge, competencies and skills are up to date and in line with roles and responsibilities outlined above. During the induction process, all junior medical and nursing staff will receive instruction on current sepsis policies and guidelines."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.2,
+                "text": "Medical and nursing staff will be kept up to date with teaching, ongoing case presentations discussing severe sepsis and learning from outcomes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.3,
+                "text": "On-going discussion as necessary will take place at all relevant operational and directorate meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 224,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix H)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after each procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.2,
+                "text": "All staff should ensure that they follow Trust guidelines on infection prevention, using Aseptic Non-Touch Technique (ANTT) when carrying out procedures i.e. administering IV antibiotics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.3,
+                "text": "All staff should ensure that they follow Trust guidelines on infection prevention. All invasive devices must be inserted and cared for using high impact intervention guidelines (refer to Saving Lives policy guideline, DOH, 2007) to reduce the risk of infection and deliver safe care. This care should be recorded in the Saving Lives High Impact Intervention Monitoring Tool Paperwork (Medical Devices)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Monitoring Compliance with Policy Requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 231,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 0,
+                "text": "Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Clinical Governance Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.5,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "Implementation and Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 237,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "The policy will be uploaded on the Trust Intranet site and will be communicated to staff via staff newsletter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 238,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.2,
+                "text": "The policy will be circulated to the Clinical Lead for paediatrics and Lead Nurse for Children and Young People for dissemination."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "References and Further Reading"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Advanced Life Support Group  \uf05bALSG\uf05d, 2016. Advanced paediatric life support: a practical approach to emergencies. th ed. Chichester:Wiley-Blackwell."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 241,
+            "data": {
+                "is_heading": 0,
+                "text": "Children's Acute Transport Service (CATS), (2020). Clinical guideline septic shock. London:CATS. Available at: http://site.cats.nhs.uk/in-a-hurry/cats-clinical-guidelines/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 242,
+            "data": {
+                "is_heading": 0,
+                "text": "Inwald DP, Tasker RC, Peters MJ, et al, 2009. Emergency management of children with severe sepsis in the United Kingdom: the results of the Paediatric Intensive Care Society sepsis audit. Archives of Disease in Childhood, 94(5), pp348-353."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 243,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Health and Care Excellence \uf05bNICE\uf05d (2019). Fever is under 5s: assessment and initial management. London:NICE. Available at: https://www.nice.org.uk/guidance/ng143"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 244,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Health and Care Excellence \uf05bNICE\uf05d (2016): Sepsis: recognition, diagnosis and early management. London:NICE. Available at:https://www.nice.org.uk/guidance/ng51"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 245,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Resuscitation Council  \uf05bUK\uf05d,  European Paediatric Life Support Manual. rd ed.London:Resuscitation Council \uf05bUK\uf05d."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 246,
+            "data": {
+                "is_heading": 0,
+                "text": "UK Sepsis Trust https://sepsistrust.org/professional-resources/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 247,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 248,
+            "data": {
+                "url": "11019 Management of Severe Sepsis & Septic Shock in CYP 4.0.003.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 249,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/ 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 250,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 251,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 252,
+            "data": {
+                "is_heading": 1,
+                "text": "Risk Stratification Tool for Children Aged Under 5 years with Suspected Sepsis"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 253,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Category"
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "High risk criteria"
+                    },
+                    {
+                        "text": "Moderate to high risk criteria"
+                    },
+                    {
+                        "text": "Low risk criteria"
+                    },
+                    {
+                        "text": "Behaviour"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "No response to social cues Appears ill to a healthcare professional Does not wake, or if roused does not stay awake Weak high-pitched or continuous cry"
+                    },
+                    {
+                        "text": "Not responding normally to social cues No smile Wakes only with prolonged stimulation Decreased activity Parent or carer concern that child is behaving differently from usual"
+                    },
+                    {
+                        "text": "Responds normally to social cues Content or smiles Stays awake or awakens quickly Strong normal cry or not crying"
+                    },
+                    {
+                        "text": "Respiratory"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Grunting Apnoea Oxygen saturation of less than 90% in air or increased oxygen requirement over baseline"
+                    },
+                    {
+                        "text": "Oxygen saturation of less than 91% in air or increased oxygen requirement over baseline Nasal flaring"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Under 1 year"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 60 breaths per minute or more"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 50\u201359 breaths per minute"
+                    },
+                    {
+                        "text": "1\u20132 years"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 50 breaths per minute or more"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 40\u201349 breaths per minute"
+                    },
+                    {
+                        "text": "3\u20134 years"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 40 breaths per minute or more"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 35\u201339 breaths per minute"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 254,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Circulation and hydration"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Bradycardia: heart rate less than 60 beats per minute"
+                    },
+                    {
+                        "text": "Capillary refill time of 3 seconds or more Reduced urine output For catheterised patients, passed less than 1 ml/kg of urine per hour"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Under 1 year"
+                    },
+                    {
+                        "text": "Rapid heart rate: 160 beats per minute or more"
+                    },
+                    {
+                        "text": "Rapid heart rate: 150\u2013159 beats per minute"
+                    },
+                    {
+                        "text": "1\u20132 years"
+                    },
+                    {
+                        "text": "Rapid heart rate: 150 beats per minute or more"
+                    },
+                    {
+                        "text": "Rapid heart rate: 140\u2013149 beats per minute"
+                    },
+                    {
+                        "text": "3\u20134 years"
+                    },
+                    {
+                        "text": "Rapid heart rate: 140 beats per minute or more"
+                    },
+                    {
+                        "text": "Rapid heart rate: 130\u2013139 beats per minute"
+                    },
+                    {
+                        "text": "Skin"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Mottled or ashen appearance Cyanosis of skin, lips or tongue Non-blanching rash"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Normal colour"
+                    },
+                    {
+                        "text": "Temperature"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "of skin Less than 36\u00baC"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Under 3 months"
+                    },
+                    {
+                        "text": "38\u00b0C or more"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "3\u20136 months"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "39\u00b0C or more"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Other"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Leg pain Cold hands or feet"
+                    },
+                    {
+                        "text": "No high risk or high to moderate risk criteria met"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 255,
+            "data": {
+                "is_heading": 0,
+                "text": "This table is adapted from NICE's guideline on fever in under 5s."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 256,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/ 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 257,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 258,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 259,
+            "data": {
+                "url": "11019 Management of Severe Sepsis & Septic Shock in CYP 4.0.004.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 260,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix D Risk Stratification Tool for Children Aged 5\u201311 Years with Suspected Sepsis"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 261,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Category"
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "High risk criteria"
+                    },
+                    {
+                        "text": "Moderate to high risk criteria"
+                    },
+                    {
+                        "text": "Low risk criteria"
+                    },
+                    {
+                        "text": "Behaviour"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Objective evidence of altered behaviour or mental state Appears ill to a healthcare professional Does not wake or if roused does not stay awake"
+                    },
+                    {
+                        "text": "Not behaving normally Decreased activity Parent or carer concern that the child is behaving differently from usual"
+                    },
+                    {
+                        "text": "Behaving normally"
+                    },
+                    {
+                        "text": "Respiratory"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Oxygen saturation of less than 90% in air or increased oxygen requirement over baseline"
+                    },
+                    {
+                        "text": "Oxygen saturation of less than 92% in air or increased oxygen requirement over baseline"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Aged 5 years"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 29 breaths per minute or more"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 24\u2013 28 breaths per minute"
+                    },
+                    {
+                        "text": "Aged 6\u2013 7 years"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 27 breaths per minute or more"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 24\u2013 26 breaths per minute"
+                    },
+                    {
+                        "text": "Aged 8\u2013 11 years"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 25 breaths per minute or more"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 22\u2013 24 breaths per minute"
+                    },
+                    {
+                        "text": "Circulation and hydration"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Heart rate less than 60 beats per minute"
+                    },
+                    {
+                        "text": "Capillary refill time of 3 seconds or more Reduced urine output For catheterised patients, passed less than 1 ml/kg of urine per hour"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Aged 5 years"
+                    },
+                    {
+                        "text": "Raised heart rate: 130 beats per minute or more"
+                    },
+                    {
+                        "text": "Raised heart rate: 120\u2013 129 beats per minute"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 262,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Aged 6\u2013 7 years"
+                    },
+                    {
+                        "text": "Raised heart rate: 120 beats per minute or more"
+                    },
+                    {
+                        "text": "Raised heart rate: 110\u2013 119 beats per minute"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Aged 8\u2013 11 years"
+                    },
+                    {
+                        "text": "Raised heart rate: 115 beats per minute or more"
+                    },
+                    {
+                        "text": "Raised heart rate: 105\u2013 114 beats per minute"
+                    },
+                    {
+                        "text": "Skin"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": "Mottled or ashen appearance Cyanosis of skin, lips or tongue Non-blanching rash of skin"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Other"
+                    },
+                    {
+                        "text": "Any"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Leg pain Cold hands or feet"
+                    },
+                    {
+                        "text": "No high or moderate to high risk criteria met"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 263,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix E"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 264,
+            "data": {
+                "url": "11019 Management of Severe Sepsis & Septic Shock in CYP 4.0.005.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 265,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/ 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 266,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 267,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/ 4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 268,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix F"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 269,
+            "data": {
+                "is_heading": 1,
+                "text": "Risk Stratification Tool for Adults, Children and Young People Aged 12 years and Over with Suspected Sepsis"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 270,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Category"
+                    },
+                    {
+                        "text": "High risk criteria"
+                    },
+                    {
+                        "text": "Moderate to high risk criteria"
+                    },
+                    {
+                        "text": "Low risk criteria"
+                    },
+                    {
+                        "text": "History"
+                    },
+                    {
+                        "text": "Objective evidence of new altered mental state"
+                    },
+                    {
+                        "text": "History from patient, friend or relative of new onset of altered behaviour or mental state History of acute deterioration of functional ability Impaired immune system (illness or drugs including oral steroids) Trauma, surgery or invasive procedures in the last 6 weeks"
+                    },
+                    {
+                        "text": "Normal behaviour"
+                    },
+                    {
+                        "text": "Respiratory"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 25 breaths per minute or more New need for oxygen (more than 40% FiO2) to maintain saturation more than 92% (or more than 88% in known chronic obstructive pulmonary disease)"
+                    },
+                    {
+                        "text": "Raised respiratory rate: 21\u201324 breaths per minute"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Blood pressure"
+                    },
+                    {
+                        "text": "Systolic blood pressure 90 mmHg or less or systolic blood pressure more than 40 mmHg below normal"
+                    },
+                    {
+                        "text": "Systolic blood pressure 91\u2013100 mmHg"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Circulation and hydration"
+                    },
+                    {
+                        "text": "Raised heart rate: more than 130 beats per minute Not passed urine in previous 18 hours. For catheterised patients, passed less than 0.5 ml/kg of urine per hour"
+                    },
+                    {
+                        "text": "Raised heart rate: 91\u2013130 beats per minute (for pregnant women 100\u2013130 beats per minute) or new onset arrhythmia Not passed urine in the past 12\u201318 hours For catheterised patients, passed 0.5\u20131 ml/kg of urine per hour"
+                    },
+                    {
+                        "text": "No high risk or moderate to high risk criteria met"
+                    },
+                    {
+                        "text": "Temperature"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Tympanic temperature less than 36\u00b0C"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Skin"
+                    },
+                    {
+                        "text": "Mottled or ashen appearance Cyanosis of skin, lips or tongue Non-blanching rash of skin"
+                    },
+                    {
+                        "text": "Signs of potential infection, including redness, swelling or discharge at surgical site or breakdown of wound"
+                    },
+                    {
+                        "text": "No non-blanching rash"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 271,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 272,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 273,
+            "data": {
+                "is_heading": 1,
+                "text": "Surviving Sepsis International Consensus Flow Chart   Appendix G"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 274,
+            "data": {
+                "url": "11019 Management of Severe Sepsis & Septic Shock in CYP 4.0.006.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 275,
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 276,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix H: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 277,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 278,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "A change in a service to patients"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A change to an existing policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A change to the way staff work"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A new policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change? b) If so, with whom?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 279,
+            "data": {
+                "is_heading": 1,
+                "text": "Preliminary analysis completed by:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 280,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Mary Stebbens"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Clinical Facilitator"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "February 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 281,
+            "data": {
+                "is_heading": 0,
+                "text": "Early Identification and Management of Sepsis and Septic Shock in CYP/ 11019/4.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 282,
+            "data": {
+                "is_heading": 1,
+                "prefix": 28.0,
+                "text": "Page  of"
+            }
+        }
+    ]
+}

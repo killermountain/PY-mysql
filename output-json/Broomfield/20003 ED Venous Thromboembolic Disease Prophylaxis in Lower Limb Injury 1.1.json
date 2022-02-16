@@ -1,0 +1,2240 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "EMERGENCY DEPARTMENT: VENOUS THROMBOEMBOLIC DISEASE PROPHYLAXIS IN LOWER LIMB INJURY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "20003"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All healthcare professionals working in the Emergency Department"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th19 March 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th18 March 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NICE guideline NG89 (volume 2)"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "9,11"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Medicine & Emergency Care"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Dr James Klewe, ED Consultant"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\uf0fcMEHT \u25a1 BTUH \u25a1 SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr Ahmad Aziz, Clinical Director for Emergency Care"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "23/06/2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "27th February 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group"
+                    },
+                    {
+                        "text": "Date: March 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Maria Richards"
+                    },
+                    {
+                        "text": "Principal Clinical Pharmacist, Emergency Care"
+                    },
+                    {
+                        "text": "25/09/2019"
+                    },
+                    {
+                        "text": "Amira Chaudry"
+                    },
+                    {
+                        "text": "EM Pharmacist"
+                    },
+                    {
+                        "text": "23/06/2020"
+                    },
+                    {
+                        "text": "Paula Woods"
+                    },
+                    {
+                        "text": "ED Matron"
+                    },
+                    {
+                        "text": "23/06/2020"
+                    },
+                    {
+                        "text": "Jo Francis"
+                    },
+                    {
+                        "text": "CD Orthopaedics and EM ADON"
+                    },
+                    {
+                        "text": "23/06/2020"
+                    },
+                    {
+                        "text": "Alex Hieatt"
+                    },
+                    {
+                        "text": "Trust Trauma Lead"
+                    },
+                    {
+                        "text": "23/06/2020"
+                    },
+                    {
+                        "text": "Andrew Macdowall"
+                    },
+                    {
+                        "text": "Orthopaedic Consultant"
+                    },
+                    {
+                        "text": "23/06/2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "2002 Enoxaparin dosing for prophylaxis of venous thromboembolism (VTE) in adult patients08014 Venous thromboembolism (VTE) risk assessment and thromboprophylaxis in maternity 08033 Thromboprophylaxis and treatment during labour and delivery including Caesarean Section 12007 Management of Women with a venous thromboembolism (VTE), deep vein thrombosis,( DVT) or pulmonary embolism (PE) during Antenatal and Postnatal Period 16005 Peri-procedural anticoagulation in Adult patients taking Warfarin and novel oral anti-coagulants (NOACS) 08092 Mandatory Training Policy 04080 Consent to examination or treatment Policy 08086 Clinical Recording Keeping Standards 08076 Clinical Audit Strategy and Policy 09051 Prevention and treatment of venous thrombo-embolism (VTE): risk assessment and prophylaxis"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/ Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr J Klewe"
+                    },
+                    {
+                        "text": "Newly created"
+                    },
+                    {
+                        "text": "19/03/2020"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Dr J Klewe/ Dr A Hieatt"
+                    },
+                    {
+                        "text": "Changes made to incorporate NICE 158 (March 2020) as follows: points 2.4, 2.5, 3.5, 7.1, 7.2, 9.6, 9.7 new; points 14, 15 deleted and Appendices 1, 2, 3, 4 replaced"
+                    },
+                    {
+                        "text": "25 June 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 6,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this document is to outline the recommendations for the prescription of thromboprophylaxis for adult patients requiring lower limb immobilisation following injury, to reduce the risk of venous thromboembolism."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The guidance provides a structured, evidence-based flowchart for the prescription of anticoagulant medication to prevent VTE in patients with lower limb injury requiring temporary immobilisation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "It is not applicable to patients who are admitted to hospital as they will be assessed via the Trust venous thromboembolism (VTE) risk assessment and prophylaxis policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This guidance is for use in all patients aged 16 years and over presenting to the emergency department with a lower limb injury who are discharged home from the emergency department (ED) with temporary limb immobilisation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "It is the responsibility of the prescribing ED doctor or emergency nurse practitioner to follow the guideline in the prescription of thromboprophylaxis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Subsequent application of the guideline will be by orthopaedics, thrombosis treatment team and haematology as required in the follow-up of these patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.4,
+                "text": "Includes:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Adult patients with:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.5,
+                "text": "Excludes:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Children"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "This guideline is an adaptation of the College of Emergency Medicine Guideline for the use of thromboprophylaxis in ambulatory trauma patients requiring temporary limb immobilisation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "The relationship between temporary limb immobilisation and DVT has been documented since 1944(1). This link persists despite modern medical care, with lower-limb immobilisation recently implicated as an aetiological factor in approximately 1.5 -3% of all VTE events (2, 3). DVT carries inherent risks of post-thrombotic syndrome and of pulmonary embolus caused by thrombus propagation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "The recent Cochrane review extracted data from six studies16\u201321 involving just under 3000 randomised patients; symptomatic VTE occurred in 1.8%\u2013 5.5% of conservatively managed patients. These results suggest that without thromboprophylaxis, approximately 1 in every 50 patients will suffer a symptomatic VTE event (including symptomatic distal and proximal DVT and pulmonary embolism (PE)) following temporary immobilisation after injury. This is likely to be an underestimate given the exclusion of high-risk patients from trial design and the general health equity of patients willing to engage with research. Based on the mean costs and QALYs gained there is an incremental cost-effectiveness ratio (ICER) for thromboprophylaxis compared with no thromboprophylaxis of \u00a313524. Based on standard thresholds used by the National Institute for Health and Care Excellence (NICE) in England, this value would fall below the ICER threshold of \u00a320000 and, as such, the intervention would broadly be considered as cost-effective (Horner et al EMJ 2020.)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "When indicated, thromboprophylaxis reduces the incidence of VTE in ambulatory patients with lower limb immobilisation (odds ratio 0.45 95% CI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.33,
+                "text": "to 0.61)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "The risks of providing pharmacological thromboprophylaxis for patients without contraindications are minimal. Definitive trials stratifying patients by other associated risk of VTE and plaster cast are not available. Given the significant risk of DVT, the potential impact of VTE and the very low risk associated with prophylaxis, this guideline recommends the prescription of VTE prophylaxis to all adult patients requiring lower limb immobilisation unless they have an individual contraindication (e.g. allergy)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.6,
+                "text": "Once commenced, thromboprophylaxis should be continued for the duration of the immobilisation, unless the patient is scheduled for surgery in which case it should be stopped 24 hours prior to the procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.7,
+                "text": "For the subgroup of patients with tendo-achilles rupture, who are at higher risk of VTE, prophylaxis should be offered. The \u2018consider' recommendation is a reflection of the very low to moderate quality evidence."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.8,
+                "text": "Patients identified as having thrombosis risk present and no bleeding risk should be prescribed prophylaxis as outlined below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.9,
+                "text": "Blood tests are not required for all patients. Request blood tests (FBC, coagulation and renal function) for patients with a known history or a suspicion of a bleeding disorder or known renal disease."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Discuss the risks of VTE and provide a patient information leaflet: Prevention of deep vein thrombosis in lower limb immobilisation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.11,
+                "text": "Instruct patients to return urgently to the ED if they are developing symptoms of compartment syndrome or tight POP (increasing limb pain, dusky or pale toes) or develop bleeding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.12,
+                "text": "Prescribe thromboprophylaxis from the point of immobilisation and to be continued for the duration of lower limb immobilisation (most commonly six weeks)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Lower limb immobilisation means the application of a plaster cast or splint to any part of the lower limb and non-weight bearing status."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 33,
+            "data": {
+                "num_rows": 23,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "VTE"
+                    },
+                    {
+                        "text": "Venous Thrombo-Embolism"
+                    },
+                    {
+                        "text": "EM"
+                    },
+                    {
+                        "text": "Emergency Medicine"
+                    },
+                    {
+                        "text": "ED"
+                    },
+                    {
+                        "text": "Emergency Department"
+                    },
+                    {
+                        "text": "SMG"
+                    },
+                    {
+                        "text": "Senior Medical Group"
+                    },
+                    {
+                        "text": "ADON"
+                    },
+                    {
+                        "text": "Associate Director of Nursing"
+                    },
+                    {
+                        "text": "ADO"
+                    },
+                    {
+                        "text": "Associate Director of Operations"
+                    },
+                    {
+                        "text": "Adult"
+                    },
+                    {
+                        "text": "From Aged 16 Years"
+                    },
+                    {
+                        "text": "BNF"
+                    },
+                    {
+                        "text": "British National Formulary: Publication of The BMA and The Royal Pharmaceutical Society of Great Britain."
+                    },
+                    {
+                        "text": "APTT"
+                    },
+                    {
+                        "text": "Activated Partial Thromboplastin Time"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "Intravenous"
+                    },
+                    {
+                        "text": "IU"
+                    },
+                    {
+                        "text": "International Units"
+                    },
+                    {
+                        "text": "MS"
+                    },
+                    {
+                        "text": "Mitral Stenosis"
+                    },
+                    {
+                        "text": "PE"
+                    },
+                    {
+                        "text": "Pulmonary Embolus"
+                    },
+                    {
+                        "text": "PT"
+                    },
+                    {
+                        "text": "Prothrombin Time"
+                    },
+                    {
+                        "text": "SC"
+                    },
+                    {
+                        "text": "Sub-Cutaneous"
+                    },
+                    {
+                        "text": "TIA"
+                    },
+                    {
+                        "text": "Transient Ischaemic Attack"
+                    },
+                    {
+                        "text": "UF"
+                    },
+                    {
+                        "text": "Unfractionated (sic heparin)"
+                    },
+                    {
+                        "text": "LVF"
+                    },
+                    {
+                        "text": "Left Ventricular Failure"
+                    },
+                    {
+                        "text": "Antiphospholipid Syndrome"
+                    },
+                    {
+                        "text": "Inherited or acquired disorders of the haemostatic system that may result in - an acquired thrombophilic state associated with auto- antibodies against phospholipids, diagnosed by the in vitro finding of abnormal phospholipid dependent coagulation assays (i.e. lupus anticoagulant) and, or anticardiolipin antibodies on immuno-assay"
+                    },
+                    {
+                        "text": "Proximal DVT"
+                    },
+                    {
+                        "text": "Ileo-Femoral Thrombosis I.E. \u201cAbove Knee\u201d"
+                    },
+                    {
+                        "text": "Recurrence"
+                    },
+                    {
+                        "text": "Three Or More Episodes"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 34,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "IPC"
+                    },
+                    {
+                        "text": "Intermittent Pneumatic Compression"
+                    },
+                    {
+                        "text": "INR"
+                    },
+                    {
+                        "text": "International Normalised Ratio (Based on The Prothrombin Time)"
+                    },
+                    {
+                        "text": "DOAC"
+                    },
+                    {
+                        "text": "Direct Oral Anticoagulant (Previously Known As NOAC)"
+                    },
+                    {
+                        "text": "AF"
+                    },
+                    {
+                        "text": "Atrial Fibrillation"
+                    },
+                    {
+                        "text": "HIT"
+                    },
+                    {
+                        "text": "Heparin Induced Thrombocytopaenia"
+                    },
+                    {
+                        "text": "DVT"
+                    },
+                    {
+                        "text": "Deep Vein Thrombosis"
+                    },
+                    {
+                        "text": "LMWH"
+                    },
+                    {
+                        "text": "Low Molecular Weight Heparin"
+                    },
+                    {
+                        "text": "NICE"
+                    },
+                    {
+                        "text": "National Institute for Health and Care Excellence"
+                    },
+                    {
+                        "text": "PE"
+                    },
+                    {
+                        "text": "Pulmonary Embolism"
+                    },
+                    {
+                        "text": "POP"
+                    },
+                    {
+                        "text": "Plaster of Paris Cast"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Clinical Guideline Lead Emergency Medicine \u2013 To ensure guideline is up to date and available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "It is the responsibility of the prescribing ED clinician to follow the guideline in the prescribing of thromboprophylaxis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "The ED Senior team is responsible for ensuring that staff are familiar with and adhere to this policy and are responsible for monitoring its implementation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Follow-up care is provided by orthopaedics and haematology as required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "All employees have an individual responsibility and accountability for the provision of safe and competent practice and are expected to adhere to Trust policies and follow the guidelines to prevent risks to themselves and others."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Consider thromboprophylaxis in all patients >16 years of age who are discharged with immobilisation of the lower limb in an above or below knee cast or splint and who are non-weight-bearing."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Assess for contraindications to VTE prophylaxis with LMWH:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "Known bleeding risk or other coagulopathy (e.g. platelets <75 x 10, haemophilia, acute liver failure)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Major trauma within six weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Recent brain or spinal surgery or other major intraspinal or intracerebral abnormalities."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Concurrent use of anticoagulants (e.g. warfarin with INR >2)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "Acute haemorrhagic stroke within six weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Acute upper GI bleed, peptic ulcer disease or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "oesophageal varices."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Uncontrolled hypertension (230/120 mmHg or higher)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Enoxaparin subcutaneously x 6 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Recommended enoxaparin doses:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 52,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Moderate risk/High Risk Normal BMI and Renal Function"
+                    },
+                    {
+                        "text": "40mg OD SC"
+                    },
+                    {
+                        "text": "Normal BMI and CrCL<30mls/min"
+                    },
+                    {
+                        "text": "20mg OD SC"
+                    },
+                    {
+                        "text": "WT<40kg or>150kg"
+                    },
+                    {
+                        "text": "See appendix 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "*Having a fracture of the lower leg needing immobilisation generates a moderate risk by itself."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "High-risk patients include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Persons older than 60 years."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients  aged  40-60  years  who  have  additional  risk factors,  such  as  previous  VTE,  malignancy,  or hypercoagulability. (Refer to Appendix 1)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "For high risk patients at extremes of body weight or with renal impairment (CrCl<30mls/min), refer to Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The risk of calf DVT is estimated at 20-40% in this group, with clinical pulmonary embolism occurring in 2-4%."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "If CrCl <30ml/min (or creatinine > 400umol/l) or patient is on renal dialysis prescribe 20mg irrespective of risk rating."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Pharmacy opening times:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "Outpatient Pharmacy (A103): Monday \u2013 Friday: 9am \u2013 5pm Saturday \u2013 Sunday: closed Inpatient Pharmacy (A105):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Monday \u2013 Friday: 8am \u2013 6pm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Saturday, Sunday, Bank Holidays: 10am \u2013 4pm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "During opening hours, send the patient with the prescription to the outpatient pharmacy (A103)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "When the outpatient pharmacy is closed, patients may leave their prescription in the post-box outside the pharmacy and collect the following day when opening hours allow (i.e. drop off on Sunday \u2013 Thursday)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "Where the outpatient pharmacy is closed and it is not possible to collect the prescription the following day, send the prescription to the inpatient pharmacy if open or contact the emergency floor pharmacist (when available) or on call pharmacist if urgent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.5,
+                "text": "In all cases, the patient MUST receive a stat dose of VTE prophylaxis before leaving the department if they are unable to collect their prescription that day."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "ED Team will prescribe the treatment for the first 14 days and this will be reviewed and continued by the Orthopaedic team if deemed appropriate (See appendix 4)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.7,
+                "text": "If NO follow up planned but VTE prophylaxis still indicated then the ED Team will prescribe for 6 weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Compliance with the key standards set out in this document will be monitored by audit against the following key criteria:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Thromboprophylaxis is to be prescribed in accordance with the standards set out in this document."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "A thromboprophylaxis patient information leaflet is to be provided to each relevant patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "The guidance will be audited in accordance with the Trust and the Royal College of Emergency Medicine standards by the ED Consultant responsible for audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "The same consultant will be responsible for reviewing the results and feedback recommendations for modifications to the guidance."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "The audit will take place one year after implementation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Any identified adverse events pertaining to the prescription or non- prescription of thromboprophylaxis (e.g. DVT, bleeding, adverse drug reaction) are to be documented and will be collated by the ED consultant responsible for clinical governance and discussed at the emergency department morbidity and mortality meeting."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "This document will be reviewed and modified by the authors as required in response to audit, adverse events or other concerns raised."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals. (Refer to Appendix 3)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Horner D, Goodacre S, Pandor A, et al: Thromboprophylaxis in lower limb immobilisation after injury (TiLLI)Emergency Medicine Journal 2020;37:36-41."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Bauer G. Thrombosis following leg injuries. Acta Chir Scand.1944;90(1):229- 49."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Bertoletti L, Righini M, Bounameaux H, Lopez-Jimenez L, Tiraferri E, Visona A, et al. Acute venous thromboembolism after non-major orthopaedic surgery or post-traumatic limb immobilisation. Findings from the RIETE registry. Thromb Haemost. 2011 Apr;105(4):739-41."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Clarke AM, Winson IG. Does plaster immobilization predispose to pulmonary embolism? Injury. 1992;23(8):533-4."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Zee AAG, Van Lieshout K, Van Der Heide M, Jansenn L, Janzing H. Low molecular weight heparin for the prevention of venous thromboembolism in patients with lower-limb immobilization (Review), The Cochrane Collaboration. The Cochrane Library, 06 August 2017"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "College of Emergency Medicine Guideline for the use of thromboprophylaxis in ambulatory trauma patients requiring temporary limb immobilisation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2012.0,
+                "text": "Guidelines in Emergency medicine network, GEMNet, October"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "NICE Clinical Guideline NG89 (volume 2). Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein thrombosis and pulmonary embolism. March 2018."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "Prediction of venous thrombosis risk after cast immobilization of the lower extremity. Nemeth B, le Cessie S, van Hylckama V, Bucciarelle P, Martinelli I, Baglin T, Rosendaal F, Cannegieter S. Department of Clinical Epidemiology, Leiden University Medical Center, 2014."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "Healy B, Beasley R, Weatherall M. Venous thromboembolism following prolonged cast immobilisation for injury to the tendo-achillis. J Bone Joint Surg Br. 2010 May;92(5):646-50."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "Nilsson-Helander K, Thurin A, Karlsson J, Eriksson BI. High incidence of deep venous thrombosis after Achilles tendon rupture: a prospective study. Knee Surg Sports Traumatol Arthrosc. 2009 Oct;17(10):1234-8."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "Patil S, Gandhi J, Curzon I, Hui AC. Incidence of deep-vein thrombosis in patients with fractures of the ankle treated in a plaster cast. J Bone Joint Surg Br. 2007 Oct;89(10):1340-3."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "Meek R, Tong RL. Venous thromboembolism in emergency department patients with rigid immobilization for lower leg injury: Incidence and risk factors. Emerg Med Australas. 2012 Jun;24(3):277-84."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "Oger E. Incidence of venous thromboembolism: a community-based study in Western France. EPI-GETBP Study Group. Groupe d'Etude de la Thrombose de Bretagne Occidentale. Thromb Haemost. 2000 May;83(5):657-60."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Silverstein MD, Heit JA, Mohr DN, Petterson TM, O'Fallon WM, Melton LJ, 3rd. Trends in the incidence of deep vein thrombosis and pulmonary embolism: a 25-year population-based study. Arch Intern Med. 1998 Mar 23;158(6):585-93."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Spencer FA, Gore JM, Lessard D, Douketis JD, Emery C, Goldberg RJ. Patient outcomes after deep vein thrombosis and pulmonary embolism: the Worcester Venous Thromboembolism Study. Arch Intern Med. 2008 Feb 25;168(4):425- 30."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Testroote M, Stigter W, de Visser DC, Janzing H. Low molecular weight heparin for prevention of venous thromboembolism in patients with lower-leg immobilization. Cochrane Database Syst Rev. 2008(4):CD006681."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency Department: Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury/20003/1.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Risk Assessment Flow Chart"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 99,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Patient Over 16yrs with Acute Severe Injury (Dislocation, Fracture or Complete Tendon Rupture)"
+                    },
+                    {
+                        "text": "Treated in a Cast, Splint OR Boot"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "VTE RISK ASSESSMENT"
+                    },
+                    {
+                        "text": "Thrombosis risk"
+                    },
+                    {
+                        "text": "Bleeding Risk"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 100,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "A: Unable to fully weight bare* (e.g. NWB in cast or PWB only in cast or boot with touching toes and dependent on crutches.)"
+                    },
+                    {
+                        "text": "Acquired bleeding disorders (such as acute liver failure)"
+                    },
+                    {
+                        "text": "*If A is the ONLY additional risk factor then counsel and offer Enoxaparin 20 mg SC OD for duration of immobilisation OR until fully weight bearing in a splint or boot"
+                    },
+                    {
+                        "text": "anticoagulants known to increase the risk of bleeding (such as warfarin with INR >2)"
+                    },
+                    {
+                        "text": "B:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "including Tamoxifen.)"
+                    },
+                    {
+                        "text": "by the clinician"
+                    },
+                    {
+                        "text": "Known thrombophilia"
+                    },
+                    {
+                        "text": "Acute stroke (See NICE guidance)"
+                    },
+                    {
+                        "text": "surgery"
+                    },
+                    {
+                        "text": "Thrombocytopenia (platelets< 75x109/l) or previous HIT (Heparin Induced Thrombocytopenia)"
+                    },
+                    {
+                        "text": "Pregnant or <5 weeks postpartum"
+                    },
+                    {
+                        "text": "One or more significant medical comorbidities: cardiac failure / COPD / chronic renal failure or inflammatory bowel disease"
+                    },
+                    {
+                        "text": "Uncontrolled systolic hypertension (230/120 mmHg or higher)"
+                    },
+                    {
+                        "text": "Recent intra-cerebral haemorrhage"
+                    },
+                    {
+                        "text": "Allergy or sensitivity to heparin"
+                    },
+                    {
+                        "text": "Extensive varicosities"
+                    },
+                    {
+                        "text": "Untreated inherited bleeding disorders (such as haemophilia and von Willebrand's disease)"
+                    },
+                    {
+                        "text": "-degree relative with a history of VTE"
+                    },
+                    {
+                        "text": "Active cancer or cancer treatment"
+                    },
+                    {
+                        "text": "Active bleeding"
+                    },
+                    {
+                        "text": "YES TO ANY of B"
+                    },
+                    {
+                        "text": "YES TO ANY ABOVE"
+                    },
+                    {
+                        "text": "**Counsel Patient and Offer: Enoxaparin subcutaneously x 6 weeks. (See Appendix 2)"
+                    },
+                    {
+                        "text": "Discuss with ED Senior or Haematology if concerned regarding VTE and high bleeding risk"
+                    },
+                    {
+                        "text": "Pharmacological prophylaxis indicated If eGFR <30mls/min prescribe 20mg Enoxaparin"
+                    },
+                    {
+                        "text": "Pharmacological prophylaxis not indicated"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "**Please see guidelines on counselling advice with evidence below in Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2- Enoxaparin Prescribing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 1,
+                "text": "Table to show recommended doses of enoxaparin for thromboprophylaxis in medical and surgical patients (excluding maternity and paediatric patients)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 104,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "WEIGHT"
+                    },
+                    {
+                        "text": "RENAL FUNCTION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "CrCl \u226530 ml/min"
+                    },
+                    {
+                        "text": "CrCl <30 ml/min or on dialysis"
+                    },
+                    {
+                        "text": "<40kg"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "Contact haematology for advice"
+                    },
+                    {
+                        "text": "40-49kg"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "50-100kg"
+                    },
+                    {
+                        "text": "40mg OD*"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "101-150kg"
+                    },
+                    {
+                        "text": "40mg BD or 80mg OD"
+                    },
+                    {
+                        "text": "20mg OD or discuss with haematology depending on individual patient risk factors."
+                    },
+                    {
+                        "text": ">150kg"
+                    },
+                    {
+                        "text": "60mg BD or 120mg OD"
+                    },
+                    {
+                        "text": "Contact haematology for advice"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3- Clinical Studies"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": "Risk of symptomatic VTE (DVT and PE) is between 1.8 and 5.5% for all comers (roughly 1 in 50 to 1 in 18 people.) For people in the higher risk groups e.g. over 60 with history of active cancer or previous history of VTE it is between  \u2013 40% (1 in 5 to 2 in 5.)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "Reduction in risk of VTE using prophylaxis is to approximately 1% but not to 0% so it must be made clear to the patients that VTE can still occur despite prophylaxis. All patients with immobilisation of the lower limb including those fully weight bearing in a boot or splint must be given a VTE leaflet on discharge which explains the signs and symptoms of VTE."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "Fatal PE rate is very rare at approximately  per 100,000 for patients with lower limb immobilisation. This is approximately halved by prophylaxis to 7 per 100,000 however the benefit is offset by the increase in fatal and major bleeding events. The main benefits of VTE prophylaxis are the approximately 50% reductions in symptomatic PE, DVT, asymptomatic DVT, post thrombotic syndrome (the major benefit) and chronic thromboembolic pulmonary hypertension halving the associated future morbidity for immobilised patients and cost for the healthcare service."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients should be counselled along these lines and given an informed choice as to whether to accept prophylaxis. This discussion and their decision should be recorded in the notes."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 110,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.013.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency Department: Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury/20003/1.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 1,
+                "text": "A:  Unable to fully weight bare* (e.g. NWB in cast or PWB only in cast or boot with touching toes and dependent on crutches.)"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 113,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "Known thrombophilia"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 115,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "Acute stroke (See NICE guidance)"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 117,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Uncontrolled systolic hypertension (230/120 mmHg or higher)"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 119,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "Recent intra-cerebral haemorrhage"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 121,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "Allergy or sensitivity to heparin"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 123,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "-degree relative"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 125,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "with a history of VTE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "Active cancer or cancer treatment"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 128,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "Active bleeding"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 130,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4-Venous Thromboembolic Disease Prophylaxis In Lower Limb Injury- Practicalities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 1,
+                "text": "VTE assessment completed by A&E. Patient requires prophylactic Enoxaparin"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 134,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.014.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient does not require"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 136,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.016.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "an orthopaedic follow up  Patient requires an orthopaedic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "follow up"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency Department: Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury/20003/1.1"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 140,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 1,
+                "text": "A&E to prescribe the complete course (6 weeks) of Enoxaparin"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 142,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.017.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 1,
+                "text": "A&E to prescribe 2- week course of enoxaparin until orthopaedic review"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "Face-to-face  Virtual patient follow  patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": "up  follow-up"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 1,
+                "text": "Orthopaedics to review continuation of Enoxaparin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "If indicated:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 148,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.018.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "text": "Write an outpatient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "text": "prescription for the remainder of the course"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "text": "Document on prescription \u2018continuation of course' to prevent patient being charged twice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "Direct patient to outpatient pharmacy to obtain the remainder"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 1,
+                "text": "Orthopaedics to review continuation of Enoxaparin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "If indicated:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 155,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.019.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "Write an outpatient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "prescription for the remainder of the course"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "text": "Document on prescription \u2018continuation of course' to prevent patient being charged twice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "Document patient's address on the prescription"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "Send prescription to outpatient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 1,
+                "text": "Pharmacy to send patient's medication home via transport"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 162,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.020.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency Department: Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury/20003/1.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Emergency Department: Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury/2000x"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "A change in a service to patients"
+                    },
+                    {
+                        "text": "x"
+                    },
+                    {
+                        "text": "A change to an existing policy"
+                    },
+                    {
+                        "text": "x"
+                    },
+                    {
+                        "text": "A change to the way staff work"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A new policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full Review"
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3-year review"
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and clinicians"
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change? b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 1,
+                "text": "Preliminary analysis completed by:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 168,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Dr James Klewe"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Consultant in EM"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "14/06/2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 169,
+            "data": {
+                "url": "20003 ED Venous Thromboembolic Disease Prophylaxis in Lower Limb Injury 1.1.001.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,997 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service specification"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Emergency Care"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "Division 1"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP001"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Same Day Emergency Care (SDEC) Service Specification"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Neil Campbell"
+                    },
+                    {
+                        "text": "Clinical Lead Acute Medicine"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "Rebecca Summerskill"
+                    },
+                    {
+                        "text": "Matron Emergency Medicine"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Neil Campbell"
+                    },
+                    {
+                        "text": "Lead Clinician Ambulatory Care"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "Ahmad Aziz"
+                    },
+                    {
+                        "text": "Clinical Director Emergency & Ambulatory Care"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "Barry Evans"
+                    },
+                    {
+                        "text": "Consultant Physician Ambulatory Care"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "Jo Francis"
+                    },
+                    {
+                        "text": "ADoN Emergency Care"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "Clive Walsh"
+                    },
+                    {
+                        "text": "Director of Operations"
+                    },
+                    {
+                        "text": "21st November 2019"
+                    },
+                    {
+                        "text": "Authorised members/Group"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Document Ratification Group Chair's Action"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Issue Date"
+                    },
+                    {
+                        "text": "25th November 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "24th November 2022"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Rebecca Summerskill & Neil Campbell"
+                    },
+                    {
+                        "text": "V0.1 \u2013 Draft"
+                    },
+                    {
+                        "text": "V0.1 - draft"
+                    },
+                    {
+                        "text": "Rebecca Summerskill & Neil Campbell"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 10,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this document is to provide guidance for all members on the arrangements for the safe and appropriate management of patients through our Same Day Emergency Care service (SDEC). The service specification is also intended to ensure that staff of the Trust clearly understands their responsibilities to ensure safe referral, admission and management of the emergency patient. This in turn will reflect the need of the individual, their relatives and carers."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "Whilst the Trust is introducing a standardised system, it is understood that there are patients with special needs which must be met and the Trust is committed to making reasonable adjustments to its procedures when these are necessary. Failure to take into account special needs should be reported and a Datix should be completed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "In the context of this document, the reasonable adjustments for patients with learning disabilities and autism could include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Additional time spent with the patient and their carer;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to contact the Specialist Nurse for ID & Autism."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "This document accepts that staff must at all times operate within the frameworks of:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "09116 Caring for Adult Patients with a Learning Disability;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "13003 Carers Policy;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "15010 Making Reasonable Adjustments."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "The underlying principle is that safe efficient and high quality management of all emergency attendances is achieved across the Emergency Village following agreed pathways and streams ensuring \u201cright person, right place, and right time\u201d. NHS constitution"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The aims of Same Day Emergency Care are to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Improve patient experience and outcomes;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure high quality, safe and efficient emergency care provision;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "Release Acute care beds;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Support the Home First Principle."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Ambulatory care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Ambulatory Emergency Care is defined by the Royal College of Physicians as:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "\u201cAmbulatory (emergency) care is clinical care which includes diagnosis, observation, treatment and rehabilitation, not provided within the traditional hospital bed base or outpatient services and can be provided across the primary/secondary interface\u201d Royal College of Physicians 2007"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "A significant proportion of emergency attendances can be managed safely and appropriately on the same day without admission to a hospital bed. All patients referred to Acute and On call medical services should be considered ambulatory until assessed otherwise. Therefore, the nurse triage role follows Manchester Triage guidance, agreed SDEC exclusion criteria and Ambulatory pathways to support this principle."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "The aim will be for SDEC to provide a 7 days a week service between 08:00- 20:00. Current hours of operation due to staffing constraints are Mon-Fri 08:00-20:00 and Sat-Sun (and bank holidays) 10:00-18:00."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Routes of Access to SDEC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "text": "5.3.1 Streaming \u2013 part of the ED nurse streaming function is to identify suitable patients for SDEC this is further supported by a \u201c push/pull\u201d approach where the Same Day Emergency Care band 6 will review the ED electronic system to identify any suitable patient to pull through."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "5.3.2 General practitioners will initiate referral via the GP referral line in SDEC between the hours of SDEC operation then via switch out of hours to Med SpR. If concerns exist regarding the most appropriate manner of assessment then they are given the option of discussing the case with the Acute Physician when SDEC band 6 answers the call."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.3 Patients will then be sent along with details of the destination and contact number for the Unit. In view of the Acute nature of the visit it is not essential that pre-existing notes are available but upon request every effort will be made to obtain them within the shortest time possible. On arrival all patients and carers will be informed that they have been referred for assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 An information leaflet will be provided"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 ED referrals made by and ED clinical decision maker will be transferred to SDEC, this transfer is managed by the ED and SDEC NICs without bed management involvement."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "SDEC attendances are both new emergency as well as review appointments."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "The review appointments are limited to 12 per day. They enable a \u201cvirtual ward\u201d approach: allowing the patient to undergo clinical management and supervision but staying overnight within the usual place of residence, this not only improves the quality of patient care and experience but also reduces occupied bed days in hospitals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Review appointments also promote early facilitated discharge from the emergency village and wider organisation to support patient treatment programmes where applicable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "Standards of Practise"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Once a patient is in SDEC the following standards will be adhered to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "15 minutes initial nurse assessment;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient to be seen within 2 hours by a clinical decision maker;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical management plan must be made within 6 hours ;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "If the nurse in charge of the unit experiences any difficulties, he/she are adhere to the Emergency Village Escalation Protocols;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "All admissions, transfers and discharges must be recorded electronically on Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "6.3.1  Should a patient deteriorate whilst in SDEC the nominated consultant is available for escalation and review, should the patient require admission this would be to either the Acute medical unit or specialist medical base care ward. SDEC is located between the Acute medical unit and the Emergency Department and has access to the hospital trigger response team for support if needed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.4,
+                "text": "Discharge"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 1,
+                "text": "6.4.1 On discharge patients will be provided with relevant information to manage their on-going care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "6.4.2 A copy of the Discharge Summary will be communicated with the GP and a copy will be given to the patient by the Acute Physician. The completion of detail within a summary may be delegated; however the Acute Physician will have responsibility to sign off of a completed summary."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.5,
+                "text": "Follow-up Appointments on SDEC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.1 If patients are to be reviewed in the unit as follow ups in order to review progress or results of investigations then they are given a time and date prior to them leaving the unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.2 All follow-up appointments will be booked and activity captured on appropriate systems"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.3 When a patient attends for a follow-up appointment a clinic outcome form will be completed by the Acute Physician or SDEC Nurse Co-ordinator as part of the Electronic Discharge Letter (EDL)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Exclusion Criteria for Referral to the SDEC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "Any \u2018physical trauma' related problem"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "The patient is physiologically unstable or at high risk of deteriorating. NEWSor above"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "If the patient's clinical condition presents a cross-infection risk for the patient or others"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients under the age of 16 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Disruptive/disorientated patients"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients who have deliberate self-harmed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients who will need supported discharge"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients whose problem will need regular follow up"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients whose problem will need regular physiotherapy or occupational therapy input"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "These exclusions are subject to change and will be reviewed and updated accordingly according to staff and service development."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "In addition, there are exclusion criteria for each condition specific pathway (see table below)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Agreed pathways for ambulatory use for nurse practitioner use and junior doctor reference for best practice are:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 70,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "PE"
+                    },
+                    {
+                        "text": "AF"
+                    },
+                    {
+                        "text": "Cellulitis"
+                    },
+                    {
+                        "text": "DVT"
+                    },
+                    {
+                        "text": "First Seizure"
+                    },
+                    {
+                        "text": "Giant cell arteritis"
+                    },
+                    {
+                        "text": "Low Risk Chest Pain"
+                    },
+                    {
+                        "text": "Headache"
+                    },
+                    {
+                        "text": "UTI"
+                    },
+                    {
+                        "text": "Spontaneous Pneumothorax"
+                    },
+                    {
+                        "text": "Superficial Thrombophlebitis/Phlebitis"
+                    },
+                    {
+                        "text": "Community acquired Pneumonia"
+                    },
+                    {
+                        "text": "Asthma"
+                    },
+                    {
+                        "text": "Upper GI bleed"
+                    },
+                    {
+                        "text": "Syncope"
+                    },
+                    {
+                        "text": "Hyperkalaemia"
+                    },
+                    {
+                        "text": "CCF"
+                    },
+                    {
+                        "text": "Pyelonephritis"
+                    },
+                    {
+                        "text": "COPD"
+                    },
+                    {
+                        "text": "Abnormal LFTs"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "LRTI"
+                    },
+                    {
+                        "text": "Anaemia"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service specification"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "| P a g e"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 73,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.004.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 74,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.005.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "AMU commenced th June 2017"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 76,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service specification"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "| P a g e"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 79,
+            "data": {
+                "url": "MEHTSOP001 - Same Day Emergency Care (SDEC) Service Specification 1.0.007.png"
+            }
+        }
+    ]
+}

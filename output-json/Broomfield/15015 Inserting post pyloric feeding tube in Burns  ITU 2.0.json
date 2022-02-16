@@ -1,0 +1,697 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "15015 Inserting post pyloric feeding tube in Burns  ITU 2.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "INSERTION OF POST PYLORIC FEEDING TUBES IN BURNS ITU"
+                    },
+                    {
+                        "text": "Type: Clinical Guideline Register No: 15015 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Best practice"
+                    },
+                    {
+                        "text": "Contributes to CQC Regulation number:"
+                    },
+                    {
+                        "text": "11"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/Committee/Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Teresa Tredoux"
+                    },
+                    {
+                        "text": "Lead Nurse Burns ITU"
+                    },
+                    {
+                        "text": "August 2018"
+                    },
+                    {
+                        "text": "Dr Harish Bangalore"
+                    },
+                    {
+                        "text": "PICU Consultant"
+                    },
+                    {
+                        "text": "August 2018"
+                    },
+                    {
+                        "text": "Dr Catherine Spoors"
+                    },
+                    {
+                        "text": "Burns ICU Consultant"
+                    },
+                    {
+                        "text": "August 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": "Dr Peter Berry"
+                    },
+                    {
+                        "text": "Burns ICU Lead Consultant"
+                    },
+                    {
+                        "text": "August 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Burns and Plastics"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "DRAG Chairman's Action"
+                    },
+                    {
+                        "text": "Ratified on:"
+                    },
+                    {
+                        "text": "3rd October 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "22nd October 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "21st October 2021"
+                    },
+                    {
+                        "text": "Executive Management Board Sign Off Date"
+                    },
+                    {
+                        "text": "October/November 2018"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Dr Rebecca Martin, Consultant Burns ITU"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Medical and Nursing staff, Burns ITU"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet, Burns Reference Folder in Metavision (EPR), Staff meetings and email"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "05102 Nasogastric Feeding Tube Insertion and Management in Adults 05006 Passing a Naso/oro-gastric tube and intermittent tube feeding (10days- 16yrs) 04071 Standard Infection Prevention 04072 Hand Hygiene 08086 Clinical record Keeping Standards Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr Rebecca Martin"
+                    },
+                    {
+                        "text": "3rd August 2015"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Su Ames -Clarification to point 7.5"
+                    },
+                    {
+                        "text": "9th April 2018"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Dr Rebecca Martin \u2013 Full review"
+                    },
+                    {
+                        "text": "22nd October 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1- Measuring distances in child"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.1,
+                "text": "To identify which patients with burn injury require insertion of post pyloric feeding tubes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "To describe the correct process for safe insertion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "This clinical guideline is applicable to adults and children with major burn injury or skin loss that are nursed in Burns ITU (E220)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.2,
+                "text": "These guidelines only apply to post pyloric tube placement \u2013 for nasogastric tubes please follow relevant policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "This clinical guideline is for registered medical and nursing staff working within Burns ITU."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Post-pyloric feeding tubes will be inserted under the direction and supervision of Burns ITU Consultant by junior medical staff or by consultants. Supervision may be indirect when the junior medical staff are competent to undertake the procedure \u2013 this will be based on previous satisfactory direct supervision by a consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Staff must follow appropriate infection prevention and control procedures for hand hygiene, wearing gowns and gloves."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "All children and adults with burn injury or skin loss who require mechanical ventilation or have burns/skin loss > 20% body surface area should have a post pyloric feeding tube inserted."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "This should be done within 12 hours of admission, as it is easier when some peristalsis remains. Placement is significantly harder when the patient has high gastric aspirates."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "If the blind technique has failed after 3 days of repeated attempts, a referral to endoscopy should be made for endoscopic placement."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "Appropriate consent processes must be followed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Various techniques have been published over recent years to aid blind placement of post pyloric feeding tubes. With a bit of time and patience these tubes can be successfully sited but it is pointless to subject patients to repeated x-rays if the technique used is poor. Never force the tube against resistance. If you are struggling stop and seek senior help."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "The following technique is suggested:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Give 10mg iv metoclopramide to adults. Do not routinely use for children but if difficulty passing tube 0.1mg/kg up to maximum 10 mg can be given. Do not use for a child < 1 year old."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Measure the distance from the nostril to the ear to the xiphisternum, which is the initial distance required for insertion into the stomach. To estimate the distance required for post pyloric placement in children (see appendix 1):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "For infants: Measure the distance from the nostril-ear- Midpoint between the xiphisternum and umbilicus-anterior superior iliac spine."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 1,
+                "text": "For older children: Measure the distance from the nostril-ear- xiphisternum \u2013anterior superior iliac spine."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The tubes we use are unweighted so it is not essential to place the patient in the right lateral position though some people find this helps. Positioning with head end elevation at 15-30 degrees and antero-flexion may help in children."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "Prior to insertion, check the feeding tube is patent with a 50 ml sterile bladder syringe/ EN-Fit syringe filled with air."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "Lubricate the internal wire by the use of 10 mls water for injection down the tube. After 10 minutes insert a fine bore 8F 109 cm tube (adults) or 6F 92 cm (child less than  kgs) tube through the nostril into the stomach."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.7,
+                "text": "Advance the tube in 5 cm increments or 2-4 cms increments in infants and smaller children. After each advancement check the resistance of the wire within the tube. The wire should move easily within the tube as it does before insertion to the patient; the wire should not \u2018bounce back' when tapped with a finger. It should move freely at all times. Continue to advance until the final length is 95-105 cm, or age related equivalent per estimated length in 7.1.1. If any resistance is felt, pull the tube back by 5 cm and repeat the above."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.8,
+                "text": "If after 20 minutes the tube has not passed without resistance insufflate 200mls air (adult), or approximately 10mls/kg in infants and smaller children, via the NG tube. Repeat attempts as above. If you continue to be unsuccessful ask for consultant help."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.9,
+                "text": "If positioning continues to fail, site tube so that it \u2018hangs' mid stomach and remove guide wire. Once gastric position confirmed, commence feeding down it and advance 5cm every few hours until adequate length has passed and repeat x-ray."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "When the tube has been successfully placed ie there has been no resistance felt and an appropriate length of tube is passed, remove the inner wire and secure the tube. Aspirate any contents and test the ph (> 5.5 if post pyloric). It is useful to compare with any NG aspirate. Don't forget to aspirate any air if used as part of the technique."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.11,
+                "text": "Ensure the tube is securely fastened and document the length at the external nares. Confirmation of position"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.12,
+                "text": "A CXR/ upper abdominal film is required to confirm placement. Please note the fine bore tubes are radio-opaque along their entire length without the wire (only the tip of wide bore NG tubes supplied in our unit are radio-opaque)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.13,
+                "text": "Ensure the wire is removed prior to x-ray as this can dislodge the tube or the wire may not be removable in which case you have unnecessarily exposed the patient to an x- ray."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.14,
+                "text": "Ensure the x-ray request carries the reason i.e. insertion of post pyloric tube so the radiographers know to focus in lower chest/ upper abdomen."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.15,
+                "text": "Document the procedure in the patient's notes including the x-ray findings. A correctly passed tube crosses the midline. If you cannot see the tube check the lung fields."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.16,
+                "text": "Do not use a tube unless you can identify its position on x-ray. If in doubt, seek consultant help."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.17,
+                "text": "Ensure the nursing staff are informed of the tube position and this is documented in the patients notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.18,
+                "text": "pH cannot be used to confirm position of post-pyloric tubes as the likely pH is > 5.5 and this cannot be distinguished from non enteral position."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.19,
+                "text": "The length of the tube position at the external nostril must be confirmed daily and before starting feeding after a period of disconnection. If the tube has dislodged the position must be reconfirmed prior to use."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "The following complications can occur:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Failed placement or misplacement \u2013 beware of accidental endobronchial or transpleural placement as this risks pneumothorax"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Tissue damage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Bleeding"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "A risk event form should be completed and submitted to the Risk Management Department for non-compliance with this guideline or any complications arising from insertion of post pyloric feeding tube."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "The use of this guideline will be monitored by review of any reported incidents."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Any complications will be reviewed at the monthly Burns Mortality and Morbidity meetings and the minutes distributed to the Burns MDT."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Lee AJ, Eve R, Bennett MJ. Evaluation of a technique for blind placement of post- pyloric feeding tubes in intensive care: application in patients with gastric ileus. Intensive Care Med. 2006 Apr;32(4):553-6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Meyer R, Harrison S, Cooper M, Habibi P. Successful blind placement of nasojejunal tubes in paediatric intensive care: impact of training and audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "McDermott A1, Tomkins N, Lazonby G. Nasojejunal tube placement in paediatric intensive care. Paediatr Nurs. 2007 Mar;19(2):26-8."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Phipps LM1, Weber MD, Ginder BR, Hulse MA, Thomas NJ. A randomized controlled trial comparing three different techniques of nasojejunal feeding tube placement in critically ill children. JPEN J Parenter Enteral Nutr. 2005 Nov-Dec;29(6):420-4."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 58,
+            "data": {
+                "url": "15015 Inserting post pyloric feeding tube in Burns  ITU 2.0.002.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 59,
+            "data": {
+                "url": "15015 Inserting post pyloric feeding tube in Burns  ITU 2.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

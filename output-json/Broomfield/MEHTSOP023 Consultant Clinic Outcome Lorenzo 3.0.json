@@ -1,0 +1,850 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP023 - Consultant - OP Clinic Outcome - Lorenzo"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatient"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP023"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Consultant - OP Clinic Outcome - Lorenzo"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Business Change Analyst"
+                    },
+                    {
+                        "text": "18/06/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Dr Dilshan Arawwawala"
+                    },
+                    {
+                        "text": "CCIO"
+                    },
+                    {
+                        "text": "24/06/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "ADO Medicine"
+                    },
+                    {
+                        "text": "11/07/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO Women's & Childrens"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "ADO Surgery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO Performance"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2020"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "18/06/2019"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "21/06/2019"
+                    },
+                    {
+                        "text": "Aligned departure outcome selections with OP Cashing Up SOP changes Addition of screen shot \u2013 \u2018seen' window"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "08/07/2019"
+                    },
+                    {
+                        "text": "Added reference to follow-ups in matrix table"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell"
+                    },
+                    {
+                        "text": "Delivery Group"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Elective Care Group"
+                    },
+                    {
+                        "text": "Louise Jones, Paul Hawkins, Elizabeth Podd, Stewart Cooper, Kerry White, Joanne Dale, Joe Hayward, John Cooil, Chris James, Nicola Riches"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline key pathway touch points for consultants"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Document process for recording electronic clinical decision for outpatient clinic appointment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "The most important \u2018clock' management the consultant body must interact with is the outpatient clinic outcome. The outpatient activity includes the more traditional face to face clinic setting through to results review where patient is not in attendance and is informed of results outcome via a letter. The consequence of incorrect RTT data includes:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient safety is compromised"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Waiting Lists are inflated"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Financial Penalties"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Consultant and registrars given outpatient clinic responsibility who have been approved to use the Lorenzo method for recording clinical decisions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure \u2013 Recording outpatient clinical decision in Lorenzo"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "An electronic clinical decision outcome must be provided for every patient appointment, including but not limited to: face to face clinic appointments, results review clinics, phone clinics. The clinic owner is responsible for completing a clinical decision in Lorenzo for every patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "To record patient attendance:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 25,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 26,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "viii.  Appointment start time"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "xiii.  UBRN  \u2013  Unique  Booking  Reference  Number  allocated  from  e-RS  (formally"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "choose and book) a number in this column is representative of the booking"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "coming from e-RS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "xiv.  Appointment  status  \u2013  every  appointment  will  have  a  status  ranging  from;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "available, booked, arrived, called, seen, departed or potential DNA and DNA."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 34,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.004.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "Matrix \u2013 outcome and selection:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 36,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Scenario"
+                    },
+                    {
+                        "text": "Departure Outcome"
+                    },
+                    {
+                        "text": "New RTT"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "I have not yet diagnosed / devised a treatment plan for this patient and need results from an appropriate diagnostic test in order to do so."
+                    },
+                    {
+                        "text": "Awaiting results"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "Clinic and timeframes for booking f/up or virtual review plans"
+                    },
+                    {
+                        "text": "I have seen a long standing follow up patient that was treated months or years ago and I will see them again. I may or may not request pathology / radiology."
+                    },
+                    {
+                        "text": "Follow up appointment to be booked"
+                    },
+                    {
+                        "text": "90 \u2013 Post 1st Treatment"
+                    },
+                    {
+                        "text": "Clinic and timeframes for booking f/up"
+                    },
+                    {
+                        "text": "I have seen a patient in clinic but cannot offer them treatment for their condition as it is not commissioned at this hospital / under NHS"
+                    },
+                    {
+                        "text": "Discharged"
+                    },
+                    {
+                        "text": "34 \u2013 decision not to treat"
+                    },
+                    {
+                        "text": "Any supporting commentary."
+                    },
+                    {
+                        "text": "I need to refer this patient to another hospital for treatment as it is not offered at MEHT."
+                    },
+                    {
+                        "text": "Discharged"
+                    },
+                    {
+                        "text": "21 \u2013 tertiary referral"
+                    },
+                    {
+                        "text": "Any supporting commentary."
+                    },
+                    {
+                        "text": "I have requested tests and have the results. I believe the problem does not lie within my clinical discipline and need to refer the patient to another consultant"
+                    },
+                    {
+                        "text": "Referred to other consultant"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "Supporting commentary outlining consultant to consultant referral."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 37,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "within the trust."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "During the consultation the treatment options were discussed. Treatment is surgery. The patient wants to pursue alternative management of condition and review at an agreed later date. I will see the patient again."
+                    },
+                    {
+                        "text": "Follow up appointment to be booked"
+                    },
+                    {
+                        "text": "31 \u2013 start watchful wait by patient"
+                    },
+                    {
+                        "text": "Clinic and timeframes for booking f/up or virtual review plans"
+                    },
+                    {
+                        "text": "During the consultation the treatment options were discussed. The patient does not want surgery / investigation. Care cannot proceed without this. I will not see the patient again."
+                    },
+                    {
+                        "text": "Discharged"
+                    },
+                    {
+                        "text": "35 \u2013 patient declined treatment"
+                    },
+                    {
+                        "text": "Any supporting commentary."
+                    },
+                    {
+                        "text": "Patient has returned to clinic following an agreed period of active monitoring. Results of a test are reviewed and a decision is made to list patient for surgery."
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "10 \u2013 first activity after ref in RTT (this starts a new clock)"
+                    },
+                    {
+                        "text": "Any supporting commentary for clinical plan including tests / refs / appts"
+                    },
+                    {
+                        "text": "I have seen patient in clinic and prescribed a treatment plan that is made up of medication, diet and lifestyle changes. Patient has started first definitive treatment. No f/up required."
+                    },
+                    {
+                        "text": "Discharged"
+                    },
+                    {
+                        "text": "30 \u2013 start 1st treatment"
+                    },
+                    {
+                        "text": "Any supporting information regarding 1st treatment. This helps with validation/DQ team."
+                    },
+                    {
+                        "text": "I have seen patient in clinic and prescribed a treatment plan that is made up of medication, diet and lifestyle changes. Patient has started first definitive treatment. F/up to be booked."
+                    },
+                    {
+                        "text": "Follow-Up appointment to be booked"
+                    },
+                    {
+                        "text": "30 \u2013 start 1st treatment"
+                    },
+                    {
+                        "text": "Any supporting information regarding 1st treatment. This helps with validation/DQ team. Clinic and timeframes for booking f/up or virtual review plans"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "To record patient non-attendance (DNA)"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 39,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.005.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 40,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "patients"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 43,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Scenario"
+                    },
+                    {
+                        "text": "Departure Outcome"
+                    },
+                    {
+                        "text": "New RTT"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "First DNA, new appointment, not clear why DNA occurred. I want the patient to be given another appointment."
+                    },
+                    {
+                        "text": "Remain on access plan"
+                    },
+                    {
+                        "text": "33"
+                    },
+                    {
+                        "text": "Clinic and timeframes"
+                    },
+                    {
+                        "text": "Follow up DNA, I want the patient to be given another appointment."
+                    },
+                    {
+                        "text": "Remain on access plan"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "Clinic and timeframes"
+                    },
+                    {
+                        "text": "Patient was a ward follow up. I do not need to see the patient. I will discharge them back to the care of the GP."
+                    },
+                    {
+                        "text": "Discharge"
+                    },
+                    {
+                        "text": "98 (if admit unplanned) 90 (if admit elective)"
+                    },
+                    {
+                        "text": "Any supporting commentary."
+                    },
+                    {
+                        "text": "Follow up patient that was previously treated. I need to see the patient."
+                    },
+                    {
+                        "text": "Follow up appointment to be booked"
+                    },
+                    {
+                        "text": "90 \u2013 Post 1st Treatment"
+                    },
+                    {
+                        "text": "Clinic and timeframes"
+                    },
+                    {
+                        "text": "Follow up patient that was previously treated. I do not need to see the patient."
+                    },
+                    {
+                        "text": "Discharge"
+                    },
+                    {
+                        "text": "90 \u2013 Post 1st Treatment"
+                    },
+                    {
+                        "text": "Any supporting commentary."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "Every patient in clinic is in a status of SEEN or POTENTIAL DNA"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 46,
+            "data": {
+                "url": "MEHTSOP023 Consultant Clinic Outcome Lorenzo 3.0.003.png"
+            }
+        }
+    ]
+}

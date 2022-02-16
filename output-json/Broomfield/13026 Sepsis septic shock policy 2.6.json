@@ -1,0 +1,1706 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "EARLY IDENTIFICATION AND TREATMENT OF SEPSIS (NON RED FLAG, RED FLAG AND SEPTIC SHOCK)"
+                    },
+                    {
+                        "text": "Type: Clinical Guideline Register No: 13026 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Clinical need"
+                    },
+                    {
+                        "text": "Contributes to CQC Outcome number:"
+                    },
+                    {
+                        "text": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With"
+                    },
+                    {
+                        "text": "Post/Committee/Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Dr Louise Teare"
+                    },
+                    {
+                        "text": "DIPC"
+                    },
+                    {
+                        "text": "23 February 2017"
+                    },
+                    {
+                        "text": "Dr James Orpin"
+                    },
+                    {
+                        "text": "Deteriorating Patient Group"
+                    },
+                    {
+                        "text": "23 February 2017"
+                    },
+                    {
+                        "text": "Dr Natasha Lawrence"
+                    },
+                    {
+                        "text": "Deteriorating Patient Group"
+                    },
+                    {
+                        "text": "23 February 2017"
+                    },
+                    {
+                        "text": "Zaheera Hassanali"
+                    },
+                    {
+                        "text": "Lead Pharmacist - Antimicrobials"
+                    },
+                    {
+                        "text": "23 February 2017"
+                    },
+                    {
+                        "text": "Professionally Approved By Dr Robert Ghosh Clinical Effectiveness Dr Kath Rowe"
+                    },
+                    {
+                        "text": "Medical Director"
+                    },
+                    {
+                        "text": "23 February 2017 17 July 2017"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "2.6"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Diagnostics"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Document Ratification Group Chairman's Action"
+                    },
+                    {
+                        "text": "Ratified on:"
+                    },
+                    {
+                        "text": "09 August 2017"
+                    },
+                    {
+                        "text": "Executive Management Board Sign Off Date"
+                    },
+                    {
+                        "text": "September 2017"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "30 August 2017"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "Extension Agreed to 31 May 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Dr Evans/C Bishop"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Clinical Staff"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet and website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Antibiotic Policy Trigger Response Team Operational Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Version No."
+                    },
+                    {
+                        "text": "Authored/Reviewed by"
+                    },
+                    {
+                        "text": "Brief Reason for Change or Update"
+                    },
+                    {
+                        "text": "Issue Date"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr Hieatt, R Teare"
+                    },
+                    {
+                        "text": "First version"
+                    },
+                    {
+                        "text": "13 November 2015"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Carole Bishop"
+                    },
+                    {
+                        "text": "Update to Appendix 4"
+                    },
+                    {
+                        "text": "26 January 2015"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Dr Lightfoot, C Bishop"
+                    },
+                    {
+                        "text": "Update to Appendix 4 and removal of Appendix 5"
+                    },
+                    {
+                        "text": "29 May 2015"
+                    },
+                    {
+                        "text": "1.3"
+                    },
+                    {
+                        "text": "Maria Richards approved by Dr Davis"
+                    },
+                    {
+                        "text": "Amendment to wording of 4.8"
+                    },
+                    {
+                        "text": "November 2015"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Carole Bishop"
+                    },
+                    {
+                        "text": "Full Review"
+                    },
+                    {
+                        "text": "30 August 2017"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Carole Bishop & Julie Godfrey"
+                    },
+                    {
+                        "text": "Addition of Appendix 3 Line Sepsis Algorithm"
+                    },
+                    {
+                        "text": "06 December 2018"
+                    },
+                    {
+                        "text": "2.2"
+                    },
+                    {
+                        "text": "Dr Evans, C Bishop"
+                    },
+                    {
+                        "text": "Amendment to wording of 4.3, 6.2.1, Appendix 1 and Appendix 2"
+                    },
+                    {
+                        "text": "01 February 2019"
+                    },
+                    {
+                        "text": "2.3"
+                    },
+                    {
+                        "text": "Daniel Spooner"
+                    },
+                    {
+                        "text": "Clarification to point 5.1.1"
+                    },
+                    {
+                        "text": "10 May 2019"
+                    },
+                    {
+                        "text": "2.4"
+                    },
+                    {
+                        "text": "Dr James Orpin"
+                    },
+                    {
+                        "text": "Amendment to wording of points 4.3, 5.2, Appendix 1 & Appendix 2"
+                    },
+                    {
+                        "text": "08 July 2019"
+                    },
+                    {
+                        "text": "2.5"
+                    },
+                    {
+                        "text": "Carole Bishop"
+                    },
+                    {
+                        "text": "4 month extension due to MSE standardisation"
+                    },
+                    {
+                        "text": "14 July 2020"
+                    },
+                    {
+                        "text": "2.6"
+                    },
+                    {
+                        "text": "Carole Bishop"
+                    },
+                    {
+                        "text": "6 month extension due MSE standardisation"
+                    },
+                    {
+                        "text": "11 February 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 8,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1: Flow Diagram Explaining Use of Documents / Process Appendix 2: Sepsis Screening and Action Tool"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 3: Line Sepsis Algorithms"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "To ensure that effective care and a timely response is achieved in the management of sepsis in adults."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "These guidelines set out the principles of early identification and treatment of sepsis (Non Red Flag, Red Flag and Septic Shock) in Adults following the implementation of NEWS2. This guideline does not apply to sepsis in the Paediatric or Maternity setting as these are subject to separate guidelines, 11019 Management of Sepsis 0-16 yrs. and 12033 Post-Partum Sepsis. For patients on chemotherapy with neutropenic sepsis follow the neutropenic sepsis protocol."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "These guidelines are for the use of all nursing and medical staff within Mid Essex Hospitals NHS Trust."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Early appropriate management saves lives. Delay costs lives. Mortality increases by 8%/hr and 5%/hr respectively for septic shock and sepsis if left untreated with appropriate antibiotics. This is true for the first 6hrs after the patient develops sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Recognition of sepsis and septic shock must be at the front door by nursing staff performing triage, pre-hospital by paramedics, on the wards by nursing staff doing observations and by attending medical staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Chief Executive: To ensure that an effective policy is in place and working."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "All medical and nursing staff has a responsibility to ensure they understand this policy and act on its contents in an appropriate way."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Triage Nurses in the Emergency Village: Use sepsis screening tool on all patients that have; 1) a single NEWS ofin one parameter, 2) an aggregated NEWS ofor more, 3) clinical concern of sepsis, when first seen and initiate indicated actions. If sepsis occurs on a ward nurse/health care assistant to complete observations and escalate as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Emergency Village Doctors:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 60.0,
+                "text": "All patients that trigger for Sepsis should be assessed, appropriate treatments prescribed and administered within  minutes of triggering for Sepsis as per protocol. Prescribe antibiotics in accordance with protocol and likely source of sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Check venous blood gas result and check that appropriate IV antibiotics have been delivered within an hour of patient triggering sepsis positive."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure timely administration of oxygen and IV fluid. Contact senior for review as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure understanding that all patients triggering sepsis positive must have a senior review by a ST3 or above before leaving the Emergency Village and / or within 1 hour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Heads of Nursing and Clinical Directors: Take responsibility to ensure their staff have knowledge and competencies aligned to their roles and responsibilities."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Emergency Village ST3:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Respond promptly to sepsis patients being escalated to them and ensure patients' are monitored appropriately for any signs of deterioration."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "Escalate patients appropriately to specialist teams and consultants and consider if critical care referral is required and appropriate for consideration of specific organ support."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Speciality Consultants: Review the patient and consider if referral to the Critical Care Consultant is required and appropriate for organ support."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "Pharmacists: Stocking the sepsis trolleys in the emergency department with appropriate antibiotics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Definition of Sepsis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Sepsis is defined as life-threatening organ dysfunction caused by a dysregulated host response to infection. This emphasizes the primacy of the nonhomeostatic host response to infection, the potential lethality that is considerably in excess of a straightforward infection, and the need for urgent recognition. Even a modest degree of organ dysfunction when infection is first suspected is associated with in-hospital mortality in excess of 10%. Therefore, recognition of this condition merits a prompt and appropriate response."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Recognition of Sepsis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Diagnosis of Sepsis has three categories which are determined in ascending order of severity \u2013 Non Red Flag Sepsis, Red Flag Sepsis and Septic Shock. Each category (Non Red Flag, Red Flag or Septic Shock) must be clearly documented in the patient's notes with date and time."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1  This Trust utilises National Early Warning Scores to identify deteriorating patients', therefore, Quick sequential organ failure assessment (qSOFA) is not endorsed outside of critical care. However, patients' that meet two or more of the following qSOFA criteria are at risk of deteriorating:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory Rate of >22 breaths per minute"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Systolic Blood Pressure < 100 mmHg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "GCS \u226413"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients' meeting any two of the above parameters should be reviewed using the Sepsis Screening and Action Tool (Appendix 2) to ensure they do not have organ failure and appropriate management is instigated. Any Sepsis bundle interventions should be recorded on the VitalPacs devices at the time of action. Any escalations to medical teams must be recorded in the nursing notes and outcomes of escalation noted."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Non Red Flag Sepsis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient has an aggregated NEWS of 5 or more/looks unwell? And"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "There is a possible source of infection (confirmed or suspected) And"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "ANY moderate risk criteria (Non Red Flag Criteria):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Altered mentation/acute loss of functional ability Relatives concerned about mental status Immunosuppressed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Trauma/surgery in last 6 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory Rate (RR) 21 - 24 breaths per minute Heart Rate (HR) 111 - 130 beats per minute Systolic BP 91 \u2013 100 mmHg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Not passed urine in the last 18 hours Temperature < 36oC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Red Flag Sepsis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient has a single NEWS of 3 or more/looks unwell? And"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "There is a possible source of infection (confirmed or suspected) And"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "ANY one red flag is present:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Systolic BP \u2264 90 mmHg (or drop >40 from normal)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Lactate \u2265 2 mmol/l"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Red NEWS2 for Respiratory Rate (RR) \u2265 25 breaths per minute Red NEWS2 for Heart Rate (HR) \u2265 130 beats per minute"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Red NEWS2 for conscious level GCS \u2264 13 or V on AVPU Scale Needs oxygen to keep SpO \u226592% (88% in COPD)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "Non-blanching rash, mottled/ ashen/ cyanotic Oliguria (from history or less than 0.5 ml/kg/hr) Recent chemotherapy (within last 6 weeks)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Further clinical considerations:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "New onset Atrial Fibrillation (AF) or poorly rate controlled existing AF"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "Jaundice Bilirubin > 34 umol/L or abnormal LFTs"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "Coagulation abnormalities INR > 1.5 and low platelets < 100"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "Low WBC \u2265  x 10/l or \u22644 x 10/l"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Neutrophils <0.5 (for patients having had recent chemotherapy)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Metabolic acidosis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Creatinine > 177 umol/L or 50% > than baseline"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Septic Shock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1 As above + refractory hypotension AND persistently raised lactate (>2mmol/l) despite 30 mls/kg volume resuscitation with Hartmann's Solution or Normal Saline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "prefix": 70.0,
+                "text": "5.5.2 Hypotension is defined as systolic blood pressure (SBP) of less than 90mmHg or diastolic blood pressure (DBP) of less than 60mmHg in a fit healthy individual. In the elderly and hypertensive, it is defined as a SBP drop >40 mmHg or a DBP drop of 20mmHg below the patients normal resting blood pressure. 110/60 is a normal BP for a healthy  year old. It is not normal for a healthy  year old."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "5.5.3 A useful guide for predicted normal SBP is 90+2/3 patient age in years. To predict normal DBP, add 50 to \u00bd patient age in years. Normal blood pressure does not always equate to normal organ perfusion and oxygen delivery or utilisation. Mean Arterial Pressure (MAP) may be acceptable yet poor perfusion could be on-going despite  mls/kg volume resuscitation. A persistently raised serum lactate >2 mmol/L that does not resolve requires a search for and treatment of shock with input from critical care as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Management of Sepsis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Early appropriate management saves lives. Delay costs lives. Mortality increases"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.0,
+                "text": "by 8% per hour for septic shock and 5% per hour for sepsis if not treated with appropriate antibiotics. This is true for the first 6 hours after the patient triggers. The mortality for septic shock is already high at between  and 40%. A patient with septic shock left untreated with appropriate antibiotics for 6 hours has a 48% higher mortality compared to one treated appropriately within the first hour of admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "Do the simple things well in a timely fashion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Sepsis Six Bundle: College of Emergency Medicine Standard."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 1,
+                "text": "6.2.1 In Red Flag Sepsis and Septic Shock, the first five points must be achieved within the first 60 minutes of admission to the Emergency Village or recognition on the ward. The 6th point must be achieved before 3hrs. Use the Sepsis Six Action Tool in the Emergency Village Booklets or place in the patient's notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 1,
+                "text": "6.2.2 Staff must ensure prescription and delivery of appropriate IV antibiotics after taking blood cultures, as soon as the patient triggers as sepsis positive. An appropriate doctor must be diverted urgently for rapid assessment of likely source to guide therapy. It is the responsibility of nursing staff to escalate and the doctor's responsibility to assess the patient within 10 minutes of being asked, prescribe the antibiotics and ensure they have been given. Nursing staff are responsible for drawing up the antibiotics and giving them within 10 minutes of them being prescribed. Sepsis PGD's are in place for band 6/7 nursing staff that have completed appropriate competencies."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "6.2.3 Refractory hypotension despite  ml/kg fluid resuscitation mandates careful reassessment by the ED or speciality ST/consultant and on-going management may require central venous (CVP) line-guided filling and measurement of central venous oxygen saturation (ScvO2) if appropriate. However, the patient's fluid responsiveness and volume status may be better assessed by ultrasound (USS) assessment of inferior vena cava (IVC) collapse and/or right ventricular distension if the assessing doctor has appropriate training. Central venous access will enable delivery of norepinephrine by infusion should the patient remain persistently hypotensive despite optimum filling. The sepsis six action plan must be completed and, where appropriate, be placed in the patient's notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.4 All patients with Red Flag Sepsis and Septic Shock require senior review and appropriate observation frequency determined for individual patients. Consideration of appropriateness of referral for management in a high-dependency environment and must be discussed with the speciality consultant on-call and documented. Failure to respond to the sepsis 6 treatment should prompt early speciality senior review and consideration of referral to critical care unit for organ support if appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "All medical and nursing staff to ensure that their knowledge, competencies and skills are up to date and in line with roles and responsibilities outlined above. During the induction process, all junior medical and nursing staff will receive instruction on current sepsis policies and guidelines."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Medical and nursing staff will be kept up to date with teaching, ongoing case presentations discussing severe sepsis and learning from outcomes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Ongoing discussion as necessary will take place at all relevant operational and directorate meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Sepsis PGD training to be undertaken prior to applying them in practice."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "This policy will be communicated with all staff by email and discussed at relevant sisters meetings. Discussion will also take place at all relevant directorate and operational team meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Where failure to follow this guidance compromises patient safety, the incident will be reported via the Trust's risk event reporting system. Reported incidents will be reviewed quarterly as a minimum by the Deteriorating Patient Group. Go to the Failure to Rescue Tab on the Trust Intranet home page."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Any breaches of protocol leading to harm will be reviewed by the Deteriorating Patient Group and outcomes actioned appropriately by directorate and operational teams."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "The Deteriorating Patient Group will identify any issue requiring the attention of the Patient Safety Group."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.4,
+                "text": "Any sepsis related deaths will be reviewed by the Mortality Group to ensure appropriate standards of care were met and key findings reported to the Patient Safety Group and the Patient Safety and Quality Committee as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.5,
+                "text": "Regular audits of the sepsis pathway will be undertaken by the Trust to ensure standards are being met and reported via the Deteriorating Patient Group to the Patient Safety and Quality Committee."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 34.0,
+                "text": "Dellinger RP, Levy MM, Carlet JM, et al. (January 2008). \u201cSurviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock: 2008\u201d. Intensive Care Med  (1): 17\u201360. doi:10.1007/s00134-007-0934-2."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18058085.0,
+                "text": "PMC .PMID ."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "Singer,M, Clifford S D, Seymour W D, Shankar-Hari M, Annane D, Bauer M, Bellomo R, Bernard G R, Chiche J-D, Coopersmith C M, Hotchkiss R S, Levy M M, Marshall J C, Martin G S, Opal S M, Rubenfeld GD, Poll T, Vincent J L, and Angus D C (2016) The Third International Consensus Definitions for Sepsis and Septic Shock (Sepsis-3) JAMA."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "2016;315 (8):801-810."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "text": "Flow Diagram Explaining Use of Documents / Process"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 1,
+                "text": "The Sepsis and Septic Shock Screening and Action Tool: for reference by all medical and nursing staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "SEPSIS SCREENING & ACTION TOOL APPLIED TO ALL PATIENTS WITH SINGLE NEWS OFOR AN AGGREGATED SCORE OFOR MORE IN ANY PATIENT SETTING"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 98,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "text": "IF SEPSIS SCREEN IS RED FLAG POSITIVE ESCALATE IMMEDIATELY. START THE SEPSIS 6 ACTION PLAN IS COMPLETED AND BUNDLE DELIVERED WITHIN ONE HOUR"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "text": "THE PATIENT IS MOVED TO AN AREA WHERE APPROPRIATE MONITORING CAN TAKE PLACE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "APPROPRIATE SENIOR REVIEW BY CT/ ST / CONSULTANT AFTER FLUID BOLUS DELIVERED AND REPEAT LACTATE ON VBG"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "THIS SHOULD BE WITHIN 1 HOUR OF TRIGGERING FOR SEPSIS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "IF RESUSCITATION GOALS ARE NOT ACHIEVED AFTER SENIOR REVIEW THEN ESCALATED TO SPECIALITY CONSULTANT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "SPECIALITY CONSULTANT MUST REVIEW THE PATIENT AND ESCALATE TO THE INTENSIVE CARE CONSULTANT ON CALL IF APPRIOPRIATE"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 105,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.004.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Appendix"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 107,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.005.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 1,
+                "text": "Peripherally Inserted Central Catheter (PiCC) & Midline(Long Peripheral Venous Catheter) Sepsis  Protocol"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 110,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.008.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "Is the patient pyrexial or is there evidence of site  infection?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 112,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "Screen Patient for Sepsis & follow Sepsis Protocol \u2013 if  red flag present commence appropriate broad-spectrum  antibiotic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "No  Yes"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 115,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.012.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "Pain and redness during or after drug infusion \u2013 probable Phlebitis \u2013 follow"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 117,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.014.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Phlebitis flow chart 1 (PiCC policy).  Medical Team Review for infection/sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "Site Swabs to be sent.  Site swabs to be sent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "Two sets of Blood cultures: 1 x peripheral stab & 1 x line, if not already done. Consider IV Antibiotics via other means of IV access."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Any evidence of/or patient concern of device flush associated Rigors/Pyrexia/Sense of impending doom?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 122,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.015.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "No  Yes"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 124,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.017.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Investigate for other possible source of infection  Do NOT remove or use line/device until Microbiology results have been Continued Pyrexia with no further deterioration? Review results with Consultant  reviewed. Discuss with Senior PiCC/Vascular Access Nurse # 6555 1403 or Microbiologist \u2013 if negative consider line removal and culturing tip  patients consultant."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 126,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.017.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "In situations where patient continues to deteriorate consider line removal & culture line tip."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 1,
+                "text": "Tunnelled Central Venous Catheter (Hickman) Line Sepsis Protocol"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 129,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.021.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Is the patient pyrexial or is there evidence of site infection?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 131,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.023.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "Screen Patient for Sepsis & follow Sepsis Protocol \u2013 if red flag present commence appropriate broad-spectrum antibiotic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "No  Yes"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 134,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.025.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Pain and redness during or after drug infusion \u2013 probable Phlebitis \u2013 follow"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 136,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.026.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Phlebitis flow chart 1 (PiCC policy).  Medical Team Review for infection/sepsis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Site Swabs to be sent.  Site swabs to be sent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "Two sets of Blood cultures: 1 x peripheral stab & 1 x line if not already done. Consider IV Antibiotics via other means of IV access."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "Any evidence of/or patient concern of device flush associated Rigors/Pyrexia/Sense of impending doom?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 141,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.027.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "No  Yes"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 143,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.029.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "Investigate for other possible source of infection"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 145,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.029.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "text": "Continued Pyrexia with no further deterioration? Review results with Consultant  Do NOT remove or use line/device until Microbiology results have been Microbiologist \u2013 if negative consider line removal by Vascular Surgeons ONLY and  reviewed. Discuss with Senior PiCC/Vascular Access Nurse # 6555 1403 for culturing tip  advice or vascular consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "In situations where patient continues to deteriorate consider surgical line removal & culture line tip."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 1,
+                "text": "Total Implanted Vascular Access Device (TIVAD)"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 149,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.032.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 1,
+                "text": "\u2013 (Portacath)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 1,
+                "text": "Sepsis Protocol"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "Is the patient pyrexial or is there evidence of site infection? Have they received chemotherapy in the last 6 weeks?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 153,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.034.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "Screen Patient for Sepsis & follow Sepsis Protocol \u2013 if red flag present commence appropriate broad-spectrum antibiotic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "text": "Yes"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 156,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.036.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "No"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 158,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.037.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "Medical Team Review for infection/sepsis."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 160,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.038.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "text": "Site swabs to be sent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "Pain and redness during or after drug infusion \u2013 probable Phlebitis \u2013 follow  Two sets of Blood cultures: 1 x peripheral stab & 1 x 1 via (TIVAD) Portacath if not already Phlebitis flow chart 1 policy). (Contact AOS or on-call oncology consultant  done. (Contact AOS or on-call oncology consultant for advice re blood sampling from"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "for advice re blood sampling from TIVAD if necessary. NB: CAN ONLY BE  TIVAD if necessary. NB: CAN ONLY BE ACCESSED WITH A SPECIALIST NON- ACCESSED WITH A SPECIALIST NON-CORING NEEDLE).  http://meht- CORING NEEDLE). http://meht-intranet/clinical-pages/acute-oncology-service-aos/ intranet/clinical-pages/acute-oncology-service-aos/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "Consider IV Antibiotics via other means of IV access. Site Swabs to be sent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "text": "Any evidence of/or patient concern of device flush associated Rigors/Pyrexia/Sense of impending doom?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 166,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.039.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "text": "No"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 168,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.041.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "text": "Yes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "Investigate for other possible source of infection"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 171,
+            "data": {
+                "url": "13026 Sepsis septic shock policy 2.6.040.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Continued Pyrexia with no further deterioration? Review results with Consultant  Do NOT remove or use line/device until Microbiology results have been reviewed. Escalate to Microbiologist \u2013 if negative consider TIVAD removal by Vascular Surgeons ONLY  on call oncology consultant and/or on call medical team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "and culturing tip  In situations where patient continues to deteriorate consider surgical line/device removal &"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "text": "culture line tip."
+            }
+        }
+    ]
+}

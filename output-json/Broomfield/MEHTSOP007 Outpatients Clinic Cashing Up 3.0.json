@@ -1,0 +1,1561 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP007 Outpatient Clinic Cashing Up"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP007"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Outpatient Clinic Cashing Up"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Kelly Buckley"
+                    },
+                    {
+                        "text": "Business Change Analyst"
+                    },
+                    {
+                        "text": "17/05/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Vanessa Evans- Green"
+                    },
+                    {
+                        "text": "Outpatient Assistant Service Manager"
+                    },
+                    {
+                        "text": "03/06/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of corporate delivery"
+                    },
+                    {
+                        "text": "03/06/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "ADO Medicine"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO Women's & Childrens"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "ADO Surgery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO Performance"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "28th November 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "08/08/19"
+                    },
+                    {
+                        "text": "29th November 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "17/09/19"
+                    },
+                    {
+                        "text": "28th November 2022"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "17/05/2019"
+                    },
+                    {
+                        "text": "First Draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "20/06/2019"
+                    },
+                    {
+                        "text": "Inclusion of escalation process following feedback from VEG, KT and RM"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "21/06/2019"
+                    },
+                    {
+                        "text": "Clarification of DNA and rebook process"
+                    },
+                    {
+                        "text": "2.2"
+                    },
+                    {
+                        "text": "24/06/2019"
+                    },
+                    {
+                        "text": "Appendix 2 correction to change actual code to 91"
+                    },
+                    {
+                        "text": "2.3"
+                    },
+                    {
+                        "text": "17/09/2019"
+                    },
+                    {
+                        "text": "Spelling, grammar and wording corrections"
+                    },
+                    {
+                        "text": "2.4"
+                    },
+                    {
+                        "text": "23/09/2019"
+                    },
+                    {
+                        "text": "Corrections to job titles, inclusion of RTT cashing up guide in Appendix C"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "29/11/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Abisola Ogunyemi, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Delivery Group"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers / Assistant SM / Coordinators):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Debra Mead, Abbi Simpson"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline the principles day of clinic cashing up requirements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Document the process for ensuring each patient has an appointment outcome"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Outpatient clinic appointments move through a series of different status. An appointment should only be in a status of \u2018booked' for a date in the future. After the appointment date /time has passed the appointment status will be either DNA or DEPARTED. The following grid describes the different status:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 18,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Status"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Has this been cashed up?"
+                    },
+                    {
+                        "text": "Booked"
+                    },
+                    {
+                        "text": "An appointment that is scheduled for a future date/time."
+                    },
+                    {
+                        "text": "No, if an appointment is still in a booked state after the date/time of the appointment it requires immediate action."
+                    },
+                    {
+                        "text": "Arrived"
+                    },
+                    {
+                        "text": "Where a patient has used the self- check in kiosk. The kiosk software sends an arrival message to Lorenzo."
+                    },
+                    {
+                        "text": "No, if an appointment is still in a status of \u2018arrived' it is not known if the patient appointment took place or was deferred."
+                    },
+                    {
+                        "text": "Called"
+                    },
+                    {
+                        "text": "OPD nursing team use the kiosk software to \u2018call' the patient to the sub wait area. They may perform the same status update in Lorenzo but it is not mandated."
+                    },
+                    {
+                        "text": "No, if an appointment is still in a status of \u2018called' it is not known if the patient appointment took place or was deferred."
+                    },
+                    {
+                        "text": "Seen"
+                    },
+                    {
+                        "text": "A status that signifies that the patient has been seen. Must ONLY be used by clinicians who are participating in the clinical outcome recording directly into Lorenzo."
+                    },
+                    {
+                        "text": "No, if an appointment is in a status of \u2018seen' it indicates the patient was seen but does not include the outcome and next requirements i.e. a follow up appointment or referred for tests."
+                    },
+                    {
+                        "text": "Departed"
+                    },
+                    {
+                        "text": "An appointment in a status of departed is the finalisation of that appointment and includes an RTT status update and departure outcome."
+                    },
+                    {
+                        "text": "The appointment is \u2018cashed up' after all next steps are completed. This means any follow up requirements are placed on access plans or referrals closed if patient marked as \u2018discharged'."
+                    },
+                    {
+                        "text": "DNA"
+                    },
+                    {
+                        "text": "Where the patient does not attend and the appointment is recorded as a DNA."
+                    },
+                    {
+                        "text": "The appointment is \u2018cashed up' after all next steps are completed. This means any follow up requirements are placed on access plans or referrals closed if patient marked as \u2018discharged'."
+                    },
+                    {
+                        "text": "Potential DNA"
+                    },
+                    {
+                        "text": "A status that can be applied to clinics that have been configured for clinician clinical outcome recording directly into Lorenzo."
+                    },
+                    {
+                        "text": "No, the appointment still requires the \u2018DNA' to be recorded."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Administrative"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure \u2013 cash up outpatient clinic appointment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "This SOP does not detail which clinics are configured for clinician clinical outcome directly in Lorenzo but the same principle applies; all appointments must be cashed up within a maximum window of 72 hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "text": "Start Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "A paper outcome form"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "A clinician clinical outcome of \u2018seen' or \u2018potential DNA'"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "A cashing up report"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "text": "To action at Patient Attendance Outcome from a clinic pegboard view:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.003.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "viii.  New actual RTT status \u2013 as per the outcome form (see guidance in appendix B)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "ix.  Comments \u2013 as per outcome form"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 31,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Departure Outcome"
+                    },
+                    {
+                        "text": "System Workflow"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "What do I do now?"
+                    },
+                    {
+                        "text": "Discharged"
+                    },
+                    {
+                        "text": "Close referral"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Close the referral. A decision has been made to discharge the patient, user will be presented with a close referral window with a \u2018reason' drop down. Select Episode closed, add any comments from outcome form and select Finish. Lorenzo question pop up \u201cdo you want to close the episode?\u201d Select Yes."
+                    },
+                    {
+                        "text": "Follow up appointment to be booked"
+                    },
+                    {
+                        "text": "Create Access Entry"
+                    },
+                    {
+                        "text": "Plan"
+                    },
+                    {
+                        "text": "Place patient on an access plan. Patient follow up requirements will be on the paper form or within Lorenzo. Within the profile name \u2018search' the system will suggest access plans based on logic related to the care provider. For example a patient seen in a Dr Jenkin respiratory clinic that requires a follow up, user will be presented with: Allergy Dr Jenkins F/U Respiratory Dr Jenkins F/U If the patient requires a follow up with a different specialist/care provider the user will need to search for this."
+                    },
+                    {
+                        "text": "Awaiting results"
+                    },
+                    {
+                        "text": "Create Access Entry"
+                    },
+                    {
+                        "text": "Plan"
+                    },
+                    {
+                        "text": "Place patient on an access plan. These patients are being sent for tests. Clinician will have made appropriate radiology request / endoscopy request etc. Once the results have been reviewed clinician will make a decision on next course of action. As a failsafe patients are placed on an access plan. Some services have specific access plans for patients \u2018awaiting results'. This is the preferred method as it clearly delineates the patients that are waiting for follow vs. those who need a clinical decision. For services that do not have an awaiting results access plan the patients are placed on the consultant f/up waiting list with comments clearly indicating AWAITING RESULTS."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "text": "To action a DNA the clinic pegboard view:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.004.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "All booked appointments within a clinic are in a status of DNA or DEPARTED"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with an outcome of discharged have a closed referral"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients requiring a follow up appointment have a booked appointment or an access plan entry"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients requiring surgery have an appointment in a status of departed, next action in Lorenzo is managed by the inpatient scheduling team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "text": "Departure Outcome"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 41,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Scenario"
+                    },
+                    {
+                        "text": "Departure Outcome"
+                    },
+                    {
+                        "text": "Patient requires a follow up"
+                    },
+                    {
+                        "text": "Follow up appointment to be booked"
+                    },
+                    {
+                        "text": "Patient to be discharged, no further activity"
+                    },
+                    {
+                        "text": "Discharged"
+                    },
+                    {
+                        "text": "Patient sent for diagnostics"
+                    },
+                    {
+                        "text": "Awaiting results"
+                    },
+                    {
+                        "text": "Patient to receive treatment on day therapies"
+                    },
+                    {
+                        "text": "Add to Access Plan"
+                    },
+                    {
+                        "text": "Patient to be added to surgical waiting list"
+                    },
+                    {
+                        "text": "Add to Access Plan"
+                    },
+                    {
+                        "text": "Patient to receive treatment in dermatology treatment suite"
+                    },
+                    {
+                        "text": "Add to Access Plan"
+                    },
+                    {
+                        "text": "Patient referred to another MEHT consultant / service"
+                    },
+                    {
+                        "text": "Referred to other consultant"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "text": "New Actual RTT Status"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "The clinic owners (doctors / nurses / surgeons / allied health professionals) are the clinical decision makers and as such are the owners of recording the referral to treatment status of the patient. As administrative staff recording the decisions there is a responsibility to understand where errors have been made and escalate. To support the identification of errors the below grid includes some common errors:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 45,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Current RTT status in Lorenzo"
+                    },
+                    {
+                        "text": "Selection on outcome form"
+                    },
+                    {
+                        "text": "Explanation"
+                    },
+                    {
+                        "text": "New actual RTT status"
+                    },
+                    {
+                        "text": "10 (ticking)"
+                    },
+                    {
+                        "text": "Patient sent for diagnostics"
+                    },
+                    {
+                        "text": "New patient on a ticking clock. Lorenzo logic requires an \u2018actual' RTT status of 10 to be applied. The outcome form may have a tick against a code 20 but the system will not present a 20 in this scenario. If the patient has not been treated then a 10 must be selected."
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "90 (clock stopped previously)"
+                    },
+                    {
+                        "text": "Patient sent for diagnostics"
+                    },
+                    {
+                        "text": "Patient was treated some time ago and has returned for a follow up / reviews appt. Clinician decision to confirm / check the treatment and requests a diagnostic. In this instance the RTT status option should be a 90."
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "30 or 90 (clock stop or clock stop previously)"
+                    },
+                    {
+                        "text": "Patient added to surgical waiting list"
+                    },
+                    {
+                        "text": "Patient was treated previously but it has not worked and the clinician has decided that surgical intervention is necessary. As treatment plan has significantly changed a new clock must start."
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "30 or 90 (clock stop or clock stop previously)"
+                    },
+                    {
+                        "text": "Patient requires f/up in more than 6 weeks"
+                    },
+                    {
+                        "text": "Where treatment has already taken place the patient does not move to a period of active monitoring. Clinicians often refer to these patients as surveillance or review patients but treatment has occurred previously."
+                    },
+                    {
+                        "text": "90"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "I know there is something wrong with the RTT pathway and therefore I cannot select the correct code, what should I do?"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "You must cash up the appointment and therefore need to select an RTT status using the cashing up guide provided. The grid below provides a list of scenarios. Where an error is found it MUST be escalated  immediately  to  your  Team  Leader,  it  will  then  be  passed  to  the validation  team  via Validationteam@meht.nhs.uk if they are unable to correct the pathway. Ensure patient number and appointment date/time is included within the email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is no RTT outcome to select from then the escalation must be to Data Quality via the online self service helpdesk logging."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 49,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Current RTT status"
+                    },
+                    {
+                        "text": "Scenario"
+                    },
+                    {
+                        "text": "Selection for \u2018New Actual'"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Patient attends first appointment; the clinician makes the decision to initiate active monitoring."
+                    },
+                    {
+                        "text": "32 \u2013 Watchful Wait initiated."
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "Patient attends appointment and is"
+                    },
+                    {
+                        "text": "30 \u2013 First Definitive Treatment."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 50,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "given first treatment in clinic."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "32/91"
+                    },
+                    {
+                        "text": "Patient is a surveillance patient. They received treatment months/years ago but at some point in the pathway a 32 watchful wait was applied."
+                    },
+                    {
+                        "text": "91 \u2013 Any activity that follows a watchful wait."
+                    },
+                    {
+                        "text": "30/90"
+                    },
+                    {
+                        "text": "Patient received treatment months/years ago so first clock stop 30 has already been applied."
+                    },
+                    {
+                        "text": "90 \u2013 First Definitive Treatment occurred previously."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 51,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 52,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C: Cashing Up Guide"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 54,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.005.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 55,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "CLINICAL DECISION"
+                    },
+                    {
+                        "text": "DEPARTURE OUTCOME"
+                    },
+                    {
+                        "text": "RTT CODE TICKED ON OUTCOME FORM"
+                    },
+                    {
+                        "text": "CURRENT RTT CODE ON LORENZO"
+                    },
+                    {
+                        "text": "10/11/12/20"
+                    },
+                    {
+                        "text": "30/34/90"
+                    },
+                    {
+                        "text": "31/32/91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "CODE TO INPUT WHEN CASHING UP"
+                    },
+                    {
+                        "text": "Patient sent for diagnostics/ patient had diagnostics in OPD"
+                    },
+                    {
+                        "text": "Awaiting results"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient added to surgical waiting list at MEHT"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Patient added to day therapies/AHP waiting list i.e Physio/Diabetics"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Patient requires outpatient f/up in less than 6 weeks i.e return for results"
+                    },
+                    {
+                        "text": "F/up appointment to be booked"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient requires outpatient f/up in more than 6weeks - clinician starts period of active monitoring"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "32"
+                    },
+                    {
+                        "text": "32"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "After treatment - 1st definitive treatment occurred previously"
+                    },
+                    {
+                        "text": "Patient attended or DNA/to be rebooked"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "30"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Referred for OPD procedure"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Referred for anaesthetic assessment"
+                    },
+                    {
+                        "text": "Referred to another department"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Referred to another hospital/provider for treatment for the same condition"
+                    },
+                    {
+                        "text": "Referred to external consultant (tertiary referral)"
+                    },
+                    {
+                        "text": "21"
+                    },
+                    {
+                        "text": "21"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Referred to another consultant within MEHT for the same condition"
+                    },
+                    {
+                        "text": "Referred to internal consultant for the same condition"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Sent for/awaiting funding decision"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 56,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "CLINICAL DECISION"
+                    },
+                    {
+                        "text": "DEPARTURE"
+                    },
+                    {
+                        "text": "RTT CODE"
+                    },
+                    {
+                        "text": "CURRENT RTT CODE ON LORENZO"
+                    },
+                    {
+                        "text": "Patient declined treatment"
+                    },
+                    {
+                        "text": "OUTCOME Discharged"
+                    },
+                    {
+                        "text": "TICKED ON 35"
+                    },
+                    {
+                        "text": "35"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Treatment started/complete - further appointment/treatment required or patient discharged"
+                    },
+                    {
+                        "text": "F/up appointment to be booked or patient discharged"
+                    },
+                    {
+                        "text": "30"
+                    },
+                    {
+                        "text": "30"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "New decision to treat - following active monitor or previously treated"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Clinical decision not to treat"
+                    },
+                    {
+                        "text": "Discharge to GP"
+                    },
+                    {
+                        "text": "34"
+                    },
+                    {
+                        "text": "34"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient making decision"
+                    },
+                    {
+                        "text": "Add to access plan"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Admit from clinic"
+                    },
+                    {
+                        "text": "Admit from clinic"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient DNA 1st appointment"
+                    },
+                    {
+                        "text": "Discharge or rebook"
+                    },
+                    {
+                        "text": "33"
+                    },
+                    {
+                        "text": "33"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient DNA f/up appointment - no previous clock stop - furher appointment to be booked"
+                    },
+                    {
+                        "text": "F/up appointment booked"
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient already on a period on active monitoring"
+                    },
+                    {
+                        "text": "Further appointments to be booked of patient to be discharged"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "32"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient requests period of active monitoring"
+                    },
+                    {
+                        "text": "Patient will require f/up appointments"
+                    },
+                    {
+                        "text": "31"
+                    },
+                    {
+                        "text": "31"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    },
+                    {
+                        "text": "Patient did not wait - further appointment to be given"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "20"
+                    },
+                    {
+                        "text": "10/20"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "91"
+                    },
+                    {
+                        "text": "98"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 57,
+            "data": {
+                "url": "MEHTSOP007 Outpatients Clinic Cashing Up 3.0.005.png"
+            }
+        }
+    ]
+}

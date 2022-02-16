@@ -1,0 +1,2820 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "MANAGEMENT OF PRE-TERM BIRTH"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "09002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Paediatricians"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "23 September 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "September 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NICE Guideline NG25 Preterm Labour and Birth"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Miss Anita Dutta, Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2612 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Maternity and Gynaecology Practice Steering Group"
+                    },
+                    {
+                        "text": "8th September 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Miss Thakur, Clinical Director"
+                    },
+                    {
+                        "text": "8th September 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "22 September 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "October 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2612 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Miss Rao"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "12 August 2020"
+                    },
+                    {
+                        "text": "Mr Gangooly"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Mr Partington"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Mr Spencer"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Miss Sharma"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Mr Fiadjoe"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Miss Joshi"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Miss Kausar"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "Amanda Dixon"
+                    },
+                    {
+                        "text": "Labour Ward Manager, Lead Midwife for Acute Inpatient Services"
+                    },
+                    {
+                        "text": "Bernie O'Sullivan"
+                    },
+                    {
+                        "text": "DAU Team Leader"
+                    },
+                    {
+                        "text": "Lavina D'Souza"
+                    },
+                    {
+                        "text": "Lead Midwife for Antenatal Clinic and Gynaecological Services"
+                    },
+                    {
+                        "text": "Claire Fitzgerald"
+                    },
+                    {
+                        "text": "Pharmacist"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) 04071 Standard Infection Prevention 04072 Hand Hygiene 06036 Guideline for Maternity Record Keeping including Documentation in Handheld Records 06045 Antibiotic policy for Adults and Children 07065 Administration of Antenatal Steroids 04265 Fetal heart rate monitoring in pregnancy and labour 09097 Management of normal labour in low risk patients 09095 Management of the severely ill pregnant patient 18010 Cervical Length Screening, Cervical Cerclage and Prophylactic Vaginal Progesterone"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr Padmagirison"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "26 Feb 2009"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sep 2010"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "23 May 2013"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Miss Joshi"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "13 June 2016"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Miss Dutta"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "16 October 2017"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Miss Dutta"
+                    },
+                    {
+                        "text": "Full review: clarification to points 2.0, 4.0, 6.1, 18.0, 22.0, 26.0."
+                    },
+                    {
+                        "text": "23 September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose ....................................................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality Impact Assessment ..................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions ................................................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust .................................................................. 5 5 Background ...........................................................................................................5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Identifying and Managing Antenatal Women who are High Risk of Pre-Term"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "text": "Labour ...................................................................................................................6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 24.0,
+                "text": "Use of Prophylactic Vaginal Progesterone and Prophylactic Cervical Cerclage...6 Diagnosing Pre-Term Pre-Labour Rupture of Membranes (P-PROM) ....................6 'Rescue' Cervical Cerclage ......................................................................................7 Diagnosing Pre-Term Labour for Women with Intact Membranes .........................7 The Use of Partosure ................................................................................................7 Tocolysis ...................................................................................................................9 Choice of Tocolysis ...................................................................................................9 Discontinuation of IV Atosiban ................................................................................10 Side Effects of IV Atosiban .......................................................................................11 Maternal Corticosteroids ..........................................................................................11 Magnesium Sulphate for Neuroprotection ...............................................................11 Fetal Monitoring in Pre-Term Labour .......................................................................12 Mode of Delivery ........................................................................................................12 Timing of Cord Clamping ..........................................................................................12 Information and Support ...........................................................................................13 22 Staffing and Training.................................................................................................13  Infection Prevention ..................................................................................................13 Professional Midwifery Advocates ...........................................................................14 25 Monitoring and Audit .............................................................................................. ..14"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "text": "26 Approval and Implementation.................................................................................. 14 27 References ................................................................................................................ 15 Appendix A: Administration of Intravenous Atosiban .................................................. 16"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B: Antenatal Day Assessment Management of Pre-Labour Ruptured Membranes in a Singleton Pregnancy ................................................................................................ 17"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C: Preliminary Equality Analysis ....................................................................18"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "To provide doctors and midwives with a method of diagnosing and managing pre-term labour as well as identifying and trying to prevent pre-term labour in those at increased risk."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality Impact Assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid and South Essex NHS Foundation Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix C)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 37.0,
+                "text": "The World Health Organisation defines pre-term birth as a live birth prior to 37 weeks gestation. Very premature refers to those born between  and  weeks gestation and extreme prematurity refers for births at less than  weeks gestation. Pre-term labour is therefore the onset of labour prior to  weeks gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "Prolonged rupture of membranes is defined as  hours or more for preterm pregnancies."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles and Responsibilities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The Specialist Nurse for Guidelines and Audit is responsible for ensuring clinical policies, guidelines and SOPs, are evidence-based and developed in line with national guidelines and following appropriate consultation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The clinical director is responsible for the implementation of this guideline within the directorate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "The Head of Midwifery, maternity matrons and maternity managers are responsible for ensuring maternity staff are aware of the guideline and implement it."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "The Obstetric Clinical Lead Consultant and Labour Ward Lead Consultant are responsible for ensuring the implementation of this guideline within the clinical setting."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "All maternity staff are responsible for ensuring they are familiar with this guideline in relation to their practice and have the appropriate skills to implement this guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Background"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "Worldwide  million babies are born prematurely each year, and its complications are the single biggest cause of death in children under 5 years old, leading to 1 million deaths each year."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Pre-term birth is also the single biggest cause of neonatal morbidity and mortality in the UK and babies who do survive have higher rates neurodevelopmental disability. 75% of women who experience pre-term birth go into spontaneous pre-term labour \u2013 with or without preterm, pre-labour rupture of membranes. But 25% of pre-term deliveries are planned, due to fetal or maternal complications, eg pre-eclampsia or severe growth restriction. By recognising risk factors, antenatal surveillance and intervention it may be possible to reduce the incidence of pre-term labour and if labour is correctly diagnosed and managed the hope is that morbidity and mortality as a result of pre-term labour can be minimised."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Identifying and Managing Antenatal Women who are High Risk of Pre- term Labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Some women are at higher risk of premature birth and should be identified at booking and referred for consultant led care. These include women with the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": "History of mid-trimester loss or preterm birth between  and 34 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "History of pre-term, pre-labour rupture of membranes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "A history of cervical trauma \u2013 e.g. LLETZ / cone biopsy; these women are at increased risk of pre-term labour and should be offered serial cervical length measurements by transvaginal ultrasound from  to 16 weeks gestation. This should be repeated every 2 weeks until  weeks gestation and the patient followed up in consultant led clinic. (Refer to the guideline entitled \u2018Cervical Length Screening, Cervical Cerclage and Prophylactic Vaginal Progesterone' Register No.18010)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Use of Prophylactic Vaginal Progesterone and Prophylactic Cervical Cerclage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Offer either prophylactic vaginal progesterone or prophylactic cervical cerclage to any woman with:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": "A previous pre-term birth or mid trimester loss  \u2013 34 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "AND"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "An USS assessment of cervical length between  and  weeks which is <25mm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "These  woman  should  be  appropriately  counselled  regarding  both  these  options  and a decision should be made with the woman and her consultant about the preferred option."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Offer prophylactic vaginal progesterone to any woman who has:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "NO history of preterm birth or mid trimester loss"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "An USS which demonstrates a cervical length less than 25mm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Offer prophylactic cervical cerclage if a woman has had:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "A previous history of P-PROM or cervical trauma"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "AND"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "An USS between 16 and 24 weeks that has demonstrated cervical length less than 25mm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Diagnosing Preterm Pre-labour Rupture of Membranes (P-PROM)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline entitled \u2018Management of preterm pre-labour rupture of membranes'; register number 08048)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "'Rescue' Cervical Cerclage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 27.0,
+                "text": "The intention of \u2018Rescue' cervical cerclage is to delay birth and thereby reduce risk of morbidity and mortality of the baby. It should be considered for any woman between 16 weeks and 0 days gestation and  weeks and 6 days of pregnancy with a dilated cervix and exposed, unruptured fetal membranes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "It is important to bear in mind the gestation and clinical picture as well having a full discussion with the woman about the risks and benefits. The consultant obstetrician and consultant paediatrician should always be involved in this decision."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Diagnosing Preterm Labour for Women with Intact Membranes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "When a woman presents with symptoms of pre-term labour she should be assessed in the DAU or Labour Ward by a midwife and obstetrician. The woman should be informed of the clinical assessment to be carried out as well as diagnostic tests on offer and a full discussion about the case of false positives or false negatives."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "The clinical history and examination should be taken as well as maternal and fetal observations, as they would for the initial assessment for woman in labour, as per NICE Intrapartum Care Guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "She should be offered a speculum examination by the obstetrician (or digital vaginal examination if cervix cannot be visualised by speculum) to assess for cervical dilatation and effacement and a high vaginal swab can be taken."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "If pre-term labour is suspected, but not confirmed, consider offering bed side testing with Partosure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "It is important to take into account the whole clinical picture when deciding on diagnosis and management in pre-term pregnancies. Consider the following criteria in making your assessment:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Gestation (If less than 28 weeks gestation consider in utero transfer to an appropriate Neonatal Unit)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Contraction frequency"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Cervical dilatation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Membranes and colour of liquor"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "Antepartum haemorrhage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "Presentation of presenting part"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Location of placenta"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "Fetal wellbeing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "(Auscultation plus cardiotocograph (CTG) if over 28 weeks gestation, if less than 28 weeks gestation discuss with senior obstetrician)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "Co-existing problems"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "The Use of Partosure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Partosure is a simple and quick bed-side test which can be used to aid diagnosis of pre-term labour when the diagnosis is in doubt. A negative test can be safely relied upon to rule out Pre-term labour and therefore reduce unnecessary intervention, hospital admissions or intra- uterine transfers and a positive test can be used to offer intervention to women who are at high risk of premature birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.2,
+                "text": "Criteria for using Partosure test:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Suspected pre-term labour (Do NOT use where clinical diagnosis has already been made)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "Gestation 23 weeks gestation to 36 weeks and 6 days gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "Intact membranes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "CAN be used if sexual intercourse has recently taken place, or small about of blood in vagina"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.3,
+                "text": "Conducting the test:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Collect sample of vaginal discharge with sterile collection swab (speculum optional)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Rinse specimen swab in solvent vial and discard swab"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Insert test strip into vial and remove if 2 lines are visible, or at 5 minutes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "A negative result is shown asline, a positive result as 2 lines (even if one line faint)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.4,
+                "text": "Interpreting results:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.1 The negative predictive value of the test is 96%, meaning that a negative test can safely be relied upon to rule out pre-term labour. Women with a negative test should therefore be reassured that they are very unlikely to deliver a pre-term baby in the next 7 days. In these women alternative diagnosis should be considered, analgesia offered and information regarding signs and symptoms of pre-term labour given before they are discharged. Do not routinely offer antenatal corticosteroids or other interventions for pre-term labour, but always use clinical judgement and discuss with consultant obstetrician if in doubt."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "11.4.2 The positive predictive value is 76% meaning that approximately three quarters of women with a positive test will go on to have a premature delivery. These women should be admitted to the antenatal ward, given verbal and written information, considered for intra- uterine transfer for neonatal service if appropriate, offered antenatal corticosteroids and magnesium sulphate in line with the pre-term labour management below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.5,
+                "text": "Management of Pre-term Labour:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "11.5.1 If the clinical assessment and investigations suggests that the woman is in suspected or confirmed pre-term labour, commence the following treatment for pre-term labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform the obstetric registrar on call, the labour ward coordinator and the paediatric team and Neonatal Unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "The senior obstetrician should perform an ultrasound scan to confirm presentation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "Consider antenatal corticosteroids, tocolysis and neuroproctection as set out below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Give the woman and her family written and oral information"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "prefix": 28.0,
+                "text": "Consider transfer of the woman to another care setting with level 3 neonatal services if the woman is less than  weeks gestation. If this if done the \u2018emergency transfer of patients in labour or sick babies' form should be completed and filed in the patient's records. A Datix incident report should also be completed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Tocolysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Use of a tocolytic drug is associated with a prolongation of pregnancy for up to 7 days but with no significant effect on preterm birth and no clear effect on perinatal or neonatal morbidity. It is however considered beneficial when time gained will be utilised for administration of antenatal corticosteroids or In-Utero Transfer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.0,
+                "text": "Tocolysis should be offered to women between  weeks and  weeks and 6 days gestation and considered for women between 23 weeks and  weeks and 6 days gestation with intact membranes and suspected or diagnosed pre-term labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "When considering whether tocolysis is appropriate take into account the following factors:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "Whether pre-term labour has been diagnosed or suspected"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "text": "Gestational age"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "Availability of neonatal care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "Woman's preference"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "There are some instances when the suppression of labour with tocolysis is not appropriate:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "Any situation where prolongation of pregnancy would be harmful to mother or baby"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "Gestation less than 24 weeks gestation or more than 34 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "Advanced labour more than 4cm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "Antepartum haemorrhage from suspected abruption or Placenta Praevia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "Suspected maternal / fetal infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "Abnormal CTG"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Choice of Tocolysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.1,
+                "text": "Nifedipine should be the drug of choice for tocolysis. In circumstances where it is contraindicated or there is a need for in-utero transfer, Atosiban can be considered as an alternative. Never give two tocolytics concurrently. Nifedipine is contraindicated if the woman has cardiac disease and should be used with caution if she has diabetes or multiple pregnancy, owing to the risk of pulmonary oedema."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Nifedipine regime:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "Initial oral dose of 20 mg Modified Release Nifedipine"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "Followed by 10mg three to four times daily, adjusted according to uterine activity for up to  hours"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "Maternal monitoring:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "Check BP prior to giving, do not give if blood pressure (BP) less than 95mmgh or diastolic less than 65mmgh"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "During the first hour, pulse and BP should be taken every  minutes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "After the first hour pulse, BP and temperature should be checked every hour for 2 hours"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "Observations can then be every 4 hours as long as the woman is stable"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.4,
+                "text": "Atosiban regime:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.5,
+                "text": "Preparation of Intravenous Infusion (IV) of Atosiban."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.6,
+                "text": "Each 0.9ml vial of atosiban injection contains 6.75 mg (milligrams)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.7,
+                "text": "Each 5ml vial of atosiban solution for infusion contains 37.5 mg (7.5mg/ml)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.8,
+                "text": "Complete the following steps:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Obtain a 100ml bag of 0.9% Sodium chloride (normal saline)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "Withdraw and discard 10ml of 0.9% sodium chloride"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "Inject 2 X 5ml vials of atosiban 7.5mg/ml solution for infusion into the bag of 0.9% Sodium Chloride. You now have a solution of 75 mg in 100 ml (milliliters)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix A for infusion rate volumes)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.9,
+                "text": "Administration of IV Atosiban"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix A for chart illustrating the administration of atosiban)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.1,
+                "text": "Monitoring of IV Atosiban"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix A to correlate \u2018steps' 1, 2 and 3)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.11,
+                "text": "Ensure that the following criteria are completed:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "Continuously monitor the fetal heart during steps 1 and 2;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Record maternal pulse and blood pressure hourly;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Continuously monitor the fetal heart during the first hour of step 3;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Record maternal pulse, blood pressure and temperature 4 hourly during step 3;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "If contractions persist, continuously monitor the fetal heart;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "If contractions cease, listen to and record the fetal heart rate hourly and perform a cardiotocograph (CTG) trace every th hour;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "In extreme prematurity (less than 26 weeks) the interpretation and predictive value of CTG monitoring are debatable. In these circumstances intermittent monitoring and recording of the fetal heart rate should be performed every  minutes during step 1 and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "2 and the first hour of step"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Discontinuation of IV Atosiban"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "The infusion should be given for up to 24 hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "The decision to continue the infusion after  hours must only be made by a consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.3,
+                "text": "If strong contractions continue a vaginal examination by the same observer should be considered (if possible)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Side Effects of IV Atosiban"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "Nausea is the common with >10% incidence and is usually associated with the bolus dose."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Maternal Corticosteroids"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "Antenatal corticosteroids have been shown to significantly reduce the rate of respiratory distress syndrome, neonatal death and intra ventricular haemorrhage for infants born prematurely."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "The steroid of choice is 2 doses of Betamethasone 12mg via intramuscular injection given at a  or 24 hour interval. Do not routinely offer repeat courses."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "23 weeks and 0 days gestation to 23 weeks 6 days gestation \u2013 consider antenatal corticosteroids after discussion between consultant obstetrician, neonatologist and woman, taking into account her individual circumstances and wishes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.4,
+                "text": "24 weeks and 0 days gestation to 25 weeks 6 days gestation \u2013 consider antenatal corticosteroids to any woman with suspected or established PTL, PPROM or are having a planned pre-term birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.5,
+                "text": "26 weeks and 0 days gestation to 33 weeks 6 days gestation \u2013 Offer antenatal corticosteroids to any woman with suspected or established PTL, PPROM or are having a planned pre-term birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.6,
+                "text": "34 weeks and 0 days gestation to 35 weeks 6 days gestation \u2013 Consider antenatal corticosteroids to any woman with suspected or established PTL, PPROM or are having a planned pre-term birth, particularly for any baby who is SFGA, but bear in mind that the number needed to treat at this gestation are much greater to confer any benefit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Magnesium Sulphate for Neuroprotection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline entitled \u2018Magnesium Sulphate Neuroprotection'; register number 15000; for regime and monitoring advice)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "Antenatal magnesium sulphate therapy given to women at risk of preterm labour significantly reduces the risk of their infant developing cerebral palsy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "prefix": 34.0,
+                "text": "Therefore it should be considered for all women with established or planned pre-term labour between  and 0 days and 29+6 weeks, and considered for those between 30+6 and  weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Fetal Monitoring in Pre-term Labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 1,
+                "text": "(Please refer to the guideline \u2018Fetal Heart rate monitoring in pregnancy and labour' 04265)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.1,
+                "text": "Monitoring options: explain the different monitoring options available to the woman including CTG or intermittent auscultation, considering the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.2,
+                "text": "There is no verified evidence about the CTG features of fetal heart rate patterns in pre-term labour, a normal CTG is reassuring, but an abnormal trace does not necessarily mean the baby is hypoxic, and will lead to an increase in intervention."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.3,
+                "text": "Women in established labour should be offered either continuous CTG or intermittent auscultation given their individual circumstances."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.0,
+                "text": "It may be appropriate at the threshold of viability not to monitor the fetal heart rate in labour. A consultant obstetrician should be involved in the decision of how to monitor the fetal heart for women between  weeks and 6 days gestation and  weeks and 6 days gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 1,
+                "prefix": 36.0,
+                "text": "Fetal scalp electrode (FSE): do not use FSE at less than  weeks gestation, it may be considered between  and 0 days and  weeks and 6 days gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 1,
+                "prefix": 34.0,
+                "text": "Fetal blood sampling: do not use fetal blood sampling if the woman is less than  weeks, but it may be considered between  and 0 days and 36+6 weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Mode of delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.1,
+                "text": "Discuss the benefits and risks of caesarean section and vaginal birth with women, taking into account the following factors:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "text": "Obstetric history"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "Gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 0,
+                "text": "Presentation of fetus \u2013 consider Caesarean section for breech presentation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Multiparty of pregnancy e.g. twins"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "Mother's wishes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.2,
+                "text": "Specifically highlight during this discussion the difficulties with pre-term caesarean section including the need for a vertical uterine incision and its' impact on future pregnancies."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 1,
+                "prefix": 36.0,
+                "text": "Instrumental delivery: vacuum extraction should not be used at gestations less than 34 weeks and used only with caution between  and  weeks as the safety is uncertain."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.4,
+                "text": "Forceps can be used in premature births, but should be done so with caution and involvement of a senior obstetrician, the benefits and risks should be carefully weighed up given the individual circumstances and gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Timing of Cord Clamping"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "Regardless of mode of delivery, if mother and baby are stable and there is no need for immediate neonatal resuscitation, wait at least  seconds but no more than 3 minutes before clamping and cutting the cord. Do this with the baby positioned below the level of the placenta."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.2,
+                "text": "If the baby needs to be moved away for resuscitation or there is maternal bleeding, consider milking the cord and cut immediately."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "Information and Support"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "Provide clear oral and written information to any women who are at increased risk of preterm labour or who present with suspected, diagnosed or established preterm labour, or having a planned preterm birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.2,
+                "text": "Give this information and support as early as possible, taking into account the likelihood of preterm birth, the status of labour and the woman's individual circumstances."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.3,
+                "text": "This information should provide a description of the symptoms and signs of preterm labour, the care she and her partner may be offered, information about the likelihood of the baby surviving, long term outcomes and risks for the baby. Give values as natural frequencies (for example; 1 in 100)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.4,
+                "text": "Explain about the neonatal care of preterm babies, including location of care, the immediate problems that can arise when a baby is born preterm and the possible long-term consequences of prematurity for the baby. (How premature babies grow and develop)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.5,
+                "text": "Provide the woman and her family with on-going opportunities to talk about and state their wishes about resuscitation of the baby"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.6,
+                "text": "Give the woman and her partner an opportunity to tour the neonatal unit and an opportunity to speak to a neonatologist or paediatrician."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Staffing and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.1,
+                "text": "All midwifery and obstetric staff must attend yearly mandatory training which includes skills and drills training including the topic of antenatal screening tests."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.2,
+                "text": "All midwifery and obstetric staff are to ensure that their knowledge and skills are up-to- date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.3,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 0,
+                "text": "22.3.1 As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively decontaminate their hands before and after each procedure and when taking bloods samples and performing speculum examinations to use the Aseptic Non-"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "text": "Touch Technique (ANTT)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 1,
+                "prefix": 24.0,
+                "text": "Professional Midwifery Advocates"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.1,
+                "text": "Professional Midwifery Advocates provide a mechanism of support and guidance to women and midwives. Professional Midwifery Advocates are experienced practising midwives who have undertaken further education in order to supervise midwifery services and to advise and support midwives and women in their care choices."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.4,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.5,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.6,
+                "text": "Key findings and learning points from the audit will be submitted to the Clinical Governance Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.7,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for future training needs will be met using methods such as \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Approval and Implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.1,
+                "text": "All policies, procedures and guidelines will be approved locally by the Maternity and Gynaecology Practice Steering Group prior to submission to the Controlled Document team for ratification by the Joint Document Management Group."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.2,
+                "text": "It is the Guidelines and Audit Nurse's and author's responsibility to inform the Maternity and Gynaecology Practice Steering Group and appropriate Maternity Services' staff of the approved policy documents when they are uploaded to the Trust's Intranet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Health and Care Excellence, (2015). Preterm labour and birth: NICE guideline [NG25]. London:NICE. Availale at: www.nice.org.uk/guidance/ng25"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 1,
+                "text": "A Chart to Illustrate the Administration of Intravenous Atosiban"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 211,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Regimen"
+                    },
+                    {
+                        "text": "Infusion rate"
+                    },
+                    {
+                        "text": "Duration"
+                    },
+                    {
+                        "text": "Bolus"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "0.9ml intravenous bolus"
+                    },
+                    {
+                        "text": "Over 1 minute"
+                    },
+                    {
+                        "text": "1 minute"
+                    },
+                    {
+                        "text": "6.75 mg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 1,
+                "text": "Step 1 should be administered by an obstetric registrar"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 213,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Regimen"
+                    },
+                    {
+                        "text": "Infusion rate"
+                    },
+                    {
+                        "text": "Duration"
+                    },
+                    {
+                        "text": "Atosiban rate"
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Intravenous high dose infusion"
+                    },
+                    {
+                        "text": "24ml/hour"
+                    },
+                    {
+                        "text": "3 hours"
+                    },
+                    {
+                        "text": "18mg/hour"
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Intravenous maintenance infusion"
+                    },
+                    {
+                        "text": "8ml/hour"
+                    },
+                    {
+                        "text": "21 hours"
+                    },
+                    {
+                        "text": "6mg/hour"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 1,
+                "text": "(The above infusion rate applies irrespective of the patient's age) Step 2 and 3 should be given and maintained by a midwife"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 1,
+                "text": "In utero transfer record"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 1,
+                "text": "This form is to be completed for attempted but unsuccessful and successful in utero transfers and babies with congenital abnormalities needing specialist input from birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 1,
+                "text": "Please ensure that one completed copy is filed in the notes and the other is emailed to: W&C-Governance@meht.nhs.uk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 0,
+                "text": "NICI = <27 weeks of gestation or at a birthweight 800g."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 0,
+                "text": "LNU = >27 weeks of gestation and birthweight >800g."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "text": "SCU = >32 weeks gestation who require only special care or short term high dependency care. Antenatally identified congenital abnormality needing delivery in specialist unit"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 0,
+                "text": "Organisation name:   MEHT  Date:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 223,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Patient details: Name: \u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026.. NHS number: ....................\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026.. Date of birth: \u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Gestation: + weeks Number of fetuses: 1 2 3 Other"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 224,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Threatened preterm labour predictive test performed:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Indication for transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026 Transfer discussed with consultant on call prior to transfer: YES / NO Time discussed with consultant: \u2026\u2026\u2026\u2026.: \u2026\u2026\u2026.. Time decision made for transfer: \u2026\u2026\u2026\u2026.: \u2026\u2026\u2026.."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Tick"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Cervical Length"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "mm"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Actim\u00ae Partus"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Positive/Negative"
+                    },
+                    {
+                        "text": "PartoSure\u2122"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Magnesium sulphate infusion YES / NO Date and time commenced: Date and time completed: Steroids administered: YES / NO Date and time of first dose: Date and time of last dose:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 225,
+            "data": {
+                "url": "09002 Management of Preterm Birth 5.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 226,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Unit contacted: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Time contacted: \u2026\u2026\u2026 : \u2026\u2026\u2026.."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Unit contacted: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 227,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Discussed with: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Transfer accepted: YES / NO Labour ward outcome: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Indication for not accepting transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Time contacted: \u2026\u2026\u2026 : \u2026\u2026\u2026.. Discussed with: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026 Transfer accepted: YES / NO Labour ward outcome: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Indication for not accepting transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026 \u2026\u2026."
+                    },
+                    {
+                        "text": "Unit contacted: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Time contacted: \u2026\u2026\u2026 : \u2026\u2026\u2026.. Discussed with: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Transfer accepted: YES / NO Labour ward outcome: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Indication for not accepting transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Unit contacted: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Time contacted: \u2026\u2026\u2026 : \u2026\u2026\u2026.. Discussed with: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026 Transfer accepted: YES / NO Labour ward outcome: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Indication for not accepting transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026 \u2026\u2026."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 228,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Unit contacted: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Time contacted: \u2026\u2026\u2026 : \u2026\u2026\u2026.. Discussed with: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Transfer accepted: YES / NO Labour ward outcome: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Indication for not accepting transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026\u2026."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Unit contacted: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Time contacted: \u2026\u2026\u2026 : \u2026\u2026\u2026.. Discussed with: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026 Transfer accepted: YES / NO Labour ward outcome: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Indication for not accepting transfer: \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026\u2026\u2026 \u2026."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 1,
+                "text": "Outcome:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 230,
+            "data": {
+                "url": "09002 Management of Preterm Birth 5.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 231,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Transfer did not take place (tick):"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transfer outcome:"
+                    },
+                    {
+                        "text": "Pregnant woman unwilling to accept"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Tick"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Time"
+                    },
+                    {
+                        "text": "Clinical change (e.g. maternal deterioration/improvement/advanced labour)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "In utero transfer"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "\u2026... / \u2026... / .\u2026.."
+                    },
+                    {
+                        "text": "\u2026... / \u2026..."
+                    },
+                    {
+                        "text": "Ex utero transfer"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "\u2026... / \u2026... / .\u2026.."
+                    },
+                    {
+                        "text": "\u2026... / \u2026..."
+                    },
+                    {
+                        "text": "No maternal bed capacity found"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No neonatal cot capacity found"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pregnant woman stayed in local unit"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "\u2026... / \u2026... / .\u2026.."
+                    },
+                    {
+                        "text": "\u2026... / \u2026..."
+                    },
+                    {
+                        "text": "Unable to locate two cots for twins"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Other"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date baby delivered: \u2026\u2026\u2026\u2026\u2026\u2026..\u2026\u2026\u2026\u2026\u2026\u2026\u2026..."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 1,
+                "text": "Incident form completed: YES / NO In transfer: YES / NO  Unplanned admission: YES / NO Admission NNU <27"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 1,
+                "text": "Healthcare professional completing form (print name): \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 Refer to guideline: Transfer of Mothers and Babies to different Care settings (06029)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: 09002 Management of pre-term birth  (please tick all that apply)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 237,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "A change to an existing policy"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "\u2610 A new policy"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 238,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full review"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3 yearly review"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and clinicians"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 239,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Miss Dutta"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Obstetrics and Gynaecology Consultant"
+                    },
+                    {
+                        "text": "th12 August 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": ""
+            }
+        }
+    ]
+}

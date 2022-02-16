@@ -1,0 +1,628 @@
+{
+    "elements": [
+        {
+            "type": "ListItem",
+            "sequence_num": 1,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP024 Consultant Clinic Outcome Paper 3.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP024 Consultant - Clinic Outcome - Paper"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatient"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP024"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "MEHTSOP024 Consultant - Clinic Outcome - Paper"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 5,
+            "data": {
+                "is_heading": 1,
+                "text": "Name  Title  Date Author  Business Change Analyst  10/06/2019 Reviewer  ArDr awwDilshaawalan   CCIO  24/06/2019"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 6,
+            "data": {
+                "url": "MEHTSOP024 Consultant Clinic Outcome Paper 3.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 0,
+                "text": "Louise Jones  ADO Medicine"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "text": "Stewart Cooper  ADO Women's & Childrens"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "AuthMembeorisres r- Elective  Joanne Dale  pImlanproned care vement(In dirtecterimor ) of  27/06/2019 care group"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "Kerry White  ADO Surgery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Elizabeth Podd  ADO Performance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "text": "DRAG Chair's Action  James Day  Trust Secretary  03/12/2019"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 13,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "24/06/2019"
+                    },
+                    {
+                        "text": "02/12/2020"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 14,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "10/06/2019"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "18/06/2019"
+                    },
+                    {
+                        "text": "Creation of Lorenzo outcome SOP removed reference to e-outcome from within paper process"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 15,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell"
+                    },
+                    {
+                        "text": "Delivery Group"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Elective Care Group"
+                    },
+                    {
+                        "text": "Louise Jones, Paul Hawkins, Elizabeth Podd, Stewart Cooper, Kerry White, Joanne Dale, Joe Hayward, John Cooil, Chris James, Nicola Riches"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline key pathway touch points for consultants"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Document process for outpatient clinic outcome recording"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "The most important \u2018clock' management the consultant body must interact with is the outpatient clinic outcome. The outpatient activity includes the more traditional face to face clinic setting through to results review where patient is not in attendance and is informed of results outcome via a letter. The consequence of incorrect RTT data includes:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient safety is compromised"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "Waiting Lists are inflated"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "Financial Penalties"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Consultant and registrars given outpatient clinic responsibility Procedure \u2013 Outpatient clinic outcome"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "A clinical decision outcome must be provided for every patient appointment, including but not limited to: face to face clinic appointments, results review clinics, phone clinics. The clinic owner is responsible for completing the outcome form."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "Matrix \u2013 outcome and selection:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 31,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Scenario"
+                    },
+                    {
+                        "text": "Selection"
+                    },
+                    {
+                        "text": "Clock status"
+                    },
+                    {
+                        "text": "I have not yet diagnosed / devised a treatment plan for this patient and need results from an appropriate diagnostic test in order to do so."
+                    },
+                    {
+                        "text": "Tick \u2018patient sent for diagnostics'"
+                    },
+                    {
+                        "text": "Ticking"
+                    },
+                    {
+                        "text": "I have seen a long standing follow up patient that was treated months or years ago and I will see them again. I may or may not request pathology / radiology."
+                    },
+                    {
+                        "text": "Tick \u2018after treatment'"
+                    },
+                    {
+                        "text": "Not ticking"
+                    },
+                    {
+                        "text": "I have seen a patient in clinic but cannot offer them treatment for their condition as it is not commissioned at this hospital / under NHS"
+                    },
+                    {
+                        "text": "Tick \u2018 decision not to treat'"
+                    },
+                    {
+                        "text": "Stop"
+                    },
+                    {
+                        "text": "I need to refer this patient to another hospital for treatment as it is not offered at MEHT."
+                    },
+                    {
+                        "text": "Tick \u2018referred to another hospital for treatment of same condition'"
+                    },
+                    {
+                        "text": "Ticking"
+                    },
+                    {
+                        "text": "During the consultation the treatment options were discussed. Treatment is surgery. The patient wants to pursue alternative management of condition and review at an agreed later date. I will see the patient again."
+                    },
+                    {
+                        "text": "Tick \u2018Patient requests period of active monitoring'"
+                    },
+                    {
+                        "text": "Stop"
+                    },
+                    {
+                        "text": "During the consultation the treatment options were discussed. The patient does not want surgery / investigation. Care cannot proceed without this. I will not see the patient again."
+                    },
+                    {
+                        "text": "Tick \u2018patient declined treatment'"
+                    },
+                    {
+                        "text": "Stop"
+                    },
+                    {
+                        "text": "Patient has returned to clinic following an agreed period of active monitoring. Results of a test are reviewed and a decision is made to list patient for surgery."
+                    },
+                    {
+                        "text": "Tick \u2018patient added to surgical waiting list'"
+                    },
+                    {
+                        "text": "Start"
+                    },
+                    {
+                        "text": "I have seen patient in clinic and prescribed a treatment plan that is made up of medication, diet and lifestyle changes. Patient has started first definitive treatment."
+                    },
+                    {
+                        "text": "Tick \u2018treatment started'"
+                    },
+                    {
+                        "text": "Stop"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "text": "Common mistakes/FAQs:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "How can I provide one tick in the clinical decision outcome form? My patient meets 3 of the criteria. An example of this might be a rheumatology patient who has returned for a 1 year follow up appointment. Treatment was given over 12 months ago in the form of medication. On return to clinic the clinician requests repeat bloods and wants to see the patient in 2 months. Reviewing the outcome form the patient fits in the following options:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient sent for diagnostics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient requires OP f/up in more than 6 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "After treatment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "The referral to treatment code that applies to this patient is a 90 \u2018activity that occurs after the st treatment'. The patient sent for diagnostics option is for patients that have not yet received treatment as the diagnostic has been requested to support diagnosis and appropriate treatment. Follow up appointment requests need to be indicated in the top right hand section of the form."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 38,
+            "data": {
+                "url": "MEHTSOP024 Consultant Clinic Outcome Paper 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 39,
+            "data": {
+                "url": "MEHTSOP024 Consultant Clinic Outcome Paper 3.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "My patient requires surgery and yet a number of comorbidities will require them to be assessed by the anaesthetics team, what do I select?"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MEHTSOP024 Consultant Clinic Outcome Paper 3.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "The outcome form requires the clinician to select \u2018patient added to surgical waiting list at MEHT'. In conjunction with this a TCI form will be completed and patient consented during the appointment. The TCI form will be sent to the inpatient scheduling team (also known as patient access) and patient will be placed on an inpatient access plan (surgical waiting list). The request for anaesthetic assessment will be in the form of a dictated letter to one of the anaesthetic consultants."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "I have seen a patient in clinic that is following a surveillance protocol after surgery and chemotherapy, clinically they are being \u2018actively monitored' within the service. Is RTT active monitoring the same thing?"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "No, in the above scenario the patient received treatment in the form of surgery and chemotherapy. Active monitoring is used for scenarios where the treatment plan is not known and there are other external factors out of your control that prevent diagnosis and treatment to take place, for example allergy patients that are referred during the allergy season and therefore would need to be placed on active monitoring until tests can be carried out (outside of allergy season)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "This SOP does not cover the process for managing results reviewed outside of booked clinics. Please see SOP Consultant Awaiting Results"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Every booked appointment in the clinic being run has a completed outcome form that is"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "communicated to one of the following staff groups:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse / HCA supporting clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Receptionist (a sub wait reception or one specific to a clinic room)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Medical secretary / Clinic coordinator for certain offsite clinics"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 53,
+            "data": {
+                "url": "MEHTSOP024 Consultant Clinic Outcome Paper 3.0.006.png"
+            }
+        }
+    ]
+}

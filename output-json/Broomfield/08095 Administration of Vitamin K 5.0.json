@@ -1,0 +1,1131 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "08095 Administration of Vitamin K 5.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ADMINISTRATION OF VITAMIN K FOR NEONATES"
+                    },
+                    {
+                        "text": "CLINICAL GUIDELINES Register No: 08095 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Intrapartum NICE Guidelines CNST Requirement"
+                    },
+                    {
+                        "text": "Contributes to CQC Outcome"
+                    },
+                    {
+                        "text": "11,12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/Committee/Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Anita Rao/ Alison Cuthbertson Vidya Thakur Alison Cuthbertson Paula Hollis Chris Berner Sarah Moon Claire Fitzgerald Toni Laing Joyce McIntosh"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Division Consultant for Obstetrics and Gynaecology Associate Director of Midwifery/Nursing Lead Midwife Acute Inpatient Services Lead Midwife Clinical Governance Specialist Midwife Guidelines and Audit Pharmacist Neonatal Lead Nurse Neonatal Ward Manager"
+                    },
+                    {
+                        "text": "April 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": "Dr Hassan"
+                    },
+                    {
+                        "text": "Neonatal Lead Consultant and Risk Management Lead"
+                    },
+                    {
+                        "text": "April 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Ratified By"
+                    },
+                    {
+                        "text": "DRAG Chairman's Action"
+                    },
+                    {
+                        "text": "Ratified On"
+                    },
+                    {
+                        "text": "18th June 2018"
+                    },
+                    {
+                        "text": "Trust Executive Board Date"
+                    },
+                    {
+                        "text": "July 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "16th July 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "May 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Sarah Moon, Specialist Midwife for Guidelines and Audit"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Paediatricians"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet and Website. Notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 06036 Guideline for Maternity Record Keeping including Documentation in Handheld Records 04220 Immediate Care of the Newborn 10008 Dissemination of Patient Information in Maternity 04272 Maternity Care Guideline"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Review No:"
+                    },
+                    {
+                        "text": "Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr Lim"
+                    },
+                    {
+                        "text": "July 2006"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Sharon Pilgrim"
+                    },
+                    {
+                        "text": "June 2009"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Sharon Pilgrim"
+                    },
+                    {
+                        "text": "March 2012"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Sharon Pilgrim"
+                    },
+                    {
+                        "text": "28 April 2015"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": "16th July 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "To reduce the incidence of haemorrhagic disease of the newborn by administering vitamin K prophylactically."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "To give guidance to assist midwives, neonatal nurses and paediatricians to identify the best route of administration of vitamin K to all neonates following delivery."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Background Information"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Vitamin K is necessary for the production of blood clotting factors and proteins necessary for normal coagulation factors production. Due to Vitamin K not readily crossing the placental barrier, all neonates may have an increased tendency to haemorrhage."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Neonates are also at risk due to the insufficient endogenous production of Vitamin K from bacterial flora prior to the complete colonization of the neonatal colon and inadequate dietary intake among solely breast fed infants."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Vitamin K deficiency bleeding (VKDB) is the term used to describe bleeding in the new-born as a result of Vitamin K deficiency and occurs in approximately 1 in 10,000 babies. It was previously known as Haemorrhagic disease of the new-born."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "VKDB includes spontaneous or excessive induced bleeding (for example venepuncture or surgery) at any site associated with decreased activity of the Vitamin K dependent coagulation factors (II, VII, IX, and X)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "Other signs of VKDB include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Unexplained bruising;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Bleeding which does not stop for example from the cord, nose or any blood test site;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood in the nappy or vomit (although this sometimes occurs due to normal hormone changes)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.6,
+                "text": "The Department of Health recommends, \u201cAll new-born babies should receive an appropriate Vitamin K regime to prevent the rare but serious and sometimes fatal disorder of VKDB.\u201d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The dosage and frequency of administration would depend on the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "The gestation and the weight of the infant;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "The method of feeding;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Admission to NICU."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Oral Konakion is not suitable for:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "Premature babies;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Babies who are sick at birth;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Babies born to mothers who have taken medication for epilepsy, blood clots or tuberculosis during pregnancy;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Babies who are not feeding well;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Babies born with the aid of forceps or ventouse."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Antenatal Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "During the third trimester the midwife will discuss the issues surrounding the administration of vitamin K with the patient in full and give the vitamin K patient information leaflet; ensuring that the midwife has documented the discussion and signed the relevant section in the antenatal handheld patient's healthcare records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline entitled \u2018Dissemination of Patient Information in Maternity'; register number 10008; and Maternity Care Guideline'; register number 04272)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Furthermore, the midwife should obtain informed consent for choice of route, and administration and document choice in the patient's handheld records. This should be done prior to delivery either antenatally or in labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "It is recommended that all babies born in Mid Essex Hospital NHS Trust are given a single intramuscular (IM) dose of Vitamin K as Konakion MM paediatric within 24 hours of birth to reduce the risk of Vitamin K deficiency bleeding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Ensure parental consent is obtained prior to administration of Konakion MM Paediatric. Confirm that parent/s have had the opportunity to read the patient information leaflet. If parents do not consent to the administration of IM Konakion MM paediatric it may be given orally however parents should be aware that:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Oral treatment is less effective;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Three doses will be required if baby is breast fed;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Two doses will be required if the baby is to be bottle fed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Confirm the route of administration with parent/s following informed consent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "Ensure that Konakion MM Paediatric are prescribed prior to administration."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Follow the policy for the administration of medication."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.6,
+                "text": "Wash and dry hands."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.7,
+                "text": "Dose of Vitamin K"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 51,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Patient group"
+                    },
+                    {
+                        "text": "Initial dose of Vitamin K (Konakion MM paediatric)"
+                    },
+                    {
+                        "text": "Further doses"
+                    },
+                    {
+                        "text": "Healthy Neonate of 37 weeks or older"
+                    },
+                    {
+                        "text": "1mg IM at birth OR 2mg orally at birth"
+                    },
+                    {
+                        "text": "Not required 2mg orally at 7 days 2mg orally at 28 days if breast feeding"
+                    },
+                    {
+                        "text": "Preterm neonate of less than 37 weeks weighing more than 2.5 kg Term neonates at special risk"
+                    },
+                    {
+                        "text": "1mg IM or IV at birth"
+                    },
+                    {
+                        "text": "Size and frequency of further doses depends on coagulation status"
+                    },
+                    {
+                        "text": "Preterm neonate <37 weeks weighing less than 2.5mg."
+                    },
+                    {
+                        "text": "0.4mg/kg IM or IV at birth"
+                    },
+                    {
+                        "text": "Size and frequency of further doses depends on coagulation status"
+                    },
+                    {
+                        "text": "Weight of baby"
+                    },
+                    {
+                        "text": "Dose of Vitamin K"
+                    },
+                    {
+                        "text": "Volume of 2mg/0.2ml injection"
+                    },
+                    {
+                        "text": "1kg"
+                    },
+                    {
+                        "text": "0.4mg"
+                    },
+                    {
+                        "text": "0.04ml"
+                    },
+                    {
+                        "text": "1.5kg"
+                    },
+                    {
+                        "text": "0.6mg"
+                    },
+                    {
+                        "text": "0.06ml"
+                    },
+                    {
+                        "text": "2kg"
+                    },
+                    {
+                        "text": "0.8mg"
+                    },
+                    {
+                        "text": "0.08ml"
+                    },
+                    {
+                        "text": "2.5 kg"
+                    },
+                    {
+                        "text": "1mg"
+                    },
+                    {
+                        "text": "0.1ml"
+                    },
+                    {
+                        "text": "Infants with conjugated Hyperbilirubinemia"
+                    },
+                    {
+                        "text": "Oral vitamin K 1mg given ONCE a week."
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.8,
+                "text": "Break the top of the ampoule and withdraw required dose with the aid of a glass filter needle and a one millilitre syringe."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.9,
+                "text": "Administer required dose of Konakion MM Paediatric intramuscularly if this is the preferred route, (using an orange needle) and document accordingly. Only 1 dose is required if administered intramuscularly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 1,
+                "text": "OR"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Administer 2mg (0.2mls) of Konakion MM Paediatric orally as soon as possible following delivery \u2013 if this is the preferred route of administration."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.11,
+                "text": "Ensure that Konakion MM Paediatric administration is repeated if the baby vomits within one hour of the initial administration (oral route only)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.12,
+                "text": "Document dose and route of administration in the baby delivery record (page 4) and sign the prescription chart."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.13,
+                "text": "All babies who have received an initial oral dose will now require a second dose of 2 mg/0.2ml Konakion MM paediatric on day 7 of life irrespective of whether breast or bottle feeding. This should be prescribed and dispensed to parents before discharge home."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.14,
+                "text": "If the baby is being totally breast fed at one month of age a 3rd dose of Konakion MM paediatric 2mg/0.2ml orally should be given. This is prescribed by the infants GP who should be informed of the perceived need for a third dose in the discharge paperwork. The 3rd dose is not necessary if the infant is no longer breast feeding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 28.0,
+                "text": "If intravenous Konakion MM is given, further oral doses of the required dose of Konakion MM will be required on days 7 and  to ensure full protection. If the infant remains nil by mouth at day 7 these doses may be given as 1mg intravenously."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.16,
+                "text": "If the infant is re-admitted with signs of bleeding further doses of IM or IV Konakion MM paediatric may be required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.17,
+                "text": "Dispose of sharps (needle/s and ampoule) appropriately following the administration of Konakion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.18,
+                "text": "Report and document any unexplained bleeding or bruising, and keep parent/s informed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.19,
+                "text": "Parental consent should be sought prior to giving Konakion MM paediatric in all situations including admission to NNU except where there is an emergency such as active bleeding, when Konakion MM paediatric will be given immediately."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Ensure that the opportunity is given for parents to see a paediatrician if consent of Konakion MM Paediatric is withheld and document accordingly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.21,
+                "text": "If parents refuse all types of vitamin K, this information must be documented in the Hand held records and the general practitioner (GP) letter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after undertaking any patient contact."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "All staff must comply with the trust guideline for the safe disposal of sharps."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Staff and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All staff caring for infants should be aware of all the aspects regarding the administration of intramuscular and where indicated intravenous injections to an infant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "All midwives, neonatal nurses and paediatricians are to ensure that their knowledge and skills are up-to-date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "As a minimum the following specific requirements should include a description of:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Process for providing information to women who have communication or language support needs;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternity Service's expectations of staff to document clearly in the health records the discussions and provision of information to women as clinically indicated, in relation to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "A review of 1% or 10 sets, whichever is the greater, of all health records of patients who have delivered. A minimum compliance 75% is required for each requirement. Where concerns are identified more frequent audit will be undertaken."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "The audit report will be reported to the monthly Directorate Governance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "As an integral part of the Knowledge, Skills Framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for further training; possibly involving \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Approved guidelines are published monthly in the Trust's Staff Focus that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Regular memos are posted on the guideline and audit notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Rosie Hospital (2013) Neonatal Unit Handbook."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "British National Formulary for Children (2014-2015) BNF."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Nursing and Midwifery Council (2015) The Code. Standards of conduct, performance and ethics for nurses and midwives. NMC: London"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Nursing and Midwifery Council (2010) Standards for medicines management. NMC: London"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute of Clinical Guidance (2015) Routine postnatal care of women and their babies. Clinical Guideline 37; July; NICE: London"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "Gomella T L (2013) Neonatology Management, procedures, on-call problems, diseases and drugs. McGraw Hill, New York"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

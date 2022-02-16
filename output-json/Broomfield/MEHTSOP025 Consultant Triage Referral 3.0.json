@@ -1,0 +1,641 @@
+{
+    "elements": [
+        {
+            "type": "ListItem",
+            "sequence_num": 1,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP025 - Consultant - Triage Referral"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 4,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.004.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatient"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP025"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Consultant - Triage Referral"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Business Change Analyst"
+                    },
+                    {
+                        "text": "April 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Dr Dilshan Arawwawala"
+                    },
+                    {
+                        "text": "CCIO"
+                    },
+                    {
+                        "text": "24/05/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "ADO Medicine"
+                    },
+                    {
+                        "text": "06/06/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO Women's & Childrens"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "ADO Surgery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO Performance"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "27/06/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "24/05/2019"
+                    },
+                    {
+                        "text": "02/12/2020"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "24/05/2019"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "30/05/2019"
+                    },
+                    {
+                        "text": "Additional guidance inclusion of ASI management responsibility Clarity in step 5. Regarding read only fields Addition of example in step 5.ii. Consistency of terminology applied to step 8.ii. Screen shot for section NB"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell"
+                    },
+                    {
+                        "text": "Delivery Group"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Elective Care Group"
+                    },
+                    {
+                        "text": "Louise Jones, Paul Hawkins, Elizabeth Podd, Stewart Cooper, Kerry White, Joanne Dale, Joe Hayward, John Cooil, Chris James, Nicola Riches"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline key pathway touch points for consultants"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Document process for managing referral triage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.0,
+                "text": "The consultant body are responsible for the triage of the majority of elective pathway referrals (18 week clock starts) and therefore must understand the  week clock codes and how Lorenzo manages them during various patient activity points."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "With the introduction of an electronic patient record in 2017 the organisation took the opportunity to digitise paper referrals received from GPs and other organisations and manage the triage process with an electronic \u2018in tray'"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Consultant and members of referral triage teams Procedure \u2013 Referral triage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "This SOP does not include the guide to using e-RS. It is assumed that clinicians running services published to e-RS are aware of the steps required to cancel/accept referrals via this system. It is also assumed that users understand the implication to NOT performing these actions in e-RS; namely inappropriate referrals or appointments within the wrong clinic. Guidance can be sought directly from NHS Digital website: https://digital.nhs.uk/services/e-referral-service/providers/service-provides-of-directly-bookable- services-dbs"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "As GP referrals are being managed via e-RS the only referrals that will come manually into Lorenzo are the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Con2Con (existing condition)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Tertiary providers"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "Opticians / dentists"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "Other acute trusts"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "E-RS ASIs (these are referrals that come via e-RS but due to capacity cannot be booked and are found on the \u2018appointment slot issue' list). This is a manual process managed by the service booking teams."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 29,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "To re-assign a referral task"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "From the task view, select the task and select \u2018reassign"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 32,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.005.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "The select distribution list window will open:"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 35,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.011.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Start typing the surname of the clinician the task is to be sent to and select the correct name from the list."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 37,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 38,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.015.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 39,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.016.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Select Ok"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "It has come to our attention that there are occasions where a clinician cannot accept or return the referral (see example below). It is being actively investigated by the trust and the supplier. If this occurs please escalate to your service manager."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 43,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.017.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral has been accepted and is ready to be assigned to an appropriate new access plan profile OR"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral has been returned and will be amended if it was due to error or closed if returned to referrer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "OR"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral task has been reassigned to an individual member of the team for review"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 49,
+            "data": {
+                "url": "MEHTSOP025 Consultant Triage Referral 3.0.005.png"
+            }
+        }
+    ]
+}

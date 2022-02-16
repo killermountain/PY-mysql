@@ -1,0 +1,2246 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "09093 Epidural analgesia 6.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "EPIDURAL ANALGESIA IN MATERNITY"
+                    },
+                    {
+                        "text": "CLINICAL GUIDELINES Register No: 09093 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NICE Guidelines, RCOG guideline CQC Requirement"
+                    },
+                    {
+                        "text": "CQC Fundamental Standards:"
+                    },
+                    {
+                        "text": "11, 12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Individual/Body:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Anita Rao/ Alison Cuthbertson Vidya Thakur Graham Philpott Alison Cuthbertson Chris Berner Jude Horscraft Claire Fitzgerald Louise Middleton Sarah Moon"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Consultant for Obstetrics and Gynaecology Anaesthetic Consultant Head of Midwifery/ Nursing for Women's, Children's Services Lead Midwife Clinical Governance Practice Development Midwife Pharmacy Senior Midwife Specialist Midwife for Guidelines and Audit"
+                    },
+                    {
+                        "text": "May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Miss Rao"
+                    },
+                    {
+                        "text": "Lead Consultant for Obstetrics and Gynaecology"
+                    },
+                    {
+                        "text": "May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version number"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Ratified By"
+                    },
+                    {
+                        "text": "DRAG Chairman's Action"
+                    },
+                    {
+                        "text": "Ratified On"
+                    },
+                    {
+                        "text": "29th June 2018"
+                    },
+                    {
+                        "text": "Executive & Clinical Directors"
+                    },
+                    {
+                        "text": "July 2018"
+                    },
+                    {
+                        "text": "Implementation Data"
+                    },
+                    {
+                        "text": "10th July 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "May 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Sam Brayshaw, Consultant Anaesthetist"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Paediatricians"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet & Website. Notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 06036 Guideline for Maternity Record Keeping including Documentation in Handheld Records 08077 Guideline for the Management of Accidental Dural Puncture 04265 Guideline for Fetal Monitoring in Pregnancy and Labour 08014 Guideline for the management of women requiring antenatal thromboprophylaxis"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Document History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Anne Smith and Graham Philpott"
+                    },
+                    {
+                        "text": "July 2003"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Anne Smith and Graham Philpott"
+                    },
+                    {
+                        "text": "July 2006"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Anne Smith"
+                    },
+                    {
+                        "text": "December 2009"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Graham Philpott"
+                    },
+                    {
+                        "text": "April 2012"
+                    },
+                    {
+                        "text": "4.1"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 clarification to point 7.0, 8.2 and 8.3"
+                    },
+                    {
+                        "text": "July 2014"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Sam Brayshaw"
+                    },
+                    {
+                        "text": "August 2015"
+                    },
+                    {
+                        "text": "5.1"
+                    },
+                    {
+                        "text": "Sam Brayshaw \u2013 clarification to point 7.2"
+                    },
+                    {
+                        "text": "December 2015"
+                    },
+                    {
+                        "text": "5.2"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 clarification to point 7.3; 7.4; 7.7; 7.10; 7.13"
+                    },
+                    {
+                        "text": "20 September 2015"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "Sam Brayshaw \u2013 Full review"
+                    },
+                    {
+                        "text": "10th July 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "An on demand  hour epidural analgesia service for patients in labour should be offered."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Where there are contraindications to siting of an epidural these must be sympathetically explained by an anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Where there are medical reasons why an epidural is advisable this must be explained carefully and sympathetically to the patient and her partner and informed consent for the procedure sought."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Use of epidural analgesia for establishing regional analgesia in labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Indications"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "The indications for siting an epidural are as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Proteinuric pregnancy induced hypertension"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Twins, breech and premature infants"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Inco-ordinate uterine actions and cervical dystocia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Trial of labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Elective forceps or lower segment caesarean section (LSCS)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiac or respiratory disease"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "When there is a past history of intubation difficulties"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "Failure of conventional analgesia and impending loss of morale in an otherwise normal or lengthy labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Fear of repetition of a particularly painful experience in a previous labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient's wish to have a painless labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Contraindications"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The contraindications for siting an epidural are as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "Coagulation defects: platelets less than 80, platelets between 80-100 with abnormal clotting screen, rapidly falling platelets."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Low molecular weight heparin : wait 12 hours after a prophylactic dose and 24 hours after a treatment dose before inserting or removing an epidural. Wait 4 hours after insertion or removal before next dose of prophylactic low molecular weight heparin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Lack of resuscitation facilities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Lack of experience in anaesthetist, obstetrician or midwife."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Insufficient staff to adequately monitor and deal with possible complications"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Unwillingness/lack of consent or inability to understand or co-operate with procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Uncorrected hypovolaemia or shock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous severe allergy to local anaesthetic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "text": "Explanation and written consent is required in patients with neurological disease or previous spinal surgery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Timing to Attend a Request for an Epidural"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Requests for an epidural should be met as soon as possible."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Women requesting an epidural for pain relief should be seen by an anaesthetist for initial assessment within 30 minutes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "This timing should be audited annually."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Care of the Patient with an Epidural in Labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "An epidural will ideally be sited on a patient whose cervix is fully effaced and 3cm dilated, following discussion with the Labour Ward Co-ordinating midwife."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Prior to insertion of the epidural auscultate the fetal heart and check maternal blood pressure, temperature, respirations and pulse, which should be documented on the partogram if the patient is in established labour and on the Maternity early warning score (MEOWS) chart, recording the MEOWS score in the labour care record booklet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "The patient's pressure areas should be assessed using the Waterlow score assessment chart and the midwife responsible for the patient should document the assessment findings in the labour care record booklet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "Establish an intravenous (IV) infusion with a 16g cannula and pre-load the patient with 500ml Hartmanns solution or as per anaesthetist's instructions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Details of epidural insertion should be clearly documented on the epidural analgesia chart which is integral to the \u2018Labour Care Record'."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix B)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Following Insertion of an Epidural"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Continuous monitoring of the fetal heart should ensue."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the \u2018guideline for fetal monitoring in pregnancy and labour'. Register number 04265)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "Check blood pressure (BP) and pulse every 5 minutes for  minutes after siting of epidural and after each injection and thereafter every  minutes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "If the BP drops to a systolic of less than 100 mmHg, or if the patient feels faint, or if the fetal heart rate changes dramatically carry out the following procedures:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Turn the patient onto her left lateral position"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "Give oxygen at 10 litres/minute by a reservoir mask"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "Increase the rate of the hartmanns' intravenous infusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "Call the anaesthetist to review the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The anaesthetist will check the efficacy and sensory level of the block 30 minutes after"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "the initial epidural dose and the midwife to check the level of the block every hour and record on the MEOWS chart. Motor block also needs documenting hourly on the MEOWS chart. Testing the block can be done by using \u2018Ethyl Chloride' spray to test the block onto the mother's skin and finding the level at which there is a change in sensation. The epidural record documentation is located in the \u2018Labour Care Record'. (Refer to Appendix C)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "The patient should empty her bladder before the insertion of the epidural and at least every 4 hours afterwards. If there is persistent continuous lower abdominal pain, it may be worthwhile encouraging the mother to empty her bladder or catheterise."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.6,
+                "text": "Alert the anaesthetist urgently in case of a dense motor block and / or a high sensory block (above T6) as it may be due to an epidural catheter situated in the CSF. A dense motor blockade may produce difficulty in moving the legs. Reassess the mean aterial pressure score (MAPS) and check the patient's pressure areas and record in the labour care record booklet to complete the Waterlow score assessment. All patients with reduced mobility should have their pressure areas checked hourly and position changed appropriately. When \u2018fresh eyes' requested make use of the second midwife to stand the woman up, relieve pressure areas, consider a short assisted walk around the bed with the woman, change the woman's position to stop pressure areas developing."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.7,
+                "text": "Ensure that the woman is not lying in a pool of chlorhexidene (used for skin prep in epidurals), as this could be a risk in terms of a sustaining a chemical burn. The midwife should ensure that a clean dry incontinence pad is inserted under the patient after the epidural insertion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.8,
+                "text": "Encourage women with regional analgesia to move and adopt whatever upright positions they find comfortable throughout labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.9,
+                "text": "If any skin areas are red the midwife responsible for the patient should document as such in the labour care record and report findings on handover. The midwife should ensure that the effected area and bedding remains clean and dry, that the women changes her position at least 1-2 hourly and that the area effected is monitored during changing of position."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Once established, continue regional analgesia until after completion of the third stage of labour and any necessary perineal repair."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.11,
+                "text": "For any pressure area damage identified the midwife responsible for the patient should document as such in the labour care record, inform the Labour Ward Coordinator report findings on handover and complete a risk management form electronically via Datixweb."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.12,
+                "text": "If pain returns, call the anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.13,
+                "text": "Upon confirmation of full cervical dilatation in a woman with regional analgesia, unless the woman has an urge to push or the baby's head is visible, pushing should be delayed for at least 1 hour and longer if the woman wishes, after which actively encourage her to push during contractions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Topping-up the Epidural"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "This procedure should be carried out by the on call anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Check the BP prior to the epidural top-up."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "With the patient lying slightly onto her left side, aspirate while observing the epidural catheter in the region of the puncture site, look for blood or CSF if there is none inject 3 mls of the local anaestheticagent and if the blood pressure (BP) is satisfactory 5 minutes later, give the rest of the top-up dose."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Check the BP in the usual way after the top-up."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.5,
+                "text": "Do not top-up more frequently than hourly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Procedure for Patient Controlled Epidural Analgesia (PCEA) on Labour Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The following equipment should be required:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Abbott Gemstar PCEA pump"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "250ml pre-mixed bags containing bupivacaine 0.1% with 2mcg/ml of fentanyl (These are stored in the controlled-drug cupboard on labour ward)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Procedure - following epidural insertion, establish analgesia using preferred choice of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "drug. The normal PCEA settings are a 10ml bolus with a  minute lock out (of the low"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.5,
+                "text": "dose mix, 0.1% bupivacaine with fentanyl 2mcg/ml). A  ml low dose bolus can be used   as the test dose for the epidural and is equivalent to a test does of 3 ml of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "bupivacaine."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix A for detailed instructions)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "The anaesthetist will instruct the patient regarding the patient controlled epidural analgesia (PCEA) and the midwives must ensure that the patient understands this route of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "administration to ensure adequate pain relief."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Patient Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Blood pressure measurements should be recorded on the epidural assessment form every 5 minutes for 20 minutes following loading and bolus doses. This form should be retained securely in the patient's health care records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Sensory block height tested with ice or ethyl chloride every hour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Dermatomes - remember that a block higher than T6 in labour is dangerous and needs prompt action. In addition, saddle anaesthesia is NOT produced by simply increasing the height of the block."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Post Delivery Care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Remove the epidural catheter, note \u2018blue tip' present. If incomplete or damaged, save for inspection by the anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Apply a sterile dressing or nobecutane to site of skin puncture."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "The mother can be ambulant once full power and normal sensation has returned to her lower limbs. The midwife should ensure that the \u2018Maternity Falls Risk Assessment' proforma is completed prior to mobilising post epidural/spinal anaesthesia. (Refer to Appendix D)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "If a central spinal fluid (CSF) leak has occurred, this should be recorded by the"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the \u2018Guideline for the management of accidental dural puncture'. Register number 08077)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Complications arising from Epidurals"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Failure to produce pain relief - epidurals may fail for a variety of reasons i.e. a blocked or misplaced catheter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "One sided block - If the patient is topped up with the most effective side uppermost, lying completely on her side the lower side may block with the next dose of drug. If this is not effective then the epidural should be re-sited or cannula adjusted."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "Missed segment - check that groin pain is not due to the woman having a full bladder. If one top up with patient lying on side with unblocked segment lowest does not work, infiltration over superficial nerve may help."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "Perineal pain or forceps needed - give top up with the patient sitting upright, provided blood pressure satisfactory."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "Occipito-posterior and abnormal positions - pain often \u201cbreaks through\u201d - if effective epidural becomes ineffective consider something wrong with the labour or displaced catheter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.6,
+                "text": "If the pain relief is inadequate despite adequate top-ups then the anaesthetist should be informed to review the epidural."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.7,
+                "text": "If toxicity occurs either due to excessive doses of local anaesthetic or due to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "placement or migration of the catheter tip into an epidural vein. It is characterised by"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "twitching, restlessness, convulsions, hypotension and dysrhythmias. This is a serious"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "complication and necessitates ceasing epidural infusions or top ups and summoning the anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.8,
+                "text": "Infection - epidurals must be sited using an aseptic technique and treated as a"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "potential entry point for micro-organisms. All dressing changes should be done with adequate asepsis and all drugs should be injected via a filter. Epidurals should be"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "removed at the end of labour or caesarean section."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.9,
+                "text": "Neurological symptoms. Neurological symptoms occur moderately frequently after childbirth whether epidurals are used or not. The most frequent lesion is caused by pressure on the lumbo-sacral trunk by the head of the fetus; this results in a well recognised pattern of weakness and altered sensation in the lower limb."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Due to the diagnostic problems which may occur, all patients with neurological deficits following epidural, spinal or general anaesthesia should be referred to the anaesthetic team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Additional Information"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Anatomy - the dura mater extends from the foramen magnum to the sacro- coccygeal membrane with the dural sac ending at S2. The contents of the epidural space are: nerve roots, a plexus of veins, spinal artery and its branches, lymphatics and fat."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Innervation of the Birth Canal:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Uterine body  -  Motor  -  T 5-10 sympathetic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "-  Sensory  -  T  and  sympathetic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Cervix  - -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "Vagina  - -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "Motor  - Sensory  -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "No motor supply Sensory  -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "-"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "S 2-4 parasympathetic S 2-4 parasympathetic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "Upper - S 2-4 parasympathetic Lower - S 2-4 somatic - pudendal nerve"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "Perineum and Vulva - motor and sensory supply - S2-4 somatic - pudendal nerve and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "perineal branch of posterior cutaneous nerve of thigh"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to patient controlled epidural analgesia (PCEA) guideline for patient controlled epidurals"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Advantages of Epidural Analgesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Outlined below are the following advantages of epidural analgesia:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "Continuous, high quality analgesia providing more effective pain relief than opioids i.e. morphine injection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "Analgesia selective for first and second stage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Alert, co-operative non-exhausted mother"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Better placental blood flow"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Can be used for lower segment caesarean section (LSCS)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "No risk of pulmonary aspiration of gastric contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Disadvantages of Epidural Analgesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "Outlined below are the following disadvantages of epidural analgesia:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "text": "It is only available in obstetric units"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "Hypotension can occur \u2013 intravenous infusion required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "Loss of motor power - immobility (can be aided by lower doses)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "It will be accompanied by a more intensive level of monitoring and intravenous access"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": "High level of skill needed to initiate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "text": "Small risk of dural puncture and spinal headache"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient must not lie supine nor be left alone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "May prolong labour if initiated too early but patients who desire regional anaesthesia should not be denied it, including patients experiencing severe pain in the latent first"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "text": "stage of labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "text": "May be ineffective if initiated too late"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "text": "Increase in use of oxytocin to augment labour significantly associated with instrumental birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "Loss of bearing down reflex if high concentrations used which may lead to need for an instrumental delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "text": "Instrumental rate is higher in patients having epidurals, but remember that the majority of situations in which they are used would expect a higher incidence of forceps anyway and many patients can have spontaneous vaginal deliveries with an epidural if lower concentrations are used and motor power and some sensation is maintained. Many of these patients are less exhausted and able to push with a midwife helping her to time her efforts"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 1,
+                "text": "Modern epidural solutions contain opioids and, whatever the route of administration, all opioids cross the placents and in larger doses (greater than 100 micrograms in total) may cause short term respiratory depression in the baby and make the baby drowsy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Staffing and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.1,
+                "text": "Anaesthetists practicing in the obstetric area will have had a thorough theoretical training and will on average have completed between 50-100 epidural procedures."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.2,
+                "text": "These anaesthetists will be at the level of ST3 and above."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "On commencement of placement in the maternity unit, anaesthetic registrars are supervised for the first 3-4 weeks, allocated daytime duties with access to a consultant anaesthetist during that period."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.4,
+                "text": "Anaesthetists performing epidurals should be aware of the guidelines for managing accidental dural puncture."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.5,
+                "text": "All midwifery and obstetric staff are to ensure that their knowledge and skills are up-to-date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after each procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.2,
+                "text": "All staff should ensure that they follow Trust guidelines on infection prevention. All invasive devices must be inserted and cared for using High Impact Intervention guidelines to reduce the risk of infection and deliver safe care. This care should be recorded in the Saving Lives High Impact Intervention Monitoring Tool Paperwork (Medical Devices)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for future training needs will be met using methods such as \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued to all staff to highlight key changes in clinical practice to include a list of newly approved guidelines for staff to acknowledge and familiarise themselves with and practice accordingly. Midwives that are on maternity leave or \u2018bank' staff have letters sent to their home address to update them on current clinical changes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.2,
+                "text": "Approved guidelines are published monthly in the Trust's Staff Focus that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.4,
+                "text": "Regular memos are posted on the guideline and audit notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 0,
+                "text": "Eriksen, L; Ellen, A (2011) Mode of Delivery after Epidural Analgesia in a Cohort of Low- Risk Nulliparas. Birth \u2013 Issues in Perinatal Care Birth. Volume 38, Issue 4, December 2011"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 1,
+                "text": "Walsh, D (2009) Pain and epidural use in normal childbirth. Evidence Based Midwifery; Volume 7 (3): 89-93."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Clinical Excellence (2007) Intrapartum Care; NICE: London."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure for Patient-controlled Epidural Analgesia on Labour Ward The following instructions should be adhered to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "Program the pump to deliver a 10ml bolus with  minute lockout and no background infusion. (In conjunction with the Abbott Gemstar System Operating Manual)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "text": "Switch on pump (White button) Unit will self test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 1,
+                "text": "If using batteries, press enter to confirm"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 1,
+                "text": "Current therapy: Press options (allowing you to unlock and re-program pump)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 1,
+                "text": "Press 3 for keypad lock and 3 for full lock and enter lock sequence number (13000) The keypad is now unlocked"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 1,
+                "text": "Press change and 3 for new program"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 1,
+                "text": "Press 2 for bolus only"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 1,
+                "text": "Press 3 for select ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 1,
+                "text": "Program a loading dose? Press number"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 1,
+                "text": "Set bolus dose: 10ml and press enter when done"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 1,
+                "prefix": 30.0,
+                "text": "Bolus lockout:  minutes and press enter when done"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 1,
+                "text": "Press 4 for number limit selected"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 1,
+                "text": "Container size: Press 230 ml and enter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 1,
+                "text": "Air sensitivity: Press 1 for on"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "text": "To review program scroll down with white triangle"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "text": "Press enter when review is completed (program will be saved)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "text": "Prime the infusion set"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 1,
+                "text": "Priming the Infusion Set"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "text": "Use the Gemstar intravenous (IV) pump set, which comes in two separate halves, which are then joined by a luer lock connection and follow the instructions outlined below:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the Infusion bag with administration port pointing towards the ceiling and insert the piercing pin of the proximal line"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "text": "Squeeze infusion bag firmly to eliminate air and prime proximal line fully"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "The infusion line can be closed to prevent leakage by pressing the other white button or by using the slide lock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "text": "To prime the distal line, connect the luer lock and load the IV pump set by inserting the cassette with the white buttons facing the pump"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "text": "Press the cassette in firmly to lock in place (two clicks). (To release the cassette, press the black button on the top of the Pump)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 0,
+                "text": "Press the purge button"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 0,
+                "text": "Press yes to purge the set, then push and hold the purge key to eliminate all air from the distal line"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 213,
+            "data": {
+                "is_heading": 0,
+                "text": "Prime complete: Press yes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 0,
+                "text": "Hang infusion bag on hook and lock the transparent container"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 0,
+                "text": "Connect patient control button and mains supply to underside of pump (3VDC and bolus respectively) the green power light will illuminate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "text": "Press start to Infuse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "text": "Lock keypad? Press yes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 0,
+                "text": "Press 3 for full lock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 0,
+                "text": "Enter lock sequence number (13000); pump is now ready for use."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional operating pointers are as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "text": "To turn off pump, depress and hold the white button"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 0,
+                "text": "When the pump is turned off during locked mode it is necessary to unlock the keypad before re-programming the pump when it is next used"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "text": "To unlock keypad: press options: press 3 for keypad lock: press 3 for full lock: enter lock sequence number (13000)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 224,
+            "data": {
+                "is_heading": 0,
+                "text": "To scroll back when entering program: Press back-up."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 1,
+                "text": "To deliver an Additional Bolus Dose of Epidural solution via the pump:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 0,
+                "text": "Unlock the keypad"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 0,
+                "text": "Press stop"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.0,
+                "text": "Press yes, immediately followed by"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 0,
+                "text": "Press yes to program a loading dose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "text": "Set loading dose and press enter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 231,
+            "data": {
+                "is_heading": 0,
+                "text": "Press yes to deliver loading dose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 233,
+            "data": {
+                "url": "09093 Epidural analgesia 6.0.002.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 1,
+                "text": "Epidural Top-ups Record Sheet"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 237,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 238,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

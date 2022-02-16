@@ -1,0 +1,444 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "Urology Pathway for Elective Paediatric Cases"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Urology"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "Surgery"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP036"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Urology Pathway for Elective Paediatric Cases"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Danny Swallow"
+                    },
+                    {
+                        "text": "Consultant"
+                    },
+                    {
+                        "text": "11.11.2019"
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Julia Bell"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": "11.11.2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "ADO for surgery"
+                    },
+                    {
+                        "text": "11.11.2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DRAG Chair's Action:"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "28th November 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "11.11.2019"
+                    },
+                    {
+                        "text": "29th November 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "11.11.2022"
+                    },
+                    {
+                        "text": "28th November 2022"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "V0.1 draft"
+                    },
+                    {
+                        "text": "11.11.2019"
+                    },
+                    {
+                        "text": "V1.0 \u2013 Draft"
+                    },
+                    {
+                        "text": "V1.0"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Julia Bell"
+                    },
+                    {
+                        "text": "Service Manager for Surgery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to show clear guidelines for Elective Paediatric Cases."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This Standard Operating Procedure (SOP) shows the pathway for elective paediatric cases."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "LETTER OF REFERRAL FOR CHILD UNDER 16 YEARS"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 15,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "GENERAL SURGICAL PROBLEM  UROLOGICAL PROBLEM MISS JOSHI CLINIC  WMcA PAED CLINIC"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 17,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.006.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 18,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "NOT SUITABLE FOR MEHT"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 20,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "TRANSFER TO ROYAL LONDON WAITING LIST"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "MEHT SUITABLE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "PRE-ASSESS & ADMIT TO WIZARD WARD"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 24,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "FOLLOW-UP AT MEHT"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 26,
+            "data": {
+                "url": "MEHTSOP036 Urology Pathway for Elective Paeds Cases 1.0.008.png"
+            }
+        }
+    ]
+}

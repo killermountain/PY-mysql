@@ -1,0 +1,1431 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "08077 Accidental Dural Puncture  7.1.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "MANAGEMENT OF ACCIDENTAL DURAL PUNCTURE"
+                    },
+                    {
+                        "text": "CLINICAL GUIDELINE Register number: 08077 Status: Public"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "RCOG guideline CNST requirement"
+                    },
+                    {
+                        "text": "CQC Fundamental Standards:"
+                    },
+                    {
+                        "text": "11, 12"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Individual/Body:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Anita Rao/ Alison Cuthbertson Vidya Thakur Graham Philpott Alison Cuthbertson Deb Cobie Chris Berner Angela Woolfenden Sarah Moon Claire Fitzgerald"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Consultant for Obstetrics and Gynaecology Consultant Anaesthetist Head of Midwifery/Nursing Lead Midwife Acute Inpatient Services Lead Midwife Clinical Governance Lead Midwife Community Services Specialist Midwife Guidelines and Audit Pharmacy"
+                    },
+                    {
+                        "text": "May 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": "Miss Rao"
+                    },
+                    {
+                        "text": "Lead Consultant for Obstetrics and Gynaecology"
+                    },
+                    {
+                        "text": "May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "7.1"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Approved by"
+                    },
+                    {
+                        "text": "DRAG Chairman's Action"
+                    },
+                    {
+                        "text": "Approved on"
+                    },
+                    {
+                        "text": "29th June 2018"
+                    },
+                    {
+                        "text": "Executive Board Management Sign Off"
+                    },
+                    {
+                        "text": "July 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "9th July 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "May 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Dr S Brayshaw, Consultant Anaesthetist"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Anaesthetist"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet and Website Notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 06036 Guideline for Maternity Record Keeping including Documentation in Handheld Records 09093 Management of Epidural Analgesia in Labour"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 5,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Review No:"
+                    },
+                    {
+                        "text": "Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr G Philpott"
+                    },
+                    {
+                        "text": "November 2002"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Dr G Philpott"
+                    },
+                    {
+                        "text": "November 2005"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Dr G Philpott"
+                    },
+                    {
+                        "text": "November 2007"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Dr R Kadayam Sreenivasan, Dr G. Philpott"
+                    },
+                    {
+                        "text": "September 2008"
+                    },
+                    {
+                        "text": "4.1"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 Equality and diversity; audit and monitoring updates"
+                    },
+                    {
+                        "text": "September 2010"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Dr G. Philpott"
+                    },
+                    {
+                        "text": "May 2012"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "Dr S Brayshaw, Consultant Anaesthetist"
+                    },
+                    {
+                        "text": "6th July 2015"
+                    },
+                    {
+                        "text": "7.0"
+                    },
+                    {
+                        "text": "Sam Brayshaw \u2013 Full review"
+                    },
+                    {
+                        "text": "9th July 2018"
+                    },
+                    {
+                        "text": "7.1"
+                    },
+                    {
+                        "text": "Dr B Jayawardena \u2013 Clarification to section 6"
+                    },
+                    {
+                        "text": "10th December 2019"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1 Headache after an epidural or spinal anaesthetic \u2013 link to patient leaflet Appendix 2 Template GP letter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 3 Anaesthetic Clinic Follow Up Booking Form"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "1.1. Provision of labour analgesia via an epidural is a very common procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "1.2. Accidental dural puncture is a rare but recognised complication of epidural catheter insertion. The incidence is quoted to be around 1%."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "1.3. Although accidental dural puncture is not usually associated with an increased mortality it can significantly increase morbidity, hospital stay and impair the mother's ability to care for her newborn child."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "1.4. Accidental dural puncture can be caused by either the needle or by the catheter at the time of placement"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "1.5. These guidelines are aimed at helping the anaesthetist in optimally managing this rare but important problem."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Diagnosis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "If during epidural catheter insertion, clear fluid is seen to be flowing either from the Tuohy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "needle or through the catheter; then inadvertent dural puncture must be assumed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Clear fluid may however be local anaesthetic or saline if a loss of resistance to saline technique is used."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Positive identification is confirmed by testing the fluid for the presence of glucose using a blood glucose indicator stick. Take care to avoid an unnecessarily large amount of cerebral spinal fluid (CSF) to drain out."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Immediate Action"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Once the diagnosis is made there are one of three options as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "The anaesthetist can decide to re-site the epidural at an adjacent epidural space"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "Insert an intrathecal catheter to facilitate spinal anaesthesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Abandon the procedure and consider alternative analgesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Re-siting the epidural at an adjacent epidural space"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "This procedure should be conducted by an anaesthetic registrar (ST3 or above) or if particularly complex, a consultant anaesthetist's help should be sought."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "Exercise caution with the first dose of local anaesthetic through the catheter, as the tip may lie close to the dural hole."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "All doses are to be fractionated and given over 3-5 minutes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "All doses MUST be given by an anaesthetist and the patient monitored for effect"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Intra-thecal catheter insertion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "This must be discussed with an anaesthetic consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Only 2 cm should be left in the space. Make sure the catheter is clearly labelled as subarachnoid or spinal"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "All doses of local anaesthetic MUST be given by anaesthetist and titrated to effect."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "It must be remembered that plain bupivacaine is hypobaric, thus doses should be given in the lateral or supine wedged position."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform the patient that her catheter is a spinal catheter not an epidural, and for her to inform all medical staff of this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Abandon Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "This option needs to be discussed with the patient after discussion with the consultant on call"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "Once analgesia is well established, a full explanation should be given to the patient, her partner, the midwife and the obstetrician. Also full documentation in the notes is advised"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient should be advised that she has suffered an unfortunate but recognised complication of epidural anaesthesia and that she has a high possibility of suffering from a severe headache, which is treatable"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient should be informed about the \u2018nature' of the headache and the different options available to treat it"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is no headache during labour, it is unnecessary to proceed to an elective forceps at full dilatation and pushing should be encouraged"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Action after Delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Remove the epidural catheter. There is no evidence of efficacy of infusing saline or blood through the catheter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Encourage early mobilisation as there is no evidence to suggest that enforced recumbency (lying flat) is of any use in preventing post-dural puncture headache (PDPH) (as opposed to relief of symptoms). However dural puncture headache will hinder this and lying flat typically reduces the pain."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Dehydration aggravates post-dural puncture headache, so encourage oral fluids. If the patient is unable to tolerate oral fluids, continue intravenous (IV) hydration for at least 24 hours. Encourage the patient to drink caffeine containing drinks like coffee and cola (caffeine is a cerebral vasoconstrictor and may help to treat the cerebral vasodilatory phenomenon that is thought to contribute to the headache) Treatment with caffeine should not exceed 24hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Oral therapy is preferred and doses should not exceed 300mg with a maximum of 900mg in 24 hours. Consider a lower dose for women who are breastfeeding particularly those with low birth weight or premature infants."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Ensure regular analgesia is prescribed (paracetamol and ibuprofen), plus oramorph if required). Prescribe a laxative to prevent straining."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Give the patient the post dural puncture information leaflets provided by the Obstetric Anaesthetists' Association website. http://www.rcoa.ac.uk/system/files/PI-HESA-COL-"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "2012.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix 1)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "Consider TEDS/flowtrons post dural tap, pre-blood patch. Low molecular weight heparin (LMWH) is usually unnecessary but each patient will need individual thromboembolic risk assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.7,
+                "text": "Discuss with both the Obstetric and Anaesthetic Consultant on call the risks/benefits of LMWH prescription."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.8,
+                "text": "If LMWH is prescribed this will have an implication for the timing of the blood patch."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.9,
+                "text": "Monitor headache, blood pressure and assess full neurological function 2 hourly for 12 hours, then 4-hourly if stable for a further 12 hours."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Neurological examination including examination of neck stiffness is mandatory in all new onset headaches or headache with atypical features, particularly with focal symptoms."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.11,
+                "text": "Subdural haematoma and cerebral venous sinus thrombosis are well recognized complications of dural puncture and pregnancy respectively."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.12,
+                "text": "Both should always be included in the differential diagnosis of persistent headache after dural tap or post dural puncture headache."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.13,
+                "text": "Consider if radiological imaging is required to rule out intracerebral or subarachnoid haemorrhage. This can be discussed with the oncall consultant radiologist if necessary (consider MRI head and spine with contrast or MRI venogram)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.14,
+                "text": "When post dural puncture headache is diagnosed hospital follow up is mandatory and the patient's GP should be informed by letter (Appendix 2)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.15,
+                "text": "Follow up time for anaesthetic clinic should be a period of 1-2 weeks, a booking form should be filled out and returned anaesthetic clinic as soon as possible. (Refer to Appendix 3)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.16,
+                "text": "Four copies of the letter should be printed out and one sent to the patient's General Practitioner, one to the patient's community midwife, one to be placed in the patient's notes and one should be given to the patient to take with them for any further healthcare appointments."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.17,
+                "text": "If PDPH persists beyond 48 hours (and restricts mobilisation and is delaying discharge"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "from hospital), consider a blood patch. This will be decided by a Consultant Anaesthetist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "with an obstetric interest and discussed with the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Procedure for Autologous Epidural Blood Patch (EBP)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2. Informed written consent is required for this procedure. The benefits and risks of an epidural blood patch should be explained. The risks involve, repeat dural puncture, back pain during procedure (50%) and post procedure (80%), and Neurological complications.(rare)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "There is insufficient evidence to suggest that EBP reduces the risk of chronic headache, cranial subdural haematoma, cerebral venous sinus thrombosis or improve outcome in cranial nerve palsy in obstetric PDPH."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Procedure is done in the theatre and will need two anaesthetists and an operating department practitioner. Most recent evidence suggests, complete and permanent relief of symptoms following a single EBP is about 30%. Complete or partial relief may be seen in 50-80%. The procedure is thought to be more successful if undertaken 48 hours post dural puncture."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "The procedure can be performed either sitting or lateral position. A senior anaesthetist performs the epidural and the other anaesthetist will draw 20mls of blood from the antecubital vein."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "As the blood injected during EBP, it spreads predominantly cranially. So it is recommended that the EBP is performed at the same level or one space lower than the original dural puncture occurred."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.6,
+                "text": "A volume of 20mls of blood is recommended for the EBP but injection should stop before 20mls if the patient is not tolerating the procedure due to pain."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.7,
+                "text": "There is currently insufficient evidence to recommend blood cultures routinely for every EBP performed. But EBP should not be performed in the presence of maternal systemic infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.8,
+                "text": "Following the procedure:-"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "6.8.1 The patient should remain in the recovery for 15 minutes observed by the anaesthetist. On returning to the ward, the patient should lie flat in the bed for 4 hours before cautiously mobilising with adequate supervision and assistance.4 hourly observations including temperature pulse, blood pressure and respiratory rate are done in the ward. The anaesthetist should review the post EBP patient within 4 hours of the procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "6.8.2 The patient can be allowed home after a successful blood patch once the headache is resolved and observations are stable. The site of the epidural insertion must be checked for the signs of infection before discharge home. Swab for microbiology, culture and sensitivity if indicated and arrange for follow up inspection of the site by the patient's community midwife. Women who are discharged home on the day of the procedure should be contacted the following day by the labour ward anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "6.8.3 Women who remain in the hospital should be reviewed daily until discharge or until symptoms resolve. Verbal and written advice should be given to the women including information of when and whom to contact in the hospital, should their headache return or other symptoms develop."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "6.8.4 Patients should be educated about the red flag symptoms for when to seek medical advice, these include recurrent headache, back pain, nerve root pain, leg weakness/numbness, urinary/bowel incontinence, fever and visual/hearing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "disturbance) any patients experiencing these symptoms will need emergency re admission to the hospital. Information on Obstetric PDPH and EBP should also be given to the patients' GP and the community midwife. These patients need to be seen in the anaesthetic follow up clinic in 1-2 weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.9,
+                "text": "A second EBP is likely to be of benefit where diagnosis of obstetric PDPH is likely, other causes of headache has been excluded and the first EBP has produced some resolution of symptoms. There is insufficient evidence to the state the optimum timing of a repeat EBP in terms of efficacy and safety. If the diagnosis of obstetric PDPH is less certain or EBP has no effect on the headache or the nature of the headache has changed, discussion with other specialities including Obstetrics, Neurology and Neuroradiology should take place before the second EBP."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Staffing and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Anaesthetists practicing in the obstetric area will have had a thorough theoretical training."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "On commencement of placement in the Consultant-led Maternity Unit, anaesthetic registrars are supervised for the first 3-4 weeks, allocated daytime duties with access to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "a consultant anaesthetist during that period."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Anaesthetists performing epidurals should be aware of the guidelines for managing accidental dural puncture."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after each procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "All staff should ensure that they follow Trust guidelines on infection prevention, using Aseptic Non-Touch Technique (ANTT) when carrying out procedures i.e. obtaining blood samples and conducting epidural procedures."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Epidural procedures must be carried out in accordance with Trust policy, using full scrub, sterile gloves. The anaesthetist and the assistant require gown and mask."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Audit for this guideline will consist of a compliance audit for HSA4 forms - completion and sending to Chief Medical Officer within 14 days of the termination of pregnancy as per appendix E flowchart; this will ensure 100% compliance of notification."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for future training needs will be met using methods such as \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued to all staff with embedded icons to highlight key changes in clinical practice to include a list of newly approved guidelines for staff to acknowledge and familiarise themselves with and practice accordingly. Midwives that are on maternity leave or \u2018bank' staff have letters sent to their home address to update them on current clinical changes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Approved guidelines are published monthly in the Trust's Staff Focus that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "Regular memos are posted on the guideline and audit notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "Halpern, S H. and Douglas, J M. (2005) Evidence-Based Obstetric Anaesthesia. BMJ Books. Blackwell Publishing, Oxford."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "Knight M, Kenyon S, Brocklehurst P, Neilson J, Shakespeare J, Kurinczuk JJ (Eds.) on behalf of MBRRACE-UK. Saving Lives, Improving Mother's Care \u2013 Lessons learned to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "inform future maternity care from the UK and Ireland Confidential Enquiries into Maternal Deaths and Morbidity 2009-12. Oxford: National Perinatal Epidemiology Unit, University of Oxford 2014."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 1,
+                "text": "Headache after an epidural or spinal anaesthetic \u2013 patient leaflet http://www.rcoa.ac.uk/system/files/PI-HESA-COL-2012.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "http://www.oaaanaes.ac.uk/assets/_managed/editor/File/Info%20for%20Mothers/PDPH/ PDPH%20and%20EPB.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 120,
+            "data": {
+                "url": "08077 Accidental Dural Puncture  7.1.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Name: DOB: Address:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital Number:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Number:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Contact Number: Date:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Dear Sir/Madam,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "During a recent obstetric admission to Broomfield Hospital the above patient underwent an Epidural/Spinal anaesthetic which resulted in the complication of a post dural puncture headache."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "This patient has been assessed neurologically at regular intervals post puncture and has been deemed medically fit for discharge; they will be followed up in anaesthetic clinic in 1-2 weeks' time to assess their"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "progress. They have been prescribed simple analgesia to help control their symptoms, and attached to this letter is a copy of their recent discharge summary."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "If they present to you with no significant improvement of their symptoms, or deterioration in their headache they may need urgent radiological imaging and neurological opinion. Any neurological symptoms such as motor, bladder or bowel dysfunction will need urgent assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "If you have any concerns please contact the on-call Obstetric Consultant Anaesthetist at Broomfield Hospital for further discussion with regard to this patients care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "text": "Yours Sincerely,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "Dr \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..   Bleep \u2026\u2026\u2026\u2026\u2026\u2026.."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "Anaesthetic Clinic Telephone Number:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 1,
+                "text": "Anaesthetic Clinic Follow Up Booking Form"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Name: DOB: Address:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital Number:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Number:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Contact Number: Date of Discharge:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "The above patient requires urgent follow up in the obstetric anaesthetic clinic. Please could you book the above patient within 1-2 weeks from the date of their discharge."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "Kindest Regards,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "text": "Dr \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. Bleep: \u2026\u2026\u2026\u2026\u2026\u2026.."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

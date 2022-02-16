@@ -1,0 +1,1836 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "FASCIA ILIACA COMPARTMENT BLOCK IN THE MANAGEMENT OF CONFIRMED FRACTURED NECK OF FEMUR - INTEGRATED PAIN MANAGEMENT SERVICE (IPMS)"
+                    },
+                    {
+                        "text": "Type: Clinical Guideline Register No: 15013 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Best Practice"
+                    },
+                    {
+                        "text": "CQC Fundamental Standards:"
+                    },
+                    {
+                        "text": "11, 12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/Committee/Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Lynne Mustard"
+                    },
+                    {
+                        "text": "Pain Service Manager"
+                    },
+                    {
+                        "text": "June 2018"
+                    },
+                    {
+                        "text": "Helen Ellis"
+                    },
+                    {
+                        "text": "Pain Specialist Pharmacist"
+                    },
+                    {
+                        "text": "June 2018"
+                    },
+                    {
+                        "text": "Ed Breeze"
+                    },
+                    {
+                        "text": "Consultant Anaesthetist"
+                    },
+                    {
+                        "text": "June 2018"
+                    },
+                    {
+                        "text": "Paul Heard"
+                    },
+                    {
+                        "text": "Lead Trauma Nurse"
+                    },
+                    {
+                        "text": "June 2018"
+                    },
+                    {
+                        "text": "Clive Gibson"
+                    },
+                    {
+                        "text": "Lead Safeguarding Nurse"
+                    },
+                    {
+                        "text": "June 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Dr Tom Durcan"
+                    },
+                    {
+                        "text": "Lead Consultant for Acute Pain"
+                    },
+                    {
+                        "text": "June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Integrated Pain Management Service"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "DRAG Chairman's Action"
+                    },
+                    {
+                        "text": "Ratified on:"
+                    },
+                    {
+                        "text": "2nd August 2018"
+                    },
+                    {
+                        "text": "Trust Executive Sign Off Date"
+                    },
+                    {
+                        "text": "September 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "31st August 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Jayne Somerset, Pain CNS, IPMS"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Medical & Nursing Staff"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Hard copies to all wards & departments. Intranet & website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Policy for the Use of Medicines Severe Pain Management 06007 Local anaesthetic Peripheral Nerve blocks 12035"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "June 2015"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Jayne Somerset - Inclusion of 4.3.6 location of 20% Intralipid solution"
+                    },
+                    {
+                        "text": "31 August 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Pre procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Peri-procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Post procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1: AAGBI guidelines for Local anaesthetic toxicity management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "(Association of Anaesthetists of Gt Britain and Ireland)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 2: Competency Check list"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This guideline is designed to provide instruction and outline the management of adult patients receiving fascia iliaca compartment blocks (FICB) for a fractured neck of femur pre-operatively."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Background"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Hip fractures are common in the elderly population and have serious consequences, with a mortality rate of 10% at one month after a fall, 20% at four months and 30% at one year. 77,000 hip fractures occur in the UK annually; 65,000 in England. 95% of hip fractures occur in patients over 60; 75% occurring in females. A large percentage will have significant co-morbidities and are often taking numerous medications. In addition, they may present in A&E with acute medical problems such as chest or urine infections, or heart failure, which may well have been the cause of the fall. This group of patients are likely to be malnourished on admission and show a rapid deterioration in nutritional status during admission. Approximately 40% of this patient group will have at least a moderate degree of cognitive impairment. Untreated or undertreated pain can cause delirium in previously non-cognitively impaired patients, and can also worsen delirium in patients with existing dementia."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "50-70% of elderly patients who have sustained hip fractures report severe to very severe pain in the first 24 hours post-injury. The obvious fracture and the severe pain will limit their ability to move. This will have repercussions on being able to carry out their pressure area care, take in adequate food and fluids, and sleep due to the pain, not to mention the body's own neuroendocrine responses and compromised pulmonary function as a sequential reaction to pain. It is in this period where close attention should be focused on optimising pain control, in order to facilitate nutritional and pressure area care, and the provision of work up to get the patient fit for surgery. Surgery is the best analgesic for hip fractures, and AAGBI (2011) and the NICE (2011) guidelines on the management of hip fractures recommend that patients should be operated on within 48 hours of the injury. To re-iterate pain management needs to be optimised in this period."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Pain management in this group is challenging for various reasons; inappropriate pain assessment, a reluctance to use opioids in view of side effect profile, restriction on using NSAID's in view of the natural deterioration of renal function in the elderly along with the potential GI side effects. Fascia iliaca compartment blocks (FICB) have multiple advantages, these include minimal to no haemodynamic changes, in addition to the reduced need for opioids and therefore a reduction in the side effects they can potentially cause, especially in the elderly. They also, when given correctly, can provide great dynamic pain relief until the patient goes to theatre."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "FICB's use a lower concentration of local anaesthetic. As a result, a higher volume is required to achieve a good spread. FICB is technically less demanding, and safer in comparison to other blocks which may be used. Guided by using anatomical landmarks, it is inexpensive, and can be safely performed in A&E. It is extremely useful for analgesia of a fractured neck of femur."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Scope of Practice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "This procedure is for patients over the age of 18 years old."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "The insertion procedure is carried out by those those who have received specific training and supervision, and who have been deemed competent. These may include anaesthetists, Specialist Trauma Clinical Nurse Specialists, Specified Accident and Emergency Doctors. Assessment of competency can be found in Appendix 2."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Management pre and post procedure in section 4 are to be used by nursing and other medical staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Management of the patient receiving Fascia Iliac Block"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Pre procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.1 The fracture of the neck of femur needs to be confirmed. Patient inclusion and exclusion criteria are shown below."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 29,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Patient inclusion criteria"
+                    },
+                    {
+                        "text": "Patient exclusion criteria"
+                    },
+                    {
+                        "text": "Confirmed # neck of femur"
+                    },
+                    {
+                        "text": "Known hypersensitivity or allergy to local anaesthetics"
+                    },
+                    {
+                        "text": "Coagulopathy or therapeutic level of anti-coagulation"
+                    },
+                    {
+                        "text": "Peripheral neuropathy"
+                    },
+                    {
+                        "text": "Localised infection"
+                    },
+                    {
+                        "text": "Unable to identify patient's femoral artery"
+                    },
+                    {
+                        "text": "Previous vascular surgery altering position of arterial pathways"
+                    },
+                    {
+                        "text": "*Patient refusal (see 4.1.2)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.2 Explain procedure to the patient and the benefits of good and prolonged pain relief. Gain patient consent and document this in their medical notes. Where the patient is unable to consent please complete the MCA 2 forms covering both, consent for FICB and subsequent surgery; 2 Doctors will be required for this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.3 Be aware of, and explain potential complications of procedure to the patient and record in the notes. As with all peripheral nerve blacks these include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Intravascular injection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "text": "Local anaesthetic toxicity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "text": "Temporary or permanent nerve damage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "Infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 1,
+                "text": "Block failure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "text": "Allergy to any of the preparations used"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Overall an FICB has a very low risk profile. The location of the FICB injection means the risk of intravascular injection, local anaesthetic toxicity, and mechanical nerve damage is extremely low. Good aseptic technique will minimise the risk of infection. The injection of a large volume of local anaesthetic ensures good spread and reduces the risk of failure. The risk of local anaesthetic toxicity is highest within the first 15 minutes after injection, which makes close monitoring mandatory."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.4 Ensure patient has working intravenous (IV) access."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.5 Ensure all equipment is present before starting. This will include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "text": "Dressing pack"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 1,
+                "text": "Patient antiseptic skin prep solution"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "1-2 ml of 1% Lidocaine for skin infiltration in the awake patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "text": "Cannulas 20G, 18G, 16G"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "Appropriate block needles (Tuohy 18G epidural needle or 20G block needle)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Hartmann's solution 1 litre"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "text": "Syringes 2ml, 5ml, 10ml, 20ml x2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Small dressing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Or alternatively use the Pajunk FICB pack to the above"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Pulse oximeter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 1,
+                "text": "Local anaesthetic of choice NB. Do not exceed maximum dose of local anaesthetic (Ropivicaine / Bupivicaine max dose is 2mg/kg in any 6 hour period)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Rapid access to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Peri-procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.1 The information has been taken from the FRCA website (www.frca.co.uk) - Anaesthesia UK is an educational site with training resources for anaesthetic professionals. Please refer to hyperlink if unable to view clearly in this document or more information required http://www.frca.co.uk/Documents/193%20Fascia%20Iliaca%20compartment%20bloc k.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "In this guideline the Landmark procedure is used to identify and locate the Fascia Iliaca compartment. See Figure 1 below shows a transverse section of the patient. Patient is lying on their back. The appropriately trained will carry out the procedure."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 56,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 57,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.004.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 1,
+                "text": "Figure 1: Anatomical structures surrounding the Fascia iliaca"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 1,
+                "text": "In this anatomical drawing the fascia iliaca compartment is highlighted in the yellow colour. The first loss of resistance is felt when the fascia lata is punctured and the second loss of resistance when the fascia iliaca is penetrated. This drawing also shows the relation to the femoral vessels and the site of injection (red arrow)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2 Landmark Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "The landmarks for this block are the anterior superior iliac spine (ASIS) and the pubic tubercle of the same side. Place one middle finger on the ASIS and the other middle finger on the pubic tubercle. Draw a line between these two points. Divide this line into thirds (the index finger of both hands can be used, Fig 2a). Mark the point 1cm caudal from the junction of the lateral and middle third. This is the injection entry point (Fig 2b and c)."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 62,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "text": "Figure 2a. The injection site for a right-sided FICB. Divide a line between the ASIS and pubic tubercle (PT) into thirds. The left index finger marks the junction of the lateral and middle third of the line joining ASIS with PT."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 64,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 1,
+                "text": "Figure 2b. Right-sided FICB. Injection entry point is approximately 1 cm caudad from the junction of lateral and middle third, indicated by left index finger."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 66,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.007.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "text": "Figure 2c. Landmarks projected onto the skin: Right anterior superior iliac spine (ASIS) and pubic tubercle, with the inguinal ligament as the linking line. The femoral arterial pulse is palpable near the point where the medial and middle third of inguinal ligament meet; the femoral artery is drawn as a solid line. Estimated position of the femoral nerve =dotted line lateral to artery. The injection point is just caudad to the point where the middle and lateral third of the inguinal ligament meet (marked X)."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 68,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.008.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "text": "Figure 3. Computer-generated view of the needle insertion sites for a right-sided (1) Femoral nerve block, (2) Fascia iliaca compartment block and (3) Lateral femoral cutaneous nerve block. The fascia lata has been partially removed to reveal the Sartorius muscle and the fascia iliaca. The image from a computer-generated model in Fig 4 shows that the needle insertion point (2) lies approximately halfway between the femoral and LFCN allowing local anaesthetic to spread and block these two nerves. Due to muscle bulks separating the obturator nerve from the other two nerves, blockade of the obturator nerve with a single injection during a FICB is at best unreliable, despite its location within the same anatomical compartment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2 Performing a FICB"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "text": "Prepare syringe containing LA, attach to the blunt/short-bevelled needle and flush the needle."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 1,
+                "text": "Identify the landmarks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "text": "Palpate the ipsilateral femoral pulse at the level of your planned injection site. The pulse should be palpable 1.5 to 2 cm medial to the intended injection point to ensure a safe distance from the femoral nerve to avoid femoral nerve impalement."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 1,
+                "text": "Prepare the skin and infiltrate skin and deeper tissues with 1% Lidocaine in the awake patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 1,
+                "text": "Using a blunted or short-bevelled needle pierce the skin at a right angle to its surface."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 1,
+                "text": "Once through the skin adjust the needle angle to about 60 degrees directing the tip cranially."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 1,
+                "text": "Keep the needle in the sagittal plane to avoid the major vessels (medially) and peritoneal cavity (cranially)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "text": "Advance the needle through two distinct \u201cpops\u201d as it perforates first the fascia lata, then the fascia iliaca (the latter of which gives a more subtle \u201cpop\u201d)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 1,
+                "text": "Reduce the angle between needle and skin surface to about 30 degrees and advance the needle further 1-2 mm."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 1,
+                "text": "Aspirate before injection and after every 5 ml injected."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 1,
+                "text": "If aspiration is negative, start injecting the local anaesthetic. There should be no resistance to injection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 1,
+                "text": "If there is, the needle tip is likely to be within iliacus muscle. In this case withdraw slightly until injection is easy. There should be no pain or paraesthesia on injection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 1,
+                "text": "Inject, approximately 20mls slowly, aspirating every 5mls, then change the syringe and inject the remaining volume. It is common to observe some of the injected fluid coming back through the needle during syringe change (Fig 4)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 1,
+                "text": "If a block needle with an injection port is used, you may not see LA returning."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 85,
+            "data": {
+                "url": "15013 Fascia Iliaca Block Anaesthesia 2.0.009.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 1,
+                "text": "Figure 4. Cannula (Contiplex, BBraun, Melsungen, Germany) in position for right FICB, a drop of local anaesthetic is emerging following disconnection of syringe."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 1,
+                "text": "Key points:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "Draw a line between ASIS and pubic tubercle, divide into thirds"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "Needle insertion is 1cm caudad to junction between lateral and middle third"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "With blunt needle feel two pops"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "After negative aspiration, inject local anaesthetic slowly aspirating every 5mls"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.3 Where the Landmark technique cannot be applied, for example in the obese patient, an ultrasound guided FICB may be required. When this is required the anaesthetist on call will need to be contacted."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.4Where the patient may require repeated injections of LA an indwelling catheter maybe inserted. This may only be carried out by an appropriately trained anaesthetist, they will need to be contacted through the on-call service."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.5  Troubleshooting"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 95,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Problem Suggested"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "No distinct pops are felt during needle advancement"
+                    },
+                    {
+                        "text": "Withdraw the needle, check landmarks, change angle to be more perpendicular or more cranially"
+                    },
+                    {
+                        "text": "Hitting bone on needle advancement"
+                    },
+                    {
+                        "text": "Too deep, change angle directing more cranially"
+                    },
+                    {
+                        "text": "Blood on aspiration"
+                    },
+                    {
+                        "text": "Remove needle, apply pressure to needle insertion site for 2 minutes. Re-attempt, directing more laterally"
+                    },
+                    {
+                        "text": "Resistance to injection of local anaesthetic"
+                    },
+                    {
+                        "text": "Slightly withdraw the needle as it may be positioned in muscle tissue"
+                    },
+                    {
+                        "text": "Pain on injection"
+                    },
+                    {
+                        "text": "Localised slight burning sensation around the injection site is normal - slow your injection rate to ease it."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 96,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Severe pain is not normal \u2013 stop injecting if this occurs"
+                    },
+                    {
+                        "text": "Signs of local anaesthetic toxicity (circumoral numbness, tinnitus, dizziness, seizure)"
+                    },
+                    {
+                        "text": "Stop injecting, call for help, give high flow oxygen, provide life support as required"
+                    },
+                    {
+                        "text": "No pain relief within 30 minutes"
+                    },
+                    {
+                        "text": "Inject further 20 ml of low concentration local anaesthetic, consider alternatives for pain relief. Do not give greater than the maximum dose in any 6 hour period."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Post procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 1,
+                "text": "4.3.1 Inform the nursing staff the block has been carried out. All nursing and medical staff need to know the signs of local anaesthetic toxicity and what to do in the event of this occurring. Observations are to start immediately post FICB. Observations include blood pressure, pulse, respiratory rate, and oxygen saturation levels, in addition to signs of LA toxicity. These observations are to be taken immediately post procedure, and then every 5 minutes for the next 30 minutes, then every 15 minutes for the next hour post FICB. If unintentional IV administration occurs LA toxicity will occur immediately. LA toxicity due to overdose can be generally picked up within 30 minutes post bolus however it is possible for toxicity to occur after this time, therefore continued vigilance is required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "text": "PRESENTATION CAN BE VARIABLE. Seizures are the most common presenting symptom. Less than 20% of patients present with signs of early / mild toxicity. High level of vigilance is required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 1,
+                "text": "4.3.2 Early / mild toxicity symptoms include"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "Confusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "Vagueness / restlessness"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "Metallic taste"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "Twitching"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "Auditory changes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "Tingling or numbness in and / or around the mouth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "Dizziness or feeling light-headed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient may not divulge these symptoms so always ask if they experience any of the above and ask the patient to let a member of medical staff know immediately if they occur."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 1,
+                "text": "4.3.3 Severe Toxicity (Local anaesthetic systemic toxicity - LAST) symptoms"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "text": "From central nervous system (CNS) excitability the patient may experience seizures progressing to CNS depression (coma, respiratory arrest)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "In classic descriptions of LAST (Local anaesthetic systemic toxicity) cardiac toxicity does not precede CNS toxicity. However where LAST is due to accidental intravascular injection, these CNS symptoms maybe bypassed; seizure activity may progress quickly to cardiac excitation (hypertension, tachycardia, ventricular arrthymias)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "In higher blood concentrations, cardiac excitability may be followed by cardiac depression (bradycardia, asystole, decreased contractility, and hypotension)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 1,
+                "text": "4.3.4 The management of LAST are appendixed. These are the guidelines set out by the Association of Anaesthetists of Great Britain and Ireland (AAGBI) in 2010. They are the most up to date guidelines for the treatment of LAST. Management consists of Recognition, Immediate management, Treatment, and Follow-up. Can be found in Appendix 1 or use the hyperlink http://www.aagbi.org/sites/default/files/la_toxicity_2010_0.pdf and http://www.aagbi.org/sites/default/files/la_toxicity_notes_2010_0.pdf or view in the MEHT Continuous Peripheral Nerve blocks (12035) guideline which can be found on the intranet. For the infusion of Intravenous Lipid emulsion, which is used in LAST, there is not a set regime for the MEHT Trust. The hyperlinks above show details of suggested infusions by the AAGBI. This is not a standard of medical care. The ultimate judgement with regard to a particular clinical procedure or treatment plan must be made by the clinician in the light of the clinical data presented and the diagnostic and treatment options available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "4.3.5 Document in patient's medical notes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "text": "Consent gained; inclusion of MCA 2 if required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "Record of procedure; time, local anaesthetic used and dose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre and post block pain scores; Abbey Pain scores where the patient is cognitively impaired"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Request for vital signs observations post procedure; frequency and duration"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "4.3.6 Intralipid 20% solution is stocked in the following areas if required. A&E Majors, Main theatres drug room, Neonatal unit, Day stay theatre, and Burns ICU."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Staff and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "The Fascia Iliaca compartment block can only be carried out by trained and appropriately assessed staff. This would include those who have had specific training in FICB insertion. The staff carrying out the FICB procedure must have intermediate life skills training. Training within A & E will be given separately, either individually or through audit meetings held within the unit. Training for insertion can be given by Dr Ed Breeze, or Dr Tom Durcan."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "The guideline also covers nursing staff managing patients who have received a fascia iliaca compartment block. They must have the appropriate knowledge and clinical skills to provide safe, evidence based care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "All medical and nursing staff need to be aware of local anaesthetic toxicity signs and symptoms and be able to respond to correct this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The infection prevention practice within MEHT is for all staff to have strict hand hygiene before and after patient contact."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "FICB is carried out aseptically."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Aprons and gloves to be worn as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Non-Compliance with this Guideline"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Non-compliance to the guideline leads to suboptimal pain relief for the patient and may leave them in unnecessary distress. In the event of this occurring, a Datix form must be completed for each event of non-compliance with this guideline which must be forwarded to the Trust Risk Manager."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Individual incidents of non-compliance are addressed by the Pain Service immediately, and risk assessments done as indicated."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Ensuing actions are undertaken by the Pain Service to ensure omissions and errors are brought to the attention of the appropriate person(s) and to reduce the risk of repeat: i.e. training and education or system reviews."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Communication and Implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Corporate services will ensure that the guideline is uploaded to the intranet and the website and notified to staff via Focus."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "The IPMS will post quarterly bulletins to all Trust staff via Focus."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "All link nurses will be informed of updated guidelines at regular meetings for them to disseminate to their areas/wards."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "Medical staff will be informed of revised guidelines via senior medical staff within the IPMS at audit meetings. Newly appointed anaesthetic trainees will receive written information in their induction pack."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "Range,C and Egeler,C \u2018Fascia Iliaca Compartment Block: LANDMARK AND ULTRASOUND APPROACH' ANAESTHESIA TUTORIAL OF THE WEEK 193 23rd AUGUST 2010 Taken from www.frca.org.uk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "Layzell,M. \u2018Exploring pain management in older people with hip fracture' NursingTimes (20) January 2009 Vol 105 No 2 pages 20-23"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 1,
+                "text": "Association of Anaesthetists of Great Britain and Ireland. Management of proximal femoral fractures 2011. Anaesthesia 2012; 67: pages 85-98. This guideline can be viewed online via the following URL: http://onlinelibrary. wiley.com/doi/10.1111/j.1365-2044.2011.06957.x/abstract"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "The National Institute for Health and Clinical Excellence. Clinical Guideline 124. The management of hip fracture in adults. 2011. http://www.nice.org.uk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: AAGBI guidelines for Local anaesthetic toxicity management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "http://www.aagbi.org/sites/default/files/la_toxicity_2010_0.pdf  http://www.aagbi.org/sites/default/files/la_toxicity_notes_2010_0.pdf"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 145,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "AAGBI Safety Guideline Management of Severe Local Anaesthetic Toxicity"
+                    },
+                    {
+                        "text": "Sudden alteration in mental status, severe agitation or loss of consciousness, with or without convulsions Cardiovascular collapse: sinus bradycardia, conduction blocks, asystole and ventricular tachyarrhythmias may all occur Local anaesthetic (LA) toxicity may occur some time after an initial injection"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stop injecting / infusing the local anaesthetic Call for help, if unresponsive start resuscitation procedures Maintain the airway and, if necessary, secure it with a tracheal tube Give 100% oxygen and ensure adequate lung ventilation (hyperventilation may help by increasing plasma pH in the presence of metabolic acidosis) Confirm or establish intravenous access Control seizures: give a benzodiazepine, thiopental or propofol in small incremental doses Assess cardiovascular status throughout Consider drawing blood for analysis, but do not delay definitive treatment to do this"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Start cardiopulmonary resuscitation (CPR) using standard protocols Manage arrhythmias using the same protocols, recognising that arrhythmias may be very refractory to treatment Consider the use of cardiopulmonary bypass if available Give intravenous lipid emulsion (following the regimen below) Continue CPR throughout treatment with lipid emulsion Recovery from LA-induced cardiac arrest may take >1 h Propofol is not a suitable substitute for lipid emulsion Lidocaine should not be used as an anti-arrhythmic therapy"
+                    },
+                    {
+                        "text": "Use conventional therapies to treat: hypotension bradycardia tachyarrhythmia Consider intravenous lipid emulsion(following the regimen below) Propofol is not a suitable substitute for lipid emulsion Lidocaine should not be used as an anti-arrhythmic therapy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Arrange safe transfer to a clinical area with appropriate equipment and suitable staff until sustained recovery is achieved Exclude pancreatitis by regular clinical review, including daily amylase or lipase assays for two days Report cases as follows: in the United Kingdom to the National Patient Safety Agency (via www.npsa.nhs.uk) If Lipid has been given, please also report its use to the international registry at www.lipidregistry.org. Details may also be posted at www.lipidrescue.org"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 1,
+                "text": "Clinical competency assessment sheet"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 149,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Name of Assessor:"
+                    },
+                    {
+                        "text": "Designation:"
+                    },
+                    {
+                        "text": "Designation:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Date:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinician carrying out the FICB has been taught by Dr Tom Durcan or Dr Ed Breeze and has the correct level of knowledge and has been deemed competent to carry out this procedure."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 151,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Witnessed FICB"
+                    },
+                    {
+                        "text": "Supervised FICB 1"
+                    },
+                    {
+                        "text": "Supervised FICB 2"
+                    },
+                    {
+                        "text": "Supervised FICB 3"
+                    },
+                    {
+                        "text": "Supervised FICB 4"
+                    },
+                    {
+                        "text": "Supervised FICB 5"
+                    },
+                    {
+                        "text": "Details of FIBC:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Details of candidate feedback:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Details of assessor feedback:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Assessors name:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Assessors designation:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Signature:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "If at any time the clinician carrying out the Fascia iliaca compartment block does not feel competent to carry out the procedure, support can be given through further teaching by Dr Tom Durcan or Dr Ed Breeze."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": ""
+            }
+        }
+    ]
+}

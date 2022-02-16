@@ -1,0 +1,700 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP018 Pathway Referral Management Induction Training"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Digital Services"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "Operations"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP018"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Pathway Referral Management Induction Training"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Jordan Adebiyi"
+                    },
+                    {
+                        "text": "Training and Engagement Mgr"
+                    },
+                    {
+                        "text": "19/10/2019"
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": "Andy Millward"
+                    },
+                    {
+                        "text": "Change and Engagement Mgr"
+                    },
+                    {
+                        "text": "22/10/2019"
+                    },
+                    {
+                        "text": "Authoriser"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Director Service Improvement"
+                    },
+                    {
+                        "text": "31/10/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Joe Hayward"
+                    },
+                    {
+                        "text": "Director of Operation"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "TBC"
+                    },
+                    {
+                        "text": "HR"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "05/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "05/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "22/10/2019"
+                    },
+                    {
+                        "text": "04/12/2022"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "19/10/2019"
+                    },
+                    {
+                        "text": "Pathway Referral Management RTT"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "22/10/2019"
+                    },
+                    {
+                        "text": "Updated overview Reporting information details"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "05/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Abisola Ogunyemi, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers / Assistant SM / Coordinators / Ward managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Debra Mead, Abbi Simpson"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 9,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 10,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 12,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline the principles of Incorporating Pathway Referral Management for new Inductees to the trust."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Document the process for issuance of smart card to operational staffs attending the induction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline to guide against new inductees non-completion of the Pathway Referral Management and the e-learning module"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Document process required for confirmation of those that completed the e-learning and not the face to face induction training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for accurate data quality coding and validation of patient Pathway"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Pathway Referral Management RTT supports a structured and process driven approach to managing accurate data quality, coding and trust reporting system."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "An incorrect Pathway referral management (RTT) entry can distort a patient pathway journey from admission to discharges, which includes outcomes that triggers a clock start, clock stop, monitoring and self-discharges etc. A clinic outcome also determines the RTT clock a patient pathway inherits and this must be carried out in the correct sequence or a number of data quality errors can occur. In view of above, the trust has mandated that all operational staffs should complete the e-learning training on line and Pathway management raining at induction in lieu of the e-learning."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 All Operational staff (Administrative \u2013 Ward clerks, Nurses, booking teams - Admissions & discharges, Nurses, Doctors and Consultants)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure \u2013 Pathway Referral Management (RTT)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "This SOP does describe the prioritisation of patient pathway referral management, both the process and expectations of each newly inducted staff member joining the trust in operational area as described above."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "ESR list of new inductees when received from HR is used in preparation for the Pathway Referral Management training materials."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "At the induction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "Staff attends a 30 minutes Pathway Referral Management RTT training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Any new inductee who misses the training would have to demonstrate completion of the online e-learning module to the RA team with a printed copy of the certificate of completion before a smartcard is issued."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "The RA team are to request a confirmation of attendance from the training team every induction training days. Once a staff member details has been confirmed they would be issued with the smart card."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "If \u2018new inductee' have not attended the face to face induction training but have completed the online e-learning module and unable to print the certificate to demonstrate completion of the e-learning module, then the RA team would contact the digital services / Digital Learning Solutions for confirmation of attendance."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 32,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Pathway Management Training Sessions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "These sessions are for all staff in operational areas and will provide a refresher on the Elective care pathways and how the Trust's EPR (Lorenzo) can support clinical and administrative staff in delivering better patient care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "If used to its full potential, the Lorenzo EPR system can help in delivering the benefits that will make working lives easier and provide information needed to support high-quality clinical-led decision making."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.0,
+                "text": "It is important that you attend these sessions as the appropriate recording and managing patients  week pathway support the Trusts in meeting patients' needs more effectively."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "The Pathway Referral Management (RTT) training sessions will be held at the MAU Lecture theatre room."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "The training sessions will be held in the afternoon, when every other operational area inductees would have completed their session."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "All the training sessions will incorporate how we apply RTT rules and codes managing patient's 18 week pathway in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 42,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Steps"
+                    },
+                    {
+                        "text": "Requirement"
+                    },
+                    {
+                        "text": "Training"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "owner"
+                    },
+                    {
+                        "text": "Step 1"
+                    },
+                    {
+                        "text": "ESR list of new inductees received by the Training team"
+                    },
+                    {
+                        "text": "Pathway Referral Management"
+                    },
+                    {
+                        "text": "Prepare required training materials"
+                    },
+                    {
+                        "text": "HR / Training Team"
+                    },
+                    {
+                        "text": "Step 2"
+                    },
+                    {
+                        "text": "Pathway Referral Training"
+                    },
+                    {
+                        "text": "RTT"
+                    },
+                    {
+                        "text": "Face to face training and taking attendance"
+                    },
+                    {
+                        "text": "Training Team"
+                    },
+                    {
+                        "text": "Step 3"
+                    },
+                    {
+                        "text": "Issue Smart Cards"
+                    },
+                    {
+                        "text": "Confirmed attendee list submitted to RA team/central location"
+                    },
+                    {
+                        "text": "Confirmation of Attendance sheet accessed on a central folder or directly from the training team"
+                    },
+                    {
+                        "text": "RA"
+                    },
+                    {
+                        "text": "Step 4"
+                    },
+                    {
+                        "text": "Issue Smart Cards"
+                    },
+                    {
+                        "text": "Non attendee at the face to face training"
+                    },
+                    {
+                        "text": "Confirmation of e- learning module via submission of certificate of completion."
+                    },
+                    {
+                        "text": "RA"
+                    },
+                    {
+                        "text": "Step 5"
+                    },
+                    {
+                        "text": "Issue Smart Cards"
+                    },
+                    {
+                        "text": "Non attendee at the face to face training but completed the e-learning module unable to print certificate of completion"
+                    },
+                    {
+                        "text": "Confirmation request of e- learning module completion details from the Digital services list/ Digital learning Solution"
+                    },
+                    {
+                        "text": "RA/Digital Services/ Digital Learning Solutions"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 43,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 44,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:   A staff smart card access can be restricted if it is noted that the staff continuously commits errors."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 46,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "See SOP on \u2018Booking follow up care activities following discharge from Inpatient' for further"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "information."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 49,
+            "data": {
+                "url": "MEHTSOP018 Pathway Referral Management Induction Training 1.1.003.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2440 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "POCT \u2013 Urine Pregnancy Test Policy"
+                    },
+                    {
+                        "text": "Type: Clinical Guideline Register No: 12018 Status: Public on ratification"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Best practice"
+                    },
+                    {
+                        "text": "Contributes to CQC Outcome:"
+                    },
+                    {
+                        "text": "4"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With"
+                    },
+                    {
+                        "text": "Post/Committee/Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Point of Care Testing Group"
+                    },
+                    {
+                        "text": "27/02/18"
+                    },
+                    {
+                        "text": "Jolanta Roszkowska"
+                    },
+                    {
+                        "text": "Senior BMS Biochemistry"
+                    },
+                    {
+                        "text": "27/02/18"
+                    },
+                    {
+                        "text": "Professionally Approved By"
+                    },
+                    {
+                        "text": "Dr Emily Leach, Consultant Biochemist"
+                    },
+                    {
+                        "text": "27/02/18"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Diagnostics & Therapies"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "DRAG Chairmans Action"
+                    },
+                    {
+                        "text": "Ratified on:"
+                    },
+                    {
+                        "text": "2nd August 2018"
+                    },
+                    {
+                        "text": "Trust Executive Board Date"
+                    },
+                    {
+                        "text": "September 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "28 August 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "J Roszkowska, Pathology"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "All Nursing staff and healthcare professionals undertaking Pregnancy POCT"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet & Website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "17001 Point of Care Testing Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Authored/Reviewed by"
+                    },
+                    {
+                        "text": "Issue Date"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "12/6/12"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Clarke \u2013 to reflect change from 6-monthly competency assessment to yearly."
+                    },
+                    {
+                        "text": "13/02/2013"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "L Hennessy - Invitech timing of test changed from 3 min to 5min. Invitech test limitation comment added regarding UTI."
+                    },
+                    {
+                        "text": "17/10/2014"
+                    },
+                    {
+                        "text": "1.3"
+                    },
+                    {
+                        "text": "L Hennessy \u2013 use of readers for urine pregnancy POCT (A&E only)"
+                    },
+                    {
+                        "text": "09/12/2014"
+                    },
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "L Tilbrook \u2013 annual update and changes to A&E"
+                    },
+                    {
+                        "text": "01/03/2016"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "J Roszkowska \u2013 annual update"
+                    },
+                    {
+                        "text": "28 August 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendices"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Laboratory Procedure/communication if incorrect NEQAS result returned"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this policy is to provide guidance to staff to ensure that tests to detect pregnancy are effectively undertaken to facilitate high quality patient care in accordance with the requirements of Clinical Pathology Accreditation, Care Quality Commission and the NHS Litigation Authority."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "It provides information on the initial training required before a member of staff is authorised to perform the test and the subsequent annual competency checks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "It details the procedure for performing the test and the performance of the External Quality Control [NEQAS] and the electronic returning of the NEQAS results."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "It details the procedure that the laboratory will follow should they receive notification from NEQAS that the user has either returned an incorrect NEQAS result or results has not been submitted for a given distribution."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This Policy applies to all Pregnancy POCT performed at any MEHT site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "All nursing and other healthcare professionals undertaking POCT Pregnancy testing must adhere to the principles described in this Policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.3,
+                "text": "Accreditation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust is adhering to MHRA guidance and are working towards ISO 22870: 2016."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.1,
+                "text": "Invitech Pregnancy test kit (Manual cassette used by the Trust)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "This is a single test kit for urinary pregnancy test supplied in boxes of 40 by the Clinical Biochemistry Department, Broomfield Hospital."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "One Step Ultra Pregnancy Test Device is a rapid chromatographic immunoassay for the qualitative detection of human chorionic gonadotropin (hCG) at a concentration of 10 mlU/ml or above in urine to aid in the detection of pregnancy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.2,
+                "text": "BioSign\u00aeRChCG pregnancy test kit (Reader cassette used by A&E only)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "This is a single test kit for urinary pregnancy test supplied in boxes of 35 by the Clinical Biochemistry Department, Broomfield Hospital"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "BioSign\u00aeRChCG pregnancy test employs a solid-phase, chromatographic immunoassay technology to detect elevated levels of hCG in urine with a high degree of sensitivity. The hCG levels greater than or equal to 25 mIU/ml are reported as positive"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.3,
+                "text": "NEQAS QC material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "The National External Quality Assurance Scheme [NEQAS] distributes Quality Control [QC] samples on a monthly cycle. It is a requirement that all examinations are subjected to external quality assurance and the Trust has agreed to conform by registering all POCT sites with this NEQAS scheme. The laboratory is required to provide evidence of compliance and satisfactory performance for each site [Ward or Clinic] undertaking near patient pregnancy testing to the inspection team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles and Responsibilities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Chief Executive"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "The Chief Executive is responsible for ensuring that systems are in place to ensure safe and effective Pregnancy POCT. This responsibility is delegated to the Chief Nurse."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Chief Nursing Officer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "The Chief Nursing Officer is responsible for ensuring that systems are in place to comply and monitor all training, QC and competency assessments to provide a safe and effective Pregnancy POCT service."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Lead Nurses"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "The Lead Nurses are responsible for the implementation of this policy within their areas of responsibility and for cascading the training to their teams and ensuring that training records are maintained with competency re-assessed on a yearly basis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Biochemistry Clinical Scientist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "The Biochemistry Clinical Scientist is responsible for the laboratory aspects of the Pregnancy POCT service. The day to day management of this service is delegated to the Immunology Senior Biomedical Scientist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Biochemistry Senior Biomedical Scientist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "The Biochemistry Senior Biomedical Scientist is responsible for the day to day management of the Pregnancy POCT service and ensuring distribution of the NEQAS QC material. All NEQAS reports received are reviewed by the Senior Biomedical Scientist and the Clinical Scientist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Healthcare Professionals"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "All Nursing and other Healthcare professionals, who undertake Pregnancy POCT must adhere to this policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Full training on the performance of the test will be provided for two senior staff members [normally Sister or Staff Nurse] from the ward or clinic by senior staff from the Biochemistry Department, Broomfield Hospital. The Sister or Staff Nurse will then be expected to cascade the training to other members of their nursing team who will be undertaking testing [Grade: Registered Nurses and above]."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "The following key areas will be covered during the training session:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "Levels of hCG vs weeks/months gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "How the test works"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Sample required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Technique for performing the test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Reading test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Quality control \u2013 Internal and External QC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Recording of results/log book"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Test limitations"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Shelf life"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Point of contact"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "It is essential that any staff member authorised to perform Pregnancy POCT has a regular training refresher/update and a Competency assessment performed every year. Staff will only be authorised to continue performing Pregnancy POCT on successful completion of this competency assessment (see appendix 1)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Senior Biochemistry staff will provide a yearly refresher/update/competency assessment session for the designated trainers from each of the clinical areas authorised to perform pregnancy POCT, it will then be the responsibility of the designated trainers to cascade the training refresher/update sessions and perform a competency check for all members of their team authorised to perform pregnancy POCT."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "A copy of the individual staff competency sheet for those authorised to perform the pregnancy testing must be maintained by the clinical area and updated every year. A copy of the yearly updated competencies must also be sent to the Biochemistry Department as required evidence for Pathology and Trust CQC and NHSLA inspections."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Equipment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "Pregnancy test kit (stored in a secure location)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "Electronic timer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Disposable gloves"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Electronic countdown timer for accurate measurement of 5 minutes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Urine Pregnancy Test procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Principle of examination"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "hCG is a glycoprotein hormone produced by the developing placenta shortly after fertilization. In normal pregnancy, hCG can be detected in urine as early as 7 to 10 days after conception. This test qualitatively detects the presence of hCG in urine at"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "the sensitivity of 10 mIU/mL for Invitech and 25 mIU/ml for BioSign\u00aeRChCG. The test uses a combination of antibodies including a monoclonal hCG antibody to selectively detect elevated levels of hCG. The control line is composed of goat polyclonal antibodies and colloidal gold particles. The specimen migrates via capillary action along the membrane to react with the coloured conjugate. Positive specimens react with the specific antibody-hCG coloured conjugate to form a coloured line at the test line region of the membrane. Absence of a coloured line suggests a negative result. A procedural control line should appear in the control line region indicating that the proper volume of specimen has been added and the membrane wicking has occurred."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Hazards and safety precautions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Handle all human and animal products as potentially hazardous."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 70,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "REAGENTS"
+                    },
+                    {
+                        "text": "Product Number"
+                    },
+                    {
+                        "text": "Data Sheet"
+                    },
+                    {
+                        "text": "COSHH Code"
+                    },
+                    {
+                        "text": "Hazards"
+                    },
+                    {
+                        "text": "Test device"
+                    },
+                    {
+                        "text": "INV-FHC-U102"
+                    },
+                    {
+                        "text": "DOC143"
+                    },
+                    {
+                        "text": "RC-400-003"
+                    },
+                    {
+                        "text": "Non-hazardous"
+                    },
+                    {
+                        "text": "Positive control"
+                    },
+                    {
+                        "text": "DPT-101-5"
+                    },
+                    {
+                        "text": "DOC915"
+                    },
+                    {
+                        "text": "RC-400-030"
+                    },
+                    {
+                        "text": "Non-hazardous"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.3,
+                "text": "Specimen requirements and means of identification"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "Preferably an early morning concentrated urine."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "text": "Samples must be collected into plain sterile urine bottles, DO NOT use those containing boric acid or other preservative."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Urine collected into non-sterile containers must NOT be sampled and must be repeated using the correct plain sterile urine bottles."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "If specimen is very turbid or blood stained allow this to settle before sampling, as only clear urine above the sediment should be used, alternatively send the specimen to the laboratory for centrifugation and testing."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.0,
+                "text": "Samples for testing should be at room temperature (15 \u2013 28C)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.4,
+                "text": "Calibration"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "The test has been standardised to the W.H.Oth international standard (WHO STD.REF 75/589)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.5,
+                "text": "Procedure / instructions for performance of the test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 1,
+                "text": "(A&E staff please refer to appendix 4: Use of urine pregnancy POCT readers"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 1,
+                "text": "using the BioSign\u00aeRChCG kit)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Bring samples and test device to room temperature"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Open one Invitech cassette per patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Set timer for 5 minutes, start the timer when the patient's urine has been dropped onto test device"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "Using the pipette supplied in each pack, hold vertically and transfer 3 drops of patient's urine slowly into the sample well of appropriate test cassette, (avoid trapping air bubbles in the specimen well), start timer"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "Read the test at 5 minutes, do not interpret after 10 minutes, repeat the test if the timer exceeds 10 minutes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.6,
+                "text": "Interpretation of Results"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "For the results to be valid a control line must be present."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 1,
+                "text": "Negative: If one red line appears in the Control (C) line region with no band seen in the Test (T) line region this is a negative."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 1,
+                "text": "Positive: If two red lines appear, one in the Control (C) line region and one in the Test (T) line region this is a positive result."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 1,
+                "text": "Invalid: If no lines appear, or a Test line appears without a Control line the device reagents may have deteriorated or the test may not have been performed correctly. The presence of a Control Band is necessary to validate test performance. Repeat the sample with a new device."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.7,
+                "text": "Limitations / pitfalls of the examination"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "This test is a qualitative test; therefore, neither the quantitative value nor the rate of increase in hCG can be determined by this test."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Very dilute urine samples may not contain representative levels of hCG, if pregnancy is suspected repeat the test using an early morning urine specimen."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Very low levels of hCG (<50 mIU/mL) are present in urine samples shortly after implantation. However, as a significant number of first trimester pregnancies terminate for natural reasons, a test result that is weakly positive should be confirmed by retesting with an early morning sample 48 hours later."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "False positives may occur in trophoblastic disease and in certain non-trophoblastic neoplasm's including breast cancer, and lung cancer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "In rare cases, patients with a serious UTI (with high levels of WBC, RBC and nitrite) can give false positive urine pregnancy test results. If a UTI is suspected, request a serum beta-hCG test from the biochemistry laboratory."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "False negatives may occur when the levels of hCG are below the sensitivity level of the test."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "The test provides a presumptive diagnosis for pregnancy. A physician should only make a confirmed pregnancy diagnosis after all clinical and laboratory findings have been evaluated."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.8,
+                "text": "Performance criteria"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 1,
+                "text": "7.8.1 Invitech One Step hCG Urine Pregnancy Test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "Sensitivity: of this test is 98.8% (manufacturer's data)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "Specificity: The test has no cross-reactivity with human LH, TSH or FSH (manufacturer's data)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "Interference: No interference with the expected results was observed from any of the following substances at the indicated concentrations:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "Acetaminophen 20 mg/dL  Haemoglobin 1 mg/dL Caffeine 20 mg/dL  Albumin 20 mg/ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "Ascorbic acid 20 mg/dl  Gentisic Acid 20 mg/dL Glucose 2 g/dL  Acetylsalicylic Acid 20 mg/dl Atropine 20 mg/ml  Tetracycline 20 mg/dl"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "Ampicillin 20 mg/d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 1,
+                "text": "7.8.2 BioSign\u00aeRChCG Urine Pregnancy Test"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "Sensitivity: of this test is 99.4% at hCG concentration 25 mIU/ml (manufacturer's data)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "text": "The assay is free from interference with other commonly known homologous hormones LH,FSH or TSH"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "Acetaminophen 20 mg/dL  Haemoglobin 1mg/dL Caffeine 20 mg/dL  Albumin 20 mg/ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "Ascorbic acid 20 mg/dl  Gentisic Acid 20 mg/dL Glucose 2000 mg/dL  Acetylsalicylic Acid 20 mg/dl Atropine 20 mg/ml  Tetracycline 20 mg/dl"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "Ampicillin 20 mg/d  Ketones 100 mg/dL Phenothiazine 20 mg/dL  Acetylsalicylic Acid 20 mg/dL Salicylic Acid 20 mg/dL  Bilirubin 1 mg/dL"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.9,
+                "text": "Recording of results"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "text": "7.9.1 The patient result should be entered into the Pregnancy Test Logbook (hardback/bound book stored in a secure location), all columns must be completed, with date, patients surname, patient's first name, DOB or hospital number, test result, signature and printed name of person performing the test & batch number of the kit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "Log books must be kept for 30 years."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "7.9.2 The result must also be recorded in the patient's notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "7.9.3 Once the test is complete and any required checks undertaken the samples and pregnancy test devices should be discarded into the clinical waste bin."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Quality control procedures"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Test control position"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Each test cassette has a control line (C) region \u2013 it is important to check that a coloured line has appeared in the control position. If no lines appear, or a test line appears without a control line the reagents in the cassette may have deteriorated or the test may have been performed incorrectly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "The presence of a Control line is necessary to validate test performance."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "If no control line appears repeat the test."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "External quality assessment (NEQAS Samples)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "It is a requirement that all examinations are subjected to external quality assessment. The Trust has committed to evidence compliance by registering all POCT testing sites with the UK NEQAS scheme."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "NEQAS samples for Pregnancy Testing are sent out every month and samples are distributed to the POCT sites by the Biochemistry Department (POCT team)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "The results are returned electronically using the website https://results.ukneqas.org.uk as described in section 9.0."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Returning/ Entering NEQAS Results electronically"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "The website address is https://results.ukneqas.org.uk."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "On the first page you will be asked for your user name and password, these have been issued to each POCT site performing pregnancy tests"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "text": "Once the lab code and password have been accepted, the first page displayed will be similar to the one shown below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 132,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.002.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "The report button allows you to download a report from a previous distribution. Select the distribution number first before clicking Report"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "You can now enter results by clicking on the results box for the scheme you require i.e. pregnancy testing, the selector automatically defaults to the latest distribution; therefore this should not need to be changed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "The next page displayed can be seen below"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 136,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.003.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Enter each result into the appropriate field using the drop down menu below the sample numbers. Select Positive, Negative or equivocal. To move to the next field click into it using the mouse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Enter the date of receipt of the specimens in the format dd/mm/yy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "The comments area can be used to free text a message if required, in this instance enter the kit lot number"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 1,
+                "text": "When you are happy with the entries click the submit button. If you exit the page without submitting the results will be lost."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "text": "A successful submission will be displayed on this page and this should be printed for your own record. ."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "Results must be submitted by the closing date and entered into logbook. After the closing date it will not be possible to submit your results."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "If you have any problems contact Biochemistry (POCT team) on ext 4152."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Audit and Compliance Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.1,
+                "text": "The following aspects of compliance will be monitored by the Biochemistry Laboratory on a monthly basis and audited on a yearly basis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "text": "Performance and result returns of monthly NEQAS samples"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "Yearly competency checks as detailed under the training section for all designated trainers from each of the clinical areas authorised to perform pregnancy POCT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "Monthly Ward/Clinical area visit to check security of Pregnancy POCT log book, performance/recording of monthly NEQAS and log book records for patient testing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "text": "Receipt of a copy of the signed list of staff authorised to perform the pregnancy testing, following the yearly competency checks as required evidence for Pathology and Trust CQC and NHSLA inspections."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.2,
+                "text": "Incorrect NEQAS result returned or non submission of NEQAS result"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "text": "If an incorrect NEQAS result is returned or if a NEQAS result has not been submitted the laboratory will initiate the following actions/communication procedures detailed in the flowcharts in Appendices 1 & 2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Communication & Implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "The policy will be available to Healthcare professionals on the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "The policy will be launched in the Trust's Staff Focus newsletter."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "The policy will be sent to all Clinical Directors and Corporate Nursing for information and dissemination amongst their teams."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Review"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "This policy will be reviewed every two years or earlier in response to incident management, local changes or a change in kit supplier."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "Batzer FR. Hormonal evaluation of early pregnancy, Fert. Steril. 1980: 34(1): 1-13"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "Braunstein GD, JL Vaitukaitis, PP Carbone, GT Ross Ectopic production of human chorionic gonadotropin by neoplasm's, Ann. Intern Med. 1973 : 78(1):39-45."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "text": "Serum human chorionic gonadotropin levels throughout normal pregnancy AM. J. Obstet. Gynecol 1976 126 (6): 678-681"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "Test instruction booklet \u2013 provided in the kit box"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1  Incorrect result obtained"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 165,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "text": "Ward contacted and requested to investigate."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 167,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 0,
+                "text": "Trust incident raised by Biochemistry"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 169,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "Clerical error"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 171,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.008.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Test performed incorrectly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "Send out letter [from"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "text": "NEQAS] asking for  Smuesmpebnedr( as)u tshtaofrfi tiny vtool vpeedrf o \u2013rm Le taeds tNinugr sfoe r a written summary of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "text": "investigations  informed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 0,
+                "text": "NEQAS letter sent requesting an Response must be faxed to  investigation to identify root cause."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 0,
+                "text": "NEQAS ASAP with copy to  Response faxed to NEQAS ASAP with copy Biochemistry within 1-month  to Biochemistry within 1-month"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "text": "Yes  No"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "text": "Staff retrained and competency evaluation performed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 0,
+                "text": "Closure of  Refer incident to"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 181,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.010.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "text": "Trust  Divisional Lead  List of staff retrained and authorised to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 0,
+                "text": "incident  Nurse for further  perform test must be sent to Biochemistry"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 0,
+                "text": "action with report of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "text": "outcome to   Yes   No Biochemistry"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "text": "Pregnancy testing can  Progress to Divisional be performed again  Lead Nurse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 0,
+                "text": "Closure of Trust Incident"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2  Results not submitted"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 189,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 0,
+                "text": "Ward contacted and requested to investigate"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 191,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.011.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 0,
+                "text": "Local incident raised by Biochemistry"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 193,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.012.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "text": "Test performed correctly"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 195,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.014.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "text": "but not entered  Test not performed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 0,
+                "text": "Send out letter asking for  Letter sent requesting that samples are"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 198,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.016.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "text": "a written summary of  tested"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "text": "investigations"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "text": "Reply with correct results received Response must arrive  within 1-month"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 0,
+                "text": "within 1-month"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 1,
+                "text": "Yes  No"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 1,
+                "text": "Yes  No"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "text": "Local  Refer incident to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "text": "Incident  Divisional Lead  Local incident  Progress to Divisional closed  Nurse for further  closed  Lead Nurse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "text": "action with report"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "of outcome to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "text": "Biochemistry"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Yearly Competency for the performance of Pregnancy POCT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 1,
+                "text": "Name:  Date:  Clinical Area:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 213,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "POCT: Urinary Pregnancy test"
+                    },
+                    {
+                        "text": "Date achieved"
+                    },
+                    {
+                        "text": "Signature of Trainer"
+                    },
+                    {
+                        "text": "Staff member signature"
+                    },
+                    {
+                        "text": "Understands the test principle"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Ensures adherence to infection prevention measures throughout testing procedure"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Obtains a suitable urine sample for testing and is aware of the sample requirements/limitations"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Performs the test to required standard as outlined in the policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Understands the importance of quality control and undertakes NEQAS quality control tests on receipt of test samples from laboratory"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Checks that a control line is evident on each test and knows what to do if problems arise. (excluding EMD readers)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is aware of the logbook requirements and accurately records results in patients notes and logbook"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is able to enter and return NEQAS results electronically"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is aware of test of test limitations as outlined in the policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is aware of the communication procedure followed by the laboratory should an incorrect NEQAS result be returned"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is aware of the communication/procedure followed by the laboratory should a NEQAS result not be returned"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Use of urine BioSign\u00aeRChCG pregnancy POCT readers in A&E"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 215,
+            "data": {
+                "url": "12018 Pregnancy POCT  Policy 2.0.017.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "text": "From Main Menu"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [2] Run QC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [1] Self Check (this operation take 15 s)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 0,
+                "text": "When pass press Menu"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 0,
+                "text": "From Main Manu"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [2] Run QC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [2] Calibration QC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "text": "Input operator ID \u2013 scan operator barcode"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 224,
+            "data": {
+                "is_heading": 0,
+                "text": "Input calibrator ID \u2013 scan calibrator barcode"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 0,
+                "text": "Insert calibrator into the reader and close tray"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 0,
+                "text": "When the reader displays \u201c Calibration QC \u2013Pass\u201d, Press \u2013 Menu"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 0,
+                "text": "NB: If blank calibration requested press - cancel"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 0,
+                "text": "From Main Manu"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [2] Run QC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [3] External QC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 231,
+            "data": {
+                "is_heading": 0,
+                "text": "Scan LOT no of cassette, confirm test device \u2013 select OK press Enter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 0,
+                "text": "Enter sample ID \u2013 NEGQC or POSQC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 0,
+                "text": "Input operator ID \u2013 scan operator barcode"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 0,
+                "text": "Select sample type \u2013 urine \u2013 enter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 0,
+                "text": "Insert cassette into the reader \u2013 close tray"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 0,
+                "text": "Collect urine sample"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 237,
+            "data": {
+                "is_heading": 0,
+                "text": "Open pouch, remove cassette and dropper"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 238,
+            "data": {
+                "is_heading": 0,
+                "text": "From Main Menu"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 0,
+                "text": "Select [1] Run Patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "text": "Scan LOT no of cassette, confirm test device \u2013 select OK press Enter"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 241,
+            "data": {
+                "is_heading": 0,
+                "text": "Input operator ID \u2013 scan operator barcode"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 242,
+            "data": {
+                "is_heading": 0,
+                "text": "Input patient ID"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 243,
+            "data": {
+                "is_heading": 0,
+                "text": "Apply sample"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 244,
+            "data": {
+                "is_heading": 0,
+                "text": "Insert cassette into the reader \u2013 close tray"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 245,
+            "data": {
+                "is_heading": 0,
+                "text": "Please run NEQAS samples as a patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 246,
+            "data": {
+                "is_heading": 0,
+                "text": "As patient ID scan barcode or enter \u2013 NEQASxxx (sample number)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 247,
+            "data": {
+                "is_heading": 0,
+                "text": "Enter results to NEQAS website at www.birminghamquality.org.uk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 248,
+            "data": {
+                "is_heading": 0,
+                "text": "Login to RESULTS AND REPORTS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 249,
+            "data": {
+                "is_heading": 0,
+                "text": "Enter username and password for your location"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 250,
+            "data": {
+                "is_heading": 0,
+                "text": "MINORS username \u2013 SP131512"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 251,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,778 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP015 Recording Emergency GP Referrals to Assessment units / Trauma clinics in wards"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Inpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP015"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Recording Emergency GP Referrals to Assessment units / Trauma clinics in Wards"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business change analyst"
+                    },
+                    {
+                        "text": "May 2019"
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "20/06/2019"
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of cooperate delivery"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "27/06/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2022"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "29/05/2019"
+                    },
+                    {
+                        "text": "Updates with feedback from Data Quality team"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "13/06/2019"
+                    },
+                    {
+                        "text": "Updated with work flow diagram and steps to booking patient into an appointment slot Updated with list of assessment clinics"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Delivery group"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Circulation list for review"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards,"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "text": "Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Caroline May, Carly Savage, Joanne Gilbey."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 9,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Document  and  standardise  the  process  for  recording  emergency  referrals  from  GPs  to assessment units/clinics in Wards"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for tracking and updating the patient's pathway status to ensure accurate RTT information is recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "Overview"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients are referred to the assessment units in ward areas by their GP. Patients arrive at the assessment units following a triage between their GP and the on-call doctor at MEHT receives the verbal referral via telephone call. The patient's condition is triaged and if accepted, the patient is advised  to  attend  the  relevant  assessment  unit  at  MEHT.  Patient  details  are  captured  and documented by the doctor during the triage call."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "All patients must have a referral letter from the GP when they arrive at the ward, if this is not the case then the ward clerk / nurse must contact the GP and request for the patient's referral before the referral is added on Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Staff  must  review  all  active  Referrals  via  the \u201cReferrals\u201d  tab  in  the  Patient  EPR  before creating a new referral for the patient. As this is a new emergency assessment, a new urgent referral must be added to record this activity on Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Staff must escalate referrals that have incomplete details to their supervisor or team leader before this can be added to Lorenzo EPR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "As the patient is referred as an emergency, the patient's pathway is NOT RTT monitored i.e. the  week pathway is not applicable for this pathway. It is vital that an 18 week pathway is not started when the ward clerk adds the patient referral in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "All emergency referrals must be closed at the end of care activity i.e. after seeing the doctor on call. The appointment must be outcomed the referral closed. However, if the patient's care is to be followed up in the same clinic then the referral must be left open to record this follow up activity."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "**Please see workflow diagram of the process in Appendix 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "**Please see the list of assessment clinics in Appendix 2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "This  process  below  outlines  how  to  record  care  activity  following  a  GP  direct  referral  to  the emergency assessment and trauma clinics located in ward areas mentioned in the table above."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Ward Clerk/Administrator (Nurse when a ward clerk in not on shift \u2013 OOH) The patient should arrive with a referral letter and hands it to the ward clerk or Nurse, who will confirm patient's identity and review their referral or clinical notes/ documents the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "Steps in Lorenzo"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Complete and check all fields on the referral details screen -"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 30,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Value to be Selected"
+                    },
+                    {
+                        "text": "Service type requested"
+                    },
+                    {
+                        "text": "Will default to Advice/Guidance \u2013 Do not change"
+                    },
+                    {
+                        "text": "Referral priority"
+                    },
+                    {
+                        "text": "Select Urgent"
+                    },
+                    {
+                        "text": "Referral type"
+                    },
+                    {
+                        "text": "Select Emergency"
+                    },
+                    {
+                        "text": "Referral source"
+                    },
+                    {
+                        "text": "Select General Medical Practitioner for all GP referrals. Select"
+                    },
+                    {
+                        "text": "Admin category"
+                    },
+                    {
+                        "text": "This will default to NHS Patient. Any private patient activity will require the user to change this to Private patient from the drop down list."
+                    },
+                    {
+                        "text": "Referral action"
+                    },
+                    {
+                        "text": "Select Record Referral"
+                    },
+                    {
+                        "text": "Referral media"
+                    },
+                    {
+                        "text": "Select appropriate option"
+                    },
+                    {
+                        "text": "Referred By Section"
+                    },
+                    {
+                        "text": "Organisation / Care provider"
+                    },
+                    {
+                        "text": "The GP details will auto populate."
+                    },
+                    {
+                        "text": "Referral create date/time"
+                    },
+                    {
+                        "text": "This is the date the referral was created by the GP."
+                    },
+                    {
+                        "text": "Referral received date/time"
+                    },
+                    {
+                        "text": "This date is when the referral is received at MEHT. In this case it will be when the patient arrives at the clinic with the referral."
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Record relevant information"
+                    },
+                    {
+                        "text": "Referred to Section \u2013 Complete as appropriate"
+                    },
+                    {
+                        "text": "Referred to type"
+                    },
+                    {
+                        "text": "Select Care provider \u2013 Search & Select the name of the clinician responsible for the relevant clinic. E.g. The listed services - Plastics/ENT/Gen Med/Max-Fax/Paediatrics will refer to the care provider responsible for clinic. The Specialty and Treatment function will pre-populate when a care provider or Team is searched and selected."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note \u2013 Staff are not required to complete or amend any details on the RTT monitoring screen."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "The RTT monitoring screen holds the details for monitoring the patients 18 week RTT pathway."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "text": "GP referrals to assessment units are on the emergency pathway and they are not RTT monitored. The user must confirm that the RTT monitoring field is pre populated to \u201cNo\u201d."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 34,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Default Values"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Must be left blank"
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Defaults to Generate new pathway \u2013 Do not change"
+                    },
+                    {
+                        "text": "Record pathway"
+                    },
+                    {
+                        "text": "This field should be greyed out"
+                    },
+                    {
+                        "text": "Organisation involved in pathway"
+                    },
+                    {
+                        "text": "This field should be greyed out"
+                    },
+                    {
+                        "text": "Intended RTT status"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Actual RTT status"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Maximum waiting time"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "RTT waiting time description"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Referral RTT start date"
+                    },
+                    {
+                        "text": "This must be changed to match the referral received date."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note: If the patient has an existing open referral in the service / treatment function they have been referred to, then the dialogue box below will appear. In this case, the user must click No and continue with recording the referral as this is for assessment on an \u201cemergency pathway\u201d."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 36,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.006.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral is recorded in Lorenzo with a status of \u2018Accepted'; the emergency assessment has been recorded against this referral."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "This referral must be closed when clinic out coming and cashing up. However, referral should be left open if the patient is to attend follow up activity in the same clinic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "All referral and clinical documentation must be filed away as per the protocol of the clinics / wards."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 42,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.007.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1 \u2013 Workflow diagram"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 44,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.008.jpeg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2 \u2013 List of Assessment Clinics"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 46,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.009.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 47,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 48,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.007.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 49,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 50,
+            "data": {
+                "url": "MEHTSOP015 IP Recording Emergency GP Referrals to Assessment units in Wards 3.0.007.png"
+            }
+        }
+    ]
+}

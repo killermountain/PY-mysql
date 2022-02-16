@@ -1,0 +1,675 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP013 Recording GP Diagnostic Test Request Referrals 2.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP013 Diagnostic test requests from GPs"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP013"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Diagnostic Requests from GPs"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business Change Analyst"
+                    },
+                    {
+                        "text": "01/05/19"
+                    },
+                    {
+                        "text": "Reviewer"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Authoriser Members- Elective Care Group"
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of corporate delivery"
+                    },
+                    {
+                        "text": "13/05/2019"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "ADO Medicine"
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO Women and Children"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "ADO Surgery"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2022"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "01/05/2019"
+                    },
+                    {
+                        "text": "First Draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, Abisola Ogunyemi, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala, Charlotte Grant, Sarah Chappell"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, John Cooil, Joanne Dale, Chris James"
+                    },
+                    {
+                        "text": "Delivery Group"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Debra Mead, Abbi Simpson"
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers / Assistant SM / Coordinators):"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for recording referrals for diagnostic requests from GPs."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for tracking and updating the patient's pathway status to ensure accurate RTT information is recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "text": "Overview"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHT receive diagnostic requests for patients from GPs; these patients are not subject to 18 week RTT monitoring. A new referral must be added in Lorenzo to record and book these requests; however an 18 week RTT pathway must not be started for these referrals in Lorenzo as they must be recorded as non RTT monitored activities in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "The information recorded when adding these referrals in Lorenzo must be selected with attention to ensure that RTT is not triggered."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Prior to adding a new referral to a patient's record, the user must review the active referrals in the referrals tab of patients EPR in Lorenzo, to see if the patient has an active referral in the same service for the same request. If this is the case then a new referral must not be created as this will start a new pathway in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Staff must escalate referrals that have incomplete details to their supervisor before this can be added to Lorenzo EPR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Administrative - Booking clerk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure - Recording referrals for diagnostic test requests from GPs."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral Details Section"
+                    },
+                    {
+                        "text": "Service type requested"
+                    },
+                    {
+                        "text": "Select Direct Access Service for Specific Procedure-"
+                    },
+                    {
+                        "text": "Referral priority"
+                    },
+                    {
+                        "text": "Select as per the referral"
+                    },
+                    {
+                        "text": "Referral type"
+                    },
+                    {
+                        "text": "Select Outpatient"
+                    },
+                    {
+                        "text": "Referral source"
+                    },
+                    {
+                        "text": "Select General Medical Practitioner Practice"
+                    },
+                    {
+                        "text": "Admin category"
+                    },
+                    {
+                        "text": "This will default to NHS Patient. Any private patient activity will require the user to change this to Private patient from the drop down list."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 24,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Referral Action"
+                    },
+                    {
+                        "text": "Record Referral"
+                    },
+                    {
+                        "text": "Referral media"
+                    },
+                    {
+                        "text": "As appropriate"
+                    },
+                    {
+                        "text": "Referred by Section"
+                    },
+                    {
+                        "text": "Organisation"
+                    },
+                    {
+                        "text": "Search and select MEHT"
+                    },
+                    {
+                        "text": "Care Provider"
+                    },
+                    {
+                        "text": "GP details are auto populated \u2013 as GP has been selected for referral source."
+                    },
+                    {
+                        "text": "Referral create date/time"
+                    },
+                    {
+                        "text": "Enter the date the referral was made by the referring organisation to MEHT."
+                    },
+                    {
+                        "text": "Referral received date/time"
+                    },
+                    {
+                        "text": "Enter the date the referral was received at MEHT"
+                    },
+                    {
+                        "text": "Linked referral details"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Enter any related information from the referral letter"
+                    },
+                    {
+                        "text": "Referred to Section \u2013 Complete as appropriate"
+                    },
+                    {
+                        "text": "Referred to type"
+                    },
+                    {
+                        "text": "Select the correct Team or Care provider for the appropriate diagnostic test."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "text": "Select Next"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 26,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Do not select any option"
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Defaults to \u201cGenerate new pathway\u201d"
+                    },
+                    {
+                        "text": "Record Pathway"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Organisation involved in pathway"
+                    },
+                    {
+                        "text": "N/A."
+                    },
+                    {
+                        "text": "Referral type, Referral source and Linked referral details"
+                    },
+                    {
+                        "text": "These details will auto populate from the previous screen."
+                    },
+                    {
+                        "text": "RTT monitoring"
+                    },
+                    {
+                        "text": "Defaults to No \u2013 As this is a request and is not RTT monitored"
+                    },
+                    {
+                        "text": "Intended RTT status"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Actual RTT status"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Maximum waiting time"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "RTT waiting time description"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Referral RTT start date"
+                    },
+                    {
+                        "text": "N/A"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 27,
+            "data": {
+                "url": "MEHTSOP013 Recording GP Diagnostic Test Request Referrals 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MEHTSOP013 Recording GP Diagnostic Test Request Referrals 2.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 29,
+            "data": {
+                "url": "MEHTSOP013 Recording GP Diagnostic Test Request Referrals 2.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral is recorded in Lorenzo with a status of \u2018Accepted'; the request must be recorded against this referral."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "**Please note \u2013 This referral must be closed after the diagnostic activity has taken place as this is to record the diagnostic request. Closure of the referral will also ensure that no follow up activity is booked against this referral."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MEHTSOP013 Recording GP Diagnostic Test Request Referrals 2.0.003.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,930 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "20002 Enoxaparin Dosing for prophylaxis of VTE in Adult Patients 1.1.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "ENOXAPARIN DOSING FOR PROPHYLAXIS OF VENOUS THROMBOEMBOLISM (VTE) IN ADULT PATIENTS"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "20002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Medical, Nursing and Pharmacy staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "31st January 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th30 January 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Provide standardized guidance on dosing of enoxaparin for thromboprophylaxis in extremes of body weight."
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "9, 12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "MSE Group: Pharmacy"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Maria Richards, Principal Pharmacist"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\uf0fcMEHT \u25a1 BTUH \u25a1 SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "Refer to page 2"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Medication Optimisation and Medication Safety Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "18th December 2019"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Alison Felton, Head of Pharmacy"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "18th December 2019"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "30th January 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group"
+                    },
+                    {
+                        "text": "Date: February 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr P Kotoucek, Dr W Nagi"
+                    },
+                    {
+                        "text": "Haematology Consultants"
+                    },
+                    {
+                        "text": "December 2019"
+                    },
+                    {
+                        "text": "Professor A Ali, Dr A Chan, Dr S Abeygunasekara"
+                    },
+                    {
+                        "text": "Renal Consultants"
+                    },
+                    {
+                        "text": "Sarah Cox"
+                    },
+                    {
+                        "text": "Renal Pharmacist"
+                    },
+                    {
+                        "text": "Jackie Wallis"
+                    },
+                    {
+                        "text": "Burns Specialist Pharmacist"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "Related Trust Policies (to be read in  09051Prevention and Treatment of Venous conjunction with)  Thromboembolism (VTE): Risk Assessment and"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 5,
+            "data": {
+                "url": "20002 Enoxaparin Dosing for prophylaxis of VTE in Adult Patients 1.1.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 0,
+                "text": "Prophylaxis."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Maria Richards"
+                    },
+                    {
+                        "text": "Newly created"
+                    },
+                    {
+                        "text": "31st January 2020"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Maria Richards"
+                    },
+                    {
+                        "text": "Added point 4.3"
+                    },
+                    {
+                        "text": "19th February 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this clinical guideline is to standardise the prescribing of prophylactic enoxaparin, particularly in those patients at extremes of body weight."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "This guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "This guideline should be used in conjunction with 09051Prevention and Treatment of Venous Thromboembolism (VTE): Risk Assessment and Prophylaxis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This guideline is to be used by all doctors, nurses, pharmacists and allied health professionals responsible for the care of medical and surgical patients, including their VTE prophylaxis with the exception of the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternity patients;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Paediatric patients (<18 years old)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "This guidance assumes that a VTE risk assessment has been performed as per NICE guidance and the need for thromboprophylaxis with enoxaparin has been identified."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Background"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Enoxaparin is the formulary choice of low molecular weight heparin (LMWH) used at Mid Essex Hospitals NHS Trust for thromboprophylaxis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "This guideline has been written to guide dosing of enoxaparin for thromboprophylaxis in patients at extremes of body weight and/or with renal impairment \u2013 these doses may differ from those recommended in the Summary of Product Characteristics (SPC) and British National Formulary (BNF)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Dosing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The standard dose of enoxaparin for VTE prophylaxis for medical and high risk surgical patients is 40mg once daily. However, in extremes of body weight and/or in patients with renal impairment, this dose needs adjusting to ensure optimal prophylaxis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Table to show recommended doses of enoxaparin for thromboprophylaxis in medical and surgical patients (excluding maternity and paediatric patients):"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 25,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "WEIGHT"
+                    },
+                    {
+                        "text": "RENAL FUNCTION"
+                    },
+                    {
+                        "text": "CrCl \u226530 ml/min"
+                    },
+                    {
+                        "text": "CrCl <30 ml/min or on dialysis"
+                    },
+                    {
+                        "text": "<40kg"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "Contact haematology for advice"
+                    },
+                    {
+                        "text": "40-49kg"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "50-100kg"
+                    },
+                    {
+                        "text": "40mg OD*"
+                    },
+                    {
+                        "text": "20mg OD"
+                    },
+                    {
+                        "text": "101-150kg"
+                    },
+                    {
+                        "text": "40mg BD or 80mg OD"
+                    },
+                    {
+                        "text": "20mg OD or discuss with haematology depending on individual patient risk factors."
+                    },
+                    {
+                        "text": ">150kg"
+                    },
+                    {
+                        "text": "60mg BD or 120mg OD"
+                    },
+                    {
+                        "text": "Contact haematology for advice"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "*in moderate risk surgical patients, this may be reduced to 20mg OD. High risk surgical patients require 40mg OD"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "For high risk patients, it may be appropriate to contact haematology for advice on monitoring anti-factor Xa levels if required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Staff Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "All medical and nursing staff are to ensure that their knowledge, competencies and skills are up to date."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "During induction, staff will receive instruction on current policies and guidelines and how to access them."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "This guideline will be published on the Trust website under \u2018Policies and Guidelines'."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Audit & Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Prescriptions will be monitored by pharmacy during routine pharmacy screening of prescriptions \u2013 any concerns will be reported to the physician responsible for the patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Any errors will be reported via the in-house pharmacy intervention reporting and the Trust Datix system."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Regular audit of VTE prophylaxis is undertaken and reported to the Thrombosis Group."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Equality Impact Assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix 1)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Venous Thromboembolism Prevention. A Guide for Delivering the CQUIN Goal. Kings Thrombosis Centre. 2010"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "Summary of Product Characteristics. Clexane pre-filled syringes. Last updated on eMC 20.9.18."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "Summary of Product Characteristics. Inhixa 4,000 IU (40mg) in 0.4mL solution for injection in pre-filled syringe. Last updated on eMC 12.7.19"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "The Renal Drug Database \u2013 Enoxaparin sodium (LMWH). Reviewed 12.9.18 (accessed via www.renaldrugdatabase.com)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Enoxaparin dosing for prophylaxis of venous thromboembolism (VTE) in adult patients/20002/1.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary Equality Analysis"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 47,
+            "data": {
+                "url": "20002 Enoxaparin Dosing for prophylaxis of VTE in Adult Patients 1.1.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Enoxaparin dosing for prophylaxis of venous thromboembolism (VTE) in adult patients/20002"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 49,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "A change in a service to patients"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A change to an existing policy"
+                    },
+                    {
+                        "text": "X"
+                    },
+                    {
+                        "text": "A change to the way staff work"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A new policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full Review"
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3 year review"
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and clinicians"
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change? b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "text": "Preliminary analysis completed by:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 51,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Sarah Cox"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Pharmacist"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "December 2019"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,1211 @@
+{
+    "elements": [
+        {
+            "type": "ListItem",
+            "sequence_num": 1,
+            "data": {
+                "is_heading": 1,
+                "text": "Mid & South Essex NHS Foundation Trust \u2013 Mid Essex Hospital Site Only"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MEHT-21004"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "01/04/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "31/03/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Optimisation and Safety Group \u2013 Chair's Action"
+                    },
+                    {
+                        "text": "03/03/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "23/03/2021"
+                    },
+                    {
+                        "text": "Authors:"
+                    },
+                    {
+                        "text": "Dr Tehreem Butt, Consultant in Acute Medicine Maria Richards, Principal Pharmacist"
+                    },
+                    {
+                        "text": "Consulted with:"
+                    },
+                    {
+                        "text": "Dr S Jenkins, Consultant in Respiratory Medicine Dr A Moore, Consultant in Respiratory Medicine Dr P Kotoucek, Consultant in Haematology"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "PHARMACOLOGICAL MANAGEMENT OF COVID-19"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "COVID-19  manifests  as  a  predominantly  respiratory  illness  of  widely  varying  clinical severity. At the most severe end of the spectrum it may result in a severe pneumonia or pneumonitis  and  respiratory  failure  with  the  need  for  mechanical  ventilation.  Acute respiratory distress syndrome (ARDS) is often a pre-terminal event in patients with COVID- 19 and is the leading cause of mortality."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 5,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Most COVID-19 infections, however, are asymptomatic or involve only mild symptoms, and require  no  treatment.  There  will  be  significant  numbers  of  COVID-positive  patients  in hospital for other reasons (for example, surgical conditions). All that is required in such cases is sensible infection control procedures, cohorting, and good quality care to treat other conditions. It is important that other medical/surgical problems are not missed in COVID-positive patients, whilst noting the rare complications outlined below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "COVID-19 pneumonitis peaks generally at day  from symptom onset, so if  the first positive test was longer than 10 days previously, the patient is less likely to develop serious illness"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "DIAGNOSIS is based on signs and symptoms (e.g. dyspnoea, fever, cough, hypoxia), chest X ray findings, and can be confirmed with a positive SARS-CoV2 polymerase chain reaction (PCR) assay."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Chest imaging changes are bilateral in most patients (more than 60%), with the lung periphery and lower lobes being most involved. Plain chest xrays commonly show bilateral patchy infiltrates. However, early ground-glass appearances may not be visible ."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "text": "2.3.1  The 3 patterns on CT-chest imaging consistent with COVID-19 pneumonia according to stage of illness (from symptom onset) are:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "early (0 to 2 days): normal findings or rounded ground-glass opacities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "intermediate (5 to  days): crazy-paving opacities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "late (more than  days): consolidation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "As the number of patients with COVID-19 infection requiring hospital care increases, there will be increases in the use of advanced respiratory support, such as assisted ventilation. Assisted ventilation places demand on the flow of oxygen delivery within hospitals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "To support prioritisation of oxygen flow for the most severely ill patients in hospital:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Current oxygen prescribing targets for all adults treated at MEHT should be adjusted from the current range (oxygen saturation 94% - 98%) to oxygen saturation of 92% - 96% in the first instance (88-92% if CO retainer)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "COVID-19 infection and non-COVID-19 conditions (for example stroke, myocardial infarction, trauma) in adults should use this SaO2 target."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Evidence from clinical trials suggests that hyperoxia may be harmful and lower oxygen target ranges are safe."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "These targets may change according to prevailing oxygen flow demands."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Corticosteroids, and in particular dexamethasone (and hydrocortisone)4-6, have been demonstrated to be beneficial in treating patients with severe or critical COVID-19 pneumonitis , i.e. those requiring oxygen therapy or ventilatory support."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Corticosteroids should not normally be prescribed in patients with COVID-19 that is not severe or critical, because there is the possibility of harm to such patients (including increased mortality)4,5,7"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Severe and critical COVID-19 infection includes patients with any of the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "oxygen saturation <92% (or deteriorating) on air"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "text": "increased respiratory rate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "signs of severe respiratory distress (i.e. accessory muscle use, inability to complete full sentences; and in children, very severe chest wall in-drawing, grunting, central cyanosis, or presence of any other general danger signs)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "acute respiratory distress syndrome (ARDS)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "sepsis or septic shock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "other conditions that would normally need life-sustaining therapies such as ventilation or vasopressor therapy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "4.4.1 Dexamethasone dosing for covid-19"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "4.4.2 Adult dosing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "6mg orally once daily (preferably in the morning) for 7-10 days4,5,6 (Note that dexamethasone is readily absorbed from the GI tract)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "If patient unable to take orally, give 6mg IV once daily"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "4.4.3 NICE guidance recommends that treatment should stop if the patient is discharged from hospital before the 10 day course is completed. However, there is some local consensus to complete the course at home, especially for more severe cases where oxygen therapy may still be required and/or oxygen saturations are still low, in order to reduce inflammatory sequelae.  In  milder  cases,  it  should  be  stopped  on  discharge,  especially if  there  are adverse effects from the steroids (e.g. raised blood glucose/worsening diabetic control)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "4.4.4 Paediatric dosing"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 34,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Drug"
+                    },
+                    {
+                        "text": "Route"
+                    },
+                    {
+                        "text": "Formulation"
+                    },
+                    {
+                        "text": "Age / Weight"
+                    },
+                    {
+                        "text": "Dose"
+                    },
+                    {
+                        "text": "Duration"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Dexamethasone"
+                    },
+                    {
+                        "text": "PO/ NG/ IV"
+                    },
+                    {
+                        "text": "Oral solution/ tablet/ solution for injection"
+                    },
+                    {
+                        "text": "All >44 weeks CGA"
+                    },
+                    {
+                        "text": "150 micrograms/ kg (base) once daily (max: 6 mg/dose)"
+                    },
+                    {
+                        "text": "10 days"
+                    },
+                    {
+                        "text": "Caution in dosing \u2013 doses are expressed in terms of dexamethasone base Gastric protection should be co-prescribed"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "CGA = corrected gestational age"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Additional points to consider for corticosteroids"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "4.5.1 Consider the use of proton pump inhibitors in those on full anticoagulation or at risk of peptic ulcer disease"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "4.5.2 If known diabetes monitor blood glucose and refer to the Diabetes Inpatient Service if appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "4.5.3 Consider discontinuation of oral steroids given for other health conditions and restart if necessary when dexamethasone/hydrocortisone discontinued."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Tocilizumab and sarilumab are humanised monoclonal antibodies against the interleukin-6 (IL-6) receptor."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Following early positive signals of benefit from the immune modulation therapy domain of the REMAPCAP platform trial, a UK wide clinical commissioning policy has been agreed to support  off-label  prescribing  and  access  to  each  drug,  administered  intravenously,  for eligible COVID positive patients in accordance with the agreed criteria9,10,11."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Tocilizumab"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "5.3.1 A  single  dose  of  tocilizumab  should  typically  be  considered  as  adjuvant  treatment  to dexamethasone (as standard of care) in eligible hospitalised COVID-19 patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.2 Patients are considered eligible if:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "COVID-19 positive on PCR (or where a MDT has a high level of confidence that the clinical  and/or  radiological  features  suggest  that  COVID-19  is  the  most  likely diagnosis)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "Receiving (or completed a course of) dexamethasone unless contraindicated"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 75.0,
+                "text": "CRP \u2265  mg/L"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "O saturations <92% on room air OR requiring supplemental oxygen"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.3 For patients commenced on respiratory support (high flow nasal oxygen, CPAP, or NIV, or invasive mechanical ventilation) within the last 24-48 hours, tocilizumab may be given without the requirement for CRP \u2265 75 mg/L and O saturations <92% if an IL-6 inhibitor has"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "not already been administered for COVID-19 during this admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 Exclusion criteria"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Known hypersensitivity to tocilizumab"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.5 Cautions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Co-existing infection (other than COVID-19) that may be worsened by tocilizumab"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "Baseline ALT or AST > 5x the upper limit of normal"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "A pre-existing condition or treatment resulting in ongoing immunosuppression"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "Neutropaenia or thrombocytopaenia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 Recommended dose of tocilizumab is 8mg/kg (max 800mg) administered by intravenous infusion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "5.3.5 A second dose should not be considered, given the uncertainty over evidence of additional benefit as well as the need to maximise available supply."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.6 The decision to initiate treatment with tocilizumab should be made by the receiving consultant during working hours and with the support from multi-disciplinary colleagues in cases of uncertainty."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Sarilumab"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "5.4.1  Sarilumab is recommended as a treatment option for critically ill adult patients treated with non-invasive ventilation (including high-flow nasal oxygen therapy or continuous positive airway pressure ventilation) or invasive mechanical ventilation, who have not already received tocilizumab (or other IL-6 inhibitor)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Be aware that:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "When a patient first presents with suspected pneumonia, it is difficult to differentiate between COVID-19 pneumonia and bacterial pneumonia on clinical features alone."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "text": "During the COVID-19 pandemic to date, most pneumonia has been viral. Evidence so far suggests that bacterial co-infection occurs in less than about 8% of patients with COVID-19."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "Secondary infection or co-infection (bacterial, viral or fungal) is more likely the longer a person is in hospital and the more they are immunosuppressed (for example, because of certain types of treatment)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Because COVID-19 pneumonia is caused by a virus, antibiotics are ineffective unless a bacterial co-infection is suspected."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "Inappropriate antibiotic use may reduce their availability, and indiscriminate use may lead to adverse effects including Clostridium difficile infection and antimicrobial resistance."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "When to start antibiotics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.1  If the clinical features are typical for COVID-19 pneumonitis alone, antibiotic therapy may not be indicated."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.3 Empirical antibiotics should be started if there is clinical suspicion of bacterial infection, including characteristic symptoms and localised chest findings e.g. cough productive of green sputum, lobar consolidation on chest X-ray etc. A neutrophil count above the normal range or lobar consolidation on chest imaging may suggest a bacterial infection but their absence does not exclude it."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 1,
+                "text": "6.2.4 When starting antibiotics, follow the local Trust Antibiotic guidance on MicroGuide for treating community-acquired or hospital-acquired pneumonia (https://viewer.microguide.global/meht/adult)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 1,
+                "text": "6.2.5. Give oral antibiotics if the patient can take oral medicines and their condition is not severe enough to need intravenous antibiotics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "When to review antibiotics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "6.3.1  Review all antibiotics at  to 48 hours or as soon as test results are available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.4,
+                "text": "When to stop antibiotics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "6.4.1  Use  the  following  signs,  symptoms  and  test  results  to  help inform  the  overall  clinical assessment and decision about when to safely stop antibiotics:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "no evidence of bacterial infection in blood, urine or sputum samples"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "fever resolved or resolving"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "symptoms and blood test results (particularly lymphopenia) consistent with COVID-19 pneumonia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "chest imaging (plain X-ray, CT scan or lung ultrasound) consistent with COVID-19 pneumonitis alone \u2013 see section 2.1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.5,
+                "text": "Continuing antibiotics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.1 Continue antibiotics if there is clinical or microbiological evidence of bacterial infection, regardless of SARS-CoV2 PCR test results."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "6.5.2 If antibiotics are continued:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "review antibiotic choice based on microbiological test results and switch to a narrower spectrum antibiotic when appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "give them for a total of 5 days, and then stop them unless there is a clear indication to continue"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "review  intravenous  antibiotic  use  within   hours  and  think  about  switching  to  oral antibiotics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Remdesivir is a licensed drug, indicated for the treatment of COVID-19 in adults and adolescents (aged 12 years and older with body weight at least 40 kg) with pneumonia requiring  supplemental  oxygen. However,  in  clinical  trials,  no  statistically  significant differences  were  found  for  mortality  and  serious  adverse  events.   Funding  must  be approved before supply. See separate MSE NHSFT briefing \u2018Remdesivir initiation, supply and required monitoring' on the intranet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All  COVID-19  suspected,  hospitalised  patients  should  receive  pharmacological  VTE prophylaxis as soon as possible and within 14 hours of admission according to their VTE risk assessment, taking into account bleeding risk and contra-indications. Coagulopathy is a recognised complication of COVID-19 infection and many patients with COVID-19 are at increased risk of venous thromboembolism (VTE)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Dosing for thromboprophylaxis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.1 Definitions"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 94,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Invasive mechanical ventilation"
+                    },
+                    {
+                        "text": "Any method of controlled ventilation delivered through a translaryngeal or tracheostomy tube or other methods as defined by the Intensive Care National Audit & Research Centre definition of \u2018advanced respiratory support'"
+                    },
+                    {
+                        "text": "Intermediate dose VTE prophylaxis"
+                    },
+                    {
+                        "text": "The standard prophylactic dose of anticoagulant for people who are acutely ill and having medical care, given twice daily instead of once daily (and doubling of the usual daily dose)."
+                    },
+                    {
+                        "text": "Treatment dose"
+                    },
+                    {
+                        "text": "The licensed dose of anticoagulation used to treat confirmed VTE."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "text": "8.2.2 For young people and adults with COVID-19 that is being managed in hospital and who do not need supplemental oxygen (and who are not yet receiving high-flow oxygen, continuous positive airway pressure, non-invasive ventilation or invasive mechanical ventilation),"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 1,
+                "text": "Give standard prophylactic dose of enoxaparin(see MEHT guideline \u2018Enoxaparin dosing for prophylaxis of VTE in adult patients' for full information)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "Reassess VTE and bleeding risks daily."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.3 For young people and adults with COVID-19 that is being managed in hospital and who are likely to be in hospital for the next 3 days AND who need supplemental oxygen (and who are not yet receiving high-flow oxygen, continuous positive airway pressure, non-invasive ventilation or invasive mechanical ventilation)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "text": "consider a treatment dose of enoxaparin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "text": "reassess VTE and bleeding risks daily."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.4 For young people and adults who are receiving high-flow oxygen, continuous positive airway pressure, non-invasive ventilation or invasive mechanical ventilation and are on a standard prophylactic dose of enoxaparin for VTE prophylaxis:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 1,
+                "text": "consider increasing anticoagulation to an intermediate dose (although severely ill patients in critical care are at highest thrombotic risk, these patients are also at"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.0,
+                "text": "increased risk of bleeding) \uf0b7  reassess VTE and bleeding risks daily."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.5 For people at extremes of body weight or with impaired renal function, consider adjusting the  dose  of  low  molecular  weight  heparins  in  line  with  the  summary  of  product characteristics and MEHT guideline \u2018Enoxaparin dosing for prophylaxis of VTE in adult patients' (accessible via the intranet)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.6 For people who are already having anticoagulation treatment for another condition when admitted to hospital:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "continue their current treatment dose of anticoagulant unless contraindicated by a change in clinical circumstances"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "consider switching to enoxaparin if their current anticoagulant is not an LMWH and their clinical condition is deteriorating."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 1,
+                "text": "8.2.7 For people with COVID-19 who do not need supplemental oxygen, use standard dose prophylactic enoxaparin, following the recommendations in the MEHT guideline \u2018Enoxaparin dosing for prophylaxis of VTE in adult patients' (accessible via the intranet)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.8 Table summarising dosing of enoxaparin for young people and adults hospitalised with COVID-19:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 110,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Patient group"
+                    },
+                    {
+                        "text": "Enoxaparin dosing*"
+                    },
+                    {
+                        "text": "Notes"
+                    },
+                    {
+                        "text": "No supplemental oxygen requirements"
+                    },
+                    {
+                        "text": "Standard prophylactic dose (usually 40mg but varies according to renal function and weight)"
+                    },
+                    {
+                        "text": "See MEHT guideline \u2018Enoxaparin dosing for prophylaxis of VTE in adult patients' for full information"
+                    },
+                    {
+                        "text": "Will be in hospital for \u22653 days and are requiring supplemental oxygen but not on advanced respiratory support."
+                    },
+                    {
+                        "text": "Consider treatment dose (off- label use)"
+                    },
+                    {
+                        "text": "1mg/kg BD (less bleeding risk) or 1.5mg/kg OD"
+                    },
+                    {
+                        "text": "Patients on advanced respiratory support"
+                    },
+                    {
+                        "text": "Consider intermediate dose (off label use)"
+                    },
+                    {
+                        "text": "Double the recommended prophylactic dose e.g. for patients who would normally receive a 40mg standard prophylactic dose, give either 40mg BD or 80mg OD"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "*monitor bleeding and VTE risks daily."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.9 For children with COVID-19 admitted into hospital, follow the advice on COVID-19 guidance for management of children admitted to hospital in the Royal College of Paediatrics and Child Health guidance."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.10 The  advice  above  assumes  that  patients  have  had  PE  excluded  on  clinical  and/or radiological grounds."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "Duration of thromboprophylaxis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "8.3.1 Pharmacological VTE prophylaxis should be for a minimum of 14 days or until discharge \u2013 whichever is longer."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "8.3.2 Ensure that patients who will be completing pharmacological VTE prophylaxis after discharge are able to use it correctly or have someone available to help them."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.3 In cases where patients are unable to administer enoxaparin or receive help from someone else, consideration may be given to prescribing a DOAC (off label use). There is currently no specific evidence for the use of DOACs in this situation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.4 Where enoxaparin is not an option at discharge (see 8.3.3), consideration may be given to using rivaroxaban 10mg OD or apixaban 2.5mg BD (both are off-label use) to complete the course if renal function allows (CrCl \u2265 15mls/min)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 1,
+                "text": "REFERENCES"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "guides/specialty-guide-oxygen-therapy.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Corticosteroids for COVID-19. Living Guidance. 2 September 2020. WHO REFERENCE NUMBER: WHO/2019- nCoV/Corticosteroids/2020.1 https://www.who.int/publications/i/item/WHO-2019-nCoV-Corticosteroids-2020.1  Corticosteroids in the treatment of suspected or confirmed COVID-19. MHRA CAS alert. Issue date 03 September 2020. Alert reference CEM/CMO/2020/033 https://www.cas.mhra.gov.uk/ViewandAcknowledgment/ViewAlert.aspx?AlertID=103092  Dexamethasone in Hospitalized Patients with Covid-19 \u2013 Preliminary Report. The RECOVERY Collaborative Group. New England Journal of Medicine 17 July 2020 https://www.nejm.org/doi/10.1056/NEJMoa2021436"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Page  of"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2190 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP067 Booking Process at MEHT 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MEHTSOP067 Booking Process at MEHT 2.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP067 \u2013 Booking Process at Mid Essex Hospital Trust"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP067"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Booking Process at Mid Essex Hospital Trust"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green"
+                    },
+                    {
+                        "text": "Assistant Service Manager OPD"
+                    },
+                    {
+                        "text": "09/09/2019"
+                    },
+                    {
+                        "text": "Janet Smith"
+                    },
+                    {
+                        "text": "Service Manger"
+                    },
+                    {
+                        "text": "28/11/19"
+                    },
+                    {
+                        "text": "Authoriser- Members of Elective Care"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "13/02/2020"
+                    },
+                    {
+                        "text": "Stewart Jones"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care"
+                    },
+                    {
+                        "text": "Joe Hayward"
+                    },
+                    {
+                        "text": "Head of Corporate Delivery"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager (Surgery)"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "18th February 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "19th February 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": "18th February 2023"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "09/09/2019"
+                    },
+                    {
+                        "text": "First Draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "28/11/2019"
+                    },
+                    {
+                        "text": "Final Version"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Caroline May, Carly Savage, Joanne Gilbey."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 10,
+            "data": {
+                "url": "MEHTSOP067 Booking Process at MEHT 2.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Align all outpatient bookings in accordance with trust policy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Outline the principles of booking outpatient appointments"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Document the process for booking outpatient appointments"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "OVERVIEW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "This document details the processes, owners and the timetable for dating new referrals to ensure patients are dated by clinical priority and in chronological order. If a patient is considered high priority or triaged as urgent these patients should be booked within 48 hours of receipt of referral where capacity allows."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Administrative"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Procedure \u2013 Outpatient Booking Process"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 21,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "NEW REFERRAL BOOKINGS"
+                    },
+                    {
+                        "text": "Task:"
+                    },
+                    {
+                        "text": "Owner:"
+                    },
+                    {
+                        "text": "To be completed by:"
+                    },
+                    {
+                        "text": "New referral received into Trust via paper"
+                    },
+                    {
+                        "text": "MERC- Mid Essex Referral Centre"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "New Referral received into e-RS via Gp"
+                    },
+                    {
+                        "text": "Gp"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Paper Referral logged in Lorenzo by MERC"
+                    },
+                    {
+                        "text": "MERC"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Clinical Team to Triage and Grade referrals in Lorenzo"
+                    },
+                    {
+                        "text": "CLINICAL TEAMS"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Clinical Team to triage via e-RS if electronic either in Referrals for Review or from ASI List"
+                    },
+                    {
+                        "text": "CLINICAL TEAMS"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Once patients are triaged in Lorenzo they are transferred onto an Access Plan for dating"
+                    },
+                    {
+                        "text": "SPECIALITY HUBS IN RBMS"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Triaged as urgent patients dated within 4-6 weeks of receipt of referral (given capacity is available)"
+                    },
+                    {
+                        "text": "SPECIALITY HUBS IN RBMS"
+                    },
+                    {
+                        "text": "Daily"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 22,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Patients triaged as routine aim to be dated between 6-10 weeks of receipt of referral (given capacity is available)"
+                    },
+                    {
+                        "text": "SPECIALITY HUBS IN RBMS"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Patients to be dated in clinical priority and chronological order from RTT PTL report available on the suite of OP Reports"
+                    },
+                    {
+                        "text": "TEAM LEAD IN RBMS"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "Where capacity does not allow booking within the required timeframe please see Appendix 1"
+                    },
+                    {
+                        "text": "SPECIALITY HUBS IN RBMS"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "TEAM LEAD IN RBMS"
+                    },
+                    {
+                        "text": "When Required"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No response in 24hr timeframe from SM escalate to service ADO"
+                    },
+                    {
+                        "text": "ASM Outpatients"
+                    },
+                    {
+                        "text": "When Required"
+                    },
+                    {
+                        "text": "Undated new patients/backlogs"
+                    },
+                    {
+                        "text": "Reviewed weekly by Outpatient ASM's SM & ADO for backlog clearance plans and discussed at weekly Outpatient meetings"
+                    },
+                    {
+                        "text": "OUTPATIENT ASM, SERVICE SM"
+                    },
+                    {
+                        "text": "Weekly"
+                    },
+                    {
+                        "text": "Backlog reviewed at Elective Care Group Weekly"
+                    },
+                    {
+                        "text": "SERVICE MANAGERS/ADO/EXEC BOARD MEMBER"
+                    },
+                    {
+                        "text": "Weekly"
+                    },
+                    {
+                        "text": "Escalation of undated patients as below ; 1) Team Leads RBMS 2) Service Managers 3) ADO 4) CD's 5) Exec Team"
+                    },
+                    {
+                        "text": "RBMS Hub staff RBMS Team Leaders RBMS Team Leaders Service managers ADO"
+                    },
+                    {
+                        "text": "Weekly"
+                    },
+                    {
+                        "text": "Cancer Two Week Waits All TWW referrals must be booked"
+                    },
+                    {
+                        "text": "RBMS/BREAST/UROLGY"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "within 7 days. Escalation to service Managers t to book to 14 days Escalation to ADO to book > 14 days"
+                    },
+                    {
+                        "text": "Service Managers"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Specific actions related to patients requesting to book over 52 weeks Work within access policy Patients who request to book outside of 40 weeks following previous cancellation/s by the patient should be advised that no further appointment can be made until there has been a Consultant review. RBMS/Booking teams to forward to Consultant cc Service manager Out-patient Booking"
+                    },
+                    {
+                        "text": "RBMS MSK SILO Booking Teams RBMS MSK SILO Booking Teams RBMS RBMS RBMS Services"
+                    },
+                    {
+                        "text": "Daily Daily Daily Daily Weekly"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "TWW referrals not on Somerset TWW referral ASI's ASI report Referrals not yet triaged"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 24,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "RBMS Actions Prior to Escalation to Service Cardiology"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 27,
+            "data": {
+                "url": "MEHTSOP067 Booking Process at MEHT 2.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "Use Rapid Access Chest Pain Clinic Slots if not filled 24hrs prior"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "If patients are over 30weeks for first OPA ensure the shortest waiting patients that are non-urgent are swapped (DW SM if concerned)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "DERMATOLOGY"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "When Cancer referrals are over weekly Fast Track slots the first escalation to the coordinator/SM to find additional sessions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "text": "If No additional sessions can be sought then shortest waiting non urgent routine patients are moved to accommodate RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Routine patients are then displaced till they get to 40weeks, further discussion with service manager is required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Routine patient having their appointment moved for the second time needs to be escalated to the SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Daily discussion to be had between SM/ Derm Hub and Coordinator when referrals are over the 128 FT allocated slots."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "RBMS Actions Prior to Escalation to Service"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "RBMS Actions Prior to Escalation to Service MSK"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "NEWS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "Phone patients to see if will go to another site (ie. St Peters, BCH)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "Swap patient out (patient dated in shorter wait time)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Convert 2 f/u for 1 new (by consultant consent)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "FOLLW UPS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Over book clinic by Consultant consent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Care of the Elderly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all slots are filled, Any F:U slots are turned into NEW slots"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 1,
+                "text": "(2f:U =1 new) RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "text": "Ensure there are No HOT SLOTS RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Move routine non urgent cases to accommodate FT referrals"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Escalate to ASM/SM if an ad hoc is required if all previous steps have not addressed demand."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Breast, Vascular and Urology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "The following points below, is guidance for the outpatient team with regards to booking and utilising all appointment slots."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "All clinics are required to be booked at 6 weeks. At this time the only clinic slots available should be 2WW and MDT follow up slots."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Any capacity remaining or a patient cancels etc the following actions are required prior to escalation to the service \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "text": "MDT & 2WW Slots\u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "If not all MDT follow up slots have been used after MDT. The MDTC and outpatients HUB are to communicate in using these slots for 2WW patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "1 MDT follow up slot is the equivalent for 2 new 2WW patients. These are to be used for patients breaching or bringing forward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "If 2WW and MDT follow up slots have been all booked into and there is still capacity remaining, please contact patients and bring forward to reduce 2ww target to 7 days If patients decline this then to use the slots for RTT patients, stating long waiters down and in urgency."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "text": "RTT slots \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "RTT appointment slots should always be booked longest waiter down and in urgency as per policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "ASIs and overdue follow ups to be booked if capacity after long waiters and clinically urgent have been dated"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Both RTT and cancer slots can be converted as long as there is enough time allocated for the type of slot the patient requires."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Any patient under 52 weeks are not to have an appointment booked past 52+ weeks unless an appropriate clock stop has been applied i.e surveillance patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Colorectal, General Surgery,UGI & Paediatric Surgery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "All clinics are required to be booked at 6 weeks. At this time the only clinic slots available should be 2WW and MDT follow up slots."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "9 clinics have already been identified for overbooking and this is currently in templates."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Any capacity remaining or a patient cancels etc the following actions are required prior to escalation to the service \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "text": "MDT & 2WW Slots\u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "If not all MDT follow up slots have been used after MDT. The MDTC and outpatients HUB are to communicate in using these slots for 2WW patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "1 MDT follow up slot is the equivalent for 2 new 2WW patients. These are to be used for patients breaching or bringing forward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "If 2WW and MDT follow up slots have been all booked into and there is still capacity remaining. Either \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring 2WW patients have been called to bring forward to reduce the 2WW target to 7 days. If patients decline this then to use the slots for RTT patients, stating long waiters down and in urgency."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 1,
+                "text": "RTT slots \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "RTT appointment slots should always be booked longest waiter down and in urgency as per policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is still capacity we should be looking to book down to the following weeks per speciality."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "General Surgery \u2013 25 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Paediatric Surgery \u2013 25 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Colorectal Surgery \u2013 30 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Upper GI Surgery \u2013 30 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "If all patients have been through down to the number of weeks above, it is to look at ASI list and overdue follow ups."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "For both RTT and cancer slots can be converted as long as there is enough time allocated for the type of slot the patient requires."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 1,
+                "text": "Any patient under 52 weeks is not to have an appointment booked past 52+ weeks. The only consultants that booking pass 52+ weeks will happen with are Mr Siddiqi (LGI) and Sri K"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "(UGI)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 1,
+                "text": "Reg clinics are to be booked as templated. If the reg clinic is alongside a consultant clinic and there is free capacity. Discussion with the service regarding converting slots appropriately."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory, Allergy, Neurology Respiratory"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "Cancer patients not booked by RBMS, tends to be from MDT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 1,
+                "text": "Shortest waiting non urgent routine patients are moved to accommodate more urgent RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "Routine patients are then displaced till they get to 40weeks, further discussion with service manager is required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Routine patient having their appointment moved for the second time needs to be escalated to the SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "Allergy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Currently booking first appt to circa 40 weeks,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Neurology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "For urgent patient displace shorter wait non-urgent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is an empty FU slot it can be converted to a new slot (NB if a consultant is seeing a FU from a previous locum this will need to be booked as a new pt. for that consultant) \u2013 no more than x1 converted slot per clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "Gynaecology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "- Bookings team to follow current SOP process of booking new patients in date order and follow ups from top down of PTL."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "- Bookings up to 6 weeks in the future can be made. Bookings further to this date if required can be given with Service Manager / Assistant Service Manager permission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "- Lack of 2ww capacity to be escalated to the following agreed distribution list to ensure capacity carved out (booking team not to book into any slot as clinic must meet certain criteria):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "- RTT or urgent capacity can be made by the bookings team by cancelling \u2018Routine' \u2018New' patients booked under 8 weeks that have not previously been cancelled. Bookings team do not need service permission for this."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "- If a new or follow up slot remain empty 48 hours prior to clinic, the slot can be used for the alternative appointment without service permission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "- Oncology Follow Up access plan list takes priority over Mr Partington routine/RTT access plan."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "- ASI's will continually be triaged and reviewed by service and feedback made to Bookings team if can be booked in alternative clinics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "Head & Neck"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "text": "The following points below, is guidance for the outpatient team with regards to booking and utilising all appointment slots."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "All clinics are required to be booked at 6 weeks. At this time the only clinic slots available should be 2WW and MDT follow up slots."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "Any capacity remaining or a patient cancels etc. the following actions are required prior to escalation to the service \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 1,
+                "text": "MDT & 2WW Slots\u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "If not all MDT follow up slots have been used after MDT. The MDTC and outpatients HUB are to communicate in using these slots for 2WW patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "text": "MDT follow up time slot must equal the equivalent for the new 2WW patients. These are to be used for patients breaching or patients being brought forward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "text": "If 2WW and MDT follow up slots have been all booked into and there is still capacity remaining. Either \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring 2WW patients have been called to bring forward to reduce the 2WW target to 7 days. If patients decline this then to use the slots for RTT patients, starting long waiters down and in urgency."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 1,
+                "text": "RTT slots \u2013"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "RTT appointment slots should always be booked longest waiter down and in urgency as per policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is still capacity we should be looking to book down to the following weeks per speciality."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "ENT Adults \u2013 30 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "ENT Paeds \u2013 25 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "Oral \u2013 30 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "Max Fax \u2013 30 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Orthodontic \u2013 20 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "If all patients have been through down to the number of weeks above, please look at ASI list and overdue follow ups."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "For both RTT and cancer slots can be converted as long as there is enough time allocated for the type of slot the patient requires."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "Any RTT patient under 30 weeks on a routine pathway can be moved to accommodate 2WW or long waiters if dated out of turn."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "Any patient under 52 weeks is not to have an appointment booked past 52+ weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Reg clinics are to be booked as templated. If the reg clinic is alongside a consultant clinic and there is free capacity, discuss with the service regarding converting slots appropriately. Only appropriate patients can be placed in non-consultant clinics, i.e. not new patients or 2WW if this is not on the template. However swaps can be made from consultant clinics to allow appropriate appointment types to be dated. For example move follows ups to non- consultant clinics and place news into consultant clinic."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "text": "Plastics Surgery/Burns"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "All follow up appointments are booked within 48 hours of clinic appointment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinics are required to be booked at 6 weeks. At this time the only slots available should be urgent. This excludes Trauma and Cancer clinics."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "RTT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "If slots available, bring Patients forward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "RTT appointment slots should always be booked longest waiter down and urgent as per the Patient Access Policy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Overdue follow-ups to be booked if capacity after long waiters and clinically urgent have been dated"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Both RTT and Cancer slots can be converted as long as there is enough time allocated for the type of slot the Patient requires."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Patient under 52 weeks are NOT to have an appointment booked past 52+ weeks unless an appropriate clock stop has been applied."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "When additional capacity required, Clinicians/ASM's/SM's are to be advised."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all slots are filled. Any follow ups should be converted into new slots and vice versa."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinics can only be overbooked with Clinician consent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "text": "CANCER"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": "When cancer referrals are over capacity, escalate to ASM/SM/ADO."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": "Gastroenterology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "text": "Cancer patients not booked by RBMS are from MDT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 1,
+                "text": "Shortest waiting non urgent routine patients are moved to accommodate more urgent RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "Routine patients are then displaced till they get to 40weeks, further discussion with service manager is required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Routine patient having their appointment moved for the second time needs to be escalated to the SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "text": "Currently booking first appt to circa 40 weeks,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "text": "For urgent patient displace shorter wait non-urgent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is an empty FU slot it can be converted to a new slot (NB if a consultant is seeing a FU from a previous locum this will need to be booked as a new pt for that consultant) \u2013 no more than x 2 converted slot per clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "Stroke / TIA"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 1,
+                "text": "Shortest waiting non urgent routine patients are moved to accommodate more urgent RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "Routine patients are then displaced till they get to 40weeks, further discussion with service manager is required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Routine patient having their appointment moved for the second time needs to be escalated to the SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "text": "Currently booking first appt to circa 40 weeks,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "For urgent patient displace shorter wait non-urgent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is an empty FU slot it can be converted to a new slot (NB if a consultant is seeing a FU from a previous locum this will need to be booked as a new pt for that consultant) \u2013 no more than x 2 converted slot per clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 0,
+                "text": "Oncology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 1,
+                "text": "MDT"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "text": "Oncology New slots are for MDT patients only (or GP/tertiary ref at clinician's discretion)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 0,
+                "text": "All MDT requests are to be dealt with as priority"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Book as per requestor's advice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "If no capacity to book to the requested date:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 0,
+                "text": "\u2013 If x2 follow up slots available \u2013 book and merge the two slots"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "text": "\u2013 Book to next available within 1 week"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 1,
+                "text": "\u2013 If no capacity for the following week Escalate to Service Manager"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 1,
+                "text": "On Treatment Patients \u2013 (chemotherapy)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 1,
+                "text": "All requests that are clinically urgent are to be dealt with as priority"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "text": "Book as per requestor's advice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 0,
+                "text": "If no capacity to book to that date:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 0,
+                "text": "\u2013 Overbook clinic with comments that chemotherapy have requested to book"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "text": "\u2013 Routine chemotherapy follow-up: Book to next available within 1 week"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 1,
+                "text": "\u2013 If no capacity for the following week escalate to Oncology Secretary to discuss with consultant of where best to place the patient. NB: Contact SM if unable to contact consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 1,
+                "text": "Routine Follow-Up from Access Plans"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "text": "If clinics are fully booked:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "text": "Generate a list of patients (only if there is no clinic capacity)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 1,
+                "text": "Escalate to the Service Manager with the list \u2013 ad hoc clinics would need to be considered"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "text": "Nephrology"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 1,
+                "text": "Shortest waiting non urgent routine patients are moved to accommodate more urgent RBMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 0,
+                "text": "Routine patients are then displaced till they get to 40weeks, further discussion with service manager is required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 0,
+                "text": "Any Routine patient having their appointment moved for the second time needs to be escalated to the SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 0,
+                "text": "Currently booking first appt to circa 40 weeks,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 0,
+                "text": "For urgent patient displace shorter wait non-urgent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment displace routine patient with shorter wait"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is an empty FU slot it can be converted to a new slot (NB if a consultant is seeing a FU from a previous locum this will need to be booked as a new pt for that consultant) \u2013 no more than x 2 converted slot per clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 0,
+                "text": "If a \u2018long waiter' patient cancels their appointment and it cannot be rescheduled before breech date escalate to SM"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "text": "RBMS Actions Prior to Escalation to Service"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "text": "Paper  New Referral ER-S Electronic Referral Referral"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 202,
+            "data": {
+                "url": "MEHTSOP067 Booking Process at MEHT 2.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "text": "Received by"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "text": "Merc"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "text": "Uploaded by referrer to ER-S"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "text": "Referral Created by Merc on Lorenzo"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "text": "Consultant triages referral"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "Team Grade"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "text": "Referral"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "text": "Referrer / Patient Books OPA"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 0,
+                "text": "RBMS created"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 0,
+                "text": "Access Plan"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 213,
+            "data": {
+                "is_heading": 0,
+                "text": "No capacity \u2013 Patient falls onto"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 0,
+                "text": "RBMS Books OPA -  Appointment Slot"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 0,
+                "text": "if capacity allows Issue List on ER-S"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "text": "NO CAPACITY- FOLLOW APPENDIX 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

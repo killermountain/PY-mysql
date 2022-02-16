@@ -1,0 +1,949 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP010 Recording IPT Referrals 3.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP010 - Inter Provider Transfers Referrals"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatient"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP010"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Inter Provider Transfers Referrals"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business change analyst"
+                    },
+                    {
+                        "text": "17/04/19"
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "09/05/2019"
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of cooperate delivery"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2022"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "April 2019"
+                    },
+                    {
+                        "text": "First Draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "May 2019"
+                    },
+                    {
+                        "text": "Updated to include steps for amending PPI number, RTT start date and RTT status when MDS becomes available."
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Delivery group"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Caroline May, Carly Savage, Joanne Gilbey."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for recording Inter Provider Transfer referrals"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for tracking and updating the patient's pathway status to ensure accurate RTT information is recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Recap on existing processes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Please refer to the OPD01 \u2013 Outpatients: Referral Management and Access Planning for a detailed description of end to end outpatient procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "Overview"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "text": "All inter provider transfers referral documents should be accompanied by the minimum data set (MDS) for inter provider transfer referrals. If the information is not provided then the referrer must be contacted asking them to provide the required information as soon as possible. The MDS form provides correct details of the patient's 18 week pathway information. It is vital to have this form as this will inform the user on the correct RTT codes and status to select when recording the referral in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Please note:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "On receipt of an Inter Provider Transfer (IPT) referral, the user must review the referral to ensure that the required MDS details and information have been sent with the referral."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "The following information is required from the MDS form, for it to be recorded correctly:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Pathway Identifier"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Referring Organisation Code"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment Status - Where the patient is on the RTT pathway I.e. if the First Definitive Treatment has started, if they are Post treatment, if they are have been referred to MEHT for diagnostics or for a specific procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Pathway Start Date."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "text": "Prior to adding a new referral to a patient's record, the user must review the active referrals in the referrals tab of patients EPR in Lorenzo, to see if the patient has an active referral in the same service. If this is the case then a new referral must not be created as this will start a new pathway in Lorenzo, as this will be a duplicate referral and start another RTT pathway in the patients record in Lorenzo for the same condition in the same service."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "text": "Staff must escalate referrals that have incomplete details to their supervisor before this can be added to Lorenzo EPR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 RBMS Booking Clerk / Booking Clerk Procedure \u2013 Record an Inter Provider Transfer referral"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 29,
+            "data": {
+                "num_rows": 17,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral Details Section"
+                    },
+                    {
+                        "text": "Service type requested"
+                    },
+                    {
+                        "text": "Will default to Advice/Guidance - Leave with default selection."
+                    },
+                    {
+                        "text": "Referral priority"
+                    },
+                    {
+                        "text": "Select Routine from the set of drop down values"
+                    },
+                    {
+                        "text": "Referral type"
+                    },
+                    {
+                        "text": "Select Outpatient"
+                    },
+                    {
+                        "text": "Referral source"
+                    },
+                    {
+                        "text": "Select Consultant other than In an A&E."
+                    },
+                    {
+                        "text": "Admin category"
+                    },
+                    {
+                        "text": "This will default to NHS Patient. Any private patient activity will require the user to change this to Private patient from the drop down list."
+                    },
+                    {
+                        "text": "Referral Action"
+                    },
+                    {
+                        "text": "Select Record Referral"
+                    },
+                    {
+                        "text": "Referral media"
+                    },
+                    {
+                        "text": "As appropriate"
+                    },
+                    {
+                        "text": "Referred by Section"
+                    },
+                    {
+                        "text": "Organisation"
+                    },
+                    {
+                        "text": "Search and select the referring organisation"
+                    },
+                    {
+                        "text": "Care Provider"
+                    },
+                    {
+                        "text": "As appropriate"
+                    },
+                    {
+                        "text": "Referral create date/time"
+                    },
+                    {
+                        "text": "This is the date the referral was created by the Referrer. User should check the referral documents / MDS sheet for this information."
+                    },
+                    {
+                        "text": "Referral received date/time"
+                    },
+                    {
+                        "text": "Enter the date the referral was received at MEHT"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Enter any related information from the referral letter"
+                    },
+                    {
+                        "text": "Referred to Section \u2013 Complete as appropriate"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Record relevant information"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note: All referrals via the RBMS must be referred to a \u201cTeam\u201d"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "text": "Select Next"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "This screen holds the details for RTT monitoring, the referral details from the previous screen is pre- populated. However the user must complete the other fields as listed below."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 33,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Select \u201cTransfer of clinical responsibility\u201d. Select opinion only or Diagnostic test if this has been stated explicitly in the referral / supporting documents."
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Change default selection to \u201cRecord pathway manually\u201d. The dialogue box below appears- select Yes"
+                    },
+                    {
+                        "text": "Record Pathway"
+                    },
+                    {
+                        "text": "Enter the Patient Pathway Identifier (PPI number) which will be on the MDS sheet. If MDS is not available, leave this field blank. Lorenzo generates a new PPI which must be updated when the MDS details have been received. See Appendix 1 for how to update the PPI number when the information becomes available."
+                    },
+                    {
+                        "text": "Organisation involved in pathway"
+                    },
+                    {
+                        "text": "Enter referring organisation, click \u201cadd\u201d to add the referring organisation."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Please see below for the options to be selected \u2013"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 35,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Referral / Patient Scenario"
+                    },
+                    {
+                        "text": "Actual RTT status to be selected"
+                    },
+                    {
+                        "text": "Transferred from another Trust for treatment."
+                    },
+                    {
+                        "text": "20 Further Activity in RTT"
+                    },
+                    {
+                        "text": "For patients requiring care after 1st treatment has been given"
+                    },
+                    {
+                        "text": "90 Post 1st Treatment"
+                    },
+                    {
+                        "text": "For patients during watchful wait i.e. Active monitoring (patient or clinician initiated)"
+                    },
+                    {
+                        "text": "91 During WW period"
+                    },
+                    {
+                        "text": "For patients pathways not applicable to RTT monitoring i.e. opinion only and diagnostic tests"
+                    },
+                    {
+                        "text": "98 Not applicable to RTT"
+                    },
+                    {
+                        "text": "If the status is not provided on the MDS or there is no MDS sheet"
+                    },
+                    {
+                        "text": "99 Not yet known. This can be updated when the information becomes available. The relevant team must contact the referring organisation for the MDS sheet and update the patients RTT status and PPI when this becomes available. See Appendix 1 for how to update the MDS information."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Please note \u2013 If there is an active referral for the same service in the patients record, then the dialogue box below will appear."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 37,
+            "data": {
+                "url": "MEHTSOP010 Recording IPT Referrals 3.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 1,
+                "text": "Please select No; the user must not create another referral if there is an open one for the same service in the patient's record as this will start another 18 week pathway in the same service and introduce a duplicate referral to the patient's record in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral is recorded onto Lorenzo with a status of \u2018Created', for the relevant Team or Clinician. A relevant link is made to previous referrals as required. The referral is now ready to be graded. A clerk should repeat this process each day to record all referrals that have been received."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1 \u2013 Update to the patient's pathway and referral when the MDS details is received."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "In cases where the MDS details are not available when the inter provider referral was added to Lorenzo, staff must contact the referring organisation for the MDS. Outlined below are the steps to be follow when the MDS information becomes available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "**Please note \u2013 If the referral is still in the created state and has not been managed to accepted, changes can be made to the RTT pathway via the RTT monitoring screen using the Lorenzo function \u201cModify Referral\u201d."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "If the referral has been managed to accepted, changes can be made to the RTT pathway using the Lorenzo function \u201cManage RTT\u201d."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "Process \u2013 Update Patient Pathway Identifier (PPID) RTT start date and RTT status when the referrals is in the state of Created."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 Booking clerk"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 47,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Select \u201cTransfer of clinical responsibility\u201d. Select opinion only or Diagnostic test if this has been stated explicitly in the referral document."
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Defaults to \u201cRecord pathway manually\u201d - Leave as is."
+                    },
+                    {
+                        "text": "Record Pathway"
+                    },
+                    {
+                        "text": "Click into this field and delete the Lorenzo generated PPI. Enter the Patient Pathway Identifier (PPI number) which will be on the MDS sheet. If the referral is still in the created state, this field will be blank, enter the Patient Pathway Identifier (PPID number) which will be on the MDS sheet."
+                    },
+                    {
+                        "text": "Organisation involved in pathway"
+                    },
+                    {
+                        "text": "Search & select referring organisation, click \u201cadd\u201d to add the referring organisation."
+                    },
+                    {
+                        "text": "Actual RTT status"
+                    },
+                    {
+                        "text": "Enter the correct RTT status as per the MDS sheet"
+                    },
+                    {
+                        "text": "Referral RTT start date"
+                    },
+                    {
+                        "text": "Enter the actual pathway start date as per MDS sheet"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Click Finish."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "The PPID, RTT status and RTT start date has now been updated to the correct PPI as per the MDS sheet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "text": "Process - Update RTT start date and RTT status when the referrals is in the state of Accepted. Role \u2013 Booking clerk"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 51,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Reason"
+                    },
+                    {
+                        "text": "Select \u201cAmend RTT start date\u201d"
+                    },
+                    {
+                        "text": "Current RTT start date"
+                    },
+                    {
+                        "text": "Select the date that defaults into the field"
+                    },
+                    {
+                        "text": "New RTT start date"
+                    },
+                    {
+                        "text": "Select the correct RTT start date (which is also the pathway start date) as per the MDS sheet"
+                    },
+                    {
+                        "text": "Comment"
+                    },
+                    {
+                        "text": "Enter relevant details"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 52,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Reason"
+                    },
+                    {
+                        "text": "Select \u201cAmend RTT\u201d"
+                    },
+                    {
+                        "text": "New actual RTT status"
+                    },
+                    {
+                        "text": "Greyed out \u2013 N/A"
+                    },
+                    {
+                        "text": "Activity date time"
+                    },
+                    {
+                        "text": "Greyed out \u2013 N/A"
+                    },
+                    {
+                        "text": "Comment"
+                    },
+                    {
+                        "text": "Enter relevant details"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point \u2013 The patients RTT pathway is now updated with the correct PPI number, RTT start date and RTT status as per the MDS sheet."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 54,
+            "data": {
+                "url": "MEHTSOP010 Recording IPT Referrals 3.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 55,
+            "data": {
+                "url": "MEHTSOP010 Recording IPT Referrals 3.0.005.png"
+            }
+        }
+    ]
+}

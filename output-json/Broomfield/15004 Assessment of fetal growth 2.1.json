@@ -1,0 +1,1395 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "15004 Assessment of fetal growth 2.1.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ASSESSMENT OF FETAL GROWTH DURING THE ANTENATAL PERIOD"
+                    },
+                    {
+                        "text": "CLINICAL GUIDELINE Register No: 15004 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NICE Guidelines Review of Clinical Guideline"
+                    },
+                    {
+                        "text": "CQC Fundamental Standards:"
+                    },
+                    {
+                        "text": "11, 12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/Committee/Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Anita Rao/ Alison Cuthbertson Vidya Thakur Alison Cuthbertson Dr Hassan Paula Hollis Chris Berner Emma Neate Sarah Moon Deborah Lepley"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Division Consultant for Obstetrics and Gynaecology Associate Director of Midwifery/Nursing Consultant Paediatrician Lead Midwife Acute Inpatient Services Lead Midwife Clinical Governance Antenatal and Newborn Screening Midwife Specialist Midwife Guidelines and Audit Senior Librarian, Warner Library"
+                    },
+                    {
+                        "text": "April 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": "Miss Rao"
+                    },
+                    {
+                        "text": "Lead Consultant for Obstetrics and Gynaecology"
+                    },
+                    {
+                        "text": "April 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Ratified by"
+                    },
+                    {
+                        "text": "DRAG Chairman's Action"
+                    },
+                    {
+                        "text": "Ratified on"
+                    },
+                    {
+                        "text": "2nd August 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "28 August 2018"
+                    },
+                    {
+                        "text": "Executive Management Group Date"
+                    },
+                    {
+                        "text": "September 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Dr Sameena Kausar, Consultant Obstetrician"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Paediatricians and appropriately trained health care professionals"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Trust intranet and website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 06036 Guideline for Maternity Record Keeping including Documentation in Handheld Records 04272 Maternity Care 07043 Abdominal Palpation and Examination in Pregnancy 08013 Care of preterm and small for gestational age infants on the postnatal ward 04265 Fetal heart rate monitoring in pregnancy and monitoring register number 14026 Ultrasound assessment of fetal growth in the 2nd & 3rd trimester"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Review No:"
+                    },
+                    {
+                        "text": "Authored/Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Roslyn Bullen-Bell, Midwife; GAP Programme Project Lead"
+                    },
+                    {
+                        "text": "4th March 2015"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Roslyn Bullen-Bell \u2013 clarification to 6.2.1"
+                    },
+                    {
+                        "text": "20 September 2016"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Roslyn Bullen-Bell \u2013 clarification to 8.3"
+                    },
+                    {
+                        "text": "27 February 2017"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Sameena Kausar \u2013 full review"
+                    },
+                    {
+                        "text": "28 August 2018"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Katharine Reeves- clarification to point 8.1 and Appendix 1"
+                    },
+                    {
+                        "text": "29September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1 Customised Growth Chart"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.1,
+                "text": "To provide guidance for clinical staff responsible for the Management of fetal growth when using the customised growth charts."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "Each woman will have a customised growth chart printed following her dating scan and secured in her hand held pregnancy notes. The antenatal lead midwife will generate a customised growth chart in the antenatal clinic following the ultrasound at 11 weeks and 2 days gestation to  weeks and 1 day gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Not all pregnancies are suitable for primary surveillance by fundal height measurement and require ultrasound biometry instead"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Scope"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "This guideline is relevant to all healthcare professionals involved in the care of pregnant women including Midwives, General Practitioners, Obstetricians and Sonographers."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "This guideline addresses the following areas:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Use and production of a customised growth chart"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Booking risk assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "When and how to measure fundal height using a standardised technique"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "When to refer to Ultrasound for a growth scan"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Serial growth scans for women at high risk of fetal growth restriction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "This guideline does not seek to cover management of pregnancy once intra-uterine growth restricted baby has been diagnosed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline entitled \u2018Care of preterm and small for gestational age infants on the postnatal ward'; register number 08013)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Background"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Fetal growth restriction is associated with stillbirth, neonatal death and perinatal morbidity. Confidential Enquiries have demonstrated that most stillbirths due to fetal growth restriction are associated with sub-optimal care and are potentially avoidable."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "A recent epidemiological analysis based on the comprehensive West Midlands database has underlined the impact that fetal growth restriction has on stillbirth rates, and the significant reduction which can be achieved through antenatal detection of pregnancies at risk."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Customised assessment of birth weight and fetal growth has also been recommended by the RCOG since 2002 and is re-emphasised in the 2013 revision of the Green Top Guidelines. Most studies use a one off measurement to predict IUGR; however it is the growth trend that is of more value in predicting poor fetal outcome."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Objectives"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "To ensure that there is accurate fetal surveillance, through standardised fundal height measurements of low risk women and serial growth scans for high risk women."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "To ensure that serial fundal height measurements are plotted correctly on customised growth charts."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Where growth problems are suspected from fundal height measurements, referral for a growth scan and appropriate further investigations to assess fetal wellbeing should be undertaken as soon as possible and within at most 96 hours (4 working days)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Where a problem has been identified, referral is indicated to the Obstetric team for discussion and agreement of an appropriate management plan; to be seen following the ultrasound in the Day Assessment Unit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "To ensure that there is identification of all infants born below the th customised centile at birth an appropriate management initiated postnatally."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Customised Growth Charts"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The charts are used to plot both fundal height measurements obtained during clinical examination and estimated fetal weight following an ultrasound examination. They are customised to each individual taking into account the height, weight, ethnicity, parity of the women. Birth weights of previous children need to be inputted to identify previous problems with growth, but this does not affect the centiles produced."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Chart production"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.1 Each woman will have a customised growth chart printed following her dating scan and secured in her hand held pregnancy notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.2 The estimated date of birth entered into the software will be the one calculated by the dating ultrasound scan. The chart will show the 10th, 50th and 90th centile lines (the 5th"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "and 95th centiles can be printed as an option if required). There is a box in the top left hand corner where her height, weight, ethnicity and parity are shown. A customised centile will be calculated for all previous children; if they were small for gestational age (SGA) or large for gestational age (LGA) this will also be highlighted. Mother's name, reference number and date of birth will appear above the chart."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.3 The charts are very easy to produce and can be generated at any time during pregnancy. The software can be accessed on all computers in maternity or via contacting the Perinatal Institute's specialist maternity team at grow@perinatal.org.uk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "6.2.4 All late bookers or women who transfer care should be referred to see the antenatal clinic lead midwife for a customised growth chart. In cases where the woman has not had an ultrasound scan at 11 weeks and 2 days gestation to  weeks and 1 day gestation an estimated due date will not be available. Therefore an estimate date of delivery will have to be used from the most current scan. Women who present in labour and unbooked will not be eligible for GROW charts."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Measuring Fundal Height"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline entitled \u2018Abdominal Palpation and Examination in Pregnancy'; register number 07043)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Who to measure - not all pregnancies are suitable for primary surveillance by fundal height measurement, and require ultrasound biometry instead. In most instances, these pregnancies fall into the following categories:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Fundal height measurement unsuitable/inaccurate e.g. large fibroids, high maternal BMI, multiple pregnancy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Pregnancy considered high risk requiring serial ultrasound e.g. pre-existing diabetes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "7.1.1 Women who are recognised as low risk and suitable for midwifery led care should have serial fundal height measurements undertaken as a primary screening test for fetal wellbeing. These should commence from 26-28 weeks gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "How to measure - the fundal height measurement should be performed with the mother in a semi-recumbent position, with an empty bladder and the uterus relaxed and non- contracting."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.1 It is recommended that the clinician uses both hands to perform an abdominal palpation, identifying the highest point of the uterine fundus; then leaves one hand on the fundus. A non-elastic tape-measure, starting at zero, is placed on the uterine fundus"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "\u2013 at the highest point (which may or may not be in the midline)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.2 The tape measure should then be drawn down to the top of the symphysis pubis (in the midline) and the number read in whole centimetres. To reduce the possibility of bias, the tape measure should be used with the cm side hidden, and the measurement should be taken once only."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.3 The result should be recorded in centimetres on the customised growth chart and the value plotted using a cross."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.4 The method for measuring FH is explained below the customised growth chart to support standardised practice."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Serial fundal height measurements should be carried out 2-3 weekly from 26-28 weeks gestation until delivery."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Referral to Ultrasound"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "(Refer to the guideline entitled \u2018Ultrasound assessment of fetal growth in the nd and rd trimester; register number 14026)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Indications for a growth scan are:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "First Fundal Height measurement below 10th centile at 26-28 weeks;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Static growth: no increase in sequential measurements;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Slow growth: curve linking up plots crossing centiles in a downward direction;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 90.0,
+                "text": "Excessive growth (and is above th Centile): curve linking up lots of crossing centiles in a steep upward direction."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 1,
+                "text": "Note that if the initial measurement taken between 26-28weeks is above the 90th centile it is not an indication for a growth scan. A scan would however be indicated if there was clinical suspicion of polyhydramnios or there was excessive growth on subsequent measurements."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 90.0,
+                "text": "For patients where SFH is below the th centile or above the th centile requests for a growth scan should be made directly to the Ultrasound department who will give an appointment as soon as possible but within 4 days. Arrangements for follow-up by the"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "referrer should be made assuming the scan is normal. If there are concerns regarding the scan, the Sonographer will either refer the woman to be seen in the Consultant clinic or on the Day Assessment Unit depending on the time of day i.e. to ensure they are reviewed on the same day."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix 1 and section 7.2)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "prefix": 28.0,
+                "text": "Serial growth scans for those at high risk of growth restriction - some women will be at increased risk of developing fetal growth restriction because of risk factors in the current pregnancy, past medical history or past obstetric history. All women should be assessed at booking for risk factors to identify those who need increased surveillance. Women who fall into these categories will need referral to a Consultant. The Consultant- led team will arrange for serial scans from  weeks until delivery (earlier gestation or higher frequency if required in individual cases). These women will not require fundal height measurements while such a serial scanning protocol is being followed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.4,
+                "text": "Growth scan requests related to obstetric history include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous birth weight(s) <10th customised centile"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous unexplained stillbirth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.5,
+                "text": "Growth scan requests related to maternal medical history include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre-existing diabetes and essential hypertension with/without vascular disease"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "Chronic maternal disease e.g. Moderate or severe renal impairment; antiphospholipid syndrome, autoimmune disease on immunosuppression treatment, cyanotic heart disease and thrombophilia;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Uterine fibroids greater than 6cm diameter;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": "BMI  or >/= 40 ."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.6,
+                "text": "Growth scan requests related to current pregnancy include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Concerns related to growth measurements, as listed above"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "PAPPA-A (<0.4 MoM) and/or a low hCG (<0.5 MoM)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical suspicion of oligohydramnios or polyhydramnios"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Known or suspected fetal anomaly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Fetal Echogenic bowel"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Preeclampsia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "Unexplained APH"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "Late booker (20+ weeks gestation)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "Substance misuse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "text": "Multiple pregnancies (refer to multiple pregnancy and birth guidelines)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.7,
+                "text": "Referral following a growth scan - these referrals will be made by the sonographer once the growth scan has been completed and the EFW plotted on the customised growth chart (with a circle)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.8,
+                "text": "If the EFW plots between the 10th and 90th centile and is following the centile Curve; and the liquor volume is normal the woman will be asked to attend her next antenatal appointment as planned (this should already have been confirmed with the woman by the referring carer)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.9,
+                "text": "If the EFW does not plot within the 10th and 90th centile or is not following a centile curve, or there are concerns regarding the liquor volume, then the following referrals should be made:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "text": "8.9.1 EFW above 90th centile on GROW"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "For Obstetric team to review in Day Assessment Unit or Antenatal Clinic. With polyhydramnios repeat scan in 2 weeks; without polyhydramnios repeat scan in 4 weeks;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Organise glucose tolerance test if </=34 weeks or monitor CBGs (after discussing with diabetic team) if >34 weeks;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "text": "8.9.2 EFW below 10th centile or reduced growth velocity, normal liquor volume, normal umbilical artery Doppler"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "For Obstetric team to review in Day Assessment Unit or Antenatal Clinic following a discussion with the Obstetric Registrar and repeat scan in 2 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 1,
+                "text": "8.9.3 EFW below 10th centile or reduced growth velocity with oligohydramnios and/or abnormal umbilical artery Doppler and/or abnormal middle cerebral"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 1,
+                "text": "For immediate obstetric review in the Day Assessment Unit and referral to FMU."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Management in Labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Early admission should be recommended in women in spontaneous labour with a fetus where growth problems have been identified, in order to investigate continuous fetal heart rate monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline entitled \u2018Fetal heart rate monitoring in pregnancy and monitoring'; register number 04265)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Following the Birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Once the baby has been weighed, plot the weight on the customised growth chart, the purpose being to see how precise the measurements were antenatally. If the birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "weight falls below the th Centile in an undiagnosed intrauterine growth restricted baby then the details should be completed electronically via DatixWeb. In cases where there are suspected/ confirmed intrauterine growth restriction, the DatixWeb process is not required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Staff Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "All staff should ensure that their knowledge and skills are up-to-date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "The Practice Development Midwife, in association with all midwifery managers, will determine if training, regarding the guideline, is required and action accordingly. The Practice Development Midwife will ensure that training records are maintained regarding this agenda."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Professional Midwifery Advocates"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Professional Midwifery Advocates provide a mechanism of support and guidance to women and midwives. Professional Midwifery Advocates are experienced practising midwives who have undertaken further education in order to supervise midwifery services and to advise and support midwives and women in their care choices."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance  against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Clinical Governance Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.5,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for further training; possibly involving \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued and available to all staff including an update on the latest \u2018guidelines' information such as a list of newly approved guidelines for staff to acknowledge and familiarise themselves with and practice accordingly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Approved guidelines are published monthly in the Trust's Staff Focus that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.4,
+                "text": "Regular memos are posted on the \u2018Risk Management' notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "Birthweight: de Jong CLD et al. (1998). Application of a customised birthweight standard in the assessment of perinatal outcome in a high risk population. BJOG 105:531-35"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "Clausson B et al. Perinatal outcome in SGA births defined by customised versus population based birthweight standards. BJOG 2001;108:830-4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "McCowan L, Harding JE, Stewart AW. Customised birthweight centiles predict SGA pregnancies with perinatal morbidity. BJOG 2005;112:1026-1033."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Gardosi J, Clausson B, Francis A. The value of customised centiles in assessing perinatal mortality risk associated with parity and maternal size. BJOG 2009;116:1356-63."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "text": "Fetal Growth: Mongelli M, Gardosi J. Longitudinal study of fetal growth in subgroups of a low risk population. Ultrasound Obstet Gynecol 1995; 6: 340-344,"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "de Jong CLD et al. Fetal weight gain in a serially scanned high-risk population. Ultrasound Obstet Gynecol 1998;11:39-43."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "Mongelli M, Gardosi J. Reduction of false-positive diagnosis of fetal growth restriction by application of customized fetal growth standards. Obstet Gynecol 1996;88:844-848."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "Fundal height: Gardosi J, Francis A. Controlled trial of fundal height measurement plotted on customised antenatal growth charts. BJOG 1998 106(4):309-17."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Wright J, Morse K et al. MIDIRS Midwifery Digest, 2006; vol 16, no 3, pp 341-345. Reviews / Best Practice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "Gardosi J Intrauterine growth restriction: new standards for assessing adverse outcome. Best Practice & Research Clinical Obstet Gynaecol 2009;23;741\u2013749"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "Morse K., Williams M. and Gardosi J. Fetal growth screening by fundal height measurement. Best Practice & Research Clin Obstet Gynaecol 2009;23;6:809-819"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "Figueras F. Gardosi J. Intrauterine growth restriction: new concepts in antenatal surveillance, diagnosis, and management. AJOG 2010; 204:4;288-300."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Clinical Excellence. Antenatal care: routine care for the healthy pregnant woman. NICE Clinical Guideline 62. NICE, London."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 1,
+                "text": "Customised Growth Chart"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 142,
+            "data": {
+                "url": "15004 Assessment of fetal growth 2.1.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

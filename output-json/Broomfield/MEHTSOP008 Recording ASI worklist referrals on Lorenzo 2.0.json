@@ -1,0 +1,791 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP008 Recording ASI worklist referrals on Lorenzo 2.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP008 Outpatients: Recording referrals on the Appointment Slot Issues Worklist Please refer to the OPD01 \u2013 Outpatients: Referral Management and Access Planning for a detailed description of end to end outpatient's procedure."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP008"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Outpatients: Recording referrals on the Appointment Slot Issues Worklist"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business change analyst"
+                    },
+                    {
+                        "text": "17/04/19"
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "09/05/2019"
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of cooperate delivery"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2022"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Caroline May, Carly Savage, Joanne Gilbey."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for recording patient referrals that are on the ASI work list in e-Referral Service (eRS) manually in Lorenzo EPR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for tracking and updating the patient's pathway status to ensure accurate RTT information is recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Please refer to the OPD01 \u2013 Outpatients: Referral Management and Access Planning for a detailed description of end to end outpatient procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "text": "Overview"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "This process outlines how to manually record patient referrals that are \u201cDeferred to Provider\u201d on"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "eRS i.e. when appointment slots are not available on Lorenzo EPR for eRS referrals to be booked in to. These referrals will fall on the ASI worklist in eRS and they should be managed by the Referral Booking Management System (RBMS) and the relevant service (i.e. where the service manages their referrals)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "All referral documentation must be downloaded from E-RS to be saved in the patient's record in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Prior to adding a new referral to a patient's record, the user must review the active referrals in the referrals tab of patients EPR in Lorenzo, to see if the patient has an active referral in the same service. If this is the case then a new referral must not be created as this will start a new pathway in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "text": "Staff must escalate referrals that have incomplete details to their supervisor or team leader before this can be added to Lorenzo EPR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "text": "Role \u2013 RBMS Booking Clerk / Booking Clerk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 1,
+                "text": "Specific Procedure- Record referrals on the ASI worklist in Lorenzo EPR"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "text": "Steps in Lorenzo"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 27,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Value to be Selected"
+                    },
+                    {
+                        "text": "Service type requested"
+                    },
+                    {
+                        "text": "Will default to Advice/Consultation - Leave with default selection."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Referral priority"
+                    },
+                    {
+                        "text": "Select Routine / 2 week wait or fast track / urgent as per the referral from the set of drop down values"
+                    },
+                    {
+                        "text": "Referral type"
+                    },
+                    {
+                        "text": "Select Outpatient"
+                    },
+                    {
+                        "text": "Referral source"
+                    },
+                    {
+                        "text": "Select General Medical Practitioner for GP referrals."
+                    },
+                    {
+                        "text": "Admin category"
+                    },
+                    {
+                        "text": "This will default to NHS Patient. Any private patient activity will require the user to change this to Private patient from the drop down list."
+                    },
+                    {
+                        "text": "Referral action"
+                    },
+                    {
+                        "text": "Select Record Referral"
+                    },
+                    {
+                        "text": "Referral media"
+                    },
+                    {
+                        "text": "Select Choose and Book"
+                    },
+                    {
+                        "text": "Suspected cancer site"
+                    },
+                    {
+                        "text": "This field will become active when referral priority = 2WW and referral source = General Medical Practitioner"
+                    },
+                    {
+                        "text": "Referred By Section"
+                    },
+                    {
+                        "text": "Organisation / Care provider"
+                    },
+                    {
+                        "text": "The GP details will auto populate."
+                    },
+                    {
+                        "text": "Referral create date/time"
+                    },
+                    {
+                        "text": "This is the date the referral was created by the GP. User should check the referral history in eRS to see when the patient was originally referred to see when the referral was created."
+                    },
+                    {
+                        "text": "Referral received date/time"
+                    },
+                    {
+                        "text": "This date is when the referral falls on the ASI worklist. The user must check the referral history in eRS for this date. This can be found when the user clicks the UBRN icon in eRS, as this shows the referral history. Please note that the received date triggers the start of a patient's 18 week pathway in Lorenzo EPR. In the case where the appointment has been cancelled, the actual received date will also be in the referral history."
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Record relevant information e.g. ASI referral from eRS or deferred from eRS"
+                    },
+                    {
+                        "text": "Referred to Section \u2013 Complete as appropriate"
+                    },
+                    {
+                        "text": "Referred to type"
+                    },
+                    {
+                        "text": "Select Team for general referrals to a service or Care provider for referrals that specifically must be graded by an individual care provider. Please note: All referrals via the RBMS must be referred to a \u201cTeam\u201d The Specialty and Treatment function will pre-populate when a care provider or Team is searched and selected."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "This screen holds the details for RTT monitoring, the referral details from the previous screen is pre- populated. However the user must complete the other fields as listed below. This will ensure that the correct RTT pathway is recorded."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 30,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Value to be Selected"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Select \u201cTransfer of clinical responsibility\u201d"
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Change default selection to \u201cRecord pathway manually\u201d. The dialogue box below appears -"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 31,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "- select Yes"
+                    },
+                    {
+                        "text": "Record pathway"
+                    },
+                    {
+                        "text": "Enter \u201cx09 / UBRN number\u201d \u2013 This number is created and can be found in eRS. This is the Patient Pathway Identifier (PPI number)"
+                    },
+                    {
+                        "text": "Actual RTT status"
+                    },
+                    {
+                        "text": "Select \u201c12 1st Activity cons ref in RTT\u201d or \u2013 as this is the 1st activity after the referral has been received by the Trust. This starts the patient's pathway in Lorenzo."
+                    },
+                    {
+                        "text": "Referral RTT start date"
+                    },
+                    {
+                        "text": "This must be changed to match the referral received date."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "text": "& fast track referrals."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 33,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Value to be Selected"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Select \u201cTransfer of clinical responsibility\u201d"
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Change default selection to \u201cRecord pathway manually\u201d. The dialogue box below appears- select Yes"
+                    },
+                    {
+                        "text": "Record pathway"
+                    },
+                    {
+                        "text": "Enter \u201cx09UBRN= / UBRN number\u201d \u2013 This number is created and can be found in eRS. This is the Patient Pathway Identifier (PPI number)"
+                    },
+                    {
+                        "text": "Actual RTT status"
+                    },
+                    {
+                        "text": "Select \u201c12 1st Activity cons ref in RTT\u201d or \u2013 as this is the 1st activity after the referral has been received by the Trust. This starts the patient's pathway in Lorenzo."
+                    },
+                    {
+                        "text": "Referral RTT start date"
+                    },
+                    {
+                        "text": "This must be changed to match the referral received date."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "All referral documentation must be downloaded from E-RS to be saved in the patient's record in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 1,
+                "text": "Please note:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "If there is an active/open referral for the same service in the patient's record, then the dialogue box below will appear."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 37,
+            "data": {
+                "url": "MEHTSOP008 Recording ASI worklist referrals on Lorenzo 2.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 38,
+            "data": {
+                "url": "MEHTSOP008 Recording ASI worklist referrals on Lorenzo 2.0.004.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 39,
+            "data": {
+                "url": "MEHTSOP008 Recording ASI worklist referrals on Lorenzo 2.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "text": "Please select No; the user must not create another referral if there is an open one for the same service in the patient's record as this will start another 18 week pathway in the same service and introduce a duplicate referral to the patient's record in Lorenzo."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MEHTSOP008 Recording ASI worklist referrals on Lorenzo 2.0.006.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 42,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Value to be Selected"
+                    },
+                    {
+                        "text": "Select action"
+                    },
+                    {
+                        "text": "Select \u201cAccept\u201d"
+                    },
+                    {
+                        "text": "Accepted date & time"
+                    },
+                    {
+                        "text": "Date and time defaults in the field"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Enter relevant details"
+                    },
+                    {
+                        "text": "Referral outcome"
+                    },
+                    {
+                        "text": "Select \u201cAccess plan-OP\u201d"
+                    },
+                    {
+                        "text": "Episode name"
+                    },
+                    {
+                        "text": "Relevant date and treatment function is auto populated"
+                    },
+                    {
+                        "text": "RTT intended status"
+                    },
+                    {
+                        "text": "Defaults to 12 1st Activity cons ref in RTT\u201d"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "text": "The referral is recorded in Lorenzo with a status of \u2018Accepted'; this patient will be booked into an appointment slot via an \u201cAccess Plan Profile\u201d."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 45,
+            "data": {
+                "url": "MEHTSOP008 Recording ASI worklist referrals on Lorenzo 2.0.004.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 3,
+            "data": {
+                "is_heading": 1,
+                "text": "MEHTSOP009 Outpatients: Consultant to Consultant Referrals in Lorenzo EPR"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Documentation details"
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "Directorate"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "SOP Number"
+                    },
+                    {
+                        "text": "MEHTSOP009"
+                    },
+                    {
+                        "text": "SOP Title"
+                    },
+                    {
+                        "text": "Consultant to Consultant Referrals"
+                    },
+                    {
+                        "text": "Scope"
+                    },
+                    {
+                        "text": "This SOP does not apply to consultant to consultant referrals raised during an inpatient admission."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author"
+                    },
+                    {
+                        "text": "Abisola Ogunyemi"
+                    },
+                    {
+                        "text": "Business change analyst"
+                    },
+                    {
+                        "text": "17/04/19"
+                    },
+                    {
+                        "text": "Authoriser Members - Elective care group"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "09/05/2019"
+                    },
+                    {
+                        "text": "Louise Jones"
+                    },
+                    {
+                        "text": "Service Manager (Medicine)"
+                    },
+                    {
+                        "text": "Stewart Cooper"
+                    },
+                    {
+                        "text": "ADO of St Andrews"
+                    },
+                    {
+                        "text": "Joanne Dale"
+                    },
+                    {
+                        "text": "Improvement director of planned care (Interim)"
+                    },
+                    {
+                        "text": "Chris James"
+                    },
+                    {
+                        "text": "Head of cooperate delivery"
+                    },
+                    {
+                        "text": "Kerry White"
+                    },
+                    {
+                        "text": "Service Manager"
+                    },
+                    {
+                        "text": "Elizabeth Podd"
+                    },
+                    {
+                        "text": "ADO of Performance"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "James Day"
+                    },
+                    {
+                        "text": "Trust Secretary"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Effective Date"
+                    },
+                    {
+                        "text": "25/07/2019"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Review Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "02/12/2022"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "SOP Version"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Change Details"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "April 2019"
+                    },
+                    {
+                        "text": "Updated SOP with scope and defined additional RTT codes and status."
+                    },
+                    {
+                        "text": "7.0"
+                    },
+                    {
+                        "text": "03/12/2019"
+                    },
+                    {
+                        "text": "Review"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Document reviewed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Title"
+                    },
+                    {
+                        "text": "RTT & Training work stream"
+                    },
+                    {
+                        "text": "Paula Ogutu, Kelly Buckley, John Cooil, Eileen Hatley, Rebecca Macklin, Dilshan Arawwawala."
+                    },
+                    {
+                        "text": "Delivery group"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Circulation list for review (Service Managers):"
+                    },
+                    {
+                        "text": "Vanessa Evans-Green, Andrew Watson, Julia Bell, Megan Edwards, Kelly Lodge, Daniel Coleman, Karen Taberham, Paul Hawkins, Yasmin Khalil, Cheryl Snell, Janet Norton, Karen Cook, Caroline May, Carly Savage, Joanne Gilbey."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "PURPOSE"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "text": "Document  and  standardise  the  process  for  recording  consultant  to  consultant  patient referrals in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "text": "Document and standardise the process for tracking and updating the patient's pathway status to ensure accurate RTT information is recorded"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a baseline for future process improvements"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "Assist in developing baseline for the development of training material"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Please refer to the OPD01 \u2013 Outpatients: Referral Management and Access Planning for a detailed description of end to end outpatient procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "text": "Overview"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "When a consultant refers a patient to a consultant in another service within the MEHT, a new referral should be recorded in Lorenzo EPR. This new referral must be linked to the original referral as part of the patient pathway \u2013 Please see the detailed steps below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Con2con referrals are made for the same condition, where there are new symptoms that cannot be treated in the original treatment function (service)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "However, where the referral is raised for a new condition and a new pathway needs to start, the patient should be referred back to their GP so that a new pathway can be started via a new GP referral to the Trust. This is in line with South East Essex Consultant to consultant (C2C) Protocol agreed in 2018/19 \u2013 please see Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 1,
+                "text": "Furthermore, when a patient has completed their care with a consultant and is to be cared for by a CNS or a lead nurse, a referral must not be added on Lorenzo to record this care.  The nurse led care must be recorded against the initial consultant referral."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "text": "Additional guidance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Prior to adding a new referral to a patient's record, the user must review the active referrals in the referrals tab of patients EPR in Lorenzo, to see if the patient has an active referral in the same service. If this is the case then a new referral must not be created as this will start a new pathway in Lorenzo."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "text": "Staff must escalate referrals that have incomplete details to their supervisor before this can be added to Lorenzo EPR."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "text": "Role - Administrative"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "text": "Specific Procedure- Recording a consultant to consultant referral for the same condition."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 25,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral Details Section"
+                    },
+                    {
+                        "text": "Service type requested"
+                    },
+                    {
+                        "text": "Will default to Advice/Guidance - Leave with default selection."
+                    },
+                    {
+                        "text": "Referral priority"
+                    },
+                    {
+                        "text": "Select as per the referral"
+                    },
+                    {
+                        "text": "Referral type"
+                    },
+                    {
+                        "text": "Select Outpatient"
+                    },
+                    {
+                        "text": "Referral source"
+                    },
+                    {
+                        "text": "Select CONSULTANT other than in an Accident And Emergency Department"
+                    },
+                    {
+                        "text": "Admin category"
+                    },
+                    {
+                        "text": "This will default to NHS Patient. Any private patient activity will require the user to change this to Private patient from the drop down list."
+                    },
+                    {
+                        "text": "Referral Action"
+                    },
+                    {
+                        "text": "Record Referral"
+                    },
+                    {
+                        "text": "Referral media"
+                    },
+                    {
+                        "text": "As appropriate"
+                    },
+                    {
+                        "text": "Referred by Section"
+                    },
+                    {
+                        "text": "Organisation"
+                    },
+                    {
+                        "text": "Search and select MEHT"
+                    },
+                    {
+                        "text": "Care Provider"
+                    },
+                    {
+                        "text": "Search and select as appropriate"
+                    },
+                    {
+                        "text": "Referral create date/time"
+                    },
+                    {
+                        "text": "Enter the date the referral was made by the consultant."
+                    },
+                    {
+                        "text": "Referral received date/time"
+                    },
+                    {
+                        "text": "Enter the date the referral was received at the new service"
+                    },
+                    {
+                        "text": "Linked referral details"
+                    },
+                    {
+                        "text": "Search for and link referral to the initial parent referral. User must review all active referrals for the patient to be able to select the correct referral to link to. The new referral inherits pathway of parent referral."
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Enter any related information from the referral letter"
+                    },
+                    {
+                        "text": "Referred to Section \u2013 Complete as appropriate"
+                    },
+                    {
+                        "text": "Referred to type"
+                    },
+                    {
+                        "text": "Select Team for general referrals to a service or Care provider for referrals that specifically must be graded by an individual care provider. The Specialty and Treatment function will pre- populate"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 26,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lorenzo Field"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Referral request raised reason"
+                    },
+                    {
+                        "text": "Do not select any option"
+                    },
+                    {
+                        "text": "Patient pathway identifier"
+                    },
+                    {
+                        "text": "Defaults to \u201cUse existing episode and pathway\u201d"
+                    },
+                    {
+                        "text": "Record Pathway"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Organisation involved in pathway"
+                    },
+                    {
+                        "text": "N/A. The episode the referral is linked to appears as the \u201cAssociated episode\u201d with details of the pathway."
+                    },
+                    {
+                        "text": "Referral type, Referral source and Linked referral details"
+                    },
+                    {
+                        "text": "These details will auto populate from the previous screen."
+                    },
+                    {
+                        "text": "RTT monitoring"
+                    },
+                    {
+                        "text": "Defaults to Yes"
+                    },
+                    {
+                        "text": "Intended RTT status"
+                    },
+                    {
+                        "text": "Auto populates with the inherited pathway's RTT status \u2013 Do not change"
+                    },
+                    {
+                        "text": "Actual RTT status"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Maximum waiting time"
+                    },
+                    {
+                        "text": "Defaults to number of days based on the pathway of the inherited referral it is linked to."
+                    },
+                    {
+                        "text": "RTT waiting time description"
+                    },
+                    {
+                        "text": "Default to details from inherited pathway"
+                    },
+                    {
+                        "text": "Referral RTT start date"
+                    },
+                    {
+                        "text": "Defaults to the start of the parent initial referral."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 27,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Please note \u2013 If there is an active referral for the same service in the patients record, then the dialogue box below will appear."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "Select No; the user must not create another referral if there is an open one for the same service in the patient's record as this will start another 18 week pathway in the same service and introduce a duplicate referral to the patient's record in Lorenzo."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 31,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "text": "The user must review the active/open referrals in the Referrals tab patients EPR in Lorenzo, to see if the patient has an active referral in the same service."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "text": "If this is the case then a new referral must not be created as this will start a new pathway in Lorenzo. Staff must escalate referrals that have incomplete details to their supervisor."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "text": "End Point:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "The referral is recorded onto Lorenzo with a status of \u2018Created', for the relevant Team or Clinician. A relevant link is made to previous referrals as required. The referral is now ready to be graded. A clerk should repeat this process each day to record all referrals that have been received."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 36,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Additional Guidance \u2013 As per the C2C Protocol agreed in 2018/19 (South East Essex CCGs)"
+                    },
+                    {
+                        "text": "The referral must be documented within the clinical records as a C2C referral"
+                    },
+                    {
+                        "text": "The referral is made by a consultant to a consultant, or equivalent senior clinician."
+                    },
+                    {
+                        "text": "The patient must be informed of the referral, and the reason for the referral, this should happen at the time the referral is made or as soon as feasible afterwards"
+                    },
+                    {
+                        "text": "The GP is advised and the reason/clinical history for the referral (within discharge documentation or clinic letter)"
+                    },
+                    {
+                        "text": "Out of hours (after 5pm or at weekends and during public holidays), the most senior doctor will need to complete the C2C referral"
+                    },
+                    {
+                        "text": "If the referral is made following inpatient stay, the discharge letter should contain details and the reason that the referral was made."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 38,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "C2C Policy 19-20.pdf"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 40,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.006.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MEHTSOP009 Recording Consultant to Consultant Referrals on Lorenzo 7.0.003.png"
+            }
+        }
+    ]
+}
