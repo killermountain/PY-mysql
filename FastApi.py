@@ -2,7 +2,7 @@
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import FileResponse
 import os
-import uvicorn
+# import uvicorn
 
 # pip install python-multipart
 
@@ -43,5 +43,5 @@ async def create_upload_file(uploaded_file: UploadFile = File(...)):
     return {"info": f"file '{uploaded_file.filename}' saved at '{file_location}'"}
 
 
-if __name__ == "__main__":
-    uvicorn.run("FastApi:api", host="127.0.0.1", port=5000, reload=True, log_level="info")
+# if __name__ == "__main__":
+#     uvicorn.run("FastApi:api", host="127.0.0.1", port=5000, reload=True, log_level="info")
