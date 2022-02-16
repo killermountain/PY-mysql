@@ -1,0 +1,3791 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "06030 Vaginal Birth after Caesarean Section(VBAC) 5.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "VAGINAL BIRTH AFTER CAESAREAN SECTION (VBAC)  CLINICAL GUIDELINES"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "06030 Vaginal Birth after Caesarean Section(VBAC) 5.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "Register no 06030 Status: Public"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Intrapartum NICE Guidelines RCOG guideline"
+                    },
+                    {
+                        "text": "CQC Fundamental Standards:"
+                    },
+                    {
+                        "text": "11, 12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted with:"
+                    },
+                    {
+                        "text": "Post/Committee/Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Alison Cuthbertson Anita Rao Miss Dutta Alison Cuthbertson Paula Hollis Chris Berner Jude Horscraft Sarah Moon Lavina D'Souza"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Division Consultant for Obstetrics and Gynaecology Consultant for Obstetrics and Gynaecology Head of Midwifery for Women's and Children's Services Lead Midwife Acute In-patient Services Lead Midwife Clinical Governance Practice Development Midwife Specialist Midwife for Guideline and Audit Senior Midwife Postnatal Ward"
+                    },
+                    {
+                        "text": "June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved by:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Miss Rao"
+                    },
+                    {
+                        "text": "Lead Consultant for Obstetrics and Gynaecology"
+                    },
+                    {
+                        "text": "June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Ratified By"
+                    },
+                    {
+                        "text": "Chairmans Action"
+                    },
+                    {
+                        "text": "Ratified On"
+                    },
+                    {
+                        "text": "2nd August 2018"
+                    },
+                    {
+                        "text": "Trust Executive Board Date"
+                    },
+                    {
+                        "text": "September 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "28th August 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Helena Ryan, Midwife"
+                    },
+                    {
+                        "text": "Policy to be followed by"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Paediatricians"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet & Website. Notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04270 Guidelines for Induction Augmentation of Labour with Syntocinon 09062 Mandatory training policy for Maternity Services 08049 Guideline for the term pre-labour rupture of membranes 09079 Management of normal labour and prolonged labour in low risk patients 04253 Nutrition in labour and antacid prophylaxis for the pregnant woman at term 04270 Guidelines for Induction Augmentation of Labour with Syntocinon 09046 Completion of the Partogram in Pregnancy 09095 Severely ill Pregnant Patient in Maternity Services 04265 Fetal Heart Rate Monitoring in Pregnancy and Labour"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "Document History Review:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 10,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Julie Bishop"
+                    },
+                    {
+                        "text": "June 2008"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Wendy Patarou"
+                    },
+                    {
+                        "text": "August 2009"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "NHSLA requirement update"
+                    },
+                    {
+                        "text": "September 2009"
+                    },
+                    {
+                        "text": "2.2"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 Clarification to points 6.0 and 7.0; proforma update"
+                    },
+                    {
+                        "text": "January 2011"
+                    },
+                    {
+                        "text": "2.3"
+                    },
+                    {
+                        "text": "Sarah Moon - Clarification to points 6.0 and 7.0"
+                    },
+                    {
+                        "text": "June 2011"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Meredith Deane"
+                    },
+                    {
+                        "text": "June 2012"
+                    },
+                    {
+                        "text": "3.1"
+                    },
+                    {
+                        "text": "Jo Elgar \u2013 Additional Appendices B and C"
+                    },
+                    {
+                        "text": "August 2012"
+                    },
+                    {
+                        "text": "3.2"
+                    },
+                    {
+                        "text": "Sarah Moon - Clarification to points 8.0, 22.0"
+                    },
+                    {
+                        "text": "December 2012"
+                    },
+                    {
+                        "text": "3.3"
+                    },
+                    {
+                        "text": "Sarah Moon - Clarification to Appendix A and B"
+                    },
+                    {
+                        "text": "April 2013"
+                    },
+                    {
+                        "text": "3.4"
+                    },
+                    {
+                        "text": "Jo Elgar & Mary Watson \u2013 Clarification to points 1.0, 2.0, 4.3, 5.3, 6.1, 7.0, 10.0,11.0,12.0,14.0"
+                    },
+                    {
+                        "text": "November 2014"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Mary Watson \u2013 Full review"
+                    },
+                    {
+                        "text": "3rd August 2015"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Helena Ryan \u2013 Full review"
+                    },
+                    {
+                        "text": "28 August 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This guideline applies to patients who have had previous surgery or injury to the uterus i.e. patients who have had previous:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Caesarean section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Ruptured uterus"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Myomectomy - when the cavity is breached"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Metroplasty \u2013 (plastic or reconstructive surgery on the uterus)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Perforated uterus (either at termination of pregnancy or dilatation and curettage)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "This guideline refers to the management of women in pregnancy and labour following a"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "previous caesarean section. Providing women with accurate information regarding VBAC is  an essential element in reducing caesarean section rates."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The Maternity Unit is committed to promoting normality and supporting women in their choice of place of birth and providing evidence-based information regarding their choice of mode of birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Incidence"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Current success rate nationally for VBAC is 72-75%, MEHT success rate in 2015-2017 was 65-68%."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Mid Essex Hospitals NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Vaginal Birth after Caesarean Section (VBAC)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Inclusion criteria"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with one previous low transverse caesarean section for non-recurrent reason (see point 4.2)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with a clinically adequate pelvis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients at term with singleton cephalic fetus"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with no other uterine scars or previous rupture"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Obstetric registrar or consultant immediately available throughout active labour capable of monitoring labour and performing an emergency caesarean section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Availability of anaesthetic personnel for emergency caesarean delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Non-recurrent Reasons for Primary Caesarean Section as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Breech, transverse presentations"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Fetal distress"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Failure to progress with malposition"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Multiple birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternal request"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "IUGR/macrosomia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "Placental site insertion (placenta praevia)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Women who fit these criteria but have medical complications or whose reason for primary caesarean section was not non-recurrent should be referred to the obstetric team for discussion about mode of birth, VBAC should not be excluded."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "It may be reasonable, based on several retrospective studies to offer a VBAC to women who have had two previous caesarean sections but who have also had a vaginal birth. Referral should be made to the Obstetric Consultant in the Antenatal Clinic to discuss."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Contraindications for VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Contraindications for VBAC are as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Previous classical or T-shaped incision or extensive transfundal uterine surgery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous uterine rupture"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Chronic medical condition e.g. diabetes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Inability to perform emergency caesarean delivery because of unavailability of surgeon or anaesthetic staff"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Two or more previous caesarean sections with no vaginal births"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Proven cephalo-pelvic disproportion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous difficult second stage caesarean section following failed operative vaginal birth with extension of the uterine angle, where operative notes at the time indicate planned caesarean section for the next birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Malposition or malpresentation diagnosed in labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Placenta praevia/accreta"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Previousrd/4th degree tear with faecal incontinence"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Women presenting with any of these conditions should be counselled by their Consultant Obstetrician to choose an elective caesarean."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Women with a prior history of two uncomplicated low transverse caesarean sections, in an otherwise uncomplicated pregnancy at term, with no contraindication for vaginal birth, who have been fully informed by a consultant obstetrician, may be considered suitable for a planned VBAC. Uterine rupture rate in women with two previous caesareans is estimated to be 1.36%. There is no consensus on success rates for women with two previous caesareans and no previous vaginal delivery."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Factors Associated with Unsuccessful VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Factors Associated with Unsuccessful VBAC are as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "Induction of Labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "No previous vaginal birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Body Mass Index >30"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous Caesarean Section for labour dystocia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Gestation greater than 40 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Birth Weight >4kg"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Advanced maternal age >35 years"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous failed induction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "These factors should not stop women choosing VBAC but should be discussed in the antenatal period."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Risks and Benefits of VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Women should be informed of maternal and perinatal risks and benefits of both VBAC and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "planned Caesarean section to enable them to make a fully-informed decision regarding mode of birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Benefits associated with VBAC - neither elective repeat caesarean delivery or VBAC is without risk."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.1  Generally the benefits of successful VBAC compared with patients who have a caesarean delivery are:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Shorter hospitalization and quicker recovery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "Greater chance of a vaginal birth in future pregnancies"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Less blood loss and fewer transfusions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "Fewer infections"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "Fewer thrombolitic events"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Reduced complications associated with surgery and anaesthetics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.3,
+                "text": "Risks associated with VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Failed trial of labour may be associated with major maternal complications such as:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Uterine rupture"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Hysterectomy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Operative injury"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternal infection and need for transfusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "Increased neonatal morbidity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "text": "7.3.1  Uterine Rupture Risk"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 1,
+                "text": "It is rare \u2013 risk is 0.21- 0.74% (21-74/10,000 women)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "Remove this point re augmentation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 1,
+                "prefix": 0.87,
+                "text": "IOL or augmentation in VBAC labour \u2013 risk is % (87/10,000 women), this risk increases with the use of prostaglandins"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "7.3.1  Perinatal Mortality and Morbidity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 1,
+                "text": "The risk of perinatal death in planned VBAC compared to planned caesarean section is 3/10,000 compared to 1.3/10,000 births respectively. This is the same risk as with a primigravida"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 1,
+                "text": "Risk of HIE (Hypoxic Ischaemic Encephalopathy) is 0.08% (8/10,000 births)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 1,
+                "text": "Intrapartum fetal death is rare \u2013 risk is 10/10,000 births"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Risks of repeat Caesarean Section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "A caesarean section following a previous CS may increase the risks of serious complications These could include:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "Placenta accreta/praevia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "text": "Operative injury"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "text": "Post-operative ventilation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "text": "ITU admission"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "Hysterectomy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternal infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood transfusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "text": "Longer hospital stay"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "text": "Readmission"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "text": "Neonatal morbidity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.2 VBAC reduces the risk of babies developing respiratory problems"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 1,
+                "text": "2-3% 2 \u2013 3/10,000 births in VBAC compared to 4-5% 3 \u2013 4/10,000 births in planned CS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.3 There is virtually no risk of rupture with planned caesarean section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Antenatal Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "Aim"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 1,
+                "text": "9.1.1 To provide information and counselling to women to enable them to make an informed-choice based on the best available evidence regarding mode of delivery following a previous Caesarean section (CS)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "9.1.2 The proportion of women who decline Vaginal Birth after Caesarean (VBAC) is a significant determinant of overall rates of CS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Referral to BACS (Birth after Caesarean Section) Clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "The following should be referred to the BACS clinic:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 1,
+                "text": "If the reason for previous CS is not non-recurrent"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "text": "Women who have had more than 1 CS and are requesting a VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Women who are undecided about VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "Women who are requesting a CS but meet the criteria for vaginal birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "Women who require further information about mode of birth/VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternal request for planned caesarean section due to previous traumatic birth experience"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "Women choosing VBAC at home or in the Midwifery-led Unit or who wish to decline continuous electronic fetal monitoring (EFM)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "If a woman is otherwise low-risk and is planning a VBAC, her named midwife can counsel her regarding the risks and benefits of VBAC using the Patient Information Leaflet BACS Clinic and VBAC and completing the proforma (appendix A) as a pointer for discussions and as evidence of the discussion for audit purposes. This maintains continuity of care with the named midwife. If the woman wishes to have further discussion she can be booked into the BACS clinic. She should be offered the opportunity to attend a VBAC Class."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Women who have had a successful VBAC and are planning another VBAC do not need to attend the BACS clinic but should be given the Patient Information Leaflet and the proforma completed in evidence of discussion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Discussion and documentation by midwives and obstetricians should evidence that it is recommended that women give birth in the consultant led unit, have continuous fetal monitoring in labour and evidence of a care plan e.g. in case of post dates. These three points are audited as evidence of meeting national standards."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.5,
+                "text": "Patients can self-refer or be referred by a midwife or obstetrician to the BACS Clinic at any time but preferably by 25 weeks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.6,
+                "text": "The following should be discussed in the BACS clinic:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "text": "The woman's previous birth experience and outcomes with the aid of the previous notes whenever possible"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "Identify any risk factors and refer appropriately"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Discuss risks and benefits of VBAC and planned caesarean section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "text": "Induction of labour, premature labour, spontaneous rupture of membranes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "text": "Care in labour including recommendations for continuous fetal monitoring in labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 0,
+                "text": "Recommendation of consultant led unit for place of birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "text": "Provide support, advice and referral for women who have had a previous traumatic birth and/or are tocophobic and are requesting an elective caesarean for this reason."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "text": "Discuss option to attend the VBAC class."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Referral to Obstetric Clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "If poor obstetric history is identified, women with a previous caesarean section should be"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "referred to the BACS clinic at 16 weeks, where they will be referred to the Obstetric"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 1,
+                "text": "Consultant at the appropriate gestation according to risk. This would apply whether the woman chooses VBAC or not."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "text": "11.1.2 It may be appropriate for the booking midwife to make a Consultant Obstetrician appointment first - please refer to Appendix D of the Maternity Care Guidelines"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.2,
+                "text": "Risk Factors:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous Neonatal Death/Stillbirth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ">3 st trimester miscarriages"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 0,
+                "text": ">2 Caesarean Sections"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "text": ">1 mid-trimester or late pregnancy loss"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "text": "History of classical CS, inverted T or J incision"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "text": "Cervical suture"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "text": "Uterine surgery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "text": "Preterm births < 36/40"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "text": "Para 5 and above"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "text": "Antepartum or Postpartum Haemorrhage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 0,
+                "text": "Baby with congenital abnormality"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous baby > 4.5kg or < 2.5 kg at term or < 5th centile"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre-eclampsia, eclampsia, chronic hypertension"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre-existing medical conditions e.g. cardiac, diabetes, epilepsy, blood disorders"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "BMI >"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "Large-for-dates in current pregnancy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous traumatic vaginal birth with significant morbidity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "text": "Previous baby with pH <7.01"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "The Obstetric Team should:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "text": "Review BACS women and the VBAC proforma at their antenatal appointments between 24"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 0,
+                "text": "- 36 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "Document mode of delivery and record in the health care records"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 0,
+                "text": "Document plan for the place of labour and record in the health care records"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 0,
+                "text": "Document an individual management plan for labour and record in the health care records"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 166,
+            "data": {
+                "is_heading": 0,
+                "text": "If the woman requires referral to the anaesthetic consultant, this should be documented in the health care records"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "Women who are planning a VBAC and have no other risk factors do not need to see an obstetrician until 40 weeks, unless they wish to do so, where a stretch and sweep will be offered and a plan of care made regarding postdates."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 168,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.5,
+                "text": "ARM followed by careful use of Syntocinon IVI is used for induction of labour for VBAC women and can be performed up to 40 weeks and 12 days gestation. Maternal choice should be taken into consideration regarding all invasive procedures."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.6,
+                "text": "Propess/prostin induction is not generally recommended for VBAC unless agreed by a Consultant Obstetrician and after discussion of all risks with the woman."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.7,
+                "text": "If elective caesarean section is booked then the woman should be consented and a pre-  operative assessment performed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Referral to Anaesthetic Clinic"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Referral to an anaesthetist is only necessary when an elective CS has been booked or where there is a clinical/medical indication. An appointment should be made for 32 weeks or as soon after this as possible."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "If a woman is planning a VBAC and has no further risks, she does not need to see the anaesthetist but should be given an Obstetric Anaesthesia Assessment form to complete by either her midwife or the BACS midwife."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Choice of place of birth with VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Options for choice of place of birth should be discussed with each woman; while promoting safety it is essential to facilitate choice and offer support for each woman. It may be necessary to involve a Professional Midwifery Advocate if a woman chooses a homebirth to ensure support and to ensure a Plan of Care is made and communicated to the Midwifery Team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "The Head of Midwifery, Community Midwifery Manager and PMA Team should be advised of all VBAC women choosing a Homebirth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 177,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "Women should be advised that the safest place to have a VBAC is at Broomfield Maternity Unit where there is easy access to the Obstetric and Paediatric team, emergency operating theatres and blood transfusion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "This would ideally be on the Labour Ward but it is possible that a patient having a VBAC could give birth on the Midwife-led Low Risk Birth Unit as an alternative to having a VBAC at home. This would be decided on an individual basis with senior midwifery input into her Plan of Care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.5,
+                "text": "Women requesting water immersion/ birth would also need a discussion regarding risks and benefits and again, referral to a senior midwife or BACS midwife to ensure an individual Plan"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 0,
+                "text": "of Care is documented."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.6,
+                "text": "The risks and benefits associated with each place of birth should be discussed with the"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 0,
+                "text": "woman; these would include potential for transfer to Labour Ward. (Birthplace Study 2011) The following should be discussed using the appropriate proforma"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix B):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 0,
+                "text": "Intermittent auscultation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "text": "Risks of uterine rupture and water birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 0,
+                "text": "Difficulty in removal from pool if complications arise"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "text": "Need for transfer to Labour Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 0,
+                "text": "Pain relief options"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 0,
+                "text": "Chances of successful VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.7,
+                "text": "The proforma and individualised care plan should be completed and attached to the hand held records. A further copy should be sent to the manager of the appropriate birthing unit, the Professional Midwifery Advocates and head of midwifery should be informed. A copy of these guidelines should be given to the woman for her own reference."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix B)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Maternal Request Caesareans"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Each woman should be provided with evidence-based information to support her decision- making; she should be advised that maternal request for caesarean sections for non-clinical indications are not recommended as a best practice approach to care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.2,
+                "text": "When a woman requests a CS because she has anxiety about childbirth, offer referral to the lead midwife for perinatal mental health to help her address her anxiety in a supportive manner."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.3,
+                "text": "If, after discussion and offer of support, a vaginal birth is still not an acceptable option, offer a planned CS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.4,
+                "text": "A second opinion can be sought from an alternative obstetrician if the named consultant is unwilling to perform CS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Management of Spontaneous VBAC Labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "On Admission to Labour Ward:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform the obstetric registrar/consultant on call of admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "text": "The antenatal decision for VBAC should be reviewed by the obstetric registrar/consultant on call with reference to the reasons for the previous caesarean section and with current knowledge of the woman's labour history."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 0,
+                "text": "If the patient has remained undecided about VBAC during the antenatal period and presents in labour, the obstetric registrar should assess labour progress and plan ongoing management; patient should be offered VBAC if there are no contraindications"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "text": "Document a Plan of Care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "text": "One to one midwifery care must be provided"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "text": "Keep interventions to a minimum"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "text": "Manage labour to optimise normality"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "text": "Encourage mobilisation or upright positions as much as possible"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "Keep nutrition light with adequate fluid intake if not in active labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients in the latent phase of labour (<4cm dilated) without regular painful contractions and no other contraindications may be discharged home following cardiotocograph (CTG) monitoring and review by the Obstetric Registrar/consultant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with term SROM and no other complications following assessment may be discharged home for 24 hours to await labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Management of established labour i.e. >4cm dilated with regular painful contractions:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor the fetal heart rate:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 213,
+            "data": {
+                "is_heading": 0,
+                "text": "15.2.1 Abnormal CTG is the most consistent evidence of uterine rupture, present in 66-76% of cases, therefore continuous electronic fetal monitoring (EFM) is recommended. Most uterine ruptures (more than 90%) occur during labour (the peak incidence being at 4-5cm cervical dilatation), with around 18% occurring in the second stage of labour and 8% being identified post delivery (RCOG, 2015)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 0,
+                "text": "When using continuous EFM and there is a poor quality trace, a fetal scalp electrode (FSE) should be applied where possible"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 0,
+                "text": "Document if EFM is declined"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 216,
+            "data": {
+                "is_heading": 0,
+                "text": "Intermittent Auscultation (IA) when performed must be in accordance with EFM Guideline st  nd"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "text": "regarding 1 stage (every 15 minutes) and 2 Stage (every 5 minutes) of labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 0,
+                "text": "If the patient has chosen intermittent auscultation (IA) for monitoring of the fetal heart, she should be advised of the risks (see point 13.6) and that if there is difficulty in IA or an abnormality is detected then the patient would be advised that continuous cardiotocograph (CTG) is required to adequately monitor fetal wellbeing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 219,
+            "data": {
+                "is_heading": 0,
+                "text": "Insert a grey cannula and take blood for group and save, full blood count (FBC) and clotting screen."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 1,
+                "text": "Intravenous (IV) access need not be undertaken routinely in women with no risks other than VBAC"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "text": "VE 4 hourly unless slow progress"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 222,
+            "data": {
+                "is_heading": 0,
+                "text": "Restrict intake to water, fruit squash or isotonic non-carbonated drinks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "text": "Give ranitidine 150mg 6 hourly during labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 224,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to entitled \u2018Guidelines for nutrition in labour & antacid prophylaxis for the pregnant woman at term. Register number 04253)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure adequate analgesia; epidural is not contraindicated."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 0,
+                "text": "If epidural is requested or required an indwelling urinary catheter is recommended to prevent over distension of the bladder."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 0,
+                "text": "Record maternal and fetal observations on the partogram"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the \u2018Guideline for the management of normal labour and prolonged labour in low risk patients; register number 09079; and \u2018Guideline for the completion of the partogram in"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 0,
+                "text": "pregnancy; register number 09046)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "text": "Identify signs and symptoms of uterine scar rupture: see point 22.0"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 231,
+            "data": {
+                "is_heading": 0,
+                "text": "The obstetric registrar should be informed if there is slow progress"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 1,
+                "text": "If slow progress is diagnosed syntocinon may be used following ARM \u2013 this is an Obstetric Consultant decision, following full assessment of the woman and fetus"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 1,
+                "text": "Slow progress in the presence of strong contractions is an indication of dystocia and greatly increases the likelihood of a repeat caesarean section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Management of Secondary Arrest"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 1,
+                "text": "When there is evidence of secondary arrest i.e. when there is normal progress of labour until cervical dilatation reaches 6-9cm, followed by cervical dilatation less than 0.5cm/hour accompanied by contractions decreasing in strength and frequency, oxytocin should not be used because of the significant risk of uterine rupture/dehiscence."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Management of SecondStage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 237,
+            "data": {
+                "is_heading": 0,
+                "text": "Allow 30 minutes for passive descent after diagnosis of full dilatation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 238,
+            "data": {
+                "is_heading": 0,
+                "text": "30 minutes of Active Pushing subsequently"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 0,
+                "text": "Inform Obstetric Registrar/Consultant on call if no progress or sooner if abnormalities in the fetal heart rate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "text": "Obstetric Registrar/Consultant on call to assess need for operative vaginal delivery in theatre or room"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 241,
+            "data": {
+                "is_heading": 0,
+                "text": "Maximum 1 hour Active Pushing"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 242,
+            "data": {
+                "is_heading": 0,
+                "text": "If epidural is in situ allow 60 minutes for passive descent, otherwise follow the same pathway of care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 243,
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Operative Vaginal Delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 244,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "If an operative vaginal delivery is indicated and the presenting part is at or above the spines or th"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 245,
+            "data": {
+                "is_heading": 0,
+                "text": "with more than 1/5 of the head palpable inform the obstetric registrar or consultant on call and arrange trial of operative vaginal delivery in theatre."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 246,
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.2,
+                "text": "Descent of the head should occur with each pull, absence of descent with traction on a correctly positioned instrument should be regarded as a reason to abandon the procedure in favour of caesarean section."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 247,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "VBAC Induction of Labour (IOL)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 248,
+            "data": {
+                "is_heading": 0,
+                "text": "Review at 40 weeks in Obstetric Clinic if undelivered"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 249,
+            "data": {
+                "is_heading": 1,
+                "text": "IOL is an Obstetric Registrar/Consultant decision not a midwife decision"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 250,
+            "data": {
+                "is_heading": 0,
+                "text": "Full documentation in notes including a plan of care"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 251,
+            "data": {
+                "is_heading": 0,
+                "text": "Book for 40 weeks and 10-12 days gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 252,
+            "data": {
+                "is_heading": 1,
+                "text": "Offer and perform membrane sweep at 40 and 41weeks \u2013 reduces need for IOL"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 253,
+            "data": {
+                "is_heading": 0,
+                "text": "Perform on Day Assessment Unit (DAU) or Labour Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 254,
+            "data": {
+                "is_heading": 0,
+                "text": "If a patient declines or is unsuitable for IOL then a planned caesarean section should be booked for 40 weeks and 12 days gestation \u2013 unless there is a clinical indication to book it earlier"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 255,
+            "data": {
+                "is_heading": 0,
+                "text": "Admit to Antenatal Ward and perform artificial rupture of membranes (ARM)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 256,
+            "data": {
+                "is_heading": 0,
+                "text": "If ARM is not possible \u2013 plan for elective caesarean section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 257,
+            "data": {
+                "is_heading": 1,
+                "text": "The use of prostaglandins and syntocinon for IOL is an Obstetric Registrar/ consultant decision based on the individual woman"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 258,
+            "data": {
+                "is_heading": 0,
+                "text": "Only administer syntocinon following vaginal examination (VE) and assessment by Registrar/Consultant on call"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 259,
+            "data": {
+                "is_heading": 0,
+                "text": "2 hourly vaginal examinations should be performed while syntocinon is administered"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 260,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.1,
+                "text": "Risk of uterine rupture increases by 2-3 times with IOL and use of prostaglandins"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 261,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.2,
+                "text": "There is a 1.5 fold increased risk of Caesarean Section for VBAC with IOL or augmented labours compared with VBAC who labour spontaneously"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 262,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.3,
+                "text": "Proactive management and assessment of labour is essential to monitor progress and fetal and maternal wellbeing."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 263,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.4,
+                "text": "Refer early to Obstetric registrar/Consultant if abnormalities are detected and ensure a multidisciplinary approach to the care of these patients."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 264,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.5,
+                "text": "The Obstetric Registrar/Consultant referral and input into management and assessment of these patients is vital."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 265,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the \u2018Guidelines for Induction Augmentation of Labour with Syntocinon'; register number 04270)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 266,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.6,
+                "text": "The risks and benefits of induction/augmentation should be clearly explained to the patient and documented in her hand held records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 267,
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.7,
+                "text": "ARM can be performed in the Day Assessment Unit (DAU) with transfer to labour ward after 2 hours if contractions have not commenced or if labour establishes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 268,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "VBAC Augmentation with Syntocinon"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 269,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.1,
+                "text": "The risks and benefits of augmentation with syntocinon should be clearly explained to the patient prior to administration, and documented in the handheld records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 270,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.2,
+                "text": "The Obstetric Registrar/ Consultant on call and the Labour Ward Co-ordinator should be involved in formulating a plan of care in collaboration with the patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 271,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.3,
+                "text": "This should specify the amount and rate of syntocinon to be administered (as directed by the Obstetric Registrar/ Consultant on call) and clear instructions for the timing of vaginal examinations to assess progress, maximum 2 hourly while in progress. (Refer to the guideline for \u2018Induction and augmentation of labour with syntocinon'; register number 04270)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 272,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.4,
+                "text": "Vaginal examination and abdominal palpation to assess progress in labour should be carried out by an obstetric registrar or consultant 2 hours after syntocinon has been commenced."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 273,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.5,
+                "text": "If the cervix has failed to dilate 2 cm during that time the consultant should be informed and the patient should be advised to have a caesarean section."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 274,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.6,
+                "text": "Once in established labour the responsible midwife should perform the maternal observations documenting the findings on the Modified Early Obstetric Warning System (MEOWS) chart to include the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 275,
+            "data": {
+                "is_heading": 0,
+                "text": "Temperature"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 276,
+            "data": {
+                "is_heading": 0,
+                "text": "Pulse"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 277,
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory rate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 278,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood pressure (BP) systolic and diastolic with mean arterial pressure (MAP) recordings (Refer to the guideline entitled \u2018Management of the severely ill pregnant patient; register"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 279,
+            "data": {
+                "is_heading": 0,
+                "text": "number 09095)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 280,
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.7,
+                "text": "The fetal heart rate (FHR) must be continuously monitored (CTG) and any abnormal features should be reviewed immediately by the obstetric registrar/ consultant and the syntocinon infusion stopped. If the CTG does not return to normal immediately then the woman should be offered a caesarean section."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 281,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to guideline for \u2018Guideline for fetal heart rate monitoring in pregnancy and labour'; register number 04265)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 282,
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "VBAC and Pre-labour Spontaneous Rupture of Membranes at Term (SRoM)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 283,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "Women should be reviewed by the Obstetric Registrar/ Consultant on call in order to exclude any contraindications/risks."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 284,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.2,
+                "text": "In the absence of other risk factors the patient may be managed conservatively for the first 24 hours after membrane rupture has been confirmed."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 285,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.3,
+                "text": "Investigations and assessment should not differ from patients without a uterine scar."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 286,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.4,
+                "text": "If after 24 hours there are no signs of labour commencing, further management should be discussed with the Obstetric Registrar/ Consultant on call."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 287,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.5,
+                "text": "If the patient declines conservative management a plan of care should be formulated with the Obstetric Registrar/Consultant on call reflecting the patient's preferences."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 288,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.6,
+                "text": "Options include either an elective caesarean section or induction of labour using an oxytocin infusion."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 289,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.7,
+                "text": "The oxytocin (syntocinon) infusion should only be commenced if the cervix is favourable i.e. a Bishop score of 5 or more."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 290,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.8,
+                "text": "The duration of oxytocin administration should be limited."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 291,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.9,
+                "text": "If after 4 hours of an oxytocin infusion, there is no evidence of cervical dilatation or other signs of progress in labour such as cervical effacement and descent of the fetal head then the woman should be delivered by caesarean section."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 292,
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "The use of prostaglandin ripening agents should be discussed with the obstetric consultant but in general is not recommended for VBAC."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 293,
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Signs and symptoms of Uterine Rupture or Dehiscence"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 294,
+            "data": {
+                "is_heading": 0,
+                "text": "Loss of station of presenting part on vaginal examination"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 295,
+            "data": {
+                "is_heading": 0,
+                "text": "Abnormal CTG"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 296,
+            "data": {
+                "is_heading": 0,
+                "text": "Cessation of previously efficient uterine contractions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 297,
+            "data": {
+                "is_heading": 1,
+                "text": "Failure to progress \u2013 especially secondary arrest of labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 298,
+            "data": {
+                "is_heading": 0,
+                "text": "Maternal tachycardia, hypotension, fainting or shock"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 299,
+            "data": {
+                "is_heading": 0,
+                "text": "Severe abdominal pain, especially if persisting between contractions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 300,
+            "data": {
+                "is_heading": 0,
+                "text": "Acute onset of scar tenderness particularly breakthrough pain when epidural anaesthetic is in use"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 301,
+            "data": {
+                "is_heading": 0,
+                "text": "Abnormal vaginal bleeding"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 302,
+            "data": {
+                "is_heading": 0,
+                "text": "Haematuria"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 303,
+            "data": {
+                "is_heading": 0,
+                "text": "Change in abdominal contour and inability to pick up fetal heart rate at the old transducer site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 304,
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "VBAC on Midwife-Led Co-located Unit including Water birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 305,
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.1,
+                "text": "Some women may choose to labour and give birth on the Midwifery-led Unit. Although not recommended by the Trust, Midwives should support a fully informed decision."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 306,
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.2,
+                "text": "An individualised Plan of Care should be documented in the handheld notes antenatally after discussion with a senior midwife or BACS midwife about the risks and benefits. See point 13.6"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 307,
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.3,
+                "text": "Low risk care should be given with intermittent auscultation, every 15 minutes in the first stage and every 5 minutes in the second stage of labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 308,
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.4,
+                "text": "An immediate referral to the registrar/consultant on call and labour ward co-ordinator should be made if there are any signs of fetal distress, slow progress or scar dehiscence/rupture (see point 22), and arrangements made for immediate transfer to the labour ward for continuous EFM."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 309,
+            "data": {
+                "is_heading": 0,
+                "text": ".  (Refer to the \u2018Guideline for the management of normal labour and prolonged labour in low risk patients; register number 09079)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 310,
+            "data": {
+                "is_heading": 1,
+                "prefix": 24.0,
+                "text": "Postnatal"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 311,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.1,
+                "text": "The discharging doctor will discuss birth events leading to emergency caesarean with each woman and document this discussion in maternal hand held records. Women will also receive a letter indicating reason for the caesarean and recommendation for mode of birth for future pregnancies. The GP will also receive a copy of this letter. The letter will give a contact email address for the BACS specialist midwives, for women to email if they wish to further discuss their birth experience. An RCOG patient information leaflet entitled \u2018Birth options after previous caesarean section' should also be given to women in their discharge information pack."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 312,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.2,
+                "text": "Birth Reflections clinic is available for women postnatally and women can be referred by any member of staff. Birth Reflections clinic is also available during pregnancy to discuss a previous traumatic birth to help decision making regarding mode of delivery in the current pregnancy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 313,
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Staffing and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 314,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.1,
+                "text": "All midwifery and obstetric staff must attend yearly mandatory training which includes skills and drills training; this will include the recognition and management of uterine rupture, scar dehiscence and fetal heart abnormalities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 315,
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.2,
+                "text": "All midwifery and obstetric staff are to ensure that their knowledge and skills are up-to-date in accordance with their code of conduct and local requirements for safe practice."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 316,
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 317,
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after each procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 318,
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.2,
+                "text": "All staff should ensure that they follow Trust guidelines on infection prevention. All invasive devices must be inserted and cared for using High Impact Intervention guidelines to reduce the risk of infection and deliver safe care. This care should be recorded in the Saving Lives High Impact Intervention Monitoring Tool Paperwork (Medical Devices)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 319,
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.3,
+                "text": "All staff should ensure that they follow Trust guidelines on infection control, using Aseptic Non- Touch Technique (ANTT) when carrying out procedures i.e. vaginal examinations and conducting deliveries."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 320,
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 321,
+            "data": {
+                "is_heading": 0,
+                "prefix": 27.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 322,
+            "data": {
+                "is_heading": 0,
+                "prefix": 27.2,
+                "text": "As a minimum the following specific requirements will be monitored:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 323,
+            "data": {
+                "is_heading": 0,
+                "text": "Documented antenatal discussion on the mode of delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 324,
+            "data": {
+                "is_heading": 0,
+                "text": "Documented plan for the place of labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 325,
+            "data": {
+                "is_heading": 0,
+                "text": "Documented individual management plan for labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 326,
+            "data": {
+                "is_heading": 0,
+                "text": "Documented plan for labour should this commence early"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 327,
+            "data": {
+                "is_heading": 0,
+                "text": "Documented plan for labour should this not commence as planned, that has been discussed with the consultant obstetrician"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 328,
+            "data": {
+                "is_heading": 0,
+                "text": "Documented plan for the monitoring of the fetal heart in labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 329,
+            "data": {
+                "is_heading": 0,
+                "text": "Process for audit, multidisciplinary review of audit results and subsequent monitoring of action plans"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 330,
+            "data": {
+                "is_heading": 0,
+                "prefix": 27.3,
+                "text": "A review of a suitable sample of health records of patients to include the minimum"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 331,
+            "data": {
+                "is_heading": 0,
+                "text": "requirements as highlighted in point 27.2 will be audited. 100% compliance is required for documentation of the three standards. Where concerns are identified more frequent audit will be undertaken."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 332,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 333,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 334,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 335,
+            "data": {
+                "is_heading": 1,
+                "prefix": 28.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 336,
+            "data": {
+                "is_heading": 0,
+                "prefix": 28.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 337,
+            "data": {
+                "is_heading": 0,
+                "prefix": 28.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 338,
+            "data": {
+                "is_heading": 0,
+                "prefix": 28.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 339,
+            "data": {
+                "is_heading": 0,
+                "text": "downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 340,
+            "data": {
+                "is_heading": 0,
+                "prefix": 28.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for further training; possibly involving \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 341,
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 342,
+            "data": {
+                "is_heading": 0,
+                "prefix": 29.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued and available to all staff including an update on the latest \u2018guidelines' information such as a list of newly approved guidelines for staff to acknowledge and familiarize themselves with and practice accordingly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 343,
+            "data": {
+                "is_heading": 0,
+                "prefix": 29.2,
+                "text": "Approved guidelines are published monthly in the Trust's Focus Magazine that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 344,
+            "data": {
+                "is_heading": 0,
+                "prefix": 29.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 345,
+            "data": {
+                "is_heading": 0,
+                "prefix": 29.4,
+                "text": "Regular memos are posted on the guideline notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 346,
+            "data": {
+                "is_heading": 1,
+                "prefix": 30.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 347,
+            "data": {
+                "is_heading": 0,
+                "text": "Royal College of Obstetricians and Gynaecologists (2015) Birth after previous caesarean birth Green-top guideline no 45 October 2015; RCOG: London."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 348,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Clinical Excellence (2011) Clinical Guideline No 132 Caesarean Section last modified: August 2012. NICE: London."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 349,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Clinical Excellence (2014) Intrapartun Care for Healthy Women and Babies. NICE; CG190: December."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 350,
+            "data": {
+                "is_heading": 0,
+                "text": "UK Obstetric Surveillance System (UKOSS) Newsletter 29 April 2012"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 351,
+            "data": {
+                "is_heading": 0,
+                "text": "British Medical Journal (2011) Birth place study: BMJ 2011; 343: 10.1136/bmj.d7400 Published 24 November."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 352,
+            "data": {
+                "is_heading": 0,
+                "text": "www.bmj.com/content/343/bmj.d7400"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 353,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Negligence Scheme for Trusts (2012/2013) CNST Maternity Standards Version 2012/2013. DNV:NHSLA."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 354,
+            "data": {
+                "is_heading": 0,
+                "text": "Kings Fund (2008) Safe births everybody's business."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 355,
+            "data": {
+                "is_heading": 0,
+                "text": "National Service Framework (2007) Every Child Matters; NSF: London Department of Health (2007) Maternity Matters; DoH April."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 356,
+            "data": {
+                "is_heading": 0,
+                "text": "Safer Childbirth (2007) Minimum standards for the organisation and Delivery of Care in Labour RCM/ RCOG October."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 357,
+            "data": {
+                "is_heading": 0,
+                "text": "Department of Health (2006) Modernising Maternity Care; Do H August Hamid, R et al: management of scarred uterus in subsequent pregnancies: Current obstetrics and gynaecology (2006) 16, 168-173."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 358,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Clinical Excellence (2004) Caesarean Section Guideline 13; NICE: London, April."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 359,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 360,
+            "data": {
+                "is_heading": 1,
+                "text": "Vaginal Birth after Caesarean (VBAC) Proforma"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 361,
+            "data": {
+                "is_heading": 1,
+                "text": "To be completed during booking appointment or BACS clinic"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 362,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Surname:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "First name:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of Birth"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Hospital Number:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "EDD by USS"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 363,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Risks of caesarean section discussed:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of infection"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of placenta praevia"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of Thrombosis"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of placenta accreta"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of haemorrhage"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sub fertility due to scar tissue"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of blood transfusion"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Damage to bladder/bowel"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "BABY 1:4 chance of RDS Possible nick to baby's head"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Risk of scar rupture is insignificant 12:10,000 births"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Risk of scar rupture 0.21\u20140.74% Average 1:200"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "65-68% MEHT success rate, nationally 72- 75%"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Increased risk of repeat C/Section"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Quicker recovery e.g. drive a car, less pain, etc"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reduced risk of infection and all other problems associated with C/Section"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 364,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Any other maternal or fetal risks"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Referral to Consultant"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 365,
+            "data": {
+                "num_rows": 26,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Care plan for labour discussed:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stay at home until labour established"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Fetal monitoring : FHR abnormality first indication of scar dehiscence"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "IV cannula and bloods as discussed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "6 hourly ranitidine; isotonic fluids encouraged"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Close monitoring of progress in labour: 1cm/2 hours in active labour."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Analgesia discussed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Choice of place of birth \u2013 Broomfield Labour Ward recommended"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Proceed to VBAC if no contraindications"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Conservative management if no contraindications. If no contractions after 24hrs - full discussion with obstetric team. Syntocinon IOL or LSCS after 24hrs."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Consultant review at 40 weeks: IOL if favourable and no contraindications or elective CS at 40+10-12 days"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Agreed IOL"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "IOL booked for 40+12: ARM and Syntocinon"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Stretch and sweep at 40 and 41 weeks"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes Accepted Declined No Undecided"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 366,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 367,
+            "data": {
+                "url": "06030 Vaginal Birth after Caesarean Section(VBAC) 5.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 368,
+            "data": {
+                "is_heading": 1,
+                "text": "Proforma for VBAC Women Requesting Midwife-led Care in Labour including Use of Birthing Pool"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 369,
+            "data": {
+                "is_heading": 0,
+                "text": "Name:  Hospital number:  NHS number:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 370,
+            "data": {
+                "is_heading": 0,
+                "text": "D.O.B.  E.D.D."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 371,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "MEHT recommendations for VBAC"
+                    },
+                    {
+                        "text": "Midwife\u2013Led Unit (MLU) / Homebirth"
+                    },
+                    {
+                        "text": "Discussed/Comments"
+                    },
+                    {
+                        "text": "Continuous electronic fetal monitoring (EFM) >50% uterine dehiscence/rupture indicated by FHR Risk of uterine rupture 0.21% following 1 previous C/S"
+                    },
+                    {
+                        "text": "Intermittent auscultation- every 15 minutes in 1st stage/ Every 5 minutes in 2nd stage"
+                    },
+                    {
+                        "text": "VBAC success rate 65-68% at MEHT, 72-75% nationally"
+                    },
+                    {
+                        "text": "Intravenous (IV) access by cannulation and bloods for full blood count/group & save - increased risk of Caesarean section"
+                    },
+                    {
+                        "text": "If transferred to consultant unit."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Close monitoring of labour:- 4 hourly vaginal examinations (VE's): expectation of 1cm dilatation every 1 to 2 hours Slow progress increases risk of scar dehiscence/rupture"
+                    },
+                    {
+                        "text": "As per MEHT recommendations"
+                    },
+                    {
+                        "text": "Artificial rupture of membranes (ARM) may increase rate of progress."
+                    },
+                    {
+                        "text": "All analgesia available; use of pool not recommended due to use of continuous electronic fetal monitoring (EFM)"
+                    },
+                    {
+                        "text": "Epidural not available in MLU. Pool available if requested, with intermittent auscultation."
+                    },
+                    {
+                        "text": "Hoist available over Broomfield pool; hoists also in standalone MLU's. Nets are available in all MLU's"
+                    },
+                    {
+                        "text": "In emergency situation the Consultant Unit is the most appropriate location"
+                    },
+                    {
+                        "text": "Broomfield Co-located MLU located on same corridor as Consultant Unit; other end of the corridor to theatres. Standalone MLU's/home require ambulance transfer; no obstetricians or paediatricians in MLU's"
+                    },
+                    {
+                        "text": "Patient trolley available in Broomfield MLU for transfer. Time delay for ambulance to arrive and for transfer to Consultant-led unit at Broomfield Hospital"
+                    },
+                    {
+                        "text": "Special requests"
+                    },
+                    {
+                        "text": "I understand that I do not meet the criteria for midwife-led care and understand the implications of choosing this for the birth of my baby."
+                    },
+                    {
+                        "text": "Signature Date: Signature (midwife) Date:"
+                    },
+                    {
+                        "text": "Designation: Designation:"
+                    },
+                    {
+                        "text": "This proforma does not cover risks additional to those associated with VBAC birth, which may occur in pregnancy or labour"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 372,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

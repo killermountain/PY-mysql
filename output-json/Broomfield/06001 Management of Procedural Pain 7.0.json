@@ -1,0 +1,1536 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "06001 Management of Procedural Pain 7.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "Management of Procedural Pain  Type: Clinical Guideline"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "06001 Management of Procedural Pain 7.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "Register No: 06001 Status: Public"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Best Practice"
+                    },
+                    {
+                        "text": "Contributes to CQC Outcome number:"
+                    },
+                    {
+                        "text": "4 & 9"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With"
+                    },
+                    {
+                        "text": "Post/Committee/Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Pain Consultants"
+                    },
+                    {
+                        "text": "Dr M Alexander Williams, Dr Tom Durcan (Lead for Acute Pain)"
+                    },
+                    {
+                        "text": "2/10/2017"
+                    },
+                    {
+                        "text": "Service Manager Pain Department"
+                    },
+                    {
+                        "text": "Lynne Mustard"
+                    },
+                    {
+                        "text": "2/10/2017"
+                    },
+                    {
+                        "text": "Pain specialist Pharmacist"
+                    },
+                    {
+                        "text": "Alison Bloor"
+                    },
+                    {
+                        "text": "2/10/2017"
+                    },
+                    {
+                        "text": "Professionally Approved By"
+                    },
+                    {
+                        "text": "Lead Consultant, IPMS Dr Mark Alexander-Williams"
+                    },
+                    {
+                        "text": "2/10/2017"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "7.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "IPMS (Integrated Pain Management Service)"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "DRAG Chairmans Action"
+                    },
+                    {
+                        "text": "Ratified on:"
+                    },
+                    {
+                        "text": "29th October 2017"
+                    },
+                    {
+                        "text": "Executive Management Group"
+                    },
+                    {
+                        "text": "November 2017"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "13th November 2017"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "September 2020"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Jayne Somerset Clinical Nurse Specialist, Pain Management"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Medical & Nursing staff involved in managing procedural pain"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Hard copies to all wards & departments Intranet and Website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Policy for the Use of Medicine Infection Control Policies, 06000-Entonox,06043-Oral Ketamine & Midazolam for burns patients,09072- Intranasal Diamorphine for burns patients"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "text": "Document Review History"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No"
+                    },
+                    {
+                        "text": "Reviewed by"
+                    },
+                    {
+                        "text": "Active Date"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "L Mustard/K Tighe"
+                    },
+                    {
+                        "text": "August 2000"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "L Mustard/K Tighe"
+                    },
+                    {
+                        "text": "October 2002"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "L Mustard/K Tighe"
+                    },
+                    {
+                        "text": "October 2004"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "October 2011"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "September 2014"
+                    },
+                    {
+                        "text": "7.0"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "November 2017"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1 Patient Procedural Checklist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.1,
+                "text": "To enable health care professionals, to proactively acknowledge, and anticipate procedural pain, therefore preventing and / or minimising the patients procedural pain experience by managing it appropriately."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.2,
+                "text": "Non pharmacological / pharmacological interventions can be used. Non pharmacological interventions should be used to supplement pain control and should not be used as a replacement to pharmacological approaches when pain is expected."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.1,
+                "text": "Medical / surgical procedures can provide a means to treatment, diagnostic information and rehabilitation. These may range from simple procedures, i.e., repositioning the patient, dressing changes, suture removal, etc. to more complex invasive procedures such as lumbar punctures, fracture reduction, etc. Many of these procedures will produce pain. This type of pain is called Procedural pain."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.2,
+                "text": "When procedural pain is poorly controlled; meaning not anticipated and treated inappropriately, patients may experience numerous physical and psychological harmful effects. In addition, where repeated procedures are necessary, the patients' pain levels and their anxiety may increase with these subsequent procedures. When pain control is optimised these harmful effects and the patients' apprehension can be minimised. In turn, patient cooperation can be maximised, making the procedure a much easier experience for all."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.1,
+                "text": "To clarify what is expected of staff and their responsibility to the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Before the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "During the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "After the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Trained nurses, medical staff, therapy staff, and auxiliary staff involved in patient procedures requiring pain control."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Medical and nursing staff are expected to have an understanding for the need of assessing and treating procedural pain proactively, effectively, and safely."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "The IPMS (Integrated Pain Management Service) is available for advice and consultation via the pager system, and through the PAS referral system."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Training and education is provided by the IPMS, both formally and informally for all clinical staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "In addition the clinical guideline will be disseminated to the ward through Pain Link nurses within their ward setting."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Corporate services will ensure that the guideline is uploaded to the intranet and the website and notified to staff via Focus."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Trust policy for prevention of cross infection to be adhered to for all patient contact procedures. The infection prevention practice within MEHT is for all staff to have strict hand hygiene before and after patient contact. Any equipment must be cleaned between patients unless it is a single use item which will be disposed of appropriately as per the Waste Management Policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Entonox equipment needs to conform to the Entonox Policy (see guideline 06000)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "This does not cover all procedures that may produce pain, but these are a few examples:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "Repositioning a patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "Dressings"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Wound debridement"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "Removals of staples and sutures"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "Removal of drains"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "Bathing (particularly burns patients)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "Endotracheal suctioning"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Diagnostic procedures"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Physiotherapy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "Occupational therapy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Fracture reduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "text": "Applying traction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "Non pharmacological / patient coping strategies include"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "text": "Distraction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 1,
+                "text": "Meditation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "text": "Relaxation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "Imagery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 1,
+                "text": "Massage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 1,
+                "text": "Positioning"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 1,
+                "text": "Reading"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 1,
+                "text": "Music"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 1,
+                "text": "Watching television"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.2,
+                "text": "The health care professionals' role is to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "text": "Introduce the idea of using these in addition to pharmacological support"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 1,
+                "text": "Elicit the patients' compliance to use these techniques, e.g. meditation, imagery, relaxation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 1,
+                "text": "Educate them on these techniques"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 1,
+                "text": "Support their use and ensure they are used properly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "text": "Once used, the use of these techniques should be documented in the patients care plan"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Non pharmacological interventions should be used to supplement pain control"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "and should not be used as a replacement to pharmacological approaches when"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "pain is expected."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.3,
+                "text": "Pharmacological interventions include"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Local anaesthesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Opioids"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Oral Ketamine or Midazolam for burns patients ( Policy 06043 )"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Intranasal Diamorphine for burns patient ( Policy 09072 )"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Sedation (administered according to Trust procedures). Sedation has the added bonus of amnesia but it does not provide analgesia."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "Entonox ( Policy 06000 )"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "Fast acting opiates"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Oramorph, Oxynorm, Buccal Fentanyl ( lozenges )"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "The health care professionals' role is to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure these interventions are prescribed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure they are given at the appropriate time"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure they are stocked and available for use at the time of the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure these interventions once used are signed for"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the intervention is assessed for adequacy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Acknowledge the patients fears and concerns regarding the procedure. These may be voiced by the patient or may need to be discussed with the patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Select the appropriate pharmacological / non pharmacological intervention. Consider"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "text": "Type and length of the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "How much pain is associated with the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical setting"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Age of the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Cognitive function of patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Accessibility to drugs / equipment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Availability of staff to administer and monitor effects of intervention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "Can the intervention be replicated if the patient is discharged home"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients' previous experience if this is a repeated procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Establish the patients' expectations of pain control. If this is not realistic they will need to be managed appropriately and accepted by the patient. Agree an intervention plan."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Negotiate an appropriate time for procedure to be carried out, i.e., enough staff on ward / unit, less disruption - not near meal / visiting times, etc. Consider location, try to ensure enough space for carrying out procedure, that it is private, and there is minimal noise."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "Prepare patient for non-pharmacological strategies. Give support where required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.6,
+                "text": "Check that pharmacological interventions are accessible, e.g. drugs available, enough Entonox in canister for duration of procedure, etc."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.7,
+                "text": "Pre-emptive analgesia has been given with enough time for it to work. Consider procedural sedation if"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "procedure is significantly painful"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "patient is in extreme distress"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.8,
+                "text": "Use the Patient Procedural Checklist and keep with the Patients care plan (see Appendix 1)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.1,
+                "text": "Use IPMS agreed plan."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.2,
+                "text": "Support patient in using their chosen non-pharmacological intervention."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.3,
+                "text": "Keep calm and confident. Give the patient reassurance throughout the procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.4,
+                "text": "Assess the patients' pain throughout the procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.5,
+                "text": "Assess patients' anxiety levels throughout the procedure. Give reassurance where required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.6,
+                "text": "If the patients' pain is inadequately controlled, consider stopping the procedure if safe to do so, then reassess patient and reassess intervention. The patient may require"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 0,
+                "text": "more analgesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "text": "re-educating / support to use the intervention correctly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "text": "reassurance"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.7,
+                "text": "Continue only when pain control has been re-established."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.1,
+                "text": "Discuss and evaluate with the patient how the procedure went."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.2,
+                "text": "Document"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "the length of the procedure beginning to end"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "what interventions were used"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "how effective were the interventions used"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "Give multi-modal analgesia to cover the hypersensitivity / pain that may be experienced after the procedure has finished if not already given."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "Always bear in mind if these interventions can be used at home if / when the patient is discharged."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "Complete the Patient Procedural Checklist and keep with the Patients care plan (see Appendix 1)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.1,
+                "text": "Consider the pharmacological intervention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 1,
+                "text": "Was it given at the right time? Depending on the analgesia this could be before or during the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 1,
+                "text": "Was an adequate dose was given? The dose may need to be increased or the drug may need to be changed if appropriate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 1,
+                "text": "Was additional long acting analgesia given to control the post procedural pain and accompanying hypersensitivity?"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Consider the non-pharmacological intervention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the patient understood what is needed of them to maximise"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "text": "their potential."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "Manage the patients' expectations. Even when optimal pain relief is achieved it may be difficult to eliminate all of the pain experienced by the patient, however it is realistic to attain a level that is acceptable to the patient."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "Consider procedural sedation if the"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "procedure is significantly painful"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "patient is in extreme distress"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "Get help / advice if procedural pain is uncontrolled. Contact the IPMS or the anaesthetic department."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.1,
+                "text": "A risk event form should be completed and submitted to the Risk Management Department for non-compliance with this guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.1,
+                "text": "Incidence of clinical risk or patient complaints resulting from non- compliance of this guideline is recorded via the central risk events database and PALS if involved."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.2,
+                "text": "The IPMS manager and lead consultant will liaise at corporate level to put strategies in place to address issues."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1.  Patient Procedural Checklist"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 129,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Stick Patient Label here or Surname: First Name: DoB Hospital No."
+                    },
+                    {
+                        "text": "Date Staff Signature \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026"
+                    },
+                    {
+                        "text": "Checklist"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Procedure"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pharmacological intervention to be used State type"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Non-pharmacological intervention to be used State type"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Educate patient on techniques / intervention to be used (Yes / No)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Time agreed for procedure to take place State time"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "How many staff required for procedure and intervention State number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Ensure analgesia is available on the ward / unit (Yes / No)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pain Score before procedure (0-none, 1\u2013mild, 2-moderate, 3-severe)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pain Score during procedure (0-none, 1\u2013mild, 2-moderate, 3-severe)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pain score post procedure (0-none, 1\u2013mild, 2-moderate, 3-severe)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Analgesia given to relieve post procedure pain / hypersensitivity (Yes / No)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient satisfaction with procedural pain control (Yes / No)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

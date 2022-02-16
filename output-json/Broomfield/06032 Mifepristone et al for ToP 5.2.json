@@ -1,0 +1,2610 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "USE OF MIFEPRISTONE, MISOPROSTOL AND PROSTIN IN A TERMINATION OF PREGNANCY FOR FETAL ABNORMALITIES OR INTRAUTERINE DEATH"
+                    },
+                    {
+                        "text": "CLINICAL GUIDELINES Register no 06032 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Guideline Review RCOG guidance"
+                    },
+                    {
+                        "text": "Contributes to Core Outcome No"
+                    },
+                    {
+                        "text": "11,12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Individual/Body:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Anita Rao/ Alison Cuthbertson Vidya Thakur Alison Cuthbertson Paula Hollis Chris Berner Sarah Iskander Sarah Moon Deborah Lepley"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Division Consultant for Obstetrics and Gynaecology Associate Director of Midwifery/Nursing Lead Midwife Acute Inpatient Services Lead Midwife Clinical Governance Antenatal Clinic Midwife Specialist Midwife Guidelines and Audit Warner Library"
+                    },
+                    {
+                        "text": "April 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": "Miss Rao, Lead Consultant for Obstetrics and Gynaecology"
+                    },
+                    {
+                        "text": "April 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "5.2"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Ratified By"
+                    },
+                    {
+                        "text": "DRAG Chair's Action"
+                    },
+                    {
+                        "text": "Ratified On"
+                    },
+                    {
+                        "text": "15th May 2018"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "15th May 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "14 May 2021"
+                    },
+                    {
+                        "text": "EMG Sign Off Date"
+                    },
+                    {
+                        "text": "May 2018"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Emma Neate, Antenatal and Newborn Screening Coordinator"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Midwives, Gynaecology Nurses, Obstetricians"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet and Website. Notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 07064 Breaking Bad News 09042 Management of Patients with Pregnancy Loss 04245 Management of Retained Placenta"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Kathleen Bird, Screening Coordinator"
+                    },
+                    {
+                        "text": "February 2006"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Kathleen Bird, Antenatal and Newborn Screening Coordinator"
+                    },
+                    {
+                        "text": "March 2009"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 Clarifications post PFI move"
+                    },
+                    {
+                        "text": "April 2011"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Nicky Leslie"
+                    },
+                    {
+                        "text": "February 2012"
+                    },
+                    {
+                        "text": "3.1"
+                    },
+                    {
+                        "text": "Anita Rao & Clare Fitzgerald \u2013 RCOG recommendation and requirement to amend misoprostol dosage; Appendix A, B, C and D"
+                    },
+                    {
+                        "text": "December 2013"
+                    },
+                    {
+                        "text": "3.2"
+                    },
+                    {
+                        "text": "Anita Rao & Clare Fitzgerald \u2013 Clarification to point 6.5 & Appendix D"
+                    },
+                    {
+                        "text": "January 2014"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Nicky Leslie, Antenatal and Newborn Screening Coordinator"
+                    },
+                    {
+                        "text": "March 2015"
+                    },
+                    {
+                        "text": "4.1"
+                    },
+                    {
+                        "text": "Anita Rao \u2013 Clarification to Appendices A to D"
+                    },
+                    {
+                        "text": "24 June 2015"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Emma Neate \u2013 full review"
+                    },
+                    {
+                        "text": "15 May 2018"
+                    },
+                    {
+                        "text": "5.1"
+                    },
+                    {
+                        "text": "Rachel Smith \u2013 Clarification to 6.1, 6.2"
+                    },
+                    {
+                        "text": "15 September 2020"
+                    },
+                    {
+                        "text": "5.2"
+                    },
+                    {
+                        "text": "Rachel Smith \u2013 Clarification to Appendix D"
+                    },
+                    {
+                        "text": "17 September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 9,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Admission to Labour Ward/Antenatal Clinic for Misoprostol or Prostin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix A \u2013 Drug Protocol for the Medical Management of a Non-Viable Pregnancy > 9"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "text": "weeks gestation and < or equal to 23+6 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix B - Drug Protocol for the Medical Management of Inducing Labour in Treating"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Intrauterine Death 24+0 weeks gestation to 26+6 weeks gestation Appendix C - Drug Protocol for the Medical Management of Inducing Labour in Treating"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 27.0,
+                "text": "Intrauterine Death  weeks gestation to 40 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix D - Drug Protocol for the Medical Management of Inducing Labour in Treating"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "Intrauterine Death for Women who have had a Previous Caesarean section (either first or second)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix E - Termination of Pregnancy HSA4 Form Pathway"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix F - Useful Telephone Contacts"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix G - Standard Operating Procedure for Termination of Pregnancy for Fetal"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Abnormalities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix H - Standard Operating Procedure for Intrauterine Death"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "To give guidance to all medical, midwifery and nursing staff on the latest procedure for termination of pregnancy using mifepristone and prostaglandins."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Aims of the Guideline"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "To provide optimal care including bereavement support, for women with a confirmed fetal death or fetal abnormality following screening."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Provide information and support to the women and their partners."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "This guideline reflects emerging clinical and scientific advances. The information is designed to aid practitioners in making decisions about appropriate obstetric and gynaecological care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.4,
+                "text": "To provide one to one midwifery or nursing care on Labour Ward/A203 (Gosfield Ward)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Withdrawal of progesterone is the basis of the clinical efficiency of mifepristone in its licensed indications. Mifepristone is licensed in the UK for four indications:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 63.0,
+                "text": "A medical alternative to surgical termination of intrauterine pregnancy of up to  days gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "The drug aids softening and dilatation of the cervix prior to cervical dilatation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "This is used in combination with prostaglandins for termination of pregnancy between  and  weeks gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Mifepristone is used prior to an induction of labour for fetal death in utero (appropriate for second and third trimester pregnancy)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Misoprostol and Prostin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Prostaglandins and oxytocins are used to induce abortion, induce/augment labour and to minimise blood loss from the placental site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Misoprostol is given by vaginal administration or by mouth to induce medical abortion or induce labour following an intrauterine death at any gestation (unlicensed indication)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Prostin pessaries administered vaginally can be used for inducing labour; this is according to the consultants prescribed medication."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Procedure in Antenatal Clinic and/or Labour Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "See standard operating procedure for termination of pregnancy for fetal abnormality"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The woman and her partner should be counselled by a Screening Midwife and/or an obstetric registrar/ consultant on call for termination of pregnancy due to fetal abnormality. For intrauterine death these women can be seen by a Ward Midwife /Screening Midwife/Obstetric Registrar/Consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "The women should be advised to allow 1 - 2 hours for:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Give women Mifepristone/Misoprostol Information leaflet (Refer to Appendix I)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Review by Obstetric team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "The White Abortion Act form HSA1 should be completed and signed by two doctors for all babies that are alive at the beginning of a termination of pregnancy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Sign DoH Consent Form 3 for all procedures."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Complete HSA4 Form on line"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Prescribe medication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Discussion of termination process \u2013 medication/pain relief/seeing baby/mementos funeral arrangement/post mortem"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Administration of mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Documentation to be completed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to ask questions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "Time must be given to discuss the reasons for the termination of pregnancy/intrauterine death and the need for an induction of labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "Observe for adverse effects of the tablet such as vomiting, an oral dose of Prochlorperazine (Stemetil\u00ae) 5mg can be given at the same time as the mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "to reduce this risk \uf0b7  Complications of the procedure must be discussed: \uf0b7  Failed Procedure \uf0b7  Pyrexia \uf0b7  Diarrhoea \uf0b7  Retained Placenta \uf0b7  Haemorrhage"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "Registered Medical Practitioners are legally required, under the Abortion Act 1967, as amended, to notify the Chief Medical Officer (CMO) of every abortion performed in England and Wales whether carried out in the NHS or an approved independent sector place and  whether  or  not  the  woman  is  a  UK  resident.  The  Department  of  Health provides the HSA4 form for this purpose. The HSA4 form is completed on line or sent to the Chief Medical Officer within  days of the procedure (legal requirement)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix E \u2013 Termination of Pregnancy HSA4 Form Pathway \u2013 for tracking and completion of HSA4 form)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "The medication for the termination of pregnancy should be prescribed by the doctor. (Refer to Appendices A to D)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Intrauterine Death"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Women to be scanned by either Maternity Ultrasound Department, Obstetric Consultant to confirm findings:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Review by Obstetric Team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Discuss process for delivery"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "Prescribe medication by Obstetric Team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "Give Mifepristone/Misoprostol leaflet"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "Administer Mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to ask questions notes and consent forms to admission ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "Contact numbers given to women"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "Perform investigative bloods"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "The Screening Midwife/Obstetric Registrar/Consultant on call will liaise with the Labour Ward Coordinator/Gosfield Ward regarding the patient's planned admission, to ensure adequate staffing and that the appropriate room is available for the admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Admit the patient to Gosfield Ward for all pregnancies up to 16+6 weeks gestation and to Labour Ward for all pregnancies 17 weeks gestation and over."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.6,
+                "text": "Inform the reception staff of the date and time of the patient's admission to ensure a sensitive approach and named midwife to collect her from reception."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Administration of Mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Mifepristone is stored in the Antenatal Clinic or Labour Ward controlled drug cupboard."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "A single oral dose of mifepristone 200mg is given by the Screening Midwife or Doctor 48 hours prior to admission."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendices A to D)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Mifepristone should not be given to patients who:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "Have ever had a bad reaction or an allergic response to mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Suffer with asthma that is not controlled by treatment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Suffer with liver or kidney disease"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Porphyria"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The women and their partner will then be discharged home, with an appointment to return in 48 hours' time, with contact names and telephone numbers for Labour Ward, Gosfield Ward and the Screening team."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix E)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Effects of Mifepristone"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Most patients will have no side effects of mifepristone, but if they have any signs of:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "Bleeding vaginally"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "text": "Severe abdominal pain not controlled by 2 paracetamol 500mg (1gram in total)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "Rupture of membranes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient should be advised to contact Labour Ward on 01245 513056 or Gosfield Ward on 01245 514921/4922"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Previous Lower Segment Caesarean Section"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "There is no literature available to advise on this regimen for patients who have had previous lower segment Caesarean sections. This decision is taken by the individual obstetric consultant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Admission to Labour Ward/ Gosfield Ward for Misoprostol or Prostin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.1,
+                "text": "This medication is kept on Labour Ward/ Gosfield Ward either in the drug cupboard or the fridge."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Follow the drug regimen and protocol. (Refer to Appendices A to D)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Refer to the guideline for \u2018Management of Women with Pregnancy Loss'; register number 09042."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "If deemed necessary by the obstetric registrar/ consultant on call, the patient will be offered a stat dose of cabergoline 1mg orally, while the patient remains on Labour Ward to suppress lactation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "Cabergoline 1 mg orally is contraindicated if the patient has a history of high blood pressure, heart disease, stomach ulcers or mental health disorders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Staffing and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "All midwifery and obstetric staff must attend yearly mandatory training which includes skills and drills training."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "All midwifery and obstetric staff are to ensure that their knowledge and skills are up-to- date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Professional Midwifery Advocates"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Professional Midwifery Advocates provide a mechanism of support and guidance to women and midwives. Professional Midwifery Advocates are experienced practising midwives who have undertaken further education in order to supervise midwifery services and to advise and support midwives and women in their care choices."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after each procedure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "All staff should ensure that they follow Trust guidelines on infection prevention. All invasive devices must be inserted and cared for using High Impact Intervention guidelines to reduce the risk of infection and deliver safe care. This care should be recorded in the Saving Lives High Impact Intervention Monitoring Tool Paperwork (Medical Devices)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "Audit for this guideline will consist of a compliance audit for HSA4 forms - completion and sending to Chief Medical Officer within  days of the termination of pregnancy as per appendix E flowchart; this will ensure 100% compliance of notification."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.3,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.4,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.5,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.6,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for future training needs will be met using methods such as \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued to all staff to highlight key changes in clinical practice to include a list of newly approved guidelines for staff to acknowledge and familiarise themselves with and practice accordingly. Midwives that are on maternity leave or \u2018bank' staff have letters sent to their home address to update them on current clinical changes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.2,
+                "text": "Approved guidelines are published monthly in the Trust's Staff Focus that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.4,
+                "text": "Regular memos are posted on the guideline and audit notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "RCOG (2010) Late intrauterine fetal death and stillbirth. GTG 55. October."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "prefix": 63.0,
+                "text": "RCOG (2012) Patient Information about Abortion Care, what you need to know. March. British National Formulary (BNF) September 2012 No"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "text": "Mid Essex Hospital Services NHS Trust Guideline for the Management of Retained Placenta (2012)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "text": "Department of Health (2011) Introduction to completing abortion forms for abortions performed in England and Wales Gateway Reference Number: 16105"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 1,
+                "text": "Drug Protocol for the Medical Management of a Non-Viable Fetus or medical termination for a medical indication > 9 weeks gestation and < or equal to 23+6 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 1,
+                "text": "48 hours Prior to Admission"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 134,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Mifepristone"
+                    },
+                    {
+                        "text": "200 mg orally"
+                    },
+                    {
+                        "text": "Prochlorperazine"
+                    },
+                    {
+                        "text": "5 mg orally as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 1,
+                "text": "Admission to Labour Ward /Ward A3.3"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 136,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Misoprostol"
+                    },
+                    {
+                        "text": "800 mcg per vagina (PV)"
+                    },
+                    {
+                        "text": "Metronidazole"
+                    },
+                    {
+                        "text": "1 gm per rectum (PR)"
+                    },
+                    {
+                        "text": "Diclofenac"
+                    },
+                    {
+                        "text": "100 mg PR"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 1,
+                "text": "During Labour"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 138,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Misoprostol"
+                    },
+                    {
+                        "text": "400mcg orally (given every 3 hours up to 4 doses)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 1,
+                "text": "Medication as Required"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 140,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS (4 times a day)"
+                    },
+                    {
+                        "text": "Morphine"
+                    },
+                    {
+                        "text": "10 mg intramuscularly (IM) as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 1,
+                "text": "Tablets to Take Home"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 142,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Doxycycline"
+                    },
+                    {
+                        "text": "100 mg BD (twice a day) for 7 days"
+                    },
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS for 7 days"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 144,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 1,
+                "text": "Drug Protocol for the Medical Management of Inducing Labour in Treating Intrauterine Death 24+0 weeks gestation to 26+6 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 1,
+                "text": "48 hours Prior to Admission"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 148,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Mifepristone"
+                    },
+                    {
+                        "text": "200 mg orally"
+                    },
+                    {
+                        "text": "Prochlorperazine"
+                    },
+                    {
+                        "text": "5 mg orally as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 1,
+                "text": "During Labour"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 150,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Misoprostol"
+                    },
+                    {
+                        "text": "100mcg per vagina (PV) (given every 6 hours for 24 hours) (200mcg tablets currently in use clinically; to be cut into half; use cutter provided from pharmacy)"
+                    },
+                    {
+                        "text": "Metronidazole"
+                    },
+                    {
+                        "text": "1 gm per rectum (PR)"
+                    },
+                    {
+                        "text": "Diclofenac"
+                    },
+                    {
+                        "text": "100 mg PR"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 1,
+                "text": "Medication as Required"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 152,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS (4 times a day)"
+                    },
+                    {
+                        "text": "Morphine"
+                    },
+                    {
+                        "text": "10 mg intramuscularly (IM) as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 1,
+                "text": "Tablets to Take Home"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 154,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Doxycycline"
+                    },
+                    {
+                        "text": "100 mg BD (twice a day) for 7 days"
+                    },
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS for 7 days"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 156,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 159,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 1,
+                "prefix": 40.0,
+                "text": "Drug Protocol for the Medical Management of Inducing Labour in Treating Intrauterine Death  weeks gestation to  weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 1,
+                "text": "48 hours Prior to Admission"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 162,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Mifepristone"
+                    },
+                    {
+                        "text": "200 mg orally"
+                    },
+                    {
+                        "text": "Prochlorperazine"
+                    },
+                    {
+                        "text": "5 mg orally as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 1,
+                "text": "During Labour"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 164,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Misoprostol"
+                    },
+                    {
+                        "text": "50mcg per vagina (PV) (given every 4 hours for 24 hours) (200mcg tablets currently in use clinically; use cutter provided from pharmacy to cut into quarters)"
+                    },
+                    {
+                        "text": "Metronidazole"
+                    },
+                    {
+                        "text": "1 gm per rectum (PR)"
+                    },
+                    {
+                        "text": "Diclofenac"
+                    },
+                    {
+                        "text": "100 mg PR"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 1,
+                "text": "Medication as Required"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS (4 times a day)"
+                    },
+                    {
+                        "text": "Morphine"
+                    },
+                    {
+                        "text": "10 mg intramuscularly (IM) as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 1,
+                "text": "Tablets to Take Home"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 168,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Doxycycline"
+                    },
+                    {
+                        "text": "100 mg BD (twice a day) for 7 days"
+                    },
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS for 7 days"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 1,
+                "text": "Drug Protocol for the Medical Management of Inducing Labour in Treating Intrauterine Death for Women who have had a Previous Caesarean section (either first or second caesarean section) from 24+0 weeks gestation to 40 weeks gestation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 1,
+                "text": "48 hours Prior to Admission"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 173,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Mifepristone"
+                    },
+                    {
+                        "text": "200 mg orally"
+                    },
+                    {
+                        "text": "Prochlorperazine"
+                    },
+                    {
+                        "text": "5 mg orally as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 1,
+                "text": "During Labour"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 175,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Misoprostol"
+                    },
+                    {
+                        "text": "50mcg per vagina (PV) (given every 4 hours for 24 hours) (200mcg tablets currently in use clinically; use cutter provided from pharmacy to cut in quarters)"
+                    },
+                    {
+                        "text": "Diclofenac"
+                    },
+                    {
+                        "text": "100 mg PR"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 1,
+                "text": "Medication as Required"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 177,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS (4 times a day)"
+                    },
+                    {
+                        "text": "Morphine"
+                    },
+                    {
+                        "text": "10 mg intramuscularly (IM) as required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 1,
+                "text": "Tablets to Take Home"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 179,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Doxycycline"
+                    },
+                    {
+                        "text": "100 mg BD (twice a day) for 7 days"
+                    },
+                    {
+                        "text": "Codydramol"
+                    },
+                    {
+                        "text": "2 tablets orally QDS for 7 days"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix D"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 181,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 0,
+                "text": "Termination of Pregnancy HSA4 Form Pathway"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 184,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix E"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 0,
+                "text": "Gynae OPD \u2013 Dr lead clinic."
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 187,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 0,
+                "text": "TCI card given to waiting lists, TCI booked W/L to inform Gynae Admin a few days prior to the TCI date."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre Assessment patient details filled in on HSA4 Form and put into patients notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 0,
+                "text": "Fetal Abnormality"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 0,
+                "text": "Woman seen by Screening Team for abnormality"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 192,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.005.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 0,
+                "text": "Woman decides to have termination of pregnancy for fetal anomaly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 0,
+                "text": "Seen by Screening Midwife/Obstetric Consultant/Registrar"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 0,
+                "text": "Consent & HSA1 Form signed HSA4 Form commenced"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "text": "Theatre"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 197,
+            "data": {
+                "is_heading": 0,
+                "text": "Surgeon checks, complete and"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 198,
+            "data": {
+                "is_heading": 0,
+                "text": "signsHSA4 Form, Form put"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 199,
+            "data": {
+                "is_heading": 0,
+                "text": "back into nots and given to  Form in woman's lilac notes for"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 200,
+            "data": {
+                "is_heading": 0,
+                "text": "Theatre Reception  Surgical  admission"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 201,
+            "data": {
+                "is_heading": 0,
+                "text": "Top"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 202,
+            "data": {
+                "is_heading": 0,
+                "text": "Medical Top"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 203,
+            "data": {
+                "is_heading": 0,
+                "text": "Gynae Admin to pick notes up"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 204,
+            "data": {
+                "is_heading": 0,
+                "text": "from theatre Reception. Form  Notes to Maternity details added to  Bereavement Midwife/Admin"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 205,
+            "data": {
+                "is_heading": 0,
+                "text": "Obstetric/Gynae HSA4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 206,
+            "data": {
+                "is_heading": 0,
+                "text": "Database"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 207,
+            "data": {
+                "is_heading": 0,
+                "text": "HSA4 Form collected by Screening Midwife \u2013 Form checked to ensure it is completed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 208,
+            "data": {
+                "is_heading": 0,
+                "text": "Form sent to Department of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 209,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "Health within  days of"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 210,
+            "data": {
+                "is_heading": 0,
+                "text": "procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 211,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix E"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 212,
+            "data": {
+                "is_heading": 1,
+                "text": "Maternity Secretaries conAtpactependd  ix F patients details added to Obstetric/Gynae HSA4"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 213,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 214,
+            "data": {
+                "is_heading": 0,
+                "text": "Database"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 215,
+            "data": {
+                "is_heading": 1,
+                "text": "Useful Telephone Numbers"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 216,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Contact"
+                    },
+                    {
+                        "text": "Telephone number"
+                    },
+                    {
+                        "text": "Screening Team, Antenatal Clinic, Broomfield Hospital"
+                    },
+                    {
+                        "text": "01245 513433; internal extension 3433"
+                    },
+                    {
+                        "text": "Labour Ward"
+                    },
+                    {
+                        "text": "01245 362305; internal extension 3056/3057"
+                    },
+                    {
+                        "text": "Gosfield Ward"
+                    },
+                    {
+                        "text": "01245 514923/514921 or internal extension 4921/4923"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 217,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 218,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix G"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 219,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 220,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure for Termination of Pregnancy for Fetal Abnormalities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 221,
+            "data": {
+                "is_heading": 0,
+                "text": "Abnormality detected on scan Referred to Fetal Medicine Unit for review Abnormality confirmed"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 222,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.007.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 223,
+            "data": {
+                "is_heading": 0,
+                "text": "Woman opts for termination of pregnancy"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 224,
+            "data": {
+                "is_heading": 0,
+                "text": "Less than 15 weeks  > 15 weeks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 225,
+            "data": {
+                "is_heading": 0,
+                "text": "Surgical  Medical  Contact Labour Ward/Gosfield Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 226,
+            "data": {
+                "is_heading": 0,
+                "text": "Contact Gynae waiting  Contact Gosfield Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 227,
+            "data": {
+                "is_heading": 0,
+                "text": "lists  TCI date arranged Add woman to list  TCI date arranged"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 228,
+            "data": {
+                "is_heading": 0,
+                "text": "Informed of process of termination  Informed of process of termination Consent Form 3 completed  Mifepristone/Misoprostol leaflet given"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 229,
+            "data": {
+                "is_heading": 0,
+                "text": "HSA1 Form completed 2 signatures  Registrar/Consultant Obstetric review"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 230,
+            "data": {
+                "is_heading": 0,
+                "text": "HSA2 Form commenced  Consent Form 3 completed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 231,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to ask questions  HSA1 Form completed 2 signatures Notes and consent forms to Admission  HSA2 Form commenced"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 232,
+            "data": {
+                "is_heading": 0,
+                "text": "Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 233,
+            "data": {
+                "is_heading": 0,
+                "text": "Contact numbers given to women  Medication prescribed Administer Mifepristone if TCI 48hr later"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 234,
+            "data": {
+                "is_heading": 0,
+                "text": "Advise date and time to come in/where to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 235,
+            "data": {
+                "is_heading": 0,
+                "text": "go"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 236,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to ask questions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 237,
+            "data": {
+                "is_heading": 0,
+                "text": "Nil by mouth apart from plain water from"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 238,
+            "data": {
+                "is_heading": 0,
+                "text": "7:00am water till 11:30  Notes and consent forms to Admission"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 239,
+            "data": {
+                "is_heading": 0,
+                "text": "Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 240,
+            "data": {
+                "is_heading": 0,
+                "text": "Adult to be with them for 24hrs post"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 241,
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.0,
+                "text": "procedures  Contact numbers given to women"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 242,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix H"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 243,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 244,
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure for Intrauterine Death"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 245,
+            "data": {
+                "is_heading": 0,
+                "text": "Scan department confirm Intrauterine Death"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 246,
+            "data": {
+                "url": "06032 Mifepristone et al for ToP 5.2.008.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 247,
+            "data": {
+                "is_heading": 0,
+                "text": "Seen by Midwife, Obstetric Registrar / Consultant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 248,
+            "data": {
+                "is_heading": 0,
+                "text": "Informed of process of termination Registrar/Consultant Obstetric review Mifepristone/Misoprostol leaflet given"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 249,
+            "data": {
+                "is_heading": 0,
+                "text": "Consent Form 3 completed Medication prescribed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 250,
+            "data": {
+                "is_heading": 0,
+                "text": "Administer Mifepristone if TCI 48 hours later"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 251,
+            "data": {
+                "is_heading": 0,
+                "text": "Time to ask questions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 252,
+            "data": {
+                "is_heading": 0,
+                "text": "Notes and consent forms to Admission Ward"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 253,
+            "data": {
+                "is_heading": 0,
+                "text": "Contact numbers given to women"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 254,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,1032 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "05108 Urinalysis 3.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Urinalysis"
+                    },
+                    {
+                        "text": "Clinical Guideline Register No: 05108 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Best Practice Health and Social Act 2008"
+                    },
+                    {
+                        "text": "Contributes to CQC Outcome"
+                    },
+                    {
+                        "text": "8"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted with"
+                    },
+                    {
+                        "text": "Post/Committee/Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Daniel Swallow"
+                    },
+                    {
+                        "text": "Consultant Urologist"
+                    },
+                    {
+                        "text": "2nd July 2018"
+                    },
+                    {
+                        "text": "Lorraine Simpson, Amanda Lewis"
+                    },
+                    {
+                        "text": "Urology CNS"
+                    },
+                    {
+                        "text": "2nd July 2018"
+                    },
+                    {
+                        "text": "Professionally Approved by"
+                    },
+                    {
+                        "text": "Lead Infection Prevention Nurse"
+                    },
+                    {
+                        "text": "5th June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Corporate"
+                    },
+                    {
+                        "text": "Ratified by"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "Ratified on"
+                    },
+                    {
+                        "text": "19th July 2018"
+                    },
+                    {
+                        "text": "Trust Executive Sign Off Date"
+                    },
+                    {
+                        "text": "September 2018"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "June 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Jo Shingler Consultant Nurse, Urology"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Medical and Nursing Staff"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet and Website"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Catheterisation Policy Infection Control Policy Latex Policy Cleaning Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No"
+                    },
+                    {
+                        "text": "Authored/Reviewed by"
+                    },
+                    {
+                        "text": "Issue Date"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dee Currie"
+                    },
+                    {
+                        "text": "26 September 2005"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Urology CNS'"
+                    },
+                    {
+                        "text": "30 October 2014"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Urology CNS'"
+                    },
+                    {
+                        "text": "28 August 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "CONTENTS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "text": "3.2. Inclusions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Exclusions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Equipment Required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Equipment required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Hand decontamination"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Procedure for the use of Reagent sticks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1 Information about Urine"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 2 Information about Dipstick Reagent Tests"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this document is to detail the rationale and the process for carrying out urinalysis which is the testing of the physical characteristics and composition of freshly voided urine."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "The composition of urine can change dramatically as a result of disease processes. It may contain red blood cells, glucose, proteins, white blood cells or bile (Marieb & Hoehn 2007). The presence of such abnormalities in urine is an important warning sign of illness and may be helpful in clinical assessment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "text": "To assist in the baseline assessment of all patients and to gather information about the patient's physical status."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "To determine the individual's urine status on admission as a baseline for comparisons with future assessments."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "To monitor changes in urinary constituents as a response to medication."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "To be used as a screening test to gather information about physical status."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "To determine the individual's urine status pre operatively and pre diagnostics"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "This policy applies to all nursing and medical staff employed by the Trust on a substantive and temporary basis."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.2,
+                "text": "Inclusions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "Pre-operative patients"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "Urological patients undergoing urological outpatient procedures"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with symptoms of a UTI"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.3,
+                "text": "Exclusions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Urinalysis for patients with an indwelling urinary catheter is unreliable for diagnosis of a urinary tract infection. A clean catheter specimen should be sent for microbiology, culture and sensitivity for appropriate diagnosis and treatment."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "It is recommended that nurses and doctors who carry out urinalysis will have received training from a more experienced member of staff who is competent in performing urinalysis adhering to the guidelines set out in The Royal Marsden Manual."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The nurse or doctor performing the urinalysis: -"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "must be able to interpret the findings"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "must initiate actions based on their findings"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "should inform the senior member of staff of their findings as appropriate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Appropriately trained nurses, as identified above, can carry out urinalysis; the results should then be documented in the patient's medical records (Fillingham & Douglas 1997, Bayer 1997)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Equipment required:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Urine testing sticks (Multistix 8SG)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Sterile container for Urine sample"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "text": "Gloves and apron"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "text": "Fresh urine specimen"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Hand hygiene"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "text": "Hands must be decontaminated:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "text": "Immediately before and after direct patient contact"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "text": "Immediately after contact with bodily fluids"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Use an alcohol-based hand rub for decontamination of hands before and after direct  patient  contact  except  when  hands  are  visibly  soiled  or  potentially contaminated with bodily fluids regardless of whether or not gloves have been worn."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "Procedure for the use of Reagent sticks"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "Store reagent sticks in accordance with manufacturer's instructions. This often includes any dark place"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "Explain and discuss the procedure with the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "Wash and dry hands. Put on gloves and apron"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Obtain a clean specimen of fresh urine from the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Dip the reagent strip into the urine. The strip should be completely immersed in the  urine  and  then  removed  immediately.  Run  the  edge  of  strip  along  the container. This will remove excess urine and prevent mixing of chemicals from adjacent reagent areas (Bayer Diagnostics 2006)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the stick at an angle"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Wait the required time interval before reading the strip against the colour chart"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Dispose of urine, gloves and apron immediately into a clinical waste bag"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 55,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Abnormal constituent"
+                    },
+                    {
+                        "text": "Name of condition"
+                    },
+                    {
+                        "text": "Possible causes"
+                    },
+                    {
+                        "text": "Glucose"
+                    },
+                    {
+                        "text": "Glycosuria"
+                    },
+                    {
+                        "text": "Diabetes mellitus"
+                    },
+                    {
+                        "text": "Proteins"
+                    },
+                    {
+                        "text": "Proteinuria"
+                    },
+                    {
+                        "text": "May be seen in pregnancy and high-protein diets; heart failure; severe hypertension; infection;"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 56,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "asymptomatic renal disease"
+                    },
+                    {
+                        "text": "Ketone bodies"
+                    },
+                    {
+                        "text": "Ketonuria"
+                    },
+                    {
+                        "text": "Starvation; untreated diabetes mellitus; Atkins Dieters"
+                    },
+                    {
+                        "text": "Haemoglobin"
+                    },
+                    {
+                        "text": "Haemoglobinuria"
+                    },
+                    {
+                        "text": "Transfusion reaction; haemolytic anaemia; severe burns; Liver disease or obstruction of bile ducts"
+                    },
+                    {
+                        "text": "Erythrocytes"
+                    },
+                    {
+                        "text": "Haematuria"
+                    },
+                    {
+                        "text": "Bleeding in urinary tract; kidney stones; infection or trauma"
+                    },
+                    {
+                        "text": "Leucocytes"
+                    },
+                    {
+                        "text": "Pyuria"
+                    },
+                    {
+                        "text": "Urinary tract infection"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "When interpreting the results of reagent sticks it is important to remember the limitations of the test, as false negatives are possible."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Many drugs may influence urine tests. It is important to assess the patient's"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "medication when considering the results of dipstick urinalysis. It is important to be"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "aware that they do have limitations and manufacturer's instructions must be followed as results, especially tests for glucose and protein, can influence treatment and care decisions."
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 61,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Drug"
+                    },
+                    {
+                        "text": "Reagent test"
+                    },
+                    {
+                        "text": "Effect on results"
+                    },
+                    {
+                        "text": "Ascorbic acid"
+                    },
+                    {
+                        "text": "Glucose, blood, nitrite"
+                    },
+                    {
+                        "text": "High concentrations may diminish colour"
+                    },
+                    {
+                        "text": "L-Dopa"
+                    },
+                    {
+                        "text": "Glucose Ketones"
+                    },
+                    {
+                        "text": "High concentrations may give a false negative reaction. Atypical colour."
+                    },
+                    {
+                        "text": "Nalidixic Acid"
+                    },
+                    {
+                        "text": "Urobilinogen"
+                    },
+                    {
+                        "text": "Atypical colour."
+                    },
+                    {
+                        "text": "Probenacid Phenozopyridine (pyridium)"
+                    },
+                    {
+                        "text": "Protein Ketones Urobilinogen,bilirubin, Nitrite"
+                    },
+                    {
+                        "text": "May give an atypical colour. Coloured metabolites may mask a small reaction. May mimic a positive reaction."
+                    },
+                    {
+                        "text": "Rifampicin"
+                    },
+                    {
+                        "text": "Bilirubin"
+                    },
+                    {
+                        "text": "Coloured metabolites may mask a small reaction."
+                    },
+                    {
+                        "text": "Salicylates (Aspirin)"
+                    },
+                    {
+                        "text": "Glucose"
+                    },
+                    {
+                        "text": "High doses may give a false negative reaction."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "10.1 Staff will report via Datix, all instances where the policy is not followed including \u201cnear misses\u201d."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "text": "British Association of Urological Surgeons (BAUS). Urinary Tract infection (Adults) https://www.baus.org.uk/patients/conditions/14/urinary_infection_adult"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 1,
+                "text": "Bayer Diagnostics (1997). Urinary Tract Infection. Technical Information Bulletin No.8. Bayer Diagnostics, Newbury"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 1,
+                "text": "Lovedaya, H.P, Wilsona, J.A, Pratta, R.J, Golsorkhia, M, Tinglea, A. Baka, A, Brownea, J. Prietob, J, Wilcox M, (2014) Epic3 guidelines for preventing healthcare- acquired infections. Journal of Hospital Infection. https://improvement.nhs.uk/resources/epic3-guidelines-preventing-healthcare-associated- infections/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 1,
+                "text": "Fillingham S. & Douglas J (2003).  Urological Nursing 3rd Edition. Bailliere Tindall, London."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 1,
+                "text": "Marieb,E.M. & Hoehn, K. (2007). Human Anatomy and physiology. Pearson Benjamin Cummings, Sanfrancisco."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "text": "Marini,J.J.& Wheeler,A.P. (2006). Critical care medicine; the essentials. Lippincott Williams & Wilkins, Philadelphia."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 1,
+                "text": "National Institute for Health and Care Excellence (2015). Urinary Tract infections in adults"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "https://www.nice.org.uk/guidance/qs90"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 1,
+                "text": "NMC The Code (2015) The code for nurses and midwives https://www.nmc.org.uk/standards/code/"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 1,
+                "text": "PHE UTI guidelines. (2017). Diagnosis of urinary tract (UTI's) https://www.guidelines.co.uk/urology/diagnosis-of-urinary-tract-infections- utis/453379.article"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Rigby,D. & Gray,K. (2005). Understanding urine testing. Nursing Times, 101(12),60-1. Wilson,L.A.(2005). Urinalysis, Nursing Standard,(35),51-4."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 1,
+                "text": "Essential Information about Urine"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Urine is typically clear, pale to deep yellow colour and slightly acidic (pH 6), although pH can change as a result of metabolic processes or diet. Vomiting and bacterial infection of the urinary tract can cause the urine to become alkaline. Urinary specific gravity ranges from 1.001 \u2013 1.035, according to how concentrated the urine is (Fillingham & Douglas 2003; Marieb & Hoehn 2007)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "text": "The colour of urine is due to a pigment called urochrome which is derived from the body's destruction of haemoglobin. The more concentrated the urine is, the deeper yellow it becomes. Changes in colour may reflect diet (e.g. beetroot or rhubarb), or may be due to blood or bile in the urine (Marieb & Hoehn 2007). If fresh urine is turbid, (cloudy), the cause may be an infection of the urinary tract. The urinary tract is the most common site of bacterial infection. There may be many predisposing factors, the most common of which is instrumentation, that is, cystoscopy and urinary catheterisation (Bayer 1997)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Bacteriuria is defined as the presence of bacteria in the urine (Rigby & Gray 2005). Urine specimens are rarely sterile as a result of contamination with periurethral flora during collection. Infection is distinguished by counting the number of bacteria. Significant bacteriuria is defined as a presence of more than 10 organisms per ml of urine in the presence of clinical symptoms. Covert bacteria is the presence of more than 10 organisms per ml of urine without clinical symptoms (Marini & Wheeler 2006)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Fresh urine smells slightly aromatic. This can change as a result of disease processes such as diabetes mellitus, when acetone is present in the urine, giving it a fruity smell. The composition of urine can change as a dramatically as a result of disease, and abnormal substances may be present. Urinalysis can identify many of these substances, and should be part of every physical assessment (Cook 1996; Torrence & Elley 1998)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Renal clearance is the rate at which the kidneys clear a particular chemical from the plasma in a given time. Studies of renal clearance provide information about renal function or the course of renal disease."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 1,
+                "text": "Essential Information about Dipstick Reagent Tests"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Strips that have been impregnated with chemicals are dipped quickly in urine and read as a means of testing urine. When dipped in urine, the chemicals react with abnormal substances and change colour. Although dipstick reagents have been primarily used as screening tools for protein or glucose in the urine, more sophisticated reagents are now available. These reagents test for nitrites and leucocyte esterase as indicators of bacterial infection. Leucocyte esterase is an enzyme from neutrophils not normally found in urine and is a marker for infection. Nitrites are produced in urine by the bacterial breakdown of dietary nitrates, which is a waste product of protein metabolism (Rigby & Gray 2005). It is essential to use the strips according to the manufacturer's instructions and be aware of factors that may affect the results. These factors include specific drugs, the quality of urine sample itself and the possibility of false negative results are possible."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "In the microbiology laboratory, urine samples constitute about 40% of the total workload and of these 70-80% are not infected. This means that much time energy and finances are wasted on unnecessary sample processing and investigation. (Bayer Diagnostics 1997)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "Further testing may be necessary, such as culture and sensitivity under laboratory conditions, to identify organisms responsible for infection and to determine the most effective treatment (Wilson 2005)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Appendix"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

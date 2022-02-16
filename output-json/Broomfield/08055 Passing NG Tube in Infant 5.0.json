@@ -1,0 +1,911 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "08055 Passing NG Tube in Infant 5.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "PASSING A SHORT TERM NASO- GASTRIC/ORO-GASTRIC TUBE ON AN INFANT"
+                    },
+                    {
+                        "text": "CLINICAL GUIDELINE Register No: 08055 Status: Public"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NPSA Alerts Care Quality Commission (CQC) Outcome"
+                    },
+                    {
+                        "text": "CQC Fundamental Standards:"
+                    },
+                    {
+                        "text": "10, 11"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Individual/Body:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Anita Rao/Alison Cuthbertson Vidya Thakur Alison Cuthbertson Paula Hollis Chris Berner Sarah Moon Joyce Macintosh Nicola Waterson"
+                    },
+                    {
+                        "text": "Clinical Directors for Women's and Children's Division Consultant for Obstetrics and Gynaecology Head of Midwifery/Nursing Lead Midwife Labour Ward Maternity Risk Manager Lead Midwife Community Services Specialist Midwife Guidelines and Audit Ward Manager Neonatal Unit Clinical Facilitator"
+                    },
+                    {
+                        "text": "June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Professionally Approved By:"
+                    },
+                    {
+                        "text": "Dr Ahmed Hassan"
+                    },
+                    {
+                        "text": "Neonatal Lead Consultant and Lead for risk Management"
+                    },
+                    {
+                        "text": "June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version No"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Ratified by"
+                    },
+                    {
+                        "text": "DRAG Chairmans Action"
+                    },
+                    {
+                        "text": "Ratified on"
+                    },
+                    {
+                        "text": "2nd August 2018"
+                    },
+                    {
+                        "text": "EMG Sign Off Date"
+                    },
+                    {
+                        "text": "September 2018"
+                    },
+                    {
+                        "text": "Next review date"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Sharon Pilgrim, Advanced Neonatal Nurse Practitioner"
+                    },
+                    {
+                        "text": "Policy to be followed by (target staff)"
+                    },
+                    {
+                        "text": "Midwives, Neonatal nurses, Medical staff, Obstetricians"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Staff notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 06036 Guideline for Maternity Record Keeping including Documentation in Handheld Records 09128 Prevention and Management of Neonatal Hypothermia 09111 Management of Breast Feeding in the Postnatal Period 08094 Premature Neonatal Feeding 12025 Neonatal Hypoglycemia High risk infant Clinical Audit Strategy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Review No:"
+                    },
+                    {
+                        "text": "Reviewed by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Jacinta Freeman, Carol Newman, Jo Myers, Dr Lipscombe"
+                    },
+                    {
+                        "text": "January 2004"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "J Green, D Downes"
+                    },
+                    {
+                        "text": "July 2008"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Sharon Pilgrim & Sarah Moon"
+                    },
+                    {
+                        "text": "February 2012"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Sharon Pilgrim & Sarah Moon"
+                    },
+                    {
+                        "text": "28th April 2015"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Sharon Pilgrim \u2013 Full review"
+                    },
+                    {
+                        "text": "29 August 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The aim of this guideline is to ensure that naso/oro-gastric tubes are inserted in the correct manner. This will potentially prevent the misplacement of tubes and the subsequent risks of feed or medication entering the lungs."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Aim"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "To give guidance to midwives, neonatal nurses and medical staff in the passing of a short-term naso-gastric/oro-gastric tube on an infant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "To provide guidance relating to methods of feeding and administering medication in infants with impaired sucking and swallowing mechanism due to conditions such as prematurity, hypotonia or maxillofacial abnormalities."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "To provide guidance on how to ascertain the presence of bile or blood in the stomach in infants with signs and symptoms of conditions such as necrotising entercolitis (NEC)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "To provide guidance on how to aid in the diagnosis of conditions such as transoesophageal fistulas and oesophageal atresia."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "To provide guidance on how to vent air from the stomach on infants who have had the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "text": "Bag and mask ventilation for more than 5 minutes;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "text": "Neonates that are on nasal continuous positive airway pressure (CPAP) or ventilated;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "Neonates that have abdominal distension."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "The Procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Before a decision is made to insert a nasogastric tube, an assessment is undertaken to identify if nasogastric feeding is appropriate for the infant, and the rationale for the decision is recorded in the patient's medical notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "All NG tubes must be checked prior to insertion. This is to be achieved with a sterile 10ml luerlock syringe filled with air. Insert the air to ensure the tube is patent and fit for purpose."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Equipment required as follows:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Syringe 10ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "pH litmus paper reflecting 0.5 increments this should be CE marked and for human gastric aspirate. (NPSA/2011/PSA002)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "text": "Tape to secure the tube"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "text": "Gloves"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen and suction should be checked and remain accessible throughout the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Explain the procedure to the infant's parents and give the information booklet on \u2018nasogastric feeding' to ensure that the parents have all the information they require to provide informed consent and alleviate stress."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Ensure the infant has not been fed for a minimum of thirty minutes prior to the procedure to avoid the risk of vomiting and aspiration."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.6,
+                "text": "Lay the infant on a clean firm surface to provide optimum position for insertion of the nasogastric tube. The back or right side of the neonate should be facing the midwife/nurse. Do not extend the neck. The infant may need to be swaddled in a blanket or towel."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.7,
+                "text": "Wash and dry hands to avoid cross infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the policy entitled \u2018Standard Infection Prevention' (04071)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.8,
+                "text": "Determine the length of the naso-gastric tube to be inserted by measuring the tip of the tube from the nose to ear then stomach aiming for the space in the middle below the ribs (xiphoid process) note marking on the tube. Ensure the end cap is left open, to ensure accurate placement in the stomach"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.9,
+                "text": "For oro-gastric tubes, measurements should be taken from the mouth instead of the nose. Ensure end cap is left open to ensure the tube is not passed too far down past the stomach."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Select nostril that is clear, if replacing tube use alternative nostril from which the tube was originally placed if appropriate, to prevent long term irritation and skin damage."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.11,
+                "text": "Insert the tip of the naso/oro-gastric tube into the nostril, aiming the tip and keeping it parallel to the nasal septum and superior surface of the hard palate. Advanced the nasogastric tube into the nasopharynx and allow the tip to seek its own passage."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.12,
+                "text": "If there is an obstruction withdraw and turn the tube slightly; then try again to avoid trauma to the area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.13,
+                "text": "If at any time the infant becomes unduly distressed or their colour changes, stop the procedure and remove the naso/oro-gastric tube immediately as this may indicate the passage of the tube into the trachea. Try again once the infant has settled. This will avoid any unnecessary and potentially harmful changes in baseline observation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.14,
+                "text": "Only two attempts are acceptable at passing the naso/oro-gastric tube and then a more experienced member of the team should be elected to pass the tube, to minimise distress to infant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.15,
+                "text": "If there are no adverse complications advance the tube until the measured point is reached, to ensure the correct placement of the naso/oro-gastric tube."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.16,
+                "text": "To confirm that the naso/oro-gastric tube is in the correct position, aspirate the contents by using a 10 millilitre (ml) syringe. Use pH litmus paper to determine whether the contents are gastric. The pH should be less than 5.5. This checking procedure will ensure accurate placement of the tube prior to feeding."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.17,
+                "text": "Tape the naso/oro-gastric tube (NGT/OGT) securely to the infant's face using preferred tape, to keep the naso/oro-gastric tube in an accurate position and minimise the risk of damage to the surrounding skin."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.18,
+                "text": "Document the NGT/OGT size, length and position each time a new tube is passed, to provide information to the multidisciplinary team (MDT) on how long and in what position the naso/oro-gastric tube is located."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.19,
+                "text": "Replace the naso/oro-gastric tube every six days (maximum seven) as per manufacturing guidelines, to avoid irritation to the infant's mucosal lining within the stomach."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "If there is difficulty in obtaining an aspirate, check the following:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "Reposition the infant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "Push air into the stomach to move stomach contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "Do not use \u2018WHOOSH' test, installation of air down tube and listening"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "text": "Advance/retract the naso/oro-gastric tube to reposition"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "text": "Ask for a more experienced member of the MDT to obtain aspirate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Replace naso/oro-gastric tube"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Confirm on x-ray as a last resort"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Staff and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "All staff caring for infants should be aware of all aspects in passing short-term naso/oro-gastric tube on an infant."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "For nursing and midwifery staff to complete competency forms in the passing of short term naso/oro-gastric tube on an infant and document in their personal portfolios."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "All staff should follow Trust guidelines on infection control by ensuring that they effectively \u2018decontaminate their hands' before and after passing a short term naso/oro- gastric tube on an infant and between any subsequent procedure or patient contact."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy, the Maternity annual audit work plan and the NHSLA/CNST requirements. The Audit Lead in liaison with the Risk Management Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Quality and Safety Committee (PSQC) within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for future training needs will be met using methods such as \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued to all staff with embedded icons to highlight key changes in clinical practice to include a list of newly approved guidelines for staff to acknowledge and familiarise themselves with and practice accordingly. Midwives that are on maternity leave or \u2018bank' staff have letters sent to their home address to update them on current clinical changes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Approved guidelines are published monthly in the Trust's Staff Focus that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "Regular memos are posted on the \u2018Risk Management' notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "text": "10.0 References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Safety Alert NPSA/2011/PSA 002: Reducing the harm caused by misplaced nasogastric feeding tubes in adults, children and infants (March 2011). Available online at http://www.nrls.npsa.nhs.uk/EasySiteWeb/getresource.axd?AssetID=129697&"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Safety Alert \u2013 2005-09-18 0V1 Reducing the harm caused by misplaced naso and orogastric feeding tubes \u2013 neonates (August 2005). Available online at: http://www.nrls.npsa.nhs.uk/EasySiteWeb/getresource.axd?AssetID=160018&type=full &servicetype=Attachment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "text": "How to confirm the position of naso and orogastric feeding tubes \u2013 neonates \u2013 interim advice \u2013 2005-09-18 V1 Available on line at: http://www.nrls.npsa.nhs.uk/EasySiteWeb/getresource.axd?AssetID=160017&type=full &servicetype=Attachment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "text": "Durai, R. and Venkatraman, R. (2009) Nasogastric tubes 1 Insertion technique and confirming correct position. Nursing times, 105 (16): 14-16 Available online at http://www.nursingtimes.net/journals/2014/09/18/q/s/b/0902428LearnNasogastric.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Durai, R. and Venkatraman, R. (2009) Risks and guidance on avoiding and dealing with complications. Nursing times, 105 (17): 12-13 Available online at http://www.nursingtimes.net/journals/2013/02/01/h/k/d/090505GLNasogastric.pdf"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

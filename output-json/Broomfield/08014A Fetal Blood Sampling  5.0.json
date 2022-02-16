@@ -1,0 +1,2061 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "08014A Fetal Blood Sampling  5.0.001.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 2,
+            "data": {
+                "is_heading": 1,
+                "text": "CLINICAL GUIDELINES FETAL BLOOD SAMPLING (FBS)  Register no 08014A"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "08014A Fetal Blood Sampling  5.0.003.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 4,
+            "data": {
+                "is_heading": 1,
+                "text": "Status: Public"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Intrapartum NICE Guidelines RCOG guideline"
+                    },
+                    {
+                        "text": "Contributes to CQC Outcome"
+                    },
+                    {
+                        "text": "12"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With"
+                    },
+                    {
+                        "text": "Post/Committee/Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Anita Rao/ Alison Cuthbertson Madhu Joshi Alison Cuthbertson Paula Hollis Chris Berner Ros Bullen-Bell Sarah Moon Deborah Lepley"
+                    },
+                    {
+                        "text": "Clinical Director for Women's and Children's Division Consultant for Obstetrics and Gynaecology Head of Midwifery/Nursing Lead Midwife for Acute Inpatient Services Lead Midwife for Clinical Governance Lead Midwife Community Services; PDM Specialist Midwife for Guidelines and Audit Senior Librarian, Warner Library"
+                    },
+                    {
+                        "text": "March 2017"
+                    },
+                    {
+                        "text": "Professionally Approved By"
+                    },
+                    {
+                        "text": "Anita Rao"
+                    },
+                    {
+                        "text": "Lead Consultant for Obstetrics & Gynaecology"
+                    },
+                    {
+                        "text": "March 2017"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Version Number"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Issuing Directorate"
+                    },
+                    {
+                        "text": "Women's and Children's"
+                    },
+                    {
+                        "text": "Approved by"
+                    },
+                    {
+                        "text": "DRAG Chairmans Action"
+                    },
+                    {
+                        "text": "Approved on"
+                    },
+                    {
+                        "text": "7th July 2017"
+                    },
+                    {
+                        "text": "Trust Board Sign Off Date"
+                    },
+                    {
+                        "text": "July/August 2017"
+                    },
+                    {
+                        "text": "Implementation Date"
+                    },
+                    {
+                        "text": "24th July 2017"
+                    },
+                    {
+                        "text": "Next Review Date"
+                    },
+                    {
+                        "text": "June 2020"
+                    },
+                    {
+                        "text": "Author/Contact for Information"
+                    },
+                    {
+                        "text": "Sarah Moon, Specialist Midwife for Guidelines and Audit"
+                    },
+                    {
+                        "text": "Policy to be followed by"
+                    },
+                    {
+                        "text": "Midwives, Obstetricians, Paediatricians"
+                    },
+                    {
+                        "text": "Distribution Method"
+                    },
+                    {
+                        "text": "Intranet & Website. Notified on Staff Focus"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "04071 Standard Infection Prevention 04072 Hand Hygiene 07074 Guideline for neonatal resuscitation 04264 Management of emergency caesarean section 04265 Guideline for fetal monitoring in pregnancy 07044 Cord and maternal bloods 04265 Fetal Heart Rate Monitoring in Pregnancy and Labour 09079 Management of Normal Labour and Prolonged Labour in Low Risk Patients 09062 Mandatory training policy for Maternity Services"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 1,
+                "text": "Document History Review:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Version No"
+                    },
+                    {
+                        "text": "Reviewed by"
+                    },
+                    {
+                        "text": "Active Date"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Julie Bishop"
+                    },
+                    {
+                        "text": "November 2006"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Ketan Gajjar"
+                    },
+                    {
+                        "text": "February 2008"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Sarah Moon- addendum to front sheet and audit/ communication sections"
+                    },
+                    {
+                        "text": "November 2008"
+                    },
+                    {
+                        "text": "2.2"
+                    },
+                    {
+                        "text": "Addendum to Equality and Diversity and audit sections"
+                    },
+                    {
+                        "text": "July 2009"
+                    },
+                    {
+                        "text": "2.3"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 reference to cord and maternal blood guideline"
+                    },
+                    {
+                        "text": "July 2010"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": "May 2011"
+                    },
+                    {
+                        "text": "3.1"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 Clarification to 10.2 and 13.0"
+                    },
+                    {
+                        "text": "July 2012"
+                    },
+                    {
+                        "text": "3.2"
+                    },
+                    {
+                        "text": "Sarah Moon \u2013 Clarification to 10.2 and 10.3"
+                    },
+                    {
+                        "text": "October 2012"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": "1st May 2014"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Sarah Moon"
+                    },
+                    {
+                        "text": "24th July 2017"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 1,
+                "text": "INDEX"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Purpose"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Fetal heart rate abnormalities arising on a CTG (cardiotocograph) should be considered as an alerting factor of possibility of fetal hypoxia. For more accurate diagnosis CTG should be combined with fetal blood sampling (FBS)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Equality and Diversity"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Mid Essex Hospital Services NHS Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Aim of the Guideline"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "To diagnose level of hypoxia / acidosis in the fetus, to facilitate further obstetric management."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Indications"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "FBS should be advised in the presence of an abnormal FHR (fetal heart rate) trace, unless there is clear evidence of acute compromise."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to the guideline \u2018Management of emergency caesarean section'; register number 04264)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "FBS should be indicated for a CTG that is non-reassuring for 90 minutes, provided the CTG tracing prior to this was normal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Where assisted birth (rotational delivery/ trial in theatre) is contemplated because of an abnormal FHR pattern in cases of suspected fetal acidosis, FBS should be undertaken in the absence of technical difficulties or any contraindications."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Refer to Appendix A for categorisation of fetal heart rate traces/features. (Refer to \u2018Guideline for fetal monitoring in pregnancy'. Register number 04265)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Contraindications (when not to perform FBS)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "If clinical picture demands early delivery."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Do not carry out fetal blood sampling if:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 1,
+                "text": "There is an acute event (for example, cord prolapse, suspected placental abruption or suspected uterine rupture) or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 1,
+                "text": "The whole clinical picture indicates that the birth should be expedited or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 0,
+                "text": "Contraindications are present, including risk of maternal-to-fetal transmission of infection or risk of fetal bleeding disorders. (Refer to the guideline \u2018Management of emergency caesarean section'; register number 04264)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 29,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "When the CTG changes are due to oxytoxic over stimulation and resolve when oxytocin is stopped."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "During or immediately after a prolonged deceleration."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "If spontaneous delivery is imminent or easy vaginal instrumental delivery is possible. (Refer to the guideline \u2018Management of Normal Labour and Prolonged Labour in Low Risk Patients'; register number 09079)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "In a case of trial of scar (it is not known whether FBS results in such patients predict fetal outcome or uterine scar dehiscence)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.7,
+                "text": "In a patient with proven chorioamnionitis i.e. high maternal temperature, fetal"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 0,
+                "text": "tachycardia, raised maternal inflammatory markers and foul smelling amniotic fluid;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "text": "baby requires delivery."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.8,
+                "text": "Be aware that for women with sepsis or significant meconium fetal blood sample results may be falsely reassuring, and always discuss with a consultant obstetrician:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 0,
+                "text": "Whether fetal blood sampling is appropriate"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 0,
+                "text": "Any results from the procedure if carried out"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.9,
+                "text": "Before carrying out or repeating fetal blood sampling, start conservative measures and offer digital fetal scalp stimulation. Only continue with fetal blood sampling if the cardiotocograph trace remains pathological."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Maternal infection (for example, HIV, hepatitis viruses and herpes simplex virus)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.11,
+                "text": "In a patient where the baby may have thrombocytopaenia or if there is a history of hereditary bleeding disorders e.g. haemophilia."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.12,
+                "text": "Pre-term baby less than 34 weeks gestation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.13,
+                "text": "Do not carry out fetal blood sampling if any contraindications are present, including risk of maternal-to-fetal transmission of infection or risk of fetal bleeding disorders."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.14,
+                "text": "When considering fetal blood sampling, explain the following to the woman and her birth companion(s):"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 0,
+                "text": "Why the test is being considered and other options available, including the risks, benefits and limitations of each."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 0,
+                "text": "The blood sample will be used to measure the level of acid in the baby's blood, which may help to show how well the baby is coping with labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "text": "The procedure will require her to have a vaginal examination using a device similar to a speculum."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "text": "A sample of blood will be taken from the baby's head by making a small scratch on the baby's scalp. This will heal quickly after birth, but there is a small risk of infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "text": "What the different outcomes of the test may be (normal, borderline and abnormal) and the actions that will follow each result."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "text": "If a fetal blood sample cannot be obtained but there are fetal heart rate accelerations in response to the procedure, this is encouraging and in these circumstances expediting the birth may not be necessary."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "text": "If a fetal blood sample cannot be obtained and the cardiotocograph trace has not improved, expediting the birth will be advised."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "text": "A caesarean section or instrumental birth (forceps or ventouse) may be advised, depending on the results of the procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Equipment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Trolley laid ready; kept outside store room set up with sterile disposable FBS packs plus:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "text": "Saline 0.9% sachets"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "text": "Hibitane cream / water based gel e.g. K-Y jelly"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "text": "Ethyl Chloride spray"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "text": "Gloves"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "Extra amnioscopes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "Light source with lead out attachment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "text": "Blood gas analyser: The Labour Ward blood gas analyser is situated next to room 6 of the high dependency area on Labour Ward. If this analyser is not working an identical blood gas analyser can be found on the Neonatal Unit (NNU) adjacent to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "the Labour Ward."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Technique"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "When offering fetal blood sampling, explain the following to the woman:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Why the test is being advised"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "The blood sample will be used to measure the level of acid in the baby's blood, to see how well the baby is coping with labour"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "The procedure will require her to have a vaginal examination using a small device similar to a speculum"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "A sample of blood will be taken from the baby's head by making a small scratch on the baby's scalp. This will heal quickly after birth, but there is a small risk of infection"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "The procedure can help to reduce the need for further, more serious interventions"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "text": "What the different outcomes of the test may be (normal, borderline and abnormal) and the actions that will follow each result."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "There is a small chance that it will not be possible to obtain a blood sample (especially if the cervix is less than 4 cm dilated). If a sample cannot be obtained, a caesarean section or instrumental birth (forceps or ventouse) may be needed because otherwise it is not possible to find out how well the baby is coping."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The obstetric registrar or consultant on call should explain procedure to patient. The obstetric registrar or consultant on call should ensure that pertinent information regarding the possible poor outcomes following the results of any FBS are thoroughly discussed and documented prior to obtaining verbal consent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Two members of staff will be required to assist the delivery midwife. One member should reassure the patient and ensure that fetal monitoring continues; whilst the other staff member is available to assist the delivery midwife."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The delivery midwife assisting prepares trolley with the listed equipment and checks the gas analyser on \u2018ready analyse'. If machine is not ready to analyse use FBS Analyser in the NNU."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "Take the equipment to the bedside, plug in the light source, open the pack for the obstetric registrar or consultant on call, open the appropriate sized gloves and pour the saline into the container."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.6,
+                "text": "All the equipment required should be enclosed in sterile FBS pack. Ensure the sterile procedure is undertaken with a good light source."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.7,
+                "text": "Position the patient is placed in the left lateral with knees bent or lithotomy position."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.8,
+                "text": "Swab down vulval area with saline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.9,
+                "text": "Introduce amnioscope with KY jelly, the cervix should be 4cms or more dilated with presentation at station of the ischial spines or below."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Create a seal to prevent contamination, the obstetric registrar or consultant on call may require a midwife to apply fundal pressure."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.11,
+                "text": "Attach the light source. Dry scalp with sterile swab; use ethyl chloride spray and then apply vaseline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.12,
+                "text": "The scalp is then punctured with the guarded blade to make a 1 cm incision, best made at 12 o'clock position. Puncture scalp (2mm) at right angles to scale, 3 punctures maximum."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.13,
+                "text": "The blood droplet is collected in a pre-heparinised capillary tube. A second sample may be taken whilst the first is being analysed by an assistant i.e. try to take a 'paired' sample from the scalp at any one time. Pressure on the fetal scalp with cotton wool is necessary if bleeding continues."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.14,
+                "text": "Transfer the sample to the analyser and feed in the patient details into the computer. Put the heparinised sample into the analyser. Ensure that the sample is run as a micro-sample."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.15,
+                "text": "Measure either lactate or pH when performing fetal blood sampling. Measure lactate if the necessary equipment and suitably trained staff are available; otherwise measure pH."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.16,
+                "text": "Return the results to the obstetric registrar; inform the obstetric consultant if any fetal blood sample is abnormal. (Refer to Appendix C for FBS flow chart)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.17,
+                "text": "Safely discard the used sharps into sharps' container."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.18,
+                "text": "The results and revised plan of care should be documented in the patient's health care records. The printout of the FBS should be secured chronologically within the care of labour records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.19,
+                "text": "Postnatally observe the scalp for: haemotoma, scalp infection, haemorrhage."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Sources of Error"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "Contamination with amniotic fluid (decrease in pH value)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "Contamination with significant meconium (increase or decrease in pH value)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 93,
+            "data": {
+                "is_heading": 0,
+                "text": "Inadequate mixing \u2013 clot formation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "Presence of air in sample"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Fetal scalp oedema or caput (decrease in pH value)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Delay in analysis \u2013 clotting (decrease in pH value)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 0,
+                "text": "Contamination from sterilising/cleaning fluid"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Trouble shooting"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 99,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "No bleeding"
+                    },
+                    {
+                        "text": "Ensure you are not over a large area of caput"
+                    },
+                    {
+                        "text": "Ensure that the pressure applied on the blade is constant"
+                    },
+                    {
+                        "text": "Try wiping the scalp"
+                    },
+                    {
+                        "text": "Try changing the blade and puncturing in a different area"
+                    },
+                    {
+                        "text": "Bleeding is not resulting in a droplet but a smear"
+                    },
+                    {
+                        "text": "Reapply paraffin Wax"
+                    },
+                    {
+                        "text": "Head is floating away when pressure is applied with the blade"
+                    },
+                    {
+                        "text": "Carry out sampling during the contraction"
+                    },
+                    {
+                        "text": "Change to lithotomy position"
+                    },
+                    {
+                        "text": "Fetal hair obscuring view"
+                    },
+                    {
+                        "text": "Reapply paraffin wax"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Results and Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Use the classification of fetal blood sample results as follows: (Refer to Table 2)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 103,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Lactate (mmol/l)"
+                    },
+                    {
+                        "text": "pH"
+                    },
+                    {
+                        "text": "Interpretation"
+                    },
+                    {
+                        "text": "\u2264 4.1"
+                    },
+                    {
+                        "text": "\u22657.25"
+                    },
+                    {
+                        "text": "Normal"
+                    },
+                    {
+                        "text": "4.2-4.8"
+                    },
+                    {
+                        "text": "7.21 \u2013 7.24"
+                    },
+                    {
+                        "text": "Boarderline"
+                    },
+                    {
+                        "text": "\u2265 4.9"
+                    },
+                    {
+                        "text": "7.20 or below"
+                    },
+                    {
+                        "text": "Abnormal"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Interpret fetal blood sample results taking into account any previous lactate or pH measurement, the rate of progress in labour and the clinical features of the woman and baby, such as rate of progress in labour."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "After an abnormal fetal blood sample result:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "text": "The consultant obstetrician on call should be informed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "text": "The on call Paediatric Registrar should be informed of the abnormal fetal blood sample result"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "text": "Talk to the woman and her birth companion(s) about what is happening and take her preferences into account"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "text": "Expedite the birth."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "The abnormal fetal blood sample result can be communicated by the Obstetric Registrar, Labour Ward Coordinator, Senior Midwife or Midwife responsible for the case and duly documented in the health care records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "If the fetal blood sample result is borderline and there are no accelerations in response to fetal scalp stimulation, consider taking a second fetal blood sample no more than 30 minutes later if this is still indicated by the cardiotocograph trace"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "After a fetal blood sample result is normal and there are no accelerations in response to fetal scalp stimulation, consider taking a second fetal blood sample no more than 30 minutes later if this is still indicated by the cardiotocograph trace. This should be clearly documented in the healthcare records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to Appendix B)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "After a borderline FBS sample, sampling should be repeated no more than 30 minutes later if the FHR trace remains pathological or sooner if there are further abnormalities. This should be clearly documented in the healthcare records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.7,
+                "text": "The time taken to perform a FBS needs to be considered when planning repeat samples."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.8,
+                "text": "If the FHR (fetal heart rate) trace remains unchanged and the FBS result is stable"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 0,
+                "text": "after the second test, a third sample may be deferred unless additional abnormalities develop on the CTG trace."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.9,
+                "text": "Discuss with the consultant obstetrician if:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "A fetal blood sample cannot be obtained or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "A third fetal blood sample is thought to be needed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.9,
+                "text": "If the cardiotocograph trace remains unchanged and the fetal blood sample result is stable (that is, lactate or pH is unchanged) after a second test, further samples may be deferred unless additional non-reassuring or abnormal features are seen."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "Base excess values:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "This indicates the metabolic (versus respiratory) component and decreases as the fetal reserves are being exhausted"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Less than - 8 mmol/l indicates decreasing buffer reserve, repeat the FBS in 30 minutes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "prefix": -11.0,
+                "text": "If it falls below  there is severe metabolic acidosis and delivery should be considered even if the pH is normal (discuss with the obstetric consultant on call)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix B for classification of FBS results)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.11,
+                "text": "Paired cord blood samples should be taken following delivery when FBS has taken place or where there are concerns regarding fetal wellbeing at birth. (Refer to the guideline for \u2018Cord and maternal bloods'; register number 07044)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.12,
+                "text": "If a fetal blood sample is indicated and the sample cannot be obtained, but the associated scalp stimulation results in fetal heart rate accelerations, decide whether to continue the labour or expedite the birth in light of the clinical circumstances and in discussion with the consultant obstetrician and the woman."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.13,
+                "text": "If a fetal blood sample is indicated but a sample cannot be obtained and there is no improvement in the cardiotocograph trace, advise the woman that the birth should be expedited."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Paired Cord Blood Sampling Results"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Use the classification of fetal blood sample results"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 1,
+                "text": "Arterial   Venous"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 1,
+                "prefix": -1.0,
+                "text": "pH   7.05 \u2013 7.40   7.15 \u2013 7.50 pCO2   4.0 \u2013 11.0 kPa  3.5 \u2013 8.0kPa Base excess    to  mmol/l    to -9.0mmol/l"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "At birth the results should be documented in the \u2018Labour Care Record'. The printout of the cord blood results should be placed in a small brown  envelope and secured within the \u2018Birth Assessment' page of the health care records"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to \u2018Guideline for neonatal resuscitation'; register number 07074)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to guideline for \u2018Cord and maternal bloods'; register number 07044)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Where the results are abnormal a referral should be made to the paediatric senior house officer (SHO) and a clear plan of care should be documented in the healthcare records."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Staffing and Training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.1,
+                "text": "The Blood Gas analyser is maintained by biochemistry. Training sessions are held by contacting biochemistry for training. Any faults with the blood gas analyser must be reported to instigate its repair.  (Refer to \u2018Mandatory training policy for Maternity Services (incorporating training needs analysis. Register number 09062)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "All midwifery and obstetric staff are to ensure that their knowledge and skills are up- to-date in order to complete their portfolio for appraisal."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Professional Midwifery Advocates"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Professional Midwifery Advocates provide a mechanism of support and guidance to women and midwives. Professional Midwifery Advocates are experienced practising midwives who have undertaken further education in order to supervise midwifery services and to advise and support midwives and women in their care choices."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Infection Prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "All staff should follow Trust guidelines on infection prevention by ensuring that they effectively \u2018decontaminate their hands' before and after each procedure and when performing vaginal examinations or a FBS procedure to use the Aseptic Non- Touch Technique (ANTT)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Audit and Monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Audit of compliance with this guideline will be considered on an annual audit basis in accordance with the Clinical Audit Strategy and Policy (register number 08076), the Corporate Clinical Audit and Quality Improvement Project Plan and the Maternity annual audit work plan; to encompass national and local audit and clinical governance identifying key harm themes. The Women's and Children's Clinical Audit Group will identify a lead for the audit."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 148,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.2,
+                "text": "The findings of the audit will be reported to and approved by the Multi-disciplinary Risk Management Group (MRMG) and an action plan with named leads and timescales will be developed to address any identified deficiencies. Performance against the action plan will be monitored by this group at subsequent meetings."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.3,
+                "text": "The audit report will be reported to the monthly Directorate Governance Meeting (DGM) and significant concerns relating to compliance will be entered on the local Risk Assurance Framework."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 150,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.4,
+                "text": "Key findings and learning points from the audit will be submitted to the Patient Safety Group within the integrated learning report."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.5,
+                "text": "Key findings and learning points will be disseminated to relevant staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 152,
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Guideline Management"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "As an integral part of the knowledge, skills framework, staff are appraised annually to ensure competency in computer skills and the ability to access the current approved guidelines via the Trust's intranet site."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 154,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Quarterly memos are sent to line managers to disseminate to their staff the most currently approved guidelines available via the intranet and clinical guideline folders, located in each designated clinical area."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.3,
+                "text": "Guideline monitors have been nominated to each clinical area to ensure a system whereby obsolete guidelines are archived and newly approved guidelines are now downloaded from the intranet and filed appropriately in the guideline folders. \u2018Spot checks' are performed on all clinical guidelines quarterly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.4,
+                "text": "Quarterly Clinical Practices group meetings are held to discuss \u2018guidelines'. During this meeting the practice development midwife can highlight any areas for further training; possibly involving \u2018workshops' or to be included in future \u2018skills and drills' mandatory training sessions."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Communication"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 158,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "A quarterly \u2018maternity newsletter' is issued and available to all staff including an update on the latest \u2018guidelines' information such as a list of newly approved guidelines for staff to acknowledge and familiarise themselves with and practice accordingly."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 159,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.2,
+                "text": "Approved guidelines are published monthly in the Trust's Focus Magazine that is sent via email to all staff."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "Approved guidelines will be disseminated to appropriate staff quarterly via email."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.4,
+                "text": "Regular memos are posted on the guideline notice boards in each clinical area to notify staff of the latest revised guidelines and how to access guidelines via the intranet or clinical guideline folders"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 162,
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "References"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "National Institute for Health and Care Excellence (2014) Intrapartum care for healthy women and babies. NICE guideline (CG190) Updated 2017"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 1,
+                "text": "Categorisation of Fetal Heart Rate Traces"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Category"
+                    },
+                    {
+                        "text": "Definition"
+                    },
+                    {
+                        "text": "Normal"
+                    },
+                    {
+                        "text": "All features are reassuring"
+                    },
+                    {
+                        "text": "Suspicious"
+                    },
+                    {
+                        "text": "One non-reassuring feature and two reassuring features"
+                    },
+                    {
+                        "text": "Pathological"
+                    },
+                    {
+                        "text": "One abnormal feature or 2 non-reassuring features"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 167,
+            "data": {
+                "is_heading": 1,
+                "text": "Categorisation of Fetal Heart Rate (FHR) Features"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 168,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Feature"
+                    },
+                    {
+                        "text": "Baseline (bpm)"
+                    },
+                    {
+                        "text": "Variability (bpm)"
+                    },
+                    {
+                        "text": "Decelerations"
+                    },
+                    {
+                        "text": "Reassuring"
+                    },
+                    {
+                        "text": "110 -160bpm"
+                    },
+                    {
+                        "text": "5 to 25bpm"
+                    },
+                    {
+                        "text": "None or early Variable decelerations with no concerning characteristics for less than 90 minutes"
+                    },
+                    {
+                        "text": "Non- reassuring"
+                    },
+                    {
+                        "text": "100-109bpm or 161-180bpm"
+                    },
+                    {
+                        "text": "Less than 5bpm for 30 to 50 minutes Or More than 25bpm for 15 to 25 minutes"
+                    },
+                    {
+                        "text": "Variable decelerations with no concerning characteristics for 90 minutes or more Or Variable decelerations with any concerning characteristics in up to 50% of contractions for 30 minutes or more Or Late decelerations in over 50% of contractions for less than 30 minutes, with no maternal or fetal clinical risk factors such as vaginal bleeding or significant meconium"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 169,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Abnormal"
+                    },
+                    {
+                        "text": "Less than 100bpm Or Above 180bpm"
+                    },
+                    {
+                        "text": "Less than 5bpm for more than 50 minutes Or More than 25bpm for more than 25 Minutes Or Sinusoidal"
+                    },
+                    {
+                        "text": "Variable decelerations with any concerning characteristics in over 50% of contractions for 30 minutes (or less if any maternal or fetal clinical risk factors Or Late decelerations for 30 minutes (or less if any maternal or fetal clinical risk factors) Or Acute bradycardia, or a single prolonged deceleration lasting 3 minutes or more"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 170,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 171,
+            "data": {
+                "is_heading": 1,
+                "text": "Classification of Fetal Blood Sample (FBS) results"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 172,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Fetal blood sample result (pH)a"
+                    },
+                    {
+                        "text": "Subsequent action"
+                    },
+                    {
+                        "text": "\u2021 7.25 (Normal)"
+                    },
+                    {
+                        "text": "FBS should be repeated no more than 1 hour later if the FHR abnormality persists or earlier if there are further abnormalities"
+                    },
+                    {
+                        "text": "7.21 \u2013 7.24 (borderline)"
+                    },
+                    {
+                        "text": "Repeat FBS within 30 minutes or consider delivery if rapid fall since last sample The time taken to take a FBS needs to be considered when planning the repeat sample"
+                    },
+                    {
+                        "text": "\u2021 7.20 (abnormal)"
+                    },
+                    {
+                        "text": "Delivery indicated"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "All scalp pH estimations should be interpreted taking into account the previous pH measurement, the rate of progress in labour and the clinical features of the mother and baby."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 1,
+                "text": "Fetal Blood Sampling Flow Chart"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 176,
+            "data": {
+                "is_heading": 1,
+                "text": "FBS"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 177,
+            "data": {
+                "url": "08014A Fetal Blood Sampling  5.0.004.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 178,
+            "data": {
+                "is_heading": 1,
+                "text": "Women in  Normal pH  Borderline  Abnormal pH left lateral  \u22657.25  pH 7.21-7.24  \u22647.20 Inform position  obstetric consultant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 1,
+                "prefix": 30.0,
+                "text": "Repeat FBS  Repeat FBS  Urgent Birth within 1 hour if  within"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 180,
+            "data": {
+                "is_heading": 1,
+                "text": "FHR trace  minutes if FHR"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 181,
+            "data": {
+                "is_heading": 1,
+                "text": "remains  trace remains"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 182,
+            "data": {
+                "is_heading": 1,
+                "text": "pathological or  pathological or"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 183,
+            "data": {
+                "is_heading": 1,
+                "text": "sooner if there  sooner if there"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 184,
+            "data": {
+                "is_heading": 1,
+                "text": "are further  are further"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 185,
+            "data": {
+                "is_heading": 1,
+                "text": "abnormalities  abnormalities"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 186,
+            "data": {
+                "is_heading": 1,
+                "text": "FSB Result"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 187,
+            "data": {
+                "is_heading": 1,
+                "text": "Normal pH  Borderline  Abnormal pH \u22657.25  pH 7.21-7.24  \u22647.20. Inform"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 188,
+            "data": {
+                "is_heading": 1,
+                "text": "obstetric consultant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 189,
+            "data": {
+                "is_heading": 1,
+                "text": "FHR trace  If third FBS  Expedite unchanged  necessary,  Birth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 190,
+            "data": {
+                "is_heading": 1,
+                "text": "and FBS result  inform"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 191,
+            "data": {
+                "is_heading": 1,
+                "text": "stable; defer  obstetric"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 192,
+            "data": {
+                "is_heading": 1,
+                "text": "third/further  consultant"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 193,
+            "data": {
+                "is_heading": 1,
+                "text": "FBS unless"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 194,
+            "data": {
+                "is_heading": 1,
+                "text": "additional  prior to"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 195,
+            "data": {
+                "is_heading": 1,
+                "text": "abnormalities  procedure"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 196,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": ""
+            }
+        }
+    ]
+}

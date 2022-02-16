@@ -1,0 +1,2429 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "06006 Epidural infusion analgesia and patient controlled analgesia 8.3.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "EPIDURAL INFUSION ANALGESIA (EIA) AND PATIENT CONTROLLED EPIDURAL ANALGESIA (PCEA)"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "06006"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "8.3"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Clinical Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All qualified nursing and medical staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "04 May 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "03 May 2024"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NICE; RCOA"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Integrated Pain Management Service"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Claudine Riordan (Pain CNS)"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2612 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Pain Service Policy Group Meeting"
+                    },
+                    {
+                        "text": "15 April 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr Tom Durcan, Lead for inpatient pain"
+                    },
+                    {
+                        "text": "15 April 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "04 May 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "May 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Alison Bloor"
+                    },
+                    {
+                        "text": "Lead Pharmacist, Pain Service"
+                    },
+                    {
+                        "text": "15 April 2021"
+                    },
+                    {
+                        "text": "Dr Tom Durcan"
+                    },
+                    {
+                        "text": "Clinical Lead Consultant, Inpatient Service"
+                    },
+                    {
+                        "text": "15 April 2021"
+                    },
+                    {
+                        "text": "Lynne Mustard"
+                    },
+                    {
+                        "text": "Nurse Consultant"
+                    },
+                    {
+                        "text": "15 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Policy for the use of Medicines"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "L Mustard/K Tighe"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "August 2000"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "L Mustard/K Tighe"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "October 2002"
+                    },
+                    {
+                        "text": "3.0"
+                    },
+                    {
+                        "text": "L Mustard/K Tighe"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "October 2004"
+                    },
+                    {
+                        "text": "3.1"
+                    },
+                    {
+                        "text": "L Mustard/M A- Williams"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "01 May 2007"
+                    },
+                    {
+                        "text": "4.0"
+                    },
+                    {
+                        "text": "Liz Stewart/CDAG"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "August 2007"
+                    },
+                    {
+                        "text": "5.0"
+                    },
+                    {
+                        "text": "Lynne Mustard"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "October 2010"
+                    },
+                    {
+                        "text": "5.1"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "Inclusion to section 6.1 re indwelling catheters"
+                    },
+                    {
+                        "text": "November 2011"
+                    },
+                    {
+                        "text": "5.2"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "Inclusion to section 6.3 re anti- coagulants"
+                    },
+                    {
+                        "text": "01 January 2013"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "September 2014"
+                    },
+                    {
+                        "text": "6.1"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "Inclusion to section 5.3 re; no further opioids whilst epidural infusion in progress, and 5.4 long term opioid users and their pain management."
+                    },
+                    {
+                        "text": "17 March 2015"
+                    },
+                    {
+                        "text": "6.2"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "Inclusion to section 6.1 to clarify how to input pain observations when using the Vital pac system"
+                    },
+                    {
+                        "text": "09 May 2015"
+                    },
+                    {
+                        "text": "7.0"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "20 March 2018"
+                    },
+                    {
+                        "text": "7.1"
+                    },
+                    {
+                        "text": "Jayne Somerset"
+                    },
+                    {
+                        "text": "Inclusion in section 6.1 re; Local anaesthetic toxicity"
+                    },
+                    {
+                        "text": "18 July 2018"
+                    },
+                    {
+                        "text": "8.0"
+                    },
+                    {
+                        "text": "Claudine Riordan"
+                    },
+                    {
+                        "text": "Full review and transfer to MSE format"
+                    },
+                    {
+                        "text": "04 May 2021"
+                    },
+                    {
+                        "text": "8.1"
+                    },
+                    {
+                        "text": "Kate Tighe"
+                    },
+                    {
+                        "text": "Clarification to point 5.1"
+                    },
+                    {
+                        "text": "06 July 2021"
+                    },
+                    {
+                        "text": "8.2"
+                    },
+                    {
+                        "text": "Kate Tighe"
+                    },
+                    {
+                        "text": "Clarification to point 5.1"
+                    },
+                    {
+                        "text": "09 July 2021"
+                    },
+                    {
+                        "text": "8.3"
+                    },
+                    {
+                        "text": "Kate Tighe"
+                    },
+                    {
+                        "text": "Clarification to point 5.1"
+                    },
+                    {
+                        "text": "22 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 6,
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 7,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 8,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 9,
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 10,
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ..................................................................... 4"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 11,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Analgesia ...................................................................................................................... 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 12,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Management of the patient receiving patient controlled epidural analgesia ................. 5"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 13,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Infection control ............................................................................................................ 7"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 14,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Non-compliance with this guideline ............................................................................ 10"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 15,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Staff and training ........................................................................................................ 10  Monitoring and Audit................................................................................................... 11  Approval and Implementation ..................................................................................... 12  Equality Impact Assessment ...................................................................................... 12  References ................................................................................................................. 12 Appendix A: Pain and Sedation Measurement tools .......................................................... 13 Appendix B: Clinical observations and risk management .................................................. 14"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 16,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix C: For the AAGBI Safety Guideline for the Management of Severe Local Anaesthetic Toxicity (2010) follow link below ..................................................................... 16"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 17,
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix D: Preliminary equality analysis ......................................................................... 20"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 18,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 19,
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This guideline is designed to provide instruction and guidance for medical and nursing staff caring for patients with EIA (epidural infusion analgesia) or PCEA (patient controlled epidural analgesia)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 20,
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope of practice"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 21,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Estimated activity per annum: 500 EIA/PCEA"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 22,
+            "data": {
+                "is_heading": 0,
+                "text": "24 hour cover by IPMS;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 23,
+            "data": {
+                "is_heading": 0,
+                "text": "A prompt response service operates by pager system;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 24,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Nurse Specialists are available Monday to Friday, 8.00 hours to 17.00hrs and Saturday from 08.00 to 12.30 hours;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 25,
+            "data": {
+                "is_heading": 0,
+                "text": "On-call service provided out of hours by anaesthetist;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 26,
+            "data": {
+                "is_heading": 0,
+                "text": "3 consultant rounds per week;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 27,
+            "data": {
+                "is_heading": 0,
+                "text": "Training and education provided by IPMS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 28,
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Table for Abbreviations"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 29,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Abbreviation"
+                    },
+                    {
+                        "text": "Definition"
+                    },
+                    {
+                        "text": "PCEA"
+                    },
+                    {
+                        "text": "Patient controlled epidural analgesia"
+                    },
+                    {
+                        "text": "EIA"
+                    },
+                    {
+                        "text": "Epidural Infusion analgesia"
+                    },
+                    {
+                        "text": "IPMS"
+                    },
+                    {
+                        "text": "Integrated pain management service"
+                    },
+                    {
+                        "text": "LAST"
+                    },
+                    {
+                        "text": "Local anaesthetic systemic toxicity"
+                    },
+                    {
+                        "text": "CNS"
+                    },
+                    {
+                        "text": "Central nervous system"
+                    },
+                    {
+                        "text": "LA"
+                    },
+                    {
+                        "text": "Local anaesthetic"
+                    },
+                    {
+                        "text": "VTBI"
+                    },
+                    {
+                        "text": "Volume to be infused"
+                    },
+                    {
+                        "text": "MDT"
+                    },
+                    {
+                        "text": "Multi-disciplinary team"
+                    },
+                    {
+                        "text": "MC & S"
+                    },
+                    {
+                        "text": "Microscopy, culture and sensitivity"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 30,
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles and responsibilities within the Trust"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 31,
+            "data": {
+                "is_heading": 0,
+                "text": "All qualified nursing and medical staff have individual responsibility to practice within these guidelines."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 32,
+            "data": {
+                "is_heading": 0,
+                "text": "Ward and Unit managers are responsible for ensuring availability of the guidelines and to facilitate training when required."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 33,
+            "data": {
+                "is_heading": 0,
+                "text": "IPMS is responsible for ensuring current evidence based review of guidelines and to provide training and education."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 34,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Analgesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 35,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Epidural infusion solutions are commonly in 500ml bags of sodium chloride. Strengths of local anaesthetic solution may vary. The choice of prescription is that of the anaesthetist and subsequent changes may be made in liaison with the anaesthetists/pain team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 36,
+            "data": {
+                "is_heading": 1,
+                "text": "Bupivacaine 0.15%"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 37,
+            "data": {
+                "is_heading": 1,
+                "text": "Bupivacaine 0.15% plus Diamorphine 0.005%"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 38,
+            "data": {
+                "is_heading": 1,
+                "text": "Bupivicaine 0.125% plus Fentanyl 2mcg/ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 39,
+            "data": {
+                "is_heading": 1,
+                "text": "Levobupivacaine 0.125% plus Fentanyl 4mcg/ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 40,
+            "data": {
+                "is_heading": 1,
+                "text": "Bupivicaine 0.1% plus Fentanyl 2mcg/ml"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 41,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Infusion lines and pumps are yellow for epidural use only."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 42,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "No other opioids are to be administered to the patient when the Epidural in progress."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 43,
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Opioid drugs may only be prescribed via an alternative route when the epidural contains 0.15% Bupivacaine only."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 44,
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Patients receiving long term opioids prior to epidural insertion ideally need to be assessed by the anaesthetist pre-operatively. Could you please inform the IPMS of patients who are receiving long term opioids as soon as possible in order to optimise their pain relief post-operatively."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 45,
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Management of the patient receiving epidural infusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 46,
+            "data": {
+                "is_heading": 1,
+                "text": "analgesia"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 47,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "All EIA/PCEAs are schedule 2 controlled drugs and are to be prescribed by qualified anaesthetists."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 48,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "The EIA/PCEA programme is set and initiated by an anaesthetist."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 49,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Skill mix (i.e. appropriately trained nurses) and staffing levels on the ward are sufficient to ensure safe care of the patient. The nurse in charge should inform the anaesthetist or the IPMS prior to the start of the list if these criteria cannot be met."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 50,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "EIA/PCEA is connected to the patient by the anaesthetist, recovery staff or IPMS staff appropriately trained, and checked in accordance with the Policy for Administration of Medicines for the MEHT."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 51,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Anaesthetists selecting patients for EIA or PCEA are responsible for securing informed verbal consent, and for providing expert implementation and management of the chosen modality, whether for surgery or non-surgical pain control (e.g. trauma, palliative care)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 52,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.6,
+                "text": "All epidural catheters to be inserted, and infusion connected under aseptic conditions following appropriate skin decontamination"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 53,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.7,
+                "text": "Skill mix, staffing levels and appropriate competencies should be sufficient to ensure safe care of the patient \u2013 the nurse in charge of the shift must inform the anaesthetist prior to the start of the list if these criteria cannot be met"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 54,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.8,
+                "text": "The epidural programme is initiated by the anaesthetist \u2013 programming of the pump is carried out by the anaesthetics, recovery staff or pain sister. Subsequent changes to the programme or additional bolus administration are only made by an anaesthetist or the IPMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 55,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.9,
+                "text": "Intravenous access must be obtained prior to commencing EIA and must be maintained at all times whilst EIA is in situ"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 56,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "If there is an indwelling urinary catheter in place please do not remove before the epidural is discontinued. Removal prior to discontinuation could lead to urinary retention or incontinence due to the effect of the epidural solution on the motor and sensory nerve fibres in the pelvis whilst the epidural is in progress."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 57,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.11,
+                "text": "Monitoring required: respiration rate, pulse, blood pressure, sedation score 0- 3, pain assessment 0-3, nausea, vomiting, motor function 0-3 (see Appendix B)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 58,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.12,
+                "text": "There is a risk of Local Anaesthetic Systemic Toxicity (LAST)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 59,
+            "data": {
+                "is_heading": 0,
+                "text": "This occurs when there is an accumulation of the drug. This can be from overdose, or where metabolism of the drug is slowed (the pharmacokinetics of a drug may be altered by existing co-morbidities such as cardiac or hepatic failure, alterations in plasma protein binding, or interactions with other drugs. This can occur at any time."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 60,
+            "data": {
+                "is_heading": 0,
+                "text": "Classic symptoms of LAST include the patients' subjective symptoms due to CNS (Central Nervous System) excitability. LA toxicity signs and symptoms form the basis for patient observation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 61,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.13,
+                "text": "Early / mild toxicity symptoms:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 62,
+            "data": {
+                "is_heading": 0,
+                "text": "Confusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 63,
+            "data": {
+                "is_heading": 0,
+                "text": "Vagueness / restlessness"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 64,
+            "data": {
+                "is_heading": 0,
+                "text": "Metallic taste"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 65,
+            "data": {
+                "is_heading": 0,
+                "text": "Twitching"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 66,
+            "data": {
+                "is_heading": 0,
+                "text": "Auditory changes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 67,
+            "data": {
+                "is_heading": 0,
+                "text": "Tingling or numbness in and / or around the mouth"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 68,
+            "data": {
+                "is_heading": 0,
+                "text": "Dizziness or feeling light-headed"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 69,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient may not divulge these symptoms so always ask if they experience any of the above and ask the patient to let a member of medical staff know immediately if they occur."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 70,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.14,
+                "text": "Severe toxicity symptoms:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 71,
+            "data": {
+                "is_heading": 0,
+                "text": "From central nervous system (CNS) excitability the patient may experience seizures progressing to CNS depression (coma, respiratory arrest)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 72,
+            "data": {
+                "is_heading": 0,
+                "text": "In higher blood concentrations, cardiac excitability may be followed by cardiac depression (bradycardia, asystole, decreased contractility, and hypotension)."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 73,
+            "data": {
+                "is_heading": 0,
+                "text": "There may be large variability in LAST clinical presentation."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 74,
+            "data": {
+                "is_heading": 0,
+                "prefix": 2010.0,
+                "text": "The management of LAST can be referred to in the Appendix section. These are the guidelines set out by the Association of Anaesthetists of Great Britain and Ireland (AAGBI) in They are the most up to date guidelines for the treatment of LAST. Management consists of Recognition, Immediate management, Treatment, and Follow-up. For the infusion of Intravenous Lipid emulsion, which is used in LAST, there is not a set regime for the MEHT Trust. The table and link found in the Appendix section shows details of suggested infusions by the AAGBI. This is not a standard of medical care. The ultimate judgement with regard to a particular clinical procedure or treatment plan must be made by the clinician in the light of the clinical data presented and the diagnostic and treatment options available."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 75,
+            "data": {
+                "is_heading": 0,
+                "text": "Early detection remains the most effective way of reducing the frequency and severity of LAST. This is why patient observation is paramount."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 76,
+            "data": {
+                "is_heading": 0,
+                "text": "Intralipid 20% solution is stocked in the following areas if required. A&E Majors, Main theatres drug room, Neonatal unit, Day stay theatre, and Burns ICU"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 77,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.15,
+                "text": "Recording Observations on the Vitalpac System:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 78,
+            "data": {
+                "is_heading": 1,
+                "text": "Total / good tries are to be recorded as U (unmeasurable) as they are not required. This measurement has not shown to add clinical significance to pain assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 79,
+            "data": {
+                "is_heading": 1,
+                "text": "Sensory block level is to be recorded as U (unmeasurable) as they are not required. Sensory block levels are to be measured as required by pain team or anaesthetist"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 80,
+            "data": {
+                "is_heading": 0,
+                "text": "Integrity of line and condition of insertion site to be checked and recorded daily"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 81,
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "The monitoring should be recorded at 15 minute intervals for first 2 hours, 30 minute intervals for the next 2 hours then 1 hourly for a minimum ofhours, changing to 2 hourly as clinically indicated"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 82,
+            "data": {
+                "is_heading": 1,
+                "text": "The volume to be infused (VTBI) of the solution used must be recorded hourly as read from the pump display"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 83,
+            "data": {
+                "is_heading": 0,
+                "text": "Back pain or headache must be documented and reported to IPMS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 84,
+            "data": {
+                "is_heading": 0,
+                "text": "All monitoring activity and subsequent actions to be recorded in patient notes"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 85,
+            "data": {
+                "is_heading": 0,
+                "text": "A pressure relieving mattress should be available to reduce risk associated with sensory impairment (low thoracic/lumbar epidurals only)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 86,
+            "data": {
+                "is_heading": 0,
+                "text": "The patient will be seen at least once daily by the pain team to make a clinical assessment and for auditing purposes. The patient's progress and further management will then be discussed with the ward staff. Epidural-related problems that arise at other times must be communicated to IPMS (or on-call anaesthetist out of hours)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 87,
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "Catheter tip and swab to be sent for MC&S if signs of infection and IPMS to be informed. Patient's condition to be monitored for  hours for neurological deficit and signs of systemic infection."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 88,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.16,
+                "text": "Technical Problems"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 89,
+            "data": {
+                "is_heading": 0,
+                "text": "Technical problems with the pump must be referred to IPMS or on call anaesthetist as soon as possible. Replacing the infusion bag or the batteries, when needed, should be done by the ward nurse as soon as possible to avoid deterioration of the patient's pain control."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 90,
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.17,
+                "text": "Discontinuation of Infusion"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 91,
+            "data": {
+                "is_heading": 0,
+                "text": "Weaning and discontinuation of the EIA/PCEA must be done in liaison with the anaesthetist or IPMS and alternative analgesia provided"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 92,
+            "data": {
+                "is_heading": 0,
+                "text": "For the removal of the patients' epidural catheter for patients receiving anti- coagulants please follow guideline below:"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 93,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Anti-coagulant"
+                    },
+                    {
+                        "text": "Epidural catheter can be removed or placed"
+                    },
+                    {
+                        "text": "When next dose of anti- coagulant can be given post epidural catheter removal"
+                    },
+                    {
+                        "text": "Clexane"
+                    },
+                    {
+                        "text": "12 hours after administration"
+                    },
+                    {
+                        "text": "2 hours post removal"
+                    },
+                    {
+                        "text": "High doses of Clexane 1.5mg/kg once daily"
+                    },
+                    {
+                        "text": "24 hours after administration"
+                    },
+                    {
+                        "text": "4 hours post removal"
+                    },
+                    {
+                        "text": "*Rivaroxaban"
+                    },
+                    {
+                        "text": "18 hours after administration"
+                    },
+                    {
+                        "text": "6 hours post removal"
+                    },
+                    {
+                        "text": "Heparin Infusion"
+                    },
+                    {
+                        "text": "2 - 4 hours after infusion stopped. Patients' coagulation status needs to be evaluated prior to removal."
+                    },
+                    {
+                        "text": "1 hour post removal"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 94,
+            "data": {
+                "is_heading": 0,
+                "text": "*Rivaroxaban is used on the Orthopaedic wards only."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 95,
+            "data": {
+                "is_heading": 0,
+                "text": "Removal is carried out using a non-touch technique. Document the date, time of removal, and condition of catheter tip and site in the patients notes."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 96,
+            "data": {
+                "is_heading": 0,
+                "text": "Disposal of any remaining EIA/PCEA should be in accordance to the Controlled Drugs Policy 08083"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 97,
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Infection prevention"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 98,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The infection prevention practice within Broomfield Hospital is for all staff to have strict hand hygiene before and after patient contact."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 99,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Any equipment must be cleaned between patients unless it is a single use item which will be disposed of appropriately as per the Waste Management Policy."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 100,
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Aprons and gloves to be worn as appropriate."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 101,
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Non-Compliance with this guideline"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 102,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Ineffectiveness of the EIA/PCEA will lead to inadequate analgesia, poor patient satisfaction, and possible delayed post-operative recovery."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 103,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Untreated adverse effects of EIA/PCEA may lead to opioid overdose with risk of respiratory depression leading to respiratory arrest/death, and/or systemic reaction to local anaesthetic solution leading to critical hypotension and potential renal failure. Unnoticed sensory deficit may lead to undiagnosed spinal migration of the catheter or formation of epidural haematoma or abscess, leading to permanent paralysis or death."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 104,
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "A Risk event form must be completed for each event of non-compliance with this Guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 105,
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Staff and training"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 106,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "This guideline is aimed at all qualified nursing and medical staff delivering care to patients receiving EIA or PCEA."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 107,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Nursing staff managing patients receiving EIA or PCEA must have the appropriate knowledge and clinical skills to provide safe, evidence based care."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 108,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "Training for nursing staff is provided within the Trust by the IPMS (Integrated Pain Management Service), and assessment of competency arranged with the pain link nurses."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 109,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "It is the individual's own responsibility to remain current in clinical skills and identify his/her own training needs in conjunction with the appraisal system. Competency records to be kept by the individual nurse in:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 110,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 111,
+            "data": {
+                "is_heading": 0,
+                "text": "Relevant monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 112,
+            "data": {
+                "is_heading": 0,
+                "text": "Recognition of epidural-related problems and actions required"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 113,
+            "data": {
+                "is_heading": 0,
+                "text": "Technical competencies in managing pump and lines, as per CNST"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 114,
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical skills in removing the epidural catheter and aftercare of the patient"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 115,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "The ward/unit manager is responsible for ensuring appropriate skill mix, and monitoring that staff are competent."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 116,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "Specialist trainee anaesthetists are provided with in-house training under the guidance of senior expert anaesthetists: mentors are allocated under the guidance of the College Tutor."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 117,
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.7,
+                "text": "A teaching programme for both medical and nursing staff is undertaken in liaison with the Training and Development dept."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 118,
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Audit and monitoring"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 119,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Each patient receiving PCEA will be assessed at least once daily by the Pain Team. Data recorded will be:"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 120,
+            "data": {
+                "is_heading": 0,
+                "text": "Patient satisfaction;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 121,
+            "data": {
+                "is_heading": 0,
+                "text": "Pain levels;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 122,
+            "data": {
+                "is_heading": 0,
+                "text": "Motor function score;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 123,
+            "data": {
+                "is_heading": 0,
+                "text": "Condition of epidural insertion site;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 124,
+            "data": {
+                "is_heading": 0,
+                "text": "Nausea;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 125,
+            "data": {
+                "is_heading": 0,
+                "text": "Vomiting incidence;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 126,
+            "data": {
+                "is_heading": 0,
+                "text": "Any adverse clinical events;"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 127,
+            "data": {
+                "is_heading": 0,
+                "text": "Incidence of non-compliance with the guideline."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 128,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Individual incidents of non-compliance are addressed by the Pain Service immediately, and risk assessments done as indicated. Critical incidents to be reported at audit meetings and reviewed by practitioners."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 129,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Ensuing actions are undertaken by the Pain Service to ensure omissions and errors are brought to the attention of the appropriate person(s) and to reduce the risk of repeat: i.e. training and education or system reviews."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 130,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Data are entered onto a central secure database held by the Pain Service and evaluated yearly for trends at a Departmental meeting. Dissemination of data via the appropriate forum (e.g. audit sessions, MDT), is the responsibility of the acute lead Consultant of the IPMS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 131,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "Continuous audit of practice on each ward, and for individual patients, to be carried out by IPMS"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 132,
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.6,
+                "text": "A secure database of all staff trained in the management of epidural infusion analgesia to be kept by IPMS."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 133,
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Approval and implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 134,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "All policies, procedures and guidelines will be approved by the Pain Service Policy Group Meeting, which is the specialist group with the authority to approve local guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 135,
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "It is the author's responsibility to inform the Pain Service Policy Group Meeting of the approved policy documents when they are uploaded to the Trust's Intranets."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 136,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Equality impact assessment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 137,
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 138,
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 139,
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Communication and implementation"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 140,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "Corporate services will ensure that the guideline is uploaded and staff are updated via the intranet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 141,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "The IPMS will post quarterly bulletins to all Trust staff via the intranet."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 142,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "The IPMS will inform all link nurses of updated guidelines at regular meetings for them to disseminate to their areas/wards."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 143,
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "The IPMS will inform all Medical staff of revised guidelines via senior medical staff within the IPMS at audit meetings and twice yearly teaching sessions for all FY1 and FY2 doctors. Newly appointed anaesthetic trainees will receive written information in their induction pack."
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 144,
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "References (epidural infusion analgesia)"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 145,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A: Pain/sedation and nausea measurement tool"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 146,
+            "data": {
+                "is_heading": 0,
+                "text": "This tool can be used for all patients requiring analgesia. Movement = e.g. patient attempts to touch the opposite side of the bed or deep breathe"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 147,
+            "data": {
+                "is_heading": 1,
+                "text": "Pain Score"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 148,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Score 0 (none)"
+                    },
+                    {
+                        "text": "No pain at rest, no pain on movement"
+                    },
+                    {
+                        "text": "Score 1 (mild)"
+                    },
+                    {
+                        "text": "No pain at rest, mild pain on movement"
+                    },
+                    {
+                        "text": "Score 2 (moderate)"
+                    },
+                    {
+                        "text": "Intermittent pain at rest, moderate pain on movement"
+                    },
+                    {
+                        "text": "Score 3 (severe)*"
+                    },
+                    {
+                        "text": "Continuous pain at rest, severe pain on movement"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 149,
+            "data": {
+                "is_heading": 1,
+                "text": "* Call doctor or pain team Sedation Score"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 150,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Score 0 (none)"
+                    },
+                    {
+                        "text": "Awake and fully responsive"
+                    },
+                    {
+                        "text": "Score 1 (mild)"
+                    },
+                    {
+                        "text": "Occasionally drowsy, easy to rouse"
+                    },
+                    {
+                        "text": "Score 2 (moderate)"
+                    },
+                    {
+                        "text": "Frequently drowsy, easy to rouse"
+                    },
+                    {
+                        "text": "Score 3 (severe)*"
+                    },
+                    {
+                        "text": "Somnolent, difficult to rouse"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 151,
+            "data": {
+                "is_heading": 1,
+                "text": "* Call doctor or anaesthetist Nausea Score"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 152,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Score 0"
+                    },
+                    {
+                        "text": "No nausea"
+                    },
+                    {
+                        "text": "Score 1"
+                    },
+                    {
+                        "text": "Nausea"
+                    },
+                    {
+                        "text": "Score 2"
+                    },
+                    {
+                        "text": "Vomiting"
+                    },
+                    {
+                        "text": "Score 3"
+                    },
+                    {
+                        "text": "Refuses treatment"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 153,
+            "data": {
+                "is_heading": 1,
+                "text": "Motor Function"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 154,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Score 0"
+                    },
+                    {
+                        "text": "Normal power"
+                    },
+                    {
+                        "text": "Score 1"
+                    },
+                    {
+                        "text": "Can't raise leg"
+                    },
+                    {
+                        "text": "Score 2"
+                    },
+                    {
+                        "text": "Can't bend knee"
+                    },
+                    {
+                        "text": "Score 3 *"
+                    },
+                    {
+                        "text": "No leg power"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 155,
+            "data": {
+                "is_heading": 0,
+                "text": "* inform anaesthetist/pain team"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 156,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B: Epidural infusion analgesia \u2013 side effects and treatment"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 157,
+            "data": {
+                "is_heading": 0,
+                "text": "Local anaesthetic +/- opioid \u2013 for effective continuous analgesia for severe pain below the level of thoracic vertebrae 4 (T4)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 158,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Side Effect"
+                    },
+                    {
+                        "text": "Treatment"
+                    },
+                    {
+                        "text": "Back pain & increasing weakness +/- sedation"
+                    },
+                    {
+                        "text": "Medical emergency until proven otherwise Stop EIA. Call anaesthetist \u2013 may be epidural haematoma"
+                    },
+                    {
+                        "text": "Respiratory depression & over-sedation (sedation score 1>2)"
+                    },
+                    {
+                        "text": "Maintain airway High concentration oxygen Consider naloxone Call for assistance Stop epidural infusion Inform IPMS"
+                    },
+                    {
+                        "text": "Hypotension Systolic < 100mmhg* Systolic <80mmhg"
+                    },
+                    {
+                        "text": "Consider causes e.g. hypovolaemia, sepsis, others *If asymptomatic with adequate urine output, monitor only. Seek medical advice if unsure. Give IV fluid bolus, 20 mls/kg Do not stop EIA unless unresolved Give oxygen Stop EIA Lie flat (not legs raised) Call surgical team Call anaesthetist Consider vasopressors"
+                    },
+                    {
+                        "text": "Urinary retention"
+                    },
+                    {
+                        "text": "Catheterise Do not stop EIA Inform IPMS"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 159,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Lower limb weakness"
+                    },
+                    {
+                        "text": "Call IPMS/anaesthetist Do not stop EIA Vigilant pressure area care Reassure patient"
+                    },
+                    {
+                        "text": "Confusion (may be opioid related hypoxia) \u2013 consider other causes"
+                    },
+                    {
+                        "text": "Give oxygen Do not stop EIA Call surgical team Inform IPMS"
+                    },
+                    {
+                        "text": "Numbness after infusion stopped"
+                    },
+                    {
+                        "text": "Monitor, reassure patient Review in 2-4 hours and at 24 hrs Inform anaesthetist/CAPS"
+                    },
+                    {
+                        "text": "Itching"
+                    },
+                    {
+                        "text": "Do not stop EIA Administer topical lotion Consider low dose naloxone Inform IPMS"
+                    },
+                    {
+                        "text": "Unilateral analgesia or numbness"
+                    },
+                    {
+                        "text": "Do not stop EIA Call IPMS/anaesthetist Position onto unaffected side"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 160,
+            "data": {
+                "is_heading": 0,
+                "text": "Epidural infusion analgesia and patient controlled analgesia/06006/8.3"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 161,
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "| P a g e"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 162,
+            "data": {
+                "url": "06006 Epidural infusion analgesia and patient controlled analgesia 8.3.002.png"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 163,
+            "data": {
+                "is_heading": 0,
+                "text": "Epidural infusion analgesia and patient controlled analgesia/06006/8.2"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 164,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 165,
+            "data": {
+                "is_heading": 1,
+                "text": "Table 2: Suggested regime for Lipid emulsion from the AAGBI (2010)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Give an initial intravenous bolus injection of 20% lipid emulsion 1.5 ml.kg\u20131 over 1 min"
+                    },
+                    {
+                        "text": "and"
+                    },
+                    {
+                        "text": "Start an intravenous infusion of 20% lipid emulsion at 15 ml.kg\u20131.h\u20131"
+                    },
+                    {
+                        "text": "after 5 min"
+                    },
+                    {
+                        "text": "Give a maximum of two repeat boluses (same dose) if: cardiovascular stability has not been restored or an adequate circulation deteriorates Leave 5 min between boluses A maximum of three boluses can be given (including the initial bolus)"
+                    },
+                    {
+                        "text": "and"
+                    },
+                    {
+                        "text": "Continue infusion at same rate, but: Double the rate to 30 ml.kg\u20131.h\u20131 at any time after 5 min, if: cardiovascular stability has not been restored or an adequate circulation deteriorates Continue infusion until stable and adequate circulation restored or maximum dose of lipid emulsion given"
+                    },
+                    {
+                        "text": "Do not exceed a maximum cumulative dose of 12 ml.kg\u20131"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 167,
+            "data": {
+                "url": "06006 Epidural infusion analgesia and patient controlled analgesia 8.3.003.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 168,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "An approximate dose regimen for a 70-kg patient would be as follows:"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Give an initial intravenous bolus injection of 20% lipid emulsion 100 ml over 1 min"
+                    },
+                    {
+                        "text": "and"
+                    },
+                    {
+                        "text": "Start an intravenous infusion of 20% lipid emulsion at 1000 ml.h\u20131"
+                    },
+                    {
+                        "text": "after 5 min"
+                    },
+                    {
+                        "text": "Give a maximum of two repeat boluses of 100 ml"
+                    },
+                    {
+                        "text": "and"
+                    },
+                    {
+                        "text": "Continue infusion at same rate but double rate to 2000 ml.h\u20131 if indicated at any time"
+                    },
+                    {
+                        "text": "Do not exceed a maximum cumulative dose of 840 ml"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 169,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Page  of"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 170,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "AAGBI Safety Guideline Management of Severe Local Anaesthetic Toxicity"
+                    },
+                    {
+                        "text": "Step 1 RECOGNITION"
+                    },
+                    {
+                        "text": "Sudden alteration in mental status, severe agitation or loss of consciousness, with or without convulsions Cardiovascular collapse: sinus bradycardia, conduction blocks, asystole and ventricular tachyarrhythmias may all occur Local anaesthetic (LA) toxicity may occur some time after initial injection"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Step 2 IMMEDIATE"
+                    },
+                    {
+                        "text": "Stop injecting/infusing the local anaesthetic Call for help, if unresponsive start resuscitation procedures Maintain the airway and if necessary, secure it with a tracheal tube Give 100% oxygen and ensure adequate lung ventilation (hyperventilation may help by increasing plasma pH in the presence of metabolic acidosis) Confirm or establish intravenous access Control seizures: give a benzodiazepine, thiopental or propofol in small incremental doses Assess cardiovascular status throughout Consider drawing blood for analysis, but do not delay definitive treatment to do this"
+                    },
+                    {
+                        "text": "MANAGEMENT"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Step 3 TREATMENT"
+                    },
+                    {
+                        "text": "In circulatory arrest"
+                    },
+                    {
+                        "text": "Without circulatory arrest"
+                    },
+                    {
+                        "text": "1 Start cardiopulmonary resuscitation (CPR) using standard protocols 2 Manage arrhythmias using the same protocols, recognising that arrhythmias may be very refractory to treatment 3 Consider the use of cardiopulmonary bypass if available"
+                    },
+                    {
+                        "text": "Use conventional therapies to treat: 1 Hypotension 2 Bradycardia 3 Tachyarrhythmia Consider intravenous lipid emulsion (following the regimen below) Propofol is not a suitable substitute for lipid emulsion Lidocaine should not be used as an anti- arrhythmic therapy"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 171,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Give intravenous lipid emulsion (following the regimen below) 4 Continue CPR throughout treatment with lipid emulsion 5 Recovery from LA- induced cardiac arrest may take >1 hr 6 Propofol is not a suitable substitute for lipid emulsion 7 Lidocaine should not be used as an anti-arrhythmic therapy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Step 4 FOLLOW UP"
+                    },
+                    {
+                        "text": "1 Arrange safe transfer to a clinical are with appropriate equipment and suitable staff until sustained recovery is achieved 2 Exclude pancreatitis by regular clinical review, including daily amylase or lipase assays for two days Report cases as follows: In the United Kingdom to the National Patient Safety Agency (via www.npsa.nhs.uk) If Lipid has been given, please also report its use to the international registry at www.lipidregustry.org. details may also be posted at www.lipidrescue.org"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 172,
+            "data": {
+                "is_heading": 0,
+                "text": "Epidural infusion analgesia and patient controlled analgesia/06006/8.3"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 173,
+            "data": {
+                "is_heading": 0,
+                "text": "Epidural infusion analgesia and patient controlled analgesia/06006/8.3"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 174,
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix D: Preliminary equality analysis"
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 175,
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Epidural infusion analgesia and patient controlled analgesia/06006 (please tick all that apply)"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 176,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 177,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full review and transfer to MSE template"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3 yearly review"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and Clinicians"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Please refer to pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 178,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Claudine Riordan"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Pain CNS"
+                    },
+                    {
+                        "text": "10 February 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "ListItem",
+            "sequence_num": 179,
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Page  of"
+            }
+        }
+    ]
+}
