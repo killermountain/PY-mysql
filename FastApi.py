@@ -9,7 +9,7 @@ import os
 api = FastAPI()
 cwd = os.getcwd()
 hospital_name = "Broomfield"
-ouput_json = cwd + "\\output-json\\" + hospital_name + "\\"
+ouput_json = cwd + "/output-json/" + hospital_name + "/"
 
 @api.get("/")
 def welcome():
