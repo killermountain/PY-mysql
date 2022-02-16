@@ -1,1 +1,1 @@
-web: uvicorn FastApi:api
+web: gunicorn FastApi:api
