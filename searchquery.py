@@ -3,6 +3,7 @@ from connDB import MySQLDB
 import nltk
 
 nltk.download('stopwords')
+nltk.download('punkt')
 
 def GetKeywords(text, unique=True):
     r = Rake()
