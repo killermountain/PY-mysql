@@ -1,5 +1,6 @@
 from rake_nltk import Rake
 from connDB import MySQLDB
+import nltk
 
 nltk.download('stopwords')
 
