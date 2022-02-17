@@ -1,6 +1,8 @@
 from rake_nltk import Rake
 from connDB import MySQLDB
 
+nltk.download('stopwords')
+
 def GetKeywords(text, unique=True):
     r = Rake()
     # Extraction given the text.
