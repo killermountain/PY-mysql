@@ -10,16 +10,16 @@ class MySQLDB():
     def __connectDB(self):
         self.conn = mysql.connector.connect(
         
-        # host="remotemysql.com",
-        # user="dcRNtOADDk",
-        # passwd="ioc5W4pQPO",
-        # database="dcRNtOADDk"
+        host="remotemysql.com",
+        user="dcRNtOADDk",
+        passwd="ioc5W4pQPO",
+        database="dcRNtOADDk"
 
-        host="localhost",
-        port= "3306",
-        user="root",
-        passwd="",
-        database="pdfdb"
+#         host="localhost",
+#         port= "3306",
+#         user="root",
+#         passwd="",
+#         database="pdfdb"
         )
 
     def getDocInfo(self):
