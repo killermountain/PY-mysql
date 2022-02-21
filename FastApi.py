@@ -10,7 +10,7 @@ from connDB import MySQLDB
 
 api = FastAPI()
 cwd = os.getcwd()
-hospital_name = "Broomfield"
+hospital_name = "MSE"
 ouput_json = cwd + os.path.sep + "output-json"+ os.path.sep + hospital_name + os.path.sep
 
 documents = None
