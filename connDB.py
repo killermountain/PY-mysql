@@ -2,16 +2,16 @@ from unittest import result
 import mysql.connector
 
 
-# HOST="remotemysql.com"
-# USERNAME="dcRNtOADDk"
-# PASSWORD="ioc5W4pQPO"
-# DATABASE="dcRNtOADDk"
+HOST="remotemysql.com"
+USERNAME="dcRNtOADDk"
+PASSWORD="ioc5W4pQPO"
+DATABASE="dcRNtOADDk"
 
-HOST="localhost"
-PORT= "3306"
-USERNAME="root"
-PASSWORD=""
-DATABASE="pdfdb"
+# HOST="localhost"
+# PORT= "3306"
+# USERNAME="root"
+# PASSWORD=""
+# DATABASE="pdfdb"
 
 class MySQLDB():
 
