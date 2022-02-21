@@ -1,0 +1,1510 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21023"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "05/10/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "04/10/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group"
+                    },
+                    {
+                        "text": "24/09/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "05/10/2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Titi Odewumi: Principal Pharmacist Antimicrobials"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Vancomycin continuous infusion dosing and monitoring in adult patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Vancomycin continuous infusion is restricted to some specific areas within the Trust where this method of administration is authorised and practised. All other clinical areas should continue to administer vancomycin by intermittent infusion; refer to guideline MSEGL-21015)"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The efficacy of vancomycin depends on the time for which the serum concentration exceeds the minimum inhibitory concentration (MIC) for the micro-organism rather than the attainment of high peak concentrations. There is evidence that giving vancomycin as a continuous infusion over 24 hours is as effective as the traditional method of intermittent infusions whilst being much simpler to organise in terms of monitoring serum levels."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Loading Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "All patients should receive a weight-related loading dose as shown below. Actual body weight should be used for loading dose. See Table 1:"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.2,
+                "text": "Table 1: Vancomycin Loading Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "type": "table",
+            "sequence_num": 10,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Vancomycin Loading Dose"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Actual body weight"
+                    },
+                    {
+                        "text": "Dose"
+                    },
+                    {
+                        "text": "Volume of *sodium chloride (0.9%)"
+                    },
+                    {
+                        "text": "Duration of infusion"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Central line 10mg/ml"
+                    },
+                    {
+                        "text": "Peripheral line \u2264 5mg/ml"
+                    },
+                    {
+                        "text": "Central line 1ml/min"
+                    },
+                    {
+                        "text": "Peripheral Line \u2264 10mg/min"
+                    },
+                    {
+                        "text": "< 40 kg"
+                    },
+                    {
+                        "text": "750 mg"
+                    },
+                    {
+                        "text": "75 ml"
+                    },
+                    {
+                        "text": "250 mL"
+                    },
+                    {
+                        "text": "75 mins"
+                    },
+                    {
+                        "text": "90 minutes"
+                    },
+                    {
+                        "text": "40 \u2013 59 kg"
+                    },
+                    {
+                        "text": "1000 mg"
+                    },
+                    {
+                        "text": "100 ml"
+                    },
+                    {
+                        "text": "250 mL"
+                    },
+                    {
+                        "text": "100 mins"
+                    },
+                    {
+                        "text": "2 hours"
+                    },
+                    {
+                        "text": "60 \u2013 90 kg"
+                    },
+                    {
+                        "text": "1500 mg"
+                    },
+                    {
+                        "text": "150 ml"
+                    },
+                    {
+                        "text": "500 mL"
+                    },
+                    {
+                        "text": "150 mins"
+                    },
+                    {
+                        "text": "3 hours"
+                    },
+                    {
+                        "text": "> 90 kg"
+                    },
+                    {
+                        "text": "2000 mg"
+                    },
+                    {
+                        "text": "200 ml"
+                    },
+                    {
+                        "text": "500 mL"
+                    },
+                    {
+                        "text": "200 mins"
+                    },
+                    {
+                        "text": "4 hours"
+                    },
+                    {
+                        "text": "Continuous hemofiltration"
+                    },
+                    {
+                        "text": "1000 mg"
+                    },
+                    {
+                        "text": "100 ml"
+                    },
+                    {
+                        "text": "250 ml"
+                    },
+                    {
+                        "text": "100 mins"
+                    },
+                    {
+                        "text": "2 hours"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "* Glucose 5% may be used in patients with sodium restriction."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Slow infusion is essential with loading dose so as to avoid Red Man Syndrome, hypotension or thrombophlebitis."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.3,
+                "text": "Where fluid restriction is required with a peripheral line, a dilution of 10mg/ml with a longer infusion rate can be used i.e. 500mg in 50ml over 100mins & 1000mg in 100ml over 200mins."
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.4,
+                "text": "However, the risk of infusion-related undesirable effects can be increased with these higher concentrations. It is advisable to discuss with the ward pharmacist first."
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Maintenance Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.1,
+                "text": "Continuous intravenous infusion should follow straight after the loading dose and should be based on the patient's renal function, using creatinine clearance estimation."
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.2,
+                "text": "Table 2: Estimation of creatinine clearance"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following \u2018Cockcroft Gault' equation can be used to estimate creatinine clearance (CrCl)"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CrCl = [140 \u2013 age (years)] x weight (kg) x F (mL/min) serum creatinine (micromol/L)"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "F=1.23 for males & 1.04 for females"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use actual body weight or Ideal body weight whichever is lower."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "See Appendix 1 below for ideal body weight table"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In patients with low creatinine (< 60 micromol/L), use 60 micromol/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Note: Use of estimated glomerular filtration rate (eGFR) is not recommended"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.3,
+                "text": "For central line administration, reconstitute each vancomycin 500mg vial with 10mls water for injection. Then make up the reconstituted vancomycin to 50mls sodium chloride 0.9% in a syringe pump."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.4,
+                "text": "Each 50ml vancomycin infusion should be administered using an infusion pump; start a new syringe driver immediately after the previous one, and do not use a syringe driver beyond 24hours without changing."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.5,
+                "text": "Refer to Table 3 for the Initial maintenance dose regimen. Follow-up dosing should be based on vancomycin serum concentration; see Table 5 for advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.6,
+                "text": "Table 3: Maintenance Dose Via Central Line"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "type": "table",
+            "sequence_num": 29,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "CrCl(ml/min)"
+                    },
+                    {
+                        "text": "Daily dose (24hrs)"
+                    },
+                    {
+                        "text": "Infusion rate via a volumetric pump. Use Syringe pump (500mg/50ml)"
+                    },
+                    {
+                        "text": "ml /hr"
+                    },
+                    {
+                        "text": "(mg/hr)"
+                    },
+                    {
+                        "text": "*** < 20"
+                    },
+                    {
+                        "text": "250 mg"
+                    },
+                    {
+                        "text": "1.04"
+                    },
+                    {
+                        "text": "(10)"
+                    },
+                    {
+                        "text": "20 - 29"
+                    },
+                    {
+                        "text": "500 mg"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "(21)"
+                    },
+                    {
+                        "text": "30 - 39"
+                    },
+                    {
+                        "text": "750 mg"
+                    },
+                    {
+                        "text": "3.1"
+                    },
+                    {
+                        "text": "(31)"
+                    },
+                    {
+                        "text": "40 - 54"
+                    },
+                    {
+                        "text": "1000 mg"
+                    },
+                    {
+                        "text": "4.2"
+                    },
+                    {
+                        "text": "(42)"
+                    },
+                    {
+                        "text": "55 - 74"
+                    },
+                    {
+                        "text": "1500 mg"
+                    },
+                    {
+                        "text": "6.3"
+                    },
+                    {
+                        "text": "(63)"
+                    },
+                    {
+                        "text": "75 - 89"
+                    },
+                    {
+                        "text": "2000 mg"
+                    },
+                    {
+                        "text": "8.3"
+                    },
+                    {
+                        "text": "(83)"
+                    },
+                    {
+                        "text": "90 - 110"
+                    },
+                    {
+                        "text": "2500 mg"
+                    },
+                    {
+                        "text": "10.4"
+                    },
+                    {
+                        "text": "(104)"
+                    },
+                    {
+                        "text": "> 110"
+                    },
+                    {
+                        "text": "3000 mg"
+                    },
+                    {
+                        "text": "12.5"
+                    },
+                    {
+                        "text": "(125)"
+                    },
+                    {
+                        "text": "Continuous hemofiltration"
+                    },
+                    {
+                        "text": "1000 mg"
+                    },
+                    {
+                        "text": "4.2"
+                    },
+                    {
+                        "text": "(42)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Note: Adult Patients who are unusual in weight, e.g. <40kg or >120kg or age > 90years may require dose adjustments and close monitoring. Contact pharmacy for advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "*** Where CrCl < 20ml/min, vancomycin intermittent infusion may be considered for ease of serum concentration management and dose adjustments; refer to MSEGL-21015 for guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Prescribing"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Via Central Line Infusion: Preferably vancomycin continuous infusion should be prescribed on the hospital intravenous infusion chart."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Indicate total daily dose in 24hours, infusion concentration and rate on the chart."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Once the daily serum level is obtained, a new prescription should be written based on the level result; refer to Table 5 for guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Via Peripheral Line infusion: This should only be used where central access is not available."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Prescribe as recommended above, but ensure the total daily dose is diluted to a concentration not exceeding 5mg/ml as shown in Table 4 below."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Table 4: Maintenance Dose via Peripheral Line"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "type": "table",
+            "sequence_num": 39,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "CrCl (ml/min)"
+                    },
+                    {
+                        "text": "Vancomycin Daily Dose in sodium chloride (0.9%)"
+                    },
+                    {
+                        "text": "Infusion rate over 24hrs using a volumetric pump."
+                    },
+                    {
+                        "text": "ml/hr"
+                    },
+                    {
+                        "text": "(mg/hr)"
+                    },
+                    {
+                        "text": "90-110"
+                    },
+                    {
+                        "text": "2500mg/500ml"
+                    },
+                    {
+                        "text": "20.8"
+                    },
+                    {
+                        "text": "(104)"
+                    },
+                    {
+                        "text": "75-89"
+                    },
+                    {
+                        "text": "2000mg/500ml"
+                    },
+                    {
+                        "text": "20.8"
+                    },
+                    {
+                        "text": "(83)"
+                    },
+                    {
+                        "text": "55-74"
+                    },
+                    {
+                        "text": "1500mg/500ml"
+                    },
+                    {
+                        "text": "20.8"
+                    },
+                    {
+                        "text": "(62)"
+                    },
+                    {
+                        "text": "40-54"
+                    },
+                    {
+                        "text": "1000mg/250ml"
+                    },
+                    {
+                        "text": "10.4"
+                    },
+                    {
+                        "text": "(42)"
+                    },
+                    {
+                        "text": "30-39"
+                    },
+                    {
+                        "text": "750mg/250ml"
+                    },
+                    {
+                        "text": "10.4"
+                    },
+                    {
+                        "text": "(31)"
+                    },
+                    {
+                        "text": "20-29"
+                    },
+                    {
+                        "text": "500mg/250ml"
+                    },
+                    {
+                        "text": "10.4"
+                    },
+                    {
+                        "text": "(21)"
+                    },
+                    {
+                        "text": "<20"
+                    },
+                    {
+                        "text": "250mg/250ml"
+                    },
+                    {
+                        "text": "10.4"
+                    },
+                    {
+                        "text": "(10)"
+                    },
+                    {
+                        "text": "Continuous hemofiltration"
+                    },
+                    {
+                        "text": "1000mg/250ml"
+                    },
+                    {
+                        "text": "10.4"
+                    },
+                    {
+                        "text": "(42)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Infusion volume can be decreased as shown in Table 4a below if fluid restriction is highly essential in peripheral administration, but ensure infusion rate covers 24hours."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "Table 4a: Maintenance Dose via Peripheral administration in Fluid restriction"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "type": "table",
+            "sequence_num": 42,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "CrCl (ml/min)"
+                    },
+                    {
+                        "text": "Vancomycin Daily Dose in sodium chloride 0.9% (5mg/ml)"
+                    },
+                    {
+                        "text": "Infusion rate over 24hrs using a volumetric pump. ml/hr"
+                    },
+                    {
+                        "text": "90-110"
+                    },
+                    {
+                        "text": "2500mg/500ml"
+                    },
+                    {
+                        "text": "20.8"
+                    },
+                    {
+                        "text": "75-89"
+                    },
+                    {
+                        "text": "2000mg/400ml"
+                    },
+                    {
+                        "text": "16.7"
+                    },
+                    {
+                        "text": "55-74"
+                    },
+                    {
+                        "text": "1500mg/300ml"
+                    },
+                    {
+                        "text": "12.5"
+                    },
+                    {
+                        "text": "40-54"
+                    },
+                    {
+                        "text": "1000mg/200ml"
+                    },
+                    {
+                        "text": "8.3"
+                    },
+                    {
+                        "text": "30-39"
+                    },
+                    {
+                        "text": "750mg/150ml"
+                    },
+                    {
+                        "text": "6.3"
+                    },
+                    {
+                        "text": "20-29"
+                    },
+                    {
+                        "text": "500mg/100ml"
+                    },
+                    {
+                        "text": "4.2"
+                    },
+                    {
+                        "text": "<20"
+                    },
+                    {
+                        "text": "250mg/50ml"
+                    },
+                    {
+                        "text": "2.1"
+                    },
+                    {
+                        "text": "Continuous hemofiltration"
+                    },
+                    {
+                        "text": "1000mg/200ml"
+                    },
+                    {
+                        "text": "8.3"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Due to a wide variability in the handling of vancomycin, early analysis of a vancomycin concentration is required to ensure the dosage regimen is appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Take a serum sample level within 12-24hours of starting the continuous infusion, then daily at 06.00hrs or thereabout."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Based on the level result, the daily dose and rate may need to be adjusted according to Table  by the medical staff. Ward based pharmacist should always check the accuracy of vancomycin continuous infusion prescription whenever they are on the ward."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Target steady state concentration range: 15 \u2013 25 mg/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "In severe and/or deep-seated infections, aim for a higher target of 20-25mg/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "If the patient is failing to respond, seek advice from microbiology or an infection specialist."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Patients on continuous hemofiltration: Once dialysis is discontinued, and if vancomycin is still required, vancomycin levels should be taken within 4- 6 hours after hemofiltration ends. This allows adequate time to monitor the patient's handling of the drug post filtration. The new maintenance dose should be based on the post-hemofiltration plasma vancomycin level."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Interpretation of Vancomycin level"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Always check the dosage history and sampling time are appropriate before interpreting the result."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "If the measured level is unexpectedly high or low consider the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Was the right dose administered?"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Was the sample time recorded accurately?"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Was the sample taken from the line used to administer the drug?"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has the renal function declined or improved?"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Does the patient have oedema or ascites?"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If in doubt, consider repeating the level before dose adjustment or contact the site antimicrobial pharmacist / microbiologist for advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Guideline continues on next page"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Dose Adjustments"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Table 5: Recommendations for dose adjustment"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "type": "table",
+            "sequence_num": 63,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Recommendation For Dose Adjustment"
+                    },
+                    {
+                        "text": "Vancomycin Level mg/L"
+                    },
+                    {
+                        "text": "Dose Adjustment"
+                    },
+                    {
+                        "text": "< 15"
+                    },
+                    {
+                        "text": "**Increase the daily dose by 500mg"
+                    },
+                    {
+                        "text": "15-25"
+                    },
+                    {
+                        "text": "If the patient is responding, maintain the present dosage regimen."
+                    },
+                    {
+                        "text": "If level >15 but <20mg In a severely unwell patient or a deep-seated infection, aim for a steady state concentration of 20-25mg/L"
+                    },
+                    {
+                        "text": "Consider increasing dose to the next higher dose in Table 3 or Table 4/4a as appropriate"
+                    },
+                    {
+                        "text": "26-30"
+                    },
+                    {
+                        "text": "**Decrease the daily dose by 500mg"
+                    },
+                    {
+                        "text": ">30"
+                    },
+                    {
+                        "text": "STOP; repeat the level every 12-24hrs until < 25mg/L, then re-start at the next lower dose in Table 3 if given via Central line, or follow Table 4 or 4a for Peripheral line."
+                    },
+                    {
+                        "text": "** If the patient is only receiving 500mg \u2013 750mg /day, the dose should be increased"
+                    },
+                    {
+                        "text": "or decreased by 250mg/day if dose adjustment is required."
+                    },
+                    {
+                        "text": "1000mg dose should also be decreased by 250mg/day if dose reduction is required."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Changing the dose (guidance for nursing staff)"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.1 When vancomycin plasma level is received, this should be recorded on the vancomycin prescription chart with date. Any changes to the dose or rate should also be documented on the chart, signed/authorised by the medical doctor prior to administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2017.0,
+                "text": "Intravenous Vancomycin Use in Adults (Continuous Infusion): Scottish Antimicrobial Prescribing group; January"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Vincent Launay-Vacher, Hassane Izzedine et al. Use of vancomycin in haemodialysis patients. Critical Care 2002, 6:313-316."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broomfield Hospital MicroGuide; Vancomycin continuous infusion guidelines."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Accessed 20th May 2021."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Appendix 1: Ideal Body Weight Table"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "This table can be used to determine the ideal body weight for use in Cockcroft-Gault equation and to verify whether patients are classed as obese (> 20% over ideal body weight)"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "type": "table",
+            "sequence_num": 73,
+            "data": {
+                "num_rows": 22,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Ideal body weight table"
+                    },
+                    {
+                        "text": "Height (feet/ inches)"
+                    },
+                    {
+                        "text": "Height (cm)"
+                    },
+                    {
+                        "text": "IBW (kg) (male)"
+                    },
+                    {
+                        "text": "IBW (kg) (female)"
+                    },
+                    {
+                        "text": "5'0\u201d"
+                    },
+                    {
+                        "text": "1.52"
+                    },
+                    {
+                        "text": "50"
+                    },
+                    {
+                        "text": "45.5"
+                    },
+                    {
+                        "text": "5'1\u201d"
+                    },
+                    {
+                        "text": "1.54"
+                    },
+                    {
+                        "text": "52.3"
+                    },
+                    {
+                        "text": "47.8"
+                    },
+                    {
+                        "text": "5'2\u201d"
+                    },
+                    {
+                        "text": "1.57"
+                    },
+                    {
+                        "text": "54.6"
+                    },
+                    {
+                        "text": "50.1"
+                    },
+                    {
+                        "text": "5'3\u201d"
+                    },
+                    {
+                        "text": "1.60"
+                    },
+                    {
+                        "text": "56.9"
+                    },
+                    {
+                        "text": "52.4"
+                    },
+                    {
+                        "text": "5'4\u201d"
+                    },
+                    {
+                        "text": "1.63"
+                    },
+                    {
+                        "text": "59.2"
+                    },
+                    {
+                        "text": "54.7"
+                    },
+                    {
+                        "text": "5' 5\""
+                    },
+                    {
+                        "text": "1.66"
+                    },
+                    {
+                        "text": "61.5"
+                    },
+                    {
+                        "text": "57"
+                    },
+                    {
+                        "text": "5' 6\""
+                    },
+                    {
+                        "text": "1.68"
+                    },
+                    {
+                        "text": "63.8"
+                    },
+                    {
+                        "text": "59.3"
+                    },
+                    {
+                        "text": "5' 7\u201d"
+                    },
+                    {
+                        "text": "1.70"
+                    },
+                    {
+                        "text": "66.1"
+                    },
+                    {
+                        "text": "61.6"
+                    },
+                    {
+                        "text": "5' 8\u201d"
+                    },
+                    {
+                        "text": "1.73"
+                    },
+                    {
+                        "text": "68.4"
+                    },
+                    {
+                        "text": "63.9"
+                    },
+                    {
+                        "text": "5' 9\""
+                    },
+                    {
+                        "text": "1.75"
+                    },
+                    {
+                        "text": "70.7"
+                    },
+                    {
+                        "text": "66.2"
+                    },
+                    {
+                        "text": "5' 10\""
+                    },
+                    {
+                        "text": "1.78"
+                    },
+                    {
+                        "text": "73"
+                    },
+                    {
+                        "text": "68.5"
+                    },
+                    {
+                        "text": "5' 11\""
+                    },
+                    {
+                        "text": "1.80"
+                    },
+                    {
+                        "text": "75.3"
+                    },
+                    {
+                        "text": "70.8"
+                    },
+                    {
+                        "text": "6' 0\""
+                    },
+                    {
+                        "text": "1.83"
+                    },
+                    {
+                        "text": "77.6"
+                    },
+                    {
+                        "text": "73.1"
+                    },
+                    {
+                        "text": "6' 1\""
+                    },
+                    {
+                        "text": "1.85"
+                    },
+                    {
+                        "text": "79.9"
+                    },
+                    {
+                        "text": "75.4"
+                    },
+                    {
+                        "text": "6' 2\""
+                    },
+                    {
+                        "text": "1.88"
+                    },
+                    {
+                        "text": "82.2"
+                    },
+                    {
+                        "text": "77.7"
+                    },
+                    {
+                        "text": "6' 3\u201d"
+                    },
+                    {
+                        "text": "1.91"
+                    },
+                    {
+                        "text": "84.5"
+                    },
+                    {
+                        "text": "80"
+                    },
+                    {
+                        "text": "6' 4\""
+                    },
+                    {
+                        "text": "1.93"
+                    },
+                    {
+                        "text": "86.8"
+                    },
+                    {
+                        "text": "82.3"
+                    },
+                    {
+                        "text": "6' 5\""
+                    },
+                    {
+                        "text": "1.96"
+                    },
+                    {
+                        "text": "89.1"
+                    },
+                    {
+                        "text": "84.6"
+                    },
+                    {
+                        "text": "6' 6\""
+                    },
+                    {
+                        "text": "1.98"
+                    },
+                    {
+                        "text": "91.4"
+                    },
+                    {
+                        "text": "86.9"
+                    },
+                    {
+                        "text": "6' 7\""
+                    },
+                    {
+                        "text": "2.01"
+                    },
+                    {
+                        "text": "93.7"
+                    },
+                    {
+                        "text": "89.2"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Vancomycin continuous infusion dosing and monitoring in adult patients/ MSEGL-21023/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        }
+    ]
+}

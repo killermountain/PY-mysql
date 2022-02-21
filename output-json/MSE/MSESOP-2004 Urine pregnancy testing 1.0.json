@@ -1,0 +1,2732 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "PROCEDURE FOR URINE PREGNANCY TESTING USING THE SIEMENS CLINITEK STATUS PLUS CONNECT"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-2004"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "MSESOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Ward staff trained in the use of the Clinitek Status Plus for urine pregnancy testing."
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "09 September 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "08 September 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "BS EN ISO 15189 Medical laboratories: Particular requirements for quality and competence BS EN ISO 22870 Point of care testing (POCT): Requirements for quality and competence"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Pathology"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Hope Grey, POCT Team Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2612 Basildon Hospital \u2610 Broomfield Hospital \u2612 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "SUH POCT Committee (Chair) BTUH POCT Committee (Chair)"
+                    },
+                    {
+                        "text": "24 August 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Sarah Mapplebeck, Clinical Biochemist (SUH POCT Committee Chair) Michaela Dowley, Principle Biochemist (BTUH POCT Committee Chair)"
+                    },
+                    {
+                        "text": "24 August 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "08 September 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "September 20"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Sarah Mapplebeck"
+                    },
+                    {
+                        "text": "Consultant Biochemist"
+                    },
+                    {
+                        "text": "24 August 2020"
+                    },
+                    {
+                        "text": "Michaela Dowley"
+                    },
+                    {
+                        "text": "Principle Biochemist"
+                    },
+                    {
+                        "text": "24 August 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Needle stick, sharps and splash injuries policy Decontamination and sterilisation policy Health and Safety policy Policy for management of incidents POCT policy and procedure"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "Newly created: Supersedes the following documents at Basildon Hospital: CP/PC/00067 Standard Operating Procedure for the detection of human chorionic gonadotrophin (hCG) in urine using the Clinitek Status+ urinalysis machine and Southend Hospital CL35 T2 P2 Procedure for urine pregnancy testing using the Clinitek Status Plus Connect"
+                    },
+                    {
+                        "text": "09 September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................. 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions ................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust .................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Instructions for Use .................................................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements ............................................................................................. 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit ................................................................................................ 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and Implementation ................................................................................. 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality Impact Assessment ................................................................................... 15 10 References ................................................................................................................ 15 Appendix 1: Quick Reference Guide \u2013 Clinitek Status+ pregnancy testing. .............. 16 Appendix 2: Ward guide for possible erroneous urine hCG result. ............................ 17 Appendix 3: Preliminary Equality Analysis ................................................................... 18"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.1,
+                "text": "Clinical Relevance/Purpose of the Test"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.1.1 The Clinitek Status Plus and accompanying Clinitest hCG Pregnancy Test cassettes may be used for rapid qualitative detection of hCG in urine to screen for pregnancy in a variety of clinical situations."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.1.2 Human chorionic gonadotrophin (hCG) is a glycoprotein hormone produced by placental trophoblastic cells shortly after the implantation of fertilised ovum in the uterine wall. hCG functions to maintain the corpus luteum, which develops from an ovarian follicle and produces hormones such as progesterone in early pregnancy. The presence of hCG is used as a marker of pregnancy, and it is detectable in urine approximately 7 to 10 days following conception."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.2,
+                "text": "Principle of the Test"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.2.1 The cassette contains anti-hCG antibodies, which react with hCG in the sample (if present) to form a pink line at the test line region. Absence of a pink-coloured line at the test line region indicates a negative result. The built-in control and reference line regions ensure that the test has been completed correctly."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.2.2 The Clinitek Status Plus works by shining the light from six light emitting diodes onto the cassette. The light is reflected off the cassette onto a mirror, and then directed to a detector, where the light intensity is converted into an electronic signal to give the results. The intensity of the reflected light depends upon the presence or absence of the test, reference and control lines"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Point of Care Testing (POCT) is an established part of clinical practice, offering in many instances, rapid and convenient provision of test results that can be of benefit to the patient. It is however, a significant risk management issue for the Trust. Results obtained by non-specialist staff carry as much weight in patient management as results from sophisticated equipment in the care of professional laboratory staff. Incorrect results have the same health and legal implications, whatever their origin."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The purpose of this document is to ensure reliable performance and management of the risks associated with testing outside the main laboratory. This procedure describes correct use of POCT equipment in order to minimise risk to both patient and user, and ensure consistent procedures are in place throughout the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Individuals who have not been trained and competency assessed in the use of the Clinitek Status Plus for urine pregnancy testing are not authorised to use this"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "device. This document has not been written as a substitute for practical training and competency assessment offered by Point of Care Testing, Pathology First."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "type": "table",
+            "sequence_num": 30,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Point of Care Testing (POCT)"
+                    },
+                    {
+                        "text": "The performance of analytical tests on patient specimens outside the laboratory by non-laboratory staff"
+                    },
+                    {
+                        "text": "User"
+                    },
+                    {
+                        "text": "Any individual using a POCT device"
+                    },
+                    {
+                        "text": "Internal Quality Control (IQC)"
+                    },
+                    {
+                        "text": "Internal quality control (QC) is a means of determining that the POCT equipment is technically performing correctly at that specific time and that the patient result is reliable before it is released and acted on."
+                    },
+                    {
+                        "text": "External Quality Assurance (EQA)"
+                    },
+                    {
+                        "text": "External quality assessment (EQA) is a means of determining how a particular POCT device is performing in comparison to similar devices elsewhere."
+                    },
+                    {
+                        "text": "Human Chorionic Gonadotrophin (hCG)"
+                    },
+                    {
+                        "text": "A glycoprotein hormone produced by placental trophoblastic cells shortly after the implantation of fertilised ovum in the uterine wall."
+                    },
+                    {
+                        "text": "Personal Protective Equipment (PPE)"
+                    },
+                    {
+                        "text": "Protective garments or equipment such as plastic aprons and gloves which protect the wearer from injury."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Committees/Teams"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.1 Point of Care Testing Committee is responsible for overseeing and co-ordinating all aspects of the POCT service within their Trust. Clinical Governance for POCT services is provided through the POCT policy. This policy is reviewed and updated every 2 years as a collaborative effort between committees at both SUH and BTUH Trusts."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.2 POCT Operational Team comprises of relevant personnel from Pathology First. Teams should be adequately resourced to enable them to implement and monitor compliance with the POCT policy and procedure. They are responsible for ensuring any recommendations imposed on the service by the committee are carried out."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Role & Responsibilities of Individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.1 Chief Executive/Medical Director/Director of Nursing"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Accountable Officer has overall responsibility for ensuring SUH and BTUH have robust, complete and up to date procedures in place to govern and guide activities so that legal and national requirements are met."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for the implementation of this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2 Pathology Clinical Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Holds the ultimate responsibility for Point of Care Testing as guardian of Clinical Governance."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Advises and arbitrates if necessary if agreement about the introduction of a POCT service cannot be reached."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures guidelines are in place for interpretation of results and further patient management."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.3 Clinical Lead for POCT"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has clinical oversight for Point of Care Testing, liaising between the Trust and Pathology First on matters including current testing protocols and implementation of new equipment/ tests."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Holds the role of Chairperson of the Point of Care Testing Committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reviews POCT EQA and reports upon it."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.4 Heads of Nursing and Midwifery and Matrons"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heads of Nursing and Midwifery and Matrons have a responsibility to ensure correct procedures are followed"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.5 Ward or Departmental Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To take on managerial ownership of any POCT equipment within their area and to ensure that it is maintained and used correctly."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They will ensure the competency of all users of POCT in their area. They will keep records of initial training, competency statements and update training."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If appropriate they will appoint a link person to oversee the day-to-day operation of POCT equipment within their area. The use of a Link Person does not absolve the ward/department manager of full responsibility for POCT"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where there has been an incident involving POCT devices, including inadequate performance or documentation of patient or Quality Assurance results, Ward or Departmental managers will investigate the incident and be responsible for reporting this to POCT. All such incidents should be brought to the attention of the POCT manager and the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any request for new, upgraded or replacement POCT processes must be submitted to the POCT committee for approval. This includes free, trial and loan devices."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.6 Point of Care Testing Link Person"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A Link Person may be designated within a ward/department for the purpose of ensuring the day to day operation of POCT systems, ensuring equipment is functioning and necessary consumables are available. They may provide cascade training, having been trained to a high level of competence, ensuring staff undertaking POCT are suitable to do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.7 Pharmacy"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pharmacy is responsible for standardising, ordering and supplying the majority of POCT consumables as directed by the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.8 POCT Operations Manager & Team Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The POCT service managers monitor the POCT service within each Trust. They ensure that POCT policies and procedures are adhered to and that adequate resources and support from Pathology First are available to facilitate a safe and reliable service."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.9 Clinicians"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To identify areas of clinical need where the introduction of POCT could be appropriate and provide the information necessary for the cost-benefit analysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To approach POCT in the spirit of the policy and not to attempt to introduce new testing without referring to the POCT policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To undertake POCT themselves only after adequate training and certification."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To be familiar with the information provided by and shortcomings of the POCT results that they use for their patient management."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that results of POCT are recorded accurately, unequivocally and safely and that information about tests upon which they base patient management decisions can be retrieved in retrospect."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The responsibility for patient results obtained using POCT and therapeutic decisions based on those results lies with the requesting clinician for the ward/department."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.10 All Users"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The individual conducting the analysis is accountable for the results they generate using POCT devices. They must ensure their POCT training is up to date and that their competence is maintained. It is the responsibility of the user:"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To follow procedures as set out in the documented Standard Operating Procedure, including sample taking and handling, instrument checks and/or Quality Control, recording of results and disposal of consumables."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To undertake and record External Quality Control analysis as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report suspect Quality Control results or possible instrument malfunction immediately to the Link person or person in charge at the time and to stop using the equipment until the matter has been resolved."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report abnormal or suspect patient results to the responsible person immediately"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report adverse incidents related to POCT devices to the Link nurse where used and to the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Instructions for Use"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Health & Safety/COSHH"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 Users must make use of personal protective equipment (PPE) when handling patient samples."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 Waste must be disposed of according to the Trust waste policy and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 The device should be cleaned with Clinell universal sanitising wipes. A decontamination certificate may be issued before servicing and repair as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Special Precautions"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1  To ensure that the Clinitek Status Plus functions properly, ensure the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The analyser should be placed on a level work surface, with temperature between 18 \u2013 30oC"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Only the power supply fitted should be used. If this fails, please contact the POCT Team and do not attempt to rectify yourself."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The instrument should not be used in the presence of flammable agents"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do not allow urine or other liquids to enter the instrument via anywhere other than on the sample table"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do not touch the white calibration bar"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do not manually push in the test table"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Equipment & Special Supplies"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1  This procedure requires:"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Urine container"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinitek Status Plus analyser (supplied by Siemens)"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Siemens Clinitest hCG Pregnancy Test cassette (available from Pharmacy)"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Printer paper (available from Pathology Reception (Southend Hospital) or Pharmacy (Basildon Hospital))."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Reagents, Calibrators and Quality Control Materials"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.4.1  Reagents"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Siemens Clinitest hCG Pregnancy Test cassettes are available from Pharmacy. Each cassette kit contains the test cassette, a disposable pipette and a desiccant sachet. The cassettes must be stored in their individual foil wrapped pouches until immediately before use. Once opened, the cassette should be used immediately (within 5-10 minutes). The cassettes are stored either refrigerated or at room temperature (2 \u2013 30oC). If refrigerated they must be brought to room temperature before use. Do not use past the expiration date printed on the box."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Calibration"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1  No calibration materials are required. The device performs an automated calibration against the white calibration bar with each test."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Internal Quality Control (IQC)"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1 Each Siemens Clinitest hCG Pregnancy Test cassette has two built in controls."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.0,
+                "text": "The control line is an internal positive procedural control, indicating adequate sample volume is used, and that proper flow has occurred. Similarly, the reference line, which has been adjusted to a level approximately  mIU/L hCG, is an internal positive procedural control. In addition, the background in the result window will become clear, providing a distinct readable result, and this may be considered an internal negative procedural control."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.2 If either of the internal positive procedural controls fails, the result will be reported as \u2018Invalid'. In this case the test should be repeated with a new Siemens Clinitest hCG Pregnancy Test cassette."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.3 The Point of Care Testing Team carry out monthly IQC checks on the analyser, testing two samples of known hCG concentration. This checks the performance of the analyser."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "External Quality Assurance (EQA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1  Point of Care Testing obtain External Quality Assurance (EQA) samples on a monthly (BTUH) or bi-monthly (SUH) basis which are distributed to all wards and departments carrying out urine pregnancy testing. These samples are run as if they were patient samples according to 5.6 Instructions for Use: Procedure for Analysing Patient Samples."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Sample Collection and Handling"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 Urine samples should be collected into a clean, dry container."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2 Samples that are very heavily blood-stained or contain particulate matter may give inconsistent test results and should be allowed to settle out before testing where possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.3 For optimal early detection of pregnancy, a first morning urine sample is preferred since it generally contains the highest concentration of hCG. Random urine samples may also be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.4 Samples should be tested within two hours after voiding."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.5 5.5.5  All urine samples should be labelled with adequate patient identification, including full name, date of birth and NHS or Unit number (a PAS label may be used)."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Instructions for Use"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.9.1 Procedure for Analysing a Patient Sample"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "type": "table",
+            "sequence_num": 114,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Users must make use of personal protective equipment (PPE) when handling patient samples."
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Turn over the test table insert if required."
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Select \u2018Cassette Test' on the touch screen."
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Using the barcode reader scan your Point of Care Operator Barcode, once scanned press ENTER."
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "Touch the \u2018Enter New Patient' button and enter the patient's details \uf0b7\uf020Enter Surname (First Field) \uf0b7\uf020Scan or enter the Patient Hospital number (Second field). Then enter the patient's date of birth in the format dd.mm.yy, if required. If a hospital number is not available: \uf0b7\uf020Enter first name (First Field) \uf0b7\uf020Enter Surname and date of birth (ddmmyy), if required. (Second Field)."
+                    },
+                    {
+                        "text": "6"
+                    },
+                    {
+                        "text": "Select Enter new lot and expiration date button and using the barcode reader scan the lot number barcode from the back of the cassette packet. Any out of date cassettes will be flagged on the analyser and will not be allowed to be used."
+                    },
+                    {
+                        "text": "7"
+                    },
+                    {
+                        "text": "Remove the cassette from the pouch and place on the test table."
+                    },
+                    {
+                        "text": "8"
+                    },
+                    {
+                        "text": "Using the plastic pipette supplied with the cassette draw up enough of the urine to fill the stem completely. Any excess urine will be drawn into the bulb reservoir at the top of the pipette."
+                    },
+                    {
+                        "text": "9"
+                    },
+                    {
+                        "text": "Push the \u2018Start' button. This allows you 8 seconds to apply the patient's urine to the sample well in the cassette, before automatically drawing the test table into the machine. DO NOT TRY TO MANUALLY PUSH THE TABLE IN AS THIS WILL DAMAGE THE INSTRUMENT."
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "The test table will automatically be drawn into the analyser and the test will take up to 5 minutes."
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "Review the results and press Done"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Remove the cassette and dispose in clinical waste"
+                    },
+                    {
+                        "text": "13"
+                    },
+                    {
+                        "text": "Dispose of the urine sample in clinical waste"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "5.9.2 These instructions are summarised in a quick user guide in Appendix  The quick user guide may be displayed on the wards where required, however only document controlled, laminated copies distributed by the Point of Care Testing Team are valid."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Recording & Interpretation of Results"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.10.1  Recording Results"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Results are printed onto heat sensitive paper. Therefore, all results must be recorded in the patient's medical record in ink, and include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Date & time of the test"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The test result (e.g. positive, negative or borderline)"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Name of person who carried out the test"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.11,
+                "text": "Reference Ranges"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.1  Healthy men and healthy non-pregnant women do not have detectable hCG levels when using the Clinitest hCG Pregnancy Test."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.12,
+                "text": "Interpretation of Results"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.1 A \u2018Positive' result is generated when the urine hCG level is greater than or equal to 25mIU/L (and the control line is present). Please note that pregnancy can only be confirmed in the light of other clinical information such as clinical and menstrual history, physical examination and ultrasonography."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.2 A \u2018Borderline' result is generated when the urine hCG level is indeterminate (and the control line is present). In this case a blood sample can be sent to the laboratory for \u03b2-HCG or the test repeated on a fresh urine sample obtained 48-72 hours later."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.3 A \u2018Negative' result is generated when the urine hCG level is less than 25mIU/L (and the control line is present)."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.4 An \u2018Invalid' result is generated when a procedural error has occurred, and the control and/or reference line is not present. If an invalid result is obtained, the patient sample should be retested with a new Siemens Clinitest hCG Pregnancy"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.5 Test cassette, ensuring the correct amount of urine sample is added to the cassette."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.6 Results should be interpreted in view of all available clinical information."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.7 If the test result is questionable or if clinical signs and symptoms appear inconsistent with the test result, re-test with a fresh sample or confirm the result by sending a blood sample for \u03b2-hCG to the laboratory."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.13,
+                "text": "Alert/Critical Values"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.1  Results should be escalated to senior staff as appropriate according to local protocols."
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.14,
+                "text": "Limitations"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.1 5.8.1 Potential causes of a false positive result (a positive pregnancy test in a non- pregnant patient):"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Following delivery, spontaneous or medical termination hCG may remain detectable for several weeks"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Low levels of hCG in women of childbearing age are sometimes observed due to a recent pregnancy that has spontaneously aborted (about 22% of pregnancies abort spontaneously, without being detected)"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The use of fertility drugs containing hCG may result in a positive test"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In rare cases men and non-pregnant women may have persistent low levels of hCG"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "hCG may be passively acquired from a blood transfusion"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In trophoblastic disease (e.g. hydatidiform mole, choriocarcinoma) hCG may be produced"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Excessive bacterial contamination (e.g. in UTI) can give spurious results"
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Human anti-mouse antibodies (HAMA) and heterophilic antibodies may interfere with the test and give spurious results"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.2 Potential causes of a false negative result (a negative pregnancy test in a pregnant patient):"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In very early pregnancy the hCG level may be too low to detect"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Very dilute urine samples may dilute hCG to undetectable levels"
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A false negative result may be obtained in a case of ectopic pregnancy"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the sample is old, there may be degradation of hCG"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Excessive bacterial contamination (e.g. in UTI) can give spurious results"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Human anti-mouse antibodies (HAMA) and heterophilic antibodies may interfere with the test and give spurious results"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.3 Samples that are very heavily blood-stained or contain particulate matter may give inconsistent test results and should be allowed to settle out before testing where possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.4 The Siemens Clinitest hCG Pregnancy Test cassette is intended to be used with the Clinitek Status Plus analyser and must not be interpreted visually."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.5 Pregnancy can only be confirmed in the light of other clinical information such as clinical and menstrual history, physical examination and ultrasonography."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "5.14.6 5.8.6  If the test result is questionable or if clinical signs and symptoms appear inconsistent with the test result, re-test with a fresh sample or confirm the result by sending a blood sample for \u03b2-hCG to the laboratory. Wards should follow the protocol for unexpected pregnancy test results, summarised in Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.15,
+                "text": "Maintenance"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.1 It is the ward's responsibility to keep the Clinitek Status Plus socially clean. As required, the test table insert may be removed, rinsed under running water, dried and replaced."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.2 The Point of Care Testing Team carry out non-routine maintenance as and when required."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.16,
+                "text": "Changing Printer Paper"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "type": "table",
+            "sequence_num": 159,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Lift printer cover and open paper roll holder compartment using the appropriate tabs at the rear."
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Pull the lever on right hand edge forward to release the old roll and lift out of holder and discard."
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Push the lever back into original position."
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Remove sticker from the new paper roll and place into holder with the leading edge feeding forward from underneath the roll."
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "Gently feed leading edge of paper into the back of the paper feeder. Paper will be automatically fed through the rollers when in the right position."
+                    },
+                    {
+                        "text": "6"
+                    },
+                    {
+                        "text": "Push feed button to roll the paper on."
+                    },
+                    {
+                        "text": "7"
+                    },
+                    {
+                        "text": "Replace lid and feed paper through the slot. Tear paper to give a straight edge."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.17,
+                "text": "Performance Criteria"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.1 Sensitivity: The Siemens Clintest hCG Pregnancy Test detects urine hCG concentrations of at least 25 mIU/ml."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.2 Specificity: The Siemens Clinitest hCG Pregnancy Test yields negative results when"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "type": "image",
+            "sequence_num": 163,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.3 High Dose Hook Effect: High dose hook effects are not seen with the Siemens Clinitest hCG Pregnancy Test until the urine hCG level exceeds 600,000 mIU/ml, a level two to three times higher than the highest level seen for pregnant individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.18,
+                "text": "Basic Troubleshooting"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Error Message"
+                    },
+                    {
+                        "text": "Probable Cause"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "E24 No printer paper"
+                    },
+                    {
+                        "text": "The printer paper has run out and not been replaced"
+                    },
+                    {
+                        "text": "Replace the printer paper. For instructions see the inside of the printer paper compartment cover, or to view instructions on the display, touch the E24 No printer paper error box."
+                    },
+                    {
+                        "text": "E28 Printer error"
+                    },
+                    {
+                        "text": "The printer paper has been replaced without pushing the paper holding arm down"
+                    },
+                    {
+                        "text": "Lift the printer cover and push the paper holding arm back into position."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 167,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "E67 or E68 Insufficient Sample"
+                    },
+                    {
+                        "text": "A sample flow issue with the cassette test may have been detected. One or more of the test indicator lines may be missing or indiscernible from the background, or not enough sample was applied to the cassette."
+                    },
+                    {
+                        "text": "Repeat the test ensuring the pipette is correctly filled and the correct volume of sample is dispensed into the well of the cassette."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.1 Press and hold the power button to turn the Clinitek Status Plus on and off."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.2 If these measures fail to correct the error, or there are any other issues please contact the Point of Care Testing Team for assistance on ext.6612 (Southend Hospital) or 8382 (Basildon Hospital)."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The test should only be carried out by a trained member of staff. Each staff member"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "accepts responsibility for ensuring the quality of all monitoring carried out by themselves. The staff member must ensure their Clinitek Status Plus training is updated and that their competence to perform tests on this instrument is maintained. Practical training and competence assessment is available via the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "All Clinical Unit managers are responsible for monitoring the Clinitek Status+ machine in their area. They must ensure that the standard operating procedure is followed on a day to day basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The POCT team will perform audit on the use of the Clinitek Status+ machines and report their findings to the appropriate Clinical Unit Manager, Matron and governance leads. A copy will also be sent to the Director of Nursing, Infection control, Risk and Litigation and the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "type": "table",
+            "sequence_num": 176,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Equipment Accuracy & Precision"
+                    },
+                    {
+                        "text": "IQC"
+                    },
+                    {
+                        "text": "Point of Care Testing"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "POCT Committee"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "Equipment Accuracy & Precision"
+                    },
+                    {
+                        "text": "EQA"
+                    },
+                    {
+                        "text": "Point of Care Testing"
+                    },
+                    {
+                        "text": "Bi-monthly"
+                    },
+                    {
+                        "text": "POCT Committee"
+                    },
+                    {
+                        "text": "Ward Manager/ POCT Team Manager"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 177,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Equipment Cleanliness"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Point of Care Testing"
+                    },
+                    {
+                        "text": "Annually"
+                    },
+                    {
+                        "text": "POCT Committee"
+                    },
+                    {
+                        "text": "Ward Manager/ POCT Team Manager"
+                    },
+                    {
+                        "text": "An audit of pregnancy test results reported to POCT team as false positives or false negatives"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Clinical Unit Managers and POCT"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "POCT Team"
+                    },
+                    {
+                        "text": "POCT Committee"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All policies, procedures and guidelines will be approved by the Point of Care Testing Committee and Pathology Clinical Governance Committee, which is the specialist group with the authority to approve local documents. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "It is the author's responsibility to inform the service users of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Siemens Clinitek Status Plus User Manual"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Siemens Clinitek Status Connect System User Manual"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BS EN ISO 15189 Medical laboratories: Particular requirements for quality and competence"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BS EN ISO 22870 Point of care testing (POCT): Requirements for quality and competence"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix  1:  Quick  Reference  Guide  \u2013  Clinitek  Status+  pregnancy testing."
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "type": "table",
+            "sequence_num": 190,
+            "data": {
+                "num_rows": 30,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Put on gloves."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Cassette test must be performed before the"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Multistix strip test."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Switch on and insert test table with cassette upwards."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Select Cassette Test."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Operator ID, scan your POCT barcode,then press enter (bottom right of the screen)."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Select \u2018Enter New Patient' and enter patient's"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "surname ONLY and press enter."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Enter the Patient ID then press enter."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Select Clinitest hCG cassette."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Select \u2018Enter cassette lot number' and scan the"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "barcode on the back of the cassette packet."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Prepare sample and open the cassette pouch and"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "place onto test table."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Using the supplied pipette draw up urine to fill stem."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Select \u2018Start' to begin 8 second count down."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Apply urine to test well."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Table will automatically be drawn in."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Do not push in manually!"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Test takes up to 5 mins to give result."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Results will be displayed on screen and printed."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Dispose of cassette and urine into orange bag."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reset the test table into strip test mode."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Ward guide for possible erroneous urine hCG result."
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If the urine pregnancy test result does not fit with the clinical picture and is considered incorrect, please check the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "type": "image",
+            "sequence_num": 193,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has  this  sample  been  collected  in  an  appropriate container?"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "type": "image",
+            "sequence_num": 195,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check/clean the calibration bar and retest same sample with a new cassette on the same analyser"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "KEEP THE URINE SAMPLE"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "type": "image",
+            "sequence_num": 198,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Perform a urine dip test"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure sample is kept in a labelled white top universal container (Patient Hospital Number & Surname required)"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Request a blood hCG test from Laboratory"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "type": "image",
+            "sequence_num": 202,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Keep the urine sample for investigation"
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact Point of Care immediately on"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "type": "image",
+            "sequence_num": 205,
+            "data": {
+                "url": "MSESOP-2004 Urine pregnancy testing 1.0.012.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "BTUH Ext. 8382 or email poct@btuh.nhs.uk"
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "SUH Ext. 6612 or email POCT@southend.nhs.uk"
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Report incident on Trust reporting system against Pathology First (not your ward area)."
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Please give the following information:"
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Hospital Number and Surname / Date of test/ Ward / Details of query"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procedure for urine pregnancy testing using the siemens clinitek status plus connect / MSESOP-2004 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procedure for urine pregnancy testing using the siemens clinitek status plus connect / MSESOP-2004 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Procedure for urine pregnancy testing using the siemens clinitek status plus connect / MSESOP-2004: (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "type": "table",
+            "sequence_num": 216,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 217,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Format of SOP changed to new, harmonised MSE format for implementation at Southend and Basildon hospitals"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "SOP requires review."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Ward staff. Single operating procedure across sites ensures common processes in place for those working between sites."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No, procedure already in place. Change in format."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes. See pages 1 and 2."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 218,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "28 August 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If you have identified any negative impact in the preliminary analysis above, please request and complete the full Equality Impact Assessment (EIA) from Document Control."
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        }
+    ]
+}

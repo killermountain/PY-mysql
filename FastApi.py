@@ -3,7 +3,7 @@ from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import FileResponse
 import os
 import uvicorn
-from searchquery import searchDocs
+from searchquery import searchDocs, searchElements, GetKeywords
 from connDB import MySQLDB
 
 # pip install python-multipart
@@ -44,11 +44,28 @@ def getjson(filename: str):
 def getjson(query: str):
     global documents, docs_count, last_doc_id
     
-    results = searchDocs(query, documents, docs_count, last_doc_id, top_x=5)
+    conn_db = MySQLDB()
+    query_keys = GetKeywords(query)
+    results = searchDocs(query_keys, documents, docs_count, last_doc_id, conn_db, top_x=5)
+    
+    if len(results["matches"]) < 1:
+        return {"Oops!":"No document found."}
+    
     documents = results["docs"]
     docs_count = results["docCount"]
     last_doc_id = results["docLastID"]
-    return results["matches"]
+    
+    # return results["matches"]
+    search_results = {}
+    search_results["docs"] = results["matches"]
+    elements = searchElements(query_keys, results["matches"].keys(), conn_db)
+    if len(elements) < 1:
+        return {"Not Found":"No Element found with the given keyword(s)."}
+    
+    search_results["Elements"] = elements
+    return search_results
+    
+    return {"number of matches":len(elements), "data":elements}
 
 @api.post("/uploadfile/")
 async def create_upload_file(uploaded_file: UploadFile = File(...)):

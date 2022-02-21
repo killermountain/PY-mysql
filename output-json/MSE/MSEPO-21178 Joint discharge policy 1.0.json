@@ -1,0 +1,2226 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21178 Joint discharge policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document title:"
+                    },
+                    {
+                        "text": "MANAGEMENT OF JOINT DISCHARGE FROM MID AND SOUTH ESSEX NHS FOUNDATION TRUST"
+                    },
+                    {
+                        "text": "Document reference/register no:"
+                    },
+                    {
+                        "text": "MSEPO-21178"
+                    },
+                    {
+                        "text": "Version number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff involved in the planning and management of patient discharge"
+                    },
+                    {
+                        "text": "Ratification issue date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "26 October 2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "25 October 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Joint discharge"
+                    },
+                    {
+                        "text": "Developed in response to: (National guidance/recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Combination of existing Joint Discharge Policy (Southend Hospital NHS Trust, Basildon and Thurrock University Hospital, Broomfield Hospital); The Care Act 2014; Hospital discharge and support action cards October 2021; Hospital discharge and community support: policy and operating model 2021."
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12, 17"
+                    },
+                    {
+                        "text": "Care group/division:"
+                    },
+                    {
+                        "text": "Care Group 4"
+                    },
+                    {
+                        "text": "Division 9"
+                    },
+                    {
+                        "text": "Author/contact: (asset administrator)"
+                    },
+                    {
+                        "text": "Charmaine Duce"
+                    },
+                    {
+                        "text": "Head of Integrated Discharge"
+                    },
+                    {
+                        "text": "Hospital sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval group/ committee(s):"
+                    },
+                    {
+                        "text": "Control Centre and Integrated Care Divisional Governance & Performance Meeting"
+                    },
+                    {
+                        "text": "19 October 2021"
+                    },
+                    {
+                        "text": "Professionally approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Michelle Stapleton"
+                    },
+                    {
+                        "text": "Director of Operations, Care Group 4"
+                    },
+                    {
+                        "text": "20 October 2021"
+                    },
+                    {
+                        "text": "Ratification group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "26 October 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-21178 Joint discharge policy 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and clinical directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "October 2021"
+                    },
+                    {
+                        "text": "Distribution method:"
+                    },
+                    {
+                        "text": "\u2612Trust Intranet"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted with: (Must include specialist pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Charmaine Duce"
+                    },
+                    {
+                        "text": "Head of Integrated Care"
+                    },
+                    {
+                        "text": "18 October 2021"
+                    },
+                    {
+                        "text": "Dan Turner"
+                    },
+                    {
+                        "text": "General Manager"
+                    },
+                    {
+                        "text": "18 October 2021"
+                    },
+                    {
+                        "text": "Michelle Stapleton"
+                    },
+                    {
+                        "text": "Director of Operations, Care Group 4"
+                    },
+                    {
+                        "text": "18 October 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Integrated Care Divisional Governance and Performance Group"
+                    },
+                    {
+                        "text": "19 October 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust documents (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSE Patient Choice Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document review history:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Charmaine Duce"
+                    },
+                    {
+                        "text": "26 October 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "the management of joint discharge"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Process and pathways .................................................................................................. 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Community health service providers (see appendix 1) ................................................. 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "MSE bridging service .................................................................................................. 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Discharge requirements for specific patient groups .................................................... 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Transport and the discharge lounge ........................................................................... 14  Training requirements ................................................................................................. 15  Monitoring and audit ................................................................................................... 15  Approval and implementation ..................................................................................... 16  Preliminary equality analysis ...................................................................................... 16  References ................................................................................................................. 16 Appendix 1: Hospital discharge and community support: policy and operating model ....... 17 Appendix 2: Hospital discharge and community support: staff action cards ...................... 18 Appendix 3: Discharge to assess process ......................................................................... 19 Appendix 4: Preliminary equality analysis .......................................................................... 20"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The Management of Joint Discharge from Mid and South Essex NHS Foundation Trust Policy ensures a safe, timely and effective discharge process for all patients admitted to hospital. Discharge planning must involve both patients and carers and reflect their needs and concerns. The Patients and carers needs must be comprehensively assessed using a multi- disciplinary team (MDT) centred approach. The objective is to ensure the timely discharge of patients from hospital into an appropriate environment in which they can maintain their independence as long as possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The Care Act 2014 states that Local Authorities and relevant partners must co- operate when exercising any respective functions which are relevant to care and support. For example, Local Authorities may share information with other partners, or provide staff, services or other resources to improve co-operation (ref: Section 15 of Care Act 2014)."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The discharge to assess model has been implemented since March 2020 with an intention to support more people to be discharged to their own home. Health and social care systems are expected to build on this work during the first half of 2021- 22 to embed discharge to assess across England as the default process for hospital discharge during the funded period."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Through a combination of embedding the discharge to assess model and utilising the national discharge fund, there is an expectation that performance continues to reduce the length of stay for people in acute care, to improve people's outcomes following a period of rehabilitation and recovery, and minimise the need for long- term care at the end of a person's rehabilitation."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "This policy does not relate to the transfer of patients between wards and departments, as this is covered in the Transfer policy CM-58 (Clinical handover of care)."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Facilitate the safe, timely and effective discharge of patients from hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure planned continuity of care, for patients on discharge from hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To define good practice for minimal delays in transfers of care for patients from acute hospital beds."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that inappropriate admissions are prevented with flexible alternatives being available in the community."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure the sharing of information with carers / Next of Kin (NOK) with the patients consent, taking into account the issue of confidentiality (Principles of the Caldicott Guardian manual 2010 \u2013 Hospital Intranet)."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure the principles of the Care Act 2014 are embedded throughout the policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure Hospital discharge and community support: policy and operating model 2021 is embedded."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that the destination environment is appropriate and fit-for purpose, prior to transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that all appropriate consumables and equipment are identified and arranged to support the discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To minimise the risk of people being returned to hospital as a result of a failed discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "type": "table",
+            "sequence_num": 38,
+            "data": {
+                "num_rows": 25,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "MFD"
+                    },
+                    {
+                        "text": "Medically Optimised for Discharge (prev medically \u201cfit\u201d)"
+                    },
+                    {
+                        "text": "CCG"
+                    },
+                    {
+                        "text": "Clinical Commissioning Group"
+                    },
+                    {
+                        "text": "CHC"
+                    },
+                    {
+                        "text": "Continuing Healthcare"
+                    },
+                    {
+                        "text": "CSM"
+                    },
+                    {
+                        "text": "Clinical Site Manager"
+                    },
+                    {
+                        "text": "DN"
+                    },
+                    {
+                        "text": "District Nurse"
+                    },
+                    {
+                        "text": "DNAR"
+                    },
+                    {
+                        "text": "Do Not Attempt Resuscitation"
+                    },
+                    {
+                        "text": "DoH"
+                    },
+                    {
+                        "text": "Department of Health"
+                    },
+                    {
+                        "text": "DOLS"
+                    },
+                    {
+                        "text": "Deprivation of Liberty"
+                    },
+                    {
+                        "text": "D2A"
+                    },
+                    {
+                        "text": "Discharge To Assess"
+                    },
+                    {
+                        "text": "EOL"
+                    },
+                    {
+                        "text": "End of Life (Community Electronic register)"
+                    },
+                    {
+                        "text": "ED"
+                    },
+                    {
+                        "text": "Emergency department"
+                    },
+                    {
+                        "text": "EDD"
+                    },
+                    {
+                        "text": "Expected Discharge Date"
+                    },
+                    {
+                        "text": "ICS"
+                    },
+                    {
+                        "text": "Integrated Care Systems"
+                    },
+                    {
+                        "text": "IDT"
+                    },
+                    {
+                        "text": "Integrated Discharge Team"
+                    },
+                    {
+                        "text": "IMCA"
+                    },
+                    {
+                        "text": "Independent Mental Capacity Advocate"
+                    },
+                    {
+                        "text": "MDT"
+                    },
+                    {
+                        "text": "Multidisciplinary Team"
+                    },
+                    {
+                        "text": "MCA"
+                    },
+                    {
+                        "text": "Mental Capacity Act"
+                    },
+                    {
+                        "text": "MCA 2"
+                    },
+                    {
+                        "text": "Mental Capacity Act Assessment form 2 (to assess for mental capacity in a patient that may lack capacity to make serious decisions on their change of accommodation.)"
+                    },
+                    {
+                        "text": "MCA 3"
+                    },
+                    {
+                        "text": "Mental Capacity Act Assessment form 3 (to assess for mental capacity in a patient that may lack capacity on medical treatment decisions)"
+                    },
+                    {
+                        "text": "NOK"
+                    },
+                    {
+                        "text": "Next of kin"
+                    },
+                    {
+                        "text": "TTA"
+                    },
+                    {
+                        "text": "To Take Away \u2013 relating to medication"
+                    },
+                    {
+                        "text": "Simple discharge"
+                    },
+                    {
+                        "text": "Simple discharges include patients who will usually be discharged to their own home, have simple on-going care needs that do not require complex planning and delivery"
+                    },
+                    {
+                        "text": "Complex discharge"
+                    },
+                    {
+                        "text": "Complex discharge relates to patients who will be discharged from hospital and have complex on-going health and / or social care needs. The complex patients will require detailed assessment, and planning by the multi- disciplinary team."
+                    },
+                    {
+                        "text": "Fast track"
+                    },
+                    {
+                        "text": "When a patient has a rapidly deteriorating condition and is entering the terminal phase of their illness, with an increased level of dependency i.e. patients approaching the end of their life. The Fast Track paperwork enables funding for care from CCG without delay."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Individual responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Chief Executive:"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has overall responsibility and accountability for ensuring that the Trust meets its obligations in respect of maintaining appropriate standards of patient discharge. Delegates the responsibility for monitoring and compliance to the Chief Nurse and Medical Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Ward Level:"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinically led review of all people at morning board round. If the person does not need an acute bed, as per the criteria to reside prompt (see Annex A) but cannot be safely discharged, use an improvement approach to identify the gaps in services requiring development."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Twice daily review of all people in acute beds to agree whose care needs can be provided in an alternative facility (including home), safely and with confidence."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure professional and clinical leadership between nursing, pharmacy, medicine and allied health professions for managing decisions and reducing delays in discharging people."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Hospital discharge teams:"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Arrange dedicated staff to support and facilitate hospital discharge. This will include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.0,
+                "text": "Making arrangements to transport people home from hospital. This should be via family/carers, voluntary sector, or taxi and, only as a last resort, non- emergency patient transport services (NEPTS); Hospital Discharge and Community Support: Policy and Operating Model"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "Local voluntary sector and volunteering groups helping to ensure people are supported (where needed) actively for the first  hours after discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring people have full information about the next steps of their care."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring \u2018settle in' support is provided where needed."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In conjunction with local care home providers, develop trusted assessment arrangements to facilitate the prompt return of their own residents after a hospital stay."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Hospital Acute Therapy teams:"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Limited assessments for discharge should be undertaken within a ward or other hospital setting / designated therapy assessment area."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assessments of care needs should instead take place in non-acute settings (mainly in people's homes)."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acute therapists should assess people for short-term care needs to aid recovery in their own home / usual place of residence at the request of the Transfer of Care Hub and agree a recovery and support plan with the person including reablement and equipment."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assessments should be trusted assessments and should therefore be accepted by any receiving care providers (a universal document to be used across acute and community services should be agreed)."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Hospital clinical and managerial leadership team:"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Create safe and comfortable discharge spaces for people to be transferred to from all ward areas."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain timely and high-quality transfer of information to Primary Care and all other relevant health and care professionals on all people discharged."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain provision for senior clinical staff to be available to support ward and discharge staff with appropriate risk-management and clinical advice arrangements."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Engage with Integrated Care System (ICS) and regional colleagues to support clinical and medical leaders in implementing discharge to assess processes and culture."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Closely monitor hospital discharge performance data to ensure discharge arrangements are operating effectively and safely across the system, and a high proportion of people on the discharge list achieve a same-day discharge to the most suitable destination for their needs."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Ensure that, as part of daily ward rounds, timely and accurate data is collected and submitted to the Acute Daily Discharge Situation Report, as described in Section  It is important this is a clinically driven data collection."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure a live list is available for all agencies to work from and include those suitable for discharge; the number and percentage of people on the list who have left the hospital, and reason of delay for those unable to be discharged in a timely way."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "See Appendix 2 for DoH guidance for responsibilities of health and care staff in the hospital discharge process."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Process and pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "The discharge to assess model (see Appendix 3) has been implemented since March 2020 with an intention to support more people to be discharged to their own home. Health and social care systems are expected to build on this work during the first half of 2021 to 2022 to embed discharge to assess across England as the default process for hospital discharge during the funded period."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Through a combination of embedding the discharge to assess model and utilising the national discharge fund, there is an expectation that performance continues to reduce the length of stay for people in acute care, to improve people's outcomes following a period of rehabilitation and recovery, and minimise the need for long- term care at the end of a person's rehabilitation."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Urgent community response and intermediate care to deliver extra support in a person's own home where possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If another care setting is required, the end point is to get people home as soon and as safely as possible. For those admitted to an acute hospital, 95% are expected to be discharged home as default. The discharge to assess model sets out 4 pathways:"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Discharge to assess model \u2013 The discharge to assess pathways model is based on 4 clear pathways for discharging people, as shown below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pathway 0"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Simple discharge home."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No new or additional support is required to get the person home or such support constitutes only:"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pathway 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Able to return home with new, additional or a restarted package of support from health and/or social care. This includes people requiring intensive support or 24- hour care at home."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Every effort should be made to follow Home First principles, allowing people to recover, reable, rehabilitate or die in their own home."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pathway 2"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recovery, rehabilitation, assessment, care planning or short-term intensive support in a 24-hour bed-based setting, ideally before returning home"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pathway 3"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For people who require bed-based 24-hour care: includes people discharged to a care home for the first time plus existing care home residents returning to their care setting."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Those discharged to a care home for the first time will have such complex needs that they are likely to require 24-hour bedded care on an ongoing basis following an assessment of their long-term care needs."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Community health service providers (see appendix 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Providers of community health services should work closely with other system partners to facilitate timely discharge of people, particularly for pathways 1, 2 and  As part of this they should:"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Have an easily accessible contact within the transfer of care hub who will always accept referrals from staff in the hospital and source the care requested, in conjunction with local authorities."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deliver enhanced occupational therapy and physiotherapy 7 days a week in a person's home; rehabilitation ward or care home in line with the person's care plan."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor the effectiveness of reablement and rehabilitation, with local authority partners as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use multi-disciplinary teams on the day a person goes home from hospital, to assess and arrange packages of support."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure provision of equipment to support discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure people on pathways 1 to 3 are closely tracked and followed up regularly to ensure their care support is appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "take part in assessing the long-term needs of an individual at the end of the period of recovery."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain a focus on supporting timely onward transition of care for people receiving care in community beds (rehab and short-term care) and support them with reablement and rehabilitation packages in home settings following their discharge from a 24-hour bedded unit."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Collect and submit data on the delivery of services to the Community Services Data Set (CSDS)."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use the Capacity Tracker tool for identifying the bed capacity in community rehabilitation bed providers."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For people identified as being in the last days or weeks of their life, the transfer of care hub will be responsible for co-ordinating liaison with primary care, community services and community palliative care services to co- ordinate and facilitate rapid discharge to the person's home or a hospice."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Community Palliative Care teams will continue to co-ordinate and facilitate prompt discharge to home or hospice. End-of-life care, including palliative care, must continue to be personalised and planned in a holistic way involving the person themselves and their families, social care, community nursing, general practice, occupational therapy, and others."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Adult social care services"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As part of implementing the discharge to assess model, local authorities are asked to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Agree a single lead local authority or point of contact arrangement for each hospital site, ensuring each acute trust and single local co-ordinator for local discharge to assess pathways has a single point to approach when co- ordinating the discharge of all people, regardless of where that person lives."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work with partners to co-ordinate activity with local and national voluntary sector organisations to provide services and support to people requiring support around discharge from hospital and subsequent recovery."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Care packages for those discharged (including commissioning of care home beds) should be jointly commissioned; and the local authority should be the lead commissioner unless otherwise agreed between the CCG and the local authority."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As outlined in the Care Act, take the lead on local care market shaping, including contracting responsibilities (for example, expanding the capacity in domiciliary care, and reablement services in the local area)."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work with CQC and other regulators to ensure safeguarding and quality of care, advising NHS colleagues where action is needed to make provision safe or alternatives are needed."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Engage local housing authority services to provide housing support and advice for persons requiring housing assistance on discharge from hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "Specific responsibilities for adult social care:"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify an executive lead for the leadership and delivery of the discharge to assess model."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Make provision for Care Act assessments of need, financial assessments and longer-term care planning to take place following discharge, after a period of recovery and rehabilitation."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure expert social work staff can contribute to hospital based multidisciplinary discussions and decision making occurring before discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure social care expertise is a central part of the process to determine the long-term care needs of and with people following a period of recovery and rehabilitation and that they are fully aware of their options and the implications of each choice."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Safeguarding activities should continue to take place in a hospital setting if necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide social care capacity to work alongside local community health services via the transfer of care hub."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Support real time communication between the hospital and the single point of contact, not just by email."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide capacity to review care provision and change if necessary, at an appropriate point in line with good practice and legal responsibilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Organise any needed isolation capacity for people who do not meet the criteria to remain in hospital, in the event that they require to be discharged to a care home but are unable to be isolated \u2013 in line with designated settings guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where it appears to a local authority that a carer may have needs for support (whether currently or in the future), the authority must assess to identify needs to be considered."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work closely with community health providers and local resilience for a over the provision of equipment, such as PPE."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where possible, support 7-day working for community social care teams (commissioned by local authorities)."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deploy adult social care staff flexibly to support best outcomes for people. This can include support to avoid any immediate bottlenecks in arranging step down care and support in the community, and at the same time focus on maintaining and building capacity in local systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work with system partners \u2013 CCGs, trusts and ICSs/STPs \u2013 to ensure appropriate data collection and that its use supports the best outcomes for individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.4,
+                "text": "Healthcare commissioners"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCGs supported by ICSs need to support the co-ordination of activities set out in this framework. Specifically, they must:"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work in partnership to plan and commission sufficient provision to meet the needs of the population based on home first discharge to assess principles."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work in partnership to co-ordinate local financial flows for post-discharge care and support, including monitoring all local spend and co-ordinating local funding arrangements."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCGs should follow processes under the discharge to assess arrangements, detailed above in section 3, to identify when it is necessary to complete an NHS CHC checklist."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Continue to build on recent learning and commissioning arrangements for community palliative care services optimising the best use of all available financial resources including those currently allotted to CHC fast track. Enabling community palliative care services to provide palliative and end-of- life care for those people transferring to, or already in, the community requiring care and support within their own home or a hospice."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Continue to promote the use of the Capacity Tracker tool for care homes, hospices and community rehabilitation bed providers. They should ensure that the operational potential of domiciliary and residential capacity trackers is realised, by their use in health and care system wide discharge planning and that the effectiveness of reablement and rehabilitation is monitored."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that providers of relevant community services are submitting data to the Community Services Data Set (CSDS) on a monthly basis, as they are legally and contractually mandated to do."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work with system partners \u2013 CCGs, trusts and ICSs/STPs \u2013 to ensure appropriate data collection and that its use supports the best outcomes for individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.5,
+                "text": "Social care providers"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As part of implementing the discharge to assess model, social care providers are asked to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Residential and nursing homes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to separate specific guidance for care home providers on admission and care of residents in a care home during COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Accept people only when they have been discharged with a COVID-19 test result and when it safe to do so. People being discharged to a care home"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "(except those with a historical positive test within the previous 90 days) must be tested for COVID-19 within  hours prior to discharge. The result will determine transfer to either a designated setting (if positive and within  days of first positive test result) or care home (if negative) and will be communicated prior to discharge. Irrespective of discharge setting and test result, residents will undergo  days of isolation in total. See further guidance on designated settings for people discharged to a care home, alongside stepdown infection control guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain capacity and identify vacancies that can be used for hospital discharge purposes, utilising the Capacity Tracker tool to share information with partner organisations."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where Trusted Assessment relationships and arrangements are not in place with acute providers, rapidly work with the discharge team to implement these approaches."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If providing reablement or rehabilitation, then monitor and share the effectiveness of that service."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.6,
+                "text": "Domiciliary care providers:"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify capacity to adult social care contract leads that can be used for hospital discharge purposes or follow on care from reablement services."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure sufficiency of PPE and COVID-19 testing, the ability to isolate and that assessment and care planning for the future are in place (for example, by ensuring all providers know who to contact to get help, and that robust workforce contingency plans ensure continuity of care)."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If providing reablement or rehabilitation, then monitor and share the effectiveness of that service."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "MSE bridging service"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The MSE Bridging Service (MSEBS) provides patient-centred domiciliary care for patients following discharge from acute hospital, community hospital or in response to a crisis to avoid an admission. The MSEBS enables patients who would otherwise be waiting for the reablement/domiciliary care provider to start, and occupying an acute bed in the meantime, to be discharged in a timelier manner thus increasing hospital bed capacity, reducing delays and improving flow."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The MSEBS sits within Care Group 4 of MSEFT and is led by a management team of multi-disciplinary professions, within the department of Integrated Care, who hold a wealth of diverse experience across health and social care. The Operational Lead and Service Manager are responsible for all daily operations and escalation management. Our team of Flow Coordinators cover the service 8am-10pm, 7 days a week managing all patient referrals, scheduling visits, liaising with Adult Social Care/Hospital wards and support our team of HCAs with any issues/queries. All face-to-face care is provided by our team of healthcare assistants up to 4 times a day, between 7am-10pm, 7 days a week"
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Discharge requirements for specific patient groups"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Learning disability patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Referrals should be made to the Learning Disability Nurse specialist to assist with discharge planning (Refer to the Policy for the care of adults with a learning disability and / or Autistic Spectrum Disorder CM-53)."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Homeless patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All people who are homeless or at risk of homelessness should be determined on admission to hospital. During the hospital stay the person should be referred by acute hospital staff to local authority homelessness or housing options teams, under the requirements of the Homelessness Reduction Act (2017). This duty to refer ensures that services are working together effectively to prevent homelessness by ensuring that peoples' housing needs are considered when they come into contact with public authorities."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "Private and overseas patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The advice of the Private and Overseas patients clerk is followed who can be contacted via switchboard. It is the responsibility of all staff to ensure these details are known on admission."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Transport and the discharge lounge"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "Discharge Unit"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patients who are transferred to the Discharge Unit must meet with the following criteria:"
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Documented in the medical notes that the patient is medically optimised for discharge from hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Able to sit up in an armchair, or wait on a bed whilst waiting for transport."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dressed in outdoor clothes where possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NB Home oxygen does not exclude suitability for the unit, as this is available in the Discharge Unit and will be monitored by a trained nurse."
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There is close observation of patients in the unit with a trained nurse and therefore some confused patients are able to be closely monitored."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The following patients are not suitable for transfer to the Discharge Unit:"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The suitability of confused patients should be discussed between the named nurse and the Discharge Unit staff nurse on an individual basis, and will depend upon the dependency of the current patients in the Unit."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "End of life."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Transfers to other hospitals."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.2,
+                "text": "Hospital Discharge Transport"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital transport is provided for medical need, and each transport services have a criteria for booking. The criteria's are available on staff net."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is essential that are staff is able to assess the correct transport for patients leaving hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients that are able to make their own was home from hospital should do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "Weight (bariatric require  hours' notice)."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Regular training will be carried out as part of the role of the Integrated Discharge Teams \u2013 this includes both ward led and as part of induction to the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "type": "table",
+            "sequence_num": 175,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsiblfor the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring e activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Discharge Requirements"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "IDT"
+                    },
+                    {
+                        "text": "Quarterly"
+                    },
+                    {
+                        "text": "Governance"
+                    },
+                    {
+                        "text": "Head of Integrated Discharge"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "All policies, procedures and guidelines will be approved by the Control Centre and Integrated Care Divisional Governance and Performance Team, which is the specialist group with the authority to approve local discharge guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "It is the author's responsibility to inform the Integrated Care Divisional Governance and Performance Team of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 4)"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Care Act 2014"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital discharge and support action cards October 2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital discharge and community support: policy and operating model 2021 Transfer policy CM-58"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Principles of the Caldicott Guardian manual 2010"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Homelessness Reduction Act (2017)"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Hospital discharge and community support: policy and operating model"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital discharge and community support: policy and operating model (publishing.service.gov.uk)"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Hospital discharge and community support: staff action cards"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "https://www.gov.uk/government/publications/hospital-discharge-service-action-cards"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Discharge to assess process"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "type": "image",
+            "sequence_num": 193,
+            "data": {
+                "url": "MSEPO-21178 Joint discharge policy 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Joint discharge policy / MSEPO-21178 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Joint discharge policy / MSEPO-21178 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix4: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Joint discharge policy / MSEPO-21178 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "type": "table",
+            "sequence_num": 199,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 200,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Full review and merge of three Trusts separate policies"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "Due to merger of three Trusts"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and clinicians"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 201,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Charmaine Duce"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Head of Integrated Discharge"
+                    },
+                    {
+                        "text": "19 October 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        }
+    ]
+}

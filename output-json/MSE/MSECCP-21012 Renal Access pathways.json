@@ -1,0 +1,424 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Mid & South Essex NHS Foundation Trust \u2013 XXX Site Only (if applicable)"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 8,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSECCP-21012"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "05/10/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "04/10/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "MSE Kidney Governance Board"
+                    },
+                    {
+                        "text": "30/09/2020"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "05/10/2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "MSE EMERGENCY, URGENT AND ELECTIVE RENAL ACCESS RENAL ACCESS PATHWAYS"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction and context"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Patients presenting with Renal Access issues may require input from a number of specialties including ED, Renal, Vascular and Interventional Radiology."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Ensuring consistency of care and practices is important to ensure patients receive equitable access to care, regardless of which MSE site they present and to ensure all clinicians who are impacted by the pathways are clear on their roles and responsibilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "These pathways have been agreed through extensive stakeholder consultation. Vascular, Renal and IR clinicians and lead nurses have met monthly since October 2020 to co- produce these MSE pathways of care."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "This document presents agreed consistent MSE in-hospital pathways as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency pathway for bleeding fistula"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Urgent Clotted / non-dialysable fistula \u2013 and referral"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Urgent failing / dysfunctional fistula"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Urgent PD catheter issue (blocked, infected, migrated)"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Standardised elective pathway for fistula and PD catheter insertion"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "The following pathways can also be found in slide deck formats:"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix A: MSE standardised Renal Access elective pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix B: MSE Emergency and Urgent Renal Access pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Elective Renal Access pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "All patients should be booked as day cases unless they meet the exceptions"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "type": "image",
+            "sequence_num": 19,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 20,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Emergency and Urgent Renal Access Pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Emergency Bleeding Fistula pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "type": "image",
+            "sequence_num": 23,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Contact Details"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "type": "image",
+            "sequence_num": 25,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Clotted / Non-Dialysable Fistula"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "If a patient is a candidate for IR salvage, a referral form to IR must be completed and returned \u2013 see page 6."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Patients remain under the care of Renal"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "type": "image",
+            "sequence_num": 29,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Dialysis Fistula / Graft Salvage Consultant to Consultant Referral Form"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "This must be completed."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "type": "image",
+            "sequence_num": 32,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.006.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "MSE Fistula Maintenance Pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "type": "image",
+            "sequence_num": 35,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.008.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "MSE PD Catheter Issue"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "type": "image",
+            "sequence_num": 37,
+            "data": {
+                "url": "MSECCP-21012 Renal Access pathways.009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A: Click here to access the MSE standardised Renal Access elective pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B: Click here to access the MSE Emergency and Urgent Renal Access pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C: Click here to access the Dialysis Fistula Graft Salvage Referral Form to IR"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency, urgent and elective dialysis access pathways / MSECCP-21012/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        }
+    ]
+}

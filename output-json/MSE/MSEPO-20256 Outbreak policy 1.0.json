@@ -1,0 +1,2623 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "POLICY FOR THE MANAGEMENT OF INFECTION CONTROL OUTBREAKS"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEPO-20256"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "22 December 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "21 December 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations Hygiene Code"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Harm Free Care"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Emma Dowling, Head of Nursing Infection Prevention and Control MSE"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Infection Prevention and Control Committee: Basildon Hospital IPCC Broomfield Hospital IPCC Southend Hospital IPCC"
+                    },
+                    {
+                        "text": "06 October 2020 14 August 2020 06 October 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dawn Patience, Director Harm Free Care"
+                    },
+                    {
+                        "text": "06 October 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "15 December 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "January 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Judith Holdsworth"
+                    },
+                    {
+                        "text": "Lead Nurse IPC Broomfield Hospital"
+                    },
+                    {
+                        "text": "14 August 2020"
+                    },
+                    {
+                        "text": "Edith Mahachi"
+                    },
+                    {
+                        "text": "Lead Nurse IPC Basildon Hospital"
+                    },
+                    {
+                        "text": "06 October 2020"
+                    },
+                    {
+                        "text": "Rachel Johnson"
+                    },
+                    {
+                        "text": "Associate Director for Harm Free Care"
+                    },
+                    {
+                        "text": "06 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Control and Management of Clostridium difficile (C diff) Medical Equipment Decontamination Infection Prevention and Control Strategy Isolation Policy Policy for carbapenemase producing enterobacteriaceae (CPE) Policy for Hand Decontamination Policy for management and control of diarrhoea and vomiting due to Norovirus and other viral enteric infections Policy for the Control, Prevention and Treatment of Influenza Policy for the prevention and control of multi-resistant gram negative bacilli (including ESBL'S and Acinetobacter species) Prevention and Management of Meticillin Resistant Staphylococcus aureus (MRSA) Standard Precautions Visiting and the restriction of flowers and pot plants"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/ Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Emma Dowling"
+                    },
+                    {
+                        "text": "22 December 2020"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Definition of an Outbreak .............................................................................................. 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Training Requirements ............................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit ................................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Approval and Implementation ..................................................................................... 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality Impact Assessment ....................................................................................... 13 10 References ................................................................................................................. 13 Appendix 1: Outbreak Managment Policy Suimmary Page ...............................................14 Appendix 2: Nosocomial COVID outbreak on the wards ..................................................14 Appendix 3: Management of patient with COVID-19 in main bay......................................15 Appendix 4: Management of an Outbreak of COVID-19 Patients and / or Staff...... ..........16 Appendix 5: Preliminary Equality Analysis ........................................................................ .18"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The Trust has an obligation to manage any outbreak of infection or significant incident to prevent spread and protect patients, staff and visitors .The impact of outbreaks on the NHS is extensive and it is important that measures to reduce transmission and control outbreak do not have a negative impact on patients and their visitors. Outbreaks will occur from time to time and prompt action will protect patients, staff and the public from infection."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Each incident is unique. However, certain arrangements in every case are necessary and these will be applicable to surveillance, investigation, management and control of infection."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Suspected outbreaks must be reported to the Infection Prevention and Control Team (IPCT) as soon as possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this policy is to provide staff who work in the clinical areas of the Trust with a robust framework to enable them to effectively control and manage an outbreak situation. The specific aims of the policy are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure staff are able to appropriately identify an outbreak situation;"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure all relevant parties are informed of the outbreak situation;"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To control the spread of infection;"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To deal with the incident."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Term"
+                    },
+                    {
+                        "text": "Definition"
+                    },
+                    {
+                        "text": "CCDC"
+                    },
+                    {
+                        "text": "Consultant in Communicable Disease Control"
+                    },
+                    {
+                        "text": "CCG"
+                    },
+                    {
+                        "text": "Clinical Commissioning Group"
+                    },
+                    {
+                        "text": "DIPC"
+                    },
+                    {
+                        "text": "Director of Infection Prevention and Control"
+                    },
+                    {
+                        "text": "HCW"
+                    },
+                    {
+                        "text": "Health Care Worker"
+                    },
+                    {
+                        "text": "IPCC"
+                    },
+                    {
+                        "text": "Infection Prevention and Control Committee"
+                    },
+                    {
+                        "text": "IPCN"
+                    },
+                    {
+                        "text": "Infection Prevention and Control Nurse"
+                    },
+                    {
+                        "text": "IPCT"
+                    },
+                    {
+                        "text": "Infection Prevention and Control Team"
+                    },
+                    {
+                        "text": "OCT"
+                    },
+                    {
+                        "text": "Outbreak Control Team \u2013 OCT"
+                    },
+                    {
+                        "text": "PHE"
+                    },
+                    {
+                        "text": "Public Health England"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "The Infection Prevention and Control Committee (IPCC) is responsible for the review of this policy at least every two years, but more frequently if there are changes to Infection Prevention and Control Legislation or guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Chief Executive is Responsible for ensuring that there are effective arrangements for infection prevention and control, including outbreak management across the MSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Director of Infection Prevention and Control (DIPC) is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deciding whether an outbreak exists, the extent of the outbreak and the action(s) required, including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determine whether an OCG needs to be convened. This will be based on the number of affected cases, the pathogenicity and potential for spread in the affected area;"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To guide the OCG in the instigation of a major outbreak plan if required (arrangements to control the outbreak will be managed by the ORG);"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review of the outbreak plan in the light of lessons learned from outbreak."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Infection Control Doctor and Consultant Microbiogist/Virologist are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determining whether an OCG needs to be convened and discuss with the DPIC. This will be based on the number of affected cases, and the potential for spread in the affected area (The DPIC Infection Control Doctor/Consultant Microbiologist will have the responsibility to convene OCG meeting, to co-ordinate and chair the ORG);"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the absence of the DIPC, guiding the OCG in the instigation of a major outbreak plan if required (arrangements to control the outbreak will be managed by the OCG);"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting outbreaks to Public Health ENGLAND, via the CCDC."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "The Infection Prevention and Control Team (IPCT):"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Verifying that there is an outbreak of infection;"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determining the extent of the outbreak and initiate measures to determine the source and cause;"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting the outbreak via the Trust reporting system;"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Performing a baseline observational audit of the affected area at an early stage where appropriate;"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Collection of relevant information on affected patients/staff;"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Advice on control measures to be used for affected patients;"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regular communication with appropriate staff and external agencies;"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring of agreed control measures;"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Attendance at OCG;"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Giving adequate notice to Domestic Service Manager when a final clean is required;"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alerting staff to the need to implement additional actions to contain an outbreak;"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supporting Ward/Departmental Sister/Charge Nurse with the management of an outbreak and associated actions."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.6,
+                "text": "Matrons:"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Attending the OCG if their clinical area is affected;"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing implementation of advice given by IPCT;"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure staff comply, if required, with the request for screening in a timely manner;"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Managing staffing levels on wards;"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring adequate supplies of equipment are available;"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring ward staff receive appropriate support;"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Facilitating cleaning of the area prior to re-opening."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.7,
+                "text": "Ward/Departmental Sister/Charge Nurse:"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alerting the IPCT to any potential outbreak of infection;"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Attending the OCG if their ward is affected;"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing the implementation of control measures as advised by the OCG;"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure staff comply, if required, with the request for screening in a timely manner;"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supporting staff on ward/department;"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Facilitating cleaning of the area prior to re-opening;"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that staff members in their area are aware of this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Facilitating education on the content of this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting any breaches to this policy via the Trust incident reporting and directly to the IPCT."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.8,
+                "text": "Clinical Site Managers to ensure there is no inappropriate movement of patients unless there is an urgent clinical need."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.9,
+                "text": "Domestic Service Manager:"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that cleaning staff are appropriately trained in the enhanced cleaning required during outbreaks;"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure domestic staff comply if required with the request for screening in a timely manner;"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In conjunction with the matrons, organise extra domestic staff for a ward with restrictions in place, when there are insufficient ward assistant to carry out the enhanced cleaning;"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Co-ordinate staff to undertake the terminal cleans of the restricted area (s) prior to it re-opening, and oversee the terminal clean process."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Managers:"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical managers (consultants, managers, and clinical departmental managers) are responsible for ensuring the work performed by the staff they are supervising is performed in accordance with this policy. This follows the usual lines of professional accountability;"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure staff comply if required with the request for screening in a timely manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.12,
+                "text": "Occupational Health:"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identifying staff contacts (for COVID Outbreak management please see Appendix 2);"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confirming suitability of individual members of staff to work in affected areas;"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Liaison with the IPCT where required;"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring progress of staff absent due to illness and advice on return to work;"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintaining Occupational Health database."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.12,
+                "text": "Head of Communications has responsibility for the clarification of the need to supply statements to the press and the content of statement with the Chair of the Outbreak Control Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.13,
+                "text": "Clinical Governance Advisors to ensure the incident is reported appropriately internally and externally."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.14,
+                "text": "Staff:"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff are responsible for ensuring that they follow this policy. They are also responsible for ensuring that any infection prevention risks or other issues they identify are referred to their line manager (or to the appropriate person if the issue is outside of their own area);"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Comply with the request for screening, if required, in a timely manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Definition of an outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "An outbreak may be defined as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "An incident affecting two or more people thought to have a common exposure to a potential source, in which they experience similar illness or proven infection;"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A rate of infection or illness above the expected rate for that place and time, where spread is occurring through cross infection, or person-to-person;"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A single case of certain diseases such as diphtheria, rabies, poliomyelitis or viral haemorrhagic fever, may lead to initiation of the major outbreak plan, although not technically an outbreak."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Minor outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1  A minor outbreak is one that can normally be investigated and controlled within the resources  of  the  hospital  and  approached  microbiology  laboratory.  In  a  minor outbreak, an Outbreak Control Team may not be convened but investigation and management of the outbreak."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Major Outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1  A major outbreak is defined as one which:"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A two or more cases, or multiple cohorts of cases are affected;"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The organism involved is unusually pathogenic. There is a potential for transmission to large numbers of people (e.g. widespread distribution of food product, public water supply or point source affecting large numbers)."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "type": "table",
+            "sequence_num": 103,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Examples of major outbreaks/infectious incidents"
+                    },
+                    {
+                        "text": "Examples of outbreaks of limited extent"
+                    },
+                    {
+                        "text": "Foodborne salmonella outbreak in hospital"
+                    },
+                    {
+                        "text": "Cluster of diarrhoea cases on a ward/unit"
+                    },
+                    {
+                        "text": "Hospital acquired tuberculosis"
+                    },
+                    {
+                        "text": "Cluster of MRSA cases on a ward/unit"
+                    },
+                    {
+                        "text": "Hospital acquired legionnaires disease"
+                    },
+                    {
+                        "text": "Cluster of cases of scabies on a ward/unit"
+                    },
+                    {
+                        "text": "Diarrhoea and/or vomiting on multiple wards/units"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Hospital acquired COVID-19"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Investigation of a suspected outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.4.1 It is essential that any member of clinical staff report their suspicions to the IPCT promptly during working hours. Out of hours staff should contact the Clinical Site Manager via switchboard. It does not matter if investigation subsequently shows an outbreak is not occurring, however the implications of delay may be serious."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.2 The IPCT will take immediate steps to arrange the collection of information from all sources to determine whether an outbreak is occurring. This will include the number of individuals affected, symptoms, likely source and mode of spread. Information gathered will allow an assessment of the severity of the problem and initiation of immediate control measures. If it is found that no outbreak has been identified, ward staff will be reassured and care taken to ensure that they not discouraged from further reporting in the future."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Action to be taken if outbreak identified"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.5.1 Minor outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.2 A minor outbreak will normally be managed by the IPCT. The initial assessment will determine if an Outbreak Control Group (OCG) needs to be convened."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Outbreak Control Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1 The exact composition of the group will vary from outbreak to outbreak depending on the nature and location of the outbreak .Led by the DIPC, the group may include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Infection Control Doctor;"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Director of Infection Prevention and Control (DIPC);"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consultant Microbiologist/Virologist;"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate members if the IPCT;"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ward Manager from affected area;"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Nursing/Matron from affected area;"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "PHE representative;"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCG representative."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.2 The outbreak control group will be chaired by the DIPC/ ICD .At the meeting, all the relevant information will be presented and an action plan drawn up. The ICD/ Consultant Microbiologist/Lead Nurse Infection Control will be responsible for when the outbreak is closed."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "Major outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1  The IPCT /Consultant Microbiologist / ICD/ DIPC will determine whether the outbreak constitutes a \u2018major outbreak'. This will be based on a number of criteria, including the number of cases, the pathogenicity of the organism, its potential for spread within the hospital and community and the likely overall impact of the outbreak on the Trust and surrounding area."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Major Outbreak Control Group (MOCG)"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 If the decision is made that the outbreak is major, a MOCG is immediately convened by the DIPC .Led by the DIPC the MOCG should include the following core members:"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Director of Infection Prevention and Control (DIPC) (Chair);"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Medical Director (or representative);"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Relevant Clinicians;"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Director of Operations/ Chief Operating Officer;"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Director of Nursing or Deputy Director of Nursing;"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Free Care Director or Deputy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCG;"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency Planning Liaison Officer;"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Safety Manager;"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consultant Microbiologist/Virologist;"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Infection Prevention and Control Lead Nurse;"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Infection Prevention and Control Team;"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consultant in Communicable Disease Control (CCDC) or deputy (Public Health England Essex Health Protection Team);"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Nursing Quality and General Manager of affected units;"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Service Manager of the affected area(s);"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Associate Director of Nursing for the affected area;"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Matron for the affected area(s);"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ward Manager of affected area(s);"
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Occupational Health and Wellbeing representative;"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Director of Nursing or Deputy Director of Nursing;"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Domestic Services Manager (or representative);"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Estates and Facilities Manager (or representative);"
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Communications (or representative);"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Administration Support."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2 Other individuals who may be invited to attend by the Chair:"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regional Epidemiologist;"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pharmacy Manager;"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assistant General Manager, Clinical Sciences;"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procurement Manager;"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Environmental Health Officer;"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "General Practitioner;"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ambulance Service."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Function of the MOCG:"
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Agree a case definition;"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Establish the extent of the outbreak through active case finding;"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all affected patients/staff are being optimally treated;"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clarify the resources implications of the outbreak and its management and how they will be met, including additional laboratory nursing, medical and clinical staff;"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Agree and co-ordinate decisions on investigations and control of the outbreak. Allocate responsibility to specific individuals who will be then accountable;"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider the need for outside support from PHE, Regional Epidemiologist, CCG;"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure adequate communications;"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide clear written instructions / information for ward staff;"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Agree arrangements for providing information to patients, relatives and victors;"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Meet frequency, usually daily and review progress on investigation and control. Written agendas with minutes and action log produced."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "End of the Outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.1 The OCG /MOCG will decide when the outbreak is over/ closed. A report will be prepared by the Infection Prevention & Control Team and circulated to members of the outbreak team and others as appropriate. The management of the incident will be reviewed and any lessons learnt communicated to the Outbreak Control Team and other relevant parties."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "COVID-19 Outbreak control process and management"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Definition of a COVID-19 Outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Although there are technically three categories for determining potential healthcare acquired cases, for the purposes of defining an outbreak NHSI/E advise that only probable and definite cases of will be considered as below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Identifying an Outbreak of COVID-19"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "6.2.1 An outbreak of COVID-19 is defined as two or more cases occurring within the same ward/ environment within  days of each other .This can be either patient or staff cases."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.2 The outbreak control process must be initiated when two or more cases are identified."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.3 COVID-19 is a notifiable organism. Public Health England (PHE) is made aware of cases via the laboratory reporting process."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.4 The IPCT will inform the Senior Leadership Team and then escalate information about their outbreak to PHE, the CCG and NHSE/I as soon as they are aware of the details of the potential outbreak."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "Management of COVID Outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.3.1  Follow established outbreak control methodology for managing an outbreak (refer to Appendix 3), in addition:"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff contacts will be identified and managed in line with the national and NCA test and trace processes, and local occupational health processes (refer to Appendix 2);"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regular outbreak meetings will take place where minutes are recorded and"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "at the end of the outbreak a report is provided, in line with established PHE"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "guidance on outbreak management;"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There is evidence that the Infection Prevention and Control Board Assurance Framework is completed (organisational responsibility);"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Lessons learned are collated and disseminated within MSE and regionally;"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There is evidence that risk assessments have been undertaken for black and"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "minority ethnic (BAME) staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Training will be in accordance with the Mandatory Training Policy and Training Needs Analysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "type": "table",
+            "sequence_num": 192,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectivenes s being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsibl e for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Compliance of processes and measures followed"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "IPCT"
+                    },
+                    {
+                        "text": "Following an outbreak"
+                    },
+                    {
+                        "text": "Infection Prevention and Control Committee"
+                    },
+                    {
+                        "text": "Lead Nurse IPCT"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8 .1 All policies, procedures and guidelines will be approved by the MSE Infection"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prevention and Control Committees the specialist group with the authority to approve local policies and guidelines). These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "It is the author's responsibility to inform the Director of Harm Free Care of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 5)"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Department of Health. 2015. Health and Social Care Act 2008. Stationary Office. London."
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Department of Health. 2010. Health protection legislation guidance 2010. Stationary Office. London."
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Public Health England (PHE). 2014. Communicable Disease Outbreak Management: Operational Guidance https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/3437 23/12_8_2014_CD_Outbreak_Guidance_REandCT_2__2_.pdf."
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Public Health (Control of Disease) Act. 1984. http://www.legislation.gov.uk/ukpga/1984/22"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Public Health (Infectious Diseases) Regulation. 1988. http://www.legislation.gov.uk/uksi/1988/1546/contents/made."
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2002.0,
+                "text": "The Watt Group Report.  A review of the outbreak of salmonella at the Victory Infirmary. http://www.scotland.gov.uk/Publications/2002/10/15658/12310."
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Reporting of Injuries, Diseases and Dangerous Occurrence Regulations (RIDDOR) 2013 (as amended)."
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Health and Safety at Work Act 1974. The Management of Health and Safety at Work Regulations 1999 (as amended)."
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1:"
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Outbreak Management Policy Summary Page"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "type": "image",
+            "sequence_num": 211,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is only to be used as a summary. See full policy for detailed advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "OUTBREAK SUSPECTED"
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "type": "image",
+            "sequence_num": 214,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ward staff to contact"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Infection Prevention  Out of hours \u2013 inform and Control Team  CSM who will liaise (IPCT)  with IPCT /"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Microbiologist on call"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IPCT to investigate suspected outbreak"
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Major outbreak  Minor outbreak  No outbreak suspected  suspected  identified"
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "type": "table",
+            "sequence_num": 220,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Major Outbreak Control Group to be convened by the DIPC"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Minor Outbreak Control Group to be convened by the DPIC"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No further action required"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2:"
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NOSOCOMIAL  COVID  OUTBREAK  ON  THE  WARDS  AND  THE  NEED  FOR  STAFF SWABBING"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Occupational Health and IPC response"
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nosocomial COVID outbreak on the ward that involves 2 or more patients or staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "type": "image",
+            "sequence_num": 225,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IPC team to identify ward and ascertain facts of the nosocomial outbreak once it is agreed as an outbreak, undertake the risk assessment to identify staff groups and update OH with the details and name of clinical contact who will be point of contact"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OH to liaise with clinical contact (Matron) with outline of plan to identify all staff and a timescale to work towards"
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact name for Drs contact"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact name for Therapies"
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact name for domestic services"
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact name for support services, phlebotomy, pharmacy etc"
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once staff have been identified, OH will create a spreadsheet to record staff swabs and results. Each identified contact name (listed )above is responsible for ensuring that staff members arrange to have their swabs taken with the clinical contact overseeing this"
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff to contact OH to arrange swabbing via 3591 or occhealth@btuh.nhs.uk. They should not just \u2018turn up'. Options will include;"
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Attending OH at an allocated time slot for oral and nasal swabs (check swab type)"
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OH to attend ward or department at arranged time with Contact name identified above"
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Swab will be taken by another nurse on the ward as arranged by OH"
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Swab dates will be populated on the spreadsheet by OH and the results will be checked each day by Duty nurse. Staff will be notified of all negative results by email. For any positives results;"
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OH will contact individual and inform them of the PHE guidance, they must refrain from work for 7 days and household members must self-isolate for 14 days"
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OH will contact Infection control for report and for IPC to complete RA of their working environment"
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Infection control will update OH whether any further contact tracing is required for staff members who have not yet been identified"
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OH Site lead will produce stats for daily outbreak meeting to include"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Number of staff swabbed and not swabbed on each ward \u2013 broken down to include staff role"
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overall % of staff swabbed"
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "ApNpumenbedrix of ident:  ified positive"
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "List of staff not yet been swabbed will be sent to each Contact name identified above. It is for those contacts to chase"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3:"
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "type": "image",
+            "sequence_num": 247,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.006.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4:"
+            },
+            "type": "ListItem",
+            "sequence_num": 248
+        },
+        {
+            "type": "image",
+            "sequence_num": 249,
+            "data": {
+                "url": "MSEPO-20256 Outbreak policy 1.0.007.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Policy for the management of infection control outbreaks / MSEPO-20256/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 251
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Policy for the management of infection control outbreaks / MSEPO-20256/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Policy for the Management of Infection Control Outbreaks/MSEPO-20256 (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 254
+        },
+        {
+            "type": "table",
+            "sequence_num": 255,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 256,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "To make three separate policies into one."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To ensure a consistent approach across the MSE"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Everyone as this is a uniform approach"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 257,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Emma Dowling"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Head of Infection Prevention and Control"
+                    },
+                    {
+                        "text": "08 December 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        }
+    ]
+}

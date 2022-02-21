@@ -1,0 +1,529 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "PSD Patient Specific Direction"
+                    },
+                    {
+                        "text": "PART 1 - Individual Patient assessment to assist the creation of Patient Specific Direction for the administration ofMODERNA COVID-19 Vaccine"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date of Assessment Patient Details"
+            },
+            "type": "ListItem",
+            "sequence_num": 2
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-20252 Appendix 18 Patient specific direction Moderna COVID 19 vaccine 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of birth"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Full Name"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Home address"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Postcode"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Please ask the person presenting for vaccination these questions and record that they have received appropriate counselling as to the purpose of the vaccine and side effects"
+                    },
+                    {
+                        "text": "Are you less than 18 years of age?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Have you had any vaccination in the last 7 days?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Are you currently unwell with fever?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Have you ever had any serious allergic reaction to any ingredients of the COVID-19 vaccines, drug or other vaccine?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Have you ever had an unexplained anaphylaxis reaction?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Are you, or could you be Pregnant? Refer to Greenbook, Chapter 14a for further guidance"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Are you or have you been in a trial of a potential coronavirus vaccine? Refer to Greenbook, Chapter 14a for further guidance"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Are you taking anticoagulant medication, or do you have a bleeding disorder? Refer to Greenbook, Chapter 14a for further guidance"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Do you currently have any symptoms of COVID-19 infection?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Have you previously completed a course of COVID-19 vaccination?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Has patient consented to vaccination?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If any of the boxes in red or orange are ticked, then a further review by the prescriber must take place."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The prescriber should be aware of the MHRA Conditions of authorisation the vaccine's contraindications together with the advice from JCVI. Please also refer to the relevant chapter in the Green Book \u2013 Chapter 14a. https://www.gov.uk/government/publications/covid-19-the-green-book-chapter-14a"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Full Name of Assessor"
+                    },
+                    {
+                        "text": "Signature of Assessor"
+                    },
+                    {
+                        "text": "Registration Number"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "PSD Patient Specific Direction"
+                    },
+                    {
+                        "text": "PART 2 - Patient Specific Direction (PSD) for the administration ofMODERNA COVID-19 Vaccineto Adults by Non prescribers suitably trained in Vaccination"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The patient named below is eligible to receive Moderna COVID-19 vaccine in accordance with Public Health England Immunisation against infectious disease (Green Guide) and JVCVI recommendations for the purpose of protection against COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "type": "table",
+            "sequence_num": 11,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Patient Details"
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of birth"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Full Name"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 12,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Prescription"
+                    },
+                    {
+                        "text": "ONE DOSE OF COVID-19 Vaccine MODERNA 100 micrograms in 0.5mls by Intra-Muscular injection."
+                    },
+                    {
+                        "text": "ONE Anaphylaxis shock pack to be administered if necessary in the event of anaphylactic shock, following the anaphylactic algorithm printed on the pack."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 13,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Full Name of Prescriber"
+                    },
+                    {
+                        "text": "Signature of Prescriber"
+                    },
+                    {
+                        "text": "Registration Number"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 14,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Record of administration"
+                    },
+                    {
+                        "text": "Vaccination site"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Batch Number and expiry date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Anatomical site of vaccination"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Advice given"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reason for exclusion (if applicable) / further assessment details (if applicable)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Details of any adverse reactions and action taken"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This PSD will expire within 7 days of signature"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "type": "table",
+            "sequence_num": 16,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Full Name of Vaccine Administrator"
+                    },
+                    {
+                        "text": "Signature of Administrator"
+                    },
+                    {
+                        "text": "Registration Number"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "COVID-19 Vaccine Handling and Management Policy: Appendix 18 / MSEPO-20252 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "type": "image",
+            "sequence_num": 18,
+            "data": {
+                "url": "MSEPO-20252 Appendix 18 Patient specific direction Moderna COVID 19 vaccine 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Department of Pharmacy  Page  of   Version 1.0, 25/06/21"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        }
+    ]
+}

@@ -1,0 +1,2913 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "MOBILE DEVICES & REMOTE ACCESS POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "18008"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Trust Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th12 September 2018"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th11 September 2021"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "IG Toolkit General Data Protection Regulation (GDPR) Best Practice"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "Regulation 12 \u2013 Safe care and treatment Regulation 15 \u2013 Premises and Equipment Regulation 17 \u2013 Good governance"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Kate Thompson, Interim Governance and Performance Manager Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "MEHT BTUH SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Digital Services Review by Subject Matter Experts Digital Services Performance & Accountability Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "04 June 2018 14 June 2018"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Alan Tuckwood Head of Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "14 June 2018"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "21st August 2018"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "Date: September 2018"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "MSB Group, Head of Information Governance,"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Daniel Oliver"
+                    },
+                    {
+                        "text": "MSB Group, Cyber Security Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Adam Osborne"
+                    },
+                    {
+                        "text": "SHUFT, IT 3rd Line Team Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Matt Poxon"
+                    },
+                    {
+                        "text": "SHUFT, IT Communications Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Steve Whittle"
+                    },
+                    {
+                        "text": "BTUH, Head of IT Operations"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Perry Reynolds"
+                    },
+                    {
+                        "text": "BTUH, Head of IT Infrastructure"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Sam Howlett"
+                    },
+                    {
+                        "text": "BTUH, Deputy IT Operations Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Nicky Shaw"
+                    },
+                    {
+                        "text": "BTUH, IT 1st Line Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Barry Stannard"
+                    },
+                    {
+                        "text": "MEHT, IT Operations Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    },
+                    {
+                        "text": "Jon Clark"
+                    },
+                    {
+                        "text": "MEHT, IT Infrastructure Manager"
+                    },
+                    {
+                        "text": "04 June 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Related Trust Policies (to be read in conjunction with)"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Mid Essex Hospital NHS Trust  \uf02d  04029 - Disciplinary Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "05010 - Medical Photography Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "07011 - Confidentiality & Data Protection Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "07012 - Information Governance Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "07014 - Freedom of Information Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "08088 - Acceptable Use of IT Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "09023 - IT Anti-Virus & Malware Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "09034 - IT Systems Monitoring Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "09036 - Password Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "13017 - ICT Security Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Southend  University  Hospital  NHS  \uf02d  IS01 - Information Security Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Foundation Trust  \uf02d  IS09 - Data Protection and Code of Confidentiality Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IS21 - Access Control Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IS30 - IT Security Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IS44 - Policy for Visual and Audio Recording of Patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IC016 - Infection Control Strategy"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "HS07 - Manual Handling Policy Procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "RM10 - Incident and Serious Incident Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "PP06 - Disciplinary Guidance Notes"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon and Thurrock University Hospitals  \uf02d  Storage of Electronic Personnel Files"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NHS Foundation Trust  \uf02d  Health Records Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Governance Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Governance Strategy"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Incident Reporting Policy and Procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procedures for Applying and Authorisation of Portable/Teleworking Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "type": "table",
+            "sequence_num": 30,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Kate Thompson"
+                    },
+                    {
+                        "text": "Initial draft created to replace the following policies: MEHT 09098 Laptop Security 09021 Remote Working Policy 11061 Removable Media 08064 Encryption SUFHT IS37 Mobile Devices Policy BTUH IM/PO/00022 Mobile Working / Teleworking Policy IM/PC/00016 Transferring Information & Use of Portable Medical/Devices Procedure"
+                    },
+                    {
+                        "text": "12th September 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Index  Introduction ........................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology ............................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles & Responsibilities ...................................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements .......................................................................................... 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements ....................................................................................... 18"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit ............................................................................................. 18"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References .......................................................................................................... 19"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA) ..................................................................... 19"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment (EIA) .................................................................... 19 Appendix 1: Remote Working - Health and Safety Responsibilities ........................ 20 Appendix 2: Examples of Mobile Devices .................................................................. 22 Appendix 3: Quality Impact Assessment ................................................................... 23 Appendix 4: Equality Impact Assessment ................................................................. 24"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.1. The use of mobile IT devices, electronic data storage or remote access is essential to obtain the maximum benefits from information and data held and managed electronically however, if not properly managed, it can introduce serious risks."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.2. The purpose of this document is to outline the Trust's Policy for the Use of Mobile Devices capable of receiving, storing or accessing electronic records/systems and the Remote Access facilities provided for access from outside the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.3. Given the private and confidential nature of information that can legitimately be accessed on a day to day basis security is of primary concern."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.4. This policy covers:"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "the use of all Trust owned and managed mobile electronic computing and storage devices issued to by the Trust IT Directorate"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Storage devices of any ownership e.g. USB sticks; portable hard drives etc., that are required to connect to Trust IT equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "general remote access to Trust systems from mobile devices and home computers."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access arrangements for approved third parties."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "2.1. This policy applies to employees, contractors, business consultants, temporaries, and other workers, including all personnel affiliated with third parties of Mid Essex Hospital NHS Trust, Southend University Hospital NHS Foundation Trust, and Basildon and Thurrock University Hospitals NHS Foundation Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "2.2. The remainder of this document is will define how users will be issued and should use mobile devices, including removable media in order to carry out their role. It will also outline how users can apply for and, following approval, can gain remote access to Trust systems where it is deemed appropriate for their role."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "2.3. This policy defines the conditions of use and the expectation of staffs conduct whilst undertaking Trust business."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "type": "table",
+            "sequence_num": 55,
+            "data": {
+                "num_rows": 27,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "The \u201cTrust\u201d"
+                    },
+                    {
+                        "text": "This should be in reference to the individual Trust that the employee is employed by. Trusts referred to include Mid Essex Hospital NHS Trust, Southend University Hospital NHS Foundation Trust, and Basildon and Thurrock University Hospitals NHS Foundation Trust."
+                    },
+                    {
+                        "text": "The \u201cGroup\u201d"
+                    },
+                    {
+                        "text": "This refers to the Mid Essex, Southend & Basildon Trusts as they are starting to come together to form a Group model of service delivery. Also sometimes referred to as the MSB Group."
+                    },
+                    {
+                        "text": "BYOD"
+                    },
+                    {
+                        "text": "Bring Your Own Device. In the consumerisation of IT, BYOD is a phrase that has become widely adopted to refer to employees who bring their own computing devices (such as smartphones, tablets and laptops) to the workplace for use and connectivity to a corporate network to access corporate information and applications. The term is also used to refer to the deployment of consumer devices within organisations that remain in the ownership of the organisation."
+                    },
+                    {
+                        "text": "BYOD Device"
+                    },
+                    {
+                        "text": "A consumer orientated mobile device that maybe either the personal property of a member of staff, or Trust issued to meet a specific business need."
+                    },
+                    {
+                        "text": "Citrix XenApp"
+                    },
+                    {
+                        "text": "A technology used to enable to run applications without having them installed on the local device. Instead the client is installed within a secure data centre and all application processing happens within the data centre with only screen refreshes, key presses and mouse movements being transmitted to the local devices (via a Citrix XenApp client)."
+                    },
+                    {
+                        "text": "E-mail"
+                    },
+                    {
+                        "text": "Throughout this document the term e-mail is taken to include any form of electronic text based communication used in the conduct of Trust business e.g. instant messaging solutions, approved Webmail systems etc."
+                    },
+                    {
+                        "text": "Mobile Electronic Records Storage Devices"
+                    },
+                    {
+                        "text": "These are summarised as follows: Mobile Computers \u2013 Notebooks, Laptops and Tablet devices that run a full operating system (e.g. Windows 7. Apple OS X etc.) Smartphone's \u2013 Mobile phones with Email and data storage capability Tablets \u2013 Mobile touchscreen slates that run a mobile operating system (e.g. Apple iOS, Android etc.) Removable storage media \u2013 This includes all forms of removable media that are approved for use"
+                    },
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "with Trust IT systems such as CDROM disks, DVD disks, USB Memory sticks, etc."
+                    },
+                    {
+                        "text": "Mobile Electronic Records Storage Systems"
+                    },
+                    {
+                        "text": "These are summarised as follows: Email \u2013 Electronic Mail Remote Access Systems \u2013 Web based applications, Dial up and broad band links to Trust Systems."
+                    },
+                    {
+                        "text": "PII/PID/PCD"
+                    },
+                    {
+                        "text": "Person Identifiable Information / Person Identifiable Data / Personal Confidential Data. One or more pieces of information that relate to an individual, who can be identified from those pieces of information or identified by combining those pieces of information with other information that is likely to be available. The individuals concerned may be patients, staff, contractors or members of the public."
+                    },
+                    {
+                        "text": "Information Governance Statement of Compliance (IGSoC)"
+                    },
+                    {
+                        "text": "The agreement between NHS Connecting for Health and NHS organisations that sets out the terms and conditions for use of NHS Connecting for Health services, including the N3 network, in order to preserve the integrity of those services."
+                    },
+                    {
+                        "text": "Information Asset Administrator (IAA)"
+                    },
+                    {
+                        "text": "Information Asset Administrator - operational managers responsible for maintaining the integrity of one or more information assets, managing information risks locally."
+                    },
+                    {
+                        "text": "Information Asset Owner (IAO)"
+                    },
+                    {
+                        "text": "Senior Manager who is responsible for managing information assets to comply with statutory obligations such as FOI, GDPR etc."
+                    },
+                    {
+                        "text": "Information Asset Register (IAR)"
+                    },
+                    {
+                        "text": "The Trust's IAR is a register of information assets, containing key information e.g. what type of information the asset contains and the responsible IAO and IAA"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit (DSPT)"
+                    },
+                    {
+                        "text": "Previously known as the Information Governance Toolkit (IGT); this is a self-assessment Toolkit to assist organisations to achieve best practice in Information Governance. Each NHS Trust is required to submit a completed assessment score annually to NHS Connecting for Health. There are 3 levels of achievement in each requirement. Scores are listed as percentages, and an overall score is calculated."
+                    },
+                    {
+                        "text": "Information Security (IS)"
+                    },
+                    {
+                        "text": "The preservation of confidentiality, integrity and availability of information; in addition, other properties such as authenticity, accountability, non-repudiation and reliability"
+                    },
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "can also be involved."
+                    },
+                    {
+                        "text": "ICO"
+                    },
+                    {
+                        "text": "Information Commissioner's Office \u2013 previously the Data Protection Registrar. This is the Office that enforces the principles of the General Data Protection Regulation"
+                    },
+                    {
+                        "text": "Outlook Web Access (OWA)"
+                    },
+                    {
+                        "text": "Outlook Web Access \u2013 a means of accessing the Trust E- mail system from the Internet remotely (i.e. not on Trust premises and not the computer network)"
+                    },
+                    {
+                        "text": "Vicarious Liability"
+                    },
+                    {
+                        "text": "Vicarious liability is a form of secondary liability where a person or organisation is liable for the acts of another. An employer can be legally responsible for the actions or omissions of their employees in the course of their employment. The employer is legally responsible unless it can be shown that 'reasonable steps' have been made to reduce this liability."
+                    },
+                    {
+                        "text": "Webmail Systems"
+                    },
+                    {
+                        "text": "Either bespoke approved NHS systems e.g. NHSMail or approved for NHS Trust use through award of Cabinet Office G-Cloud Impact Level (IL2) accreditation."
+                    },
+                    {
+                        "text": "FOI"
+                    },
+                    {
+                        "text": "Freedom of Information Requests"
+                    },
+                    {
+                        "text": "GDPR"
+                    },
+                    {
+                        "text": "General Data Protection Regulation"
+                    },
+                    {
+                        "text": "N3"
+                    },
+                    {
+                        "text": "NHS / Healthcare specific data networks"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles & Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1. Role & Responsibilities within the Trust (Committees)"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.1. Digital Services Performance & Accountability Group \u2013 to review policies and recommend for group approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.2. Information Governance Group \u2013 to review any instances of non-compliance to stated policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.3. Joint Document Control Group \u2013 to ratify polices"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2. Role & Responsibilities of Individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.1. Chief Executive \u2013 as the Trust's accountable officer has overall responsibility for ensuring the Trust has robust, complete and up to date procedures in place to govern and guide activities so that legal and national requirements are met."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2. Senior Information Risk Officer (SIRO) \u2013 Joint Executive Group (JEG) appointed Chief Information Officer responsible for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serious information risk management issues are brought to the Board for decision as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A lead or manager is in place to organise and enforce the Group's approach to information risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written advice is provided to the Accountable Officer and appropriate Trust Boards  regarding  the  information  risk  management  content  of  the  annual report and Statement of Internal Control (SIC)."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.3. Caldicott Guardian \u2013 Board appointed Director for each Trust is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protecting the confidentiality of PCD processed by the Trust, ensuring that all sites satisfy the highest practical standards for handling PCD."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as the \u201cconscience\u201d of the Trust, by actively supporting work to enable use and sharing of PCD where this is appropriate and advising on lawful and ethical solutions."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Championing confidentiality and information sharing requirements and issues at Board level and, where appropriate, at a range of levels within the Trust's overall governance framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.4. Head of Digital Services, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for development and updating of Digital Services Policies."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.5. Head of Information Governance, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for Information Governance."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.6. Cyber Security Officer, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for Cyber Security."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.7. Line Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for ensuring that staff are aware of this policy that they adhere to it and for managing issues which arise when staff fail to comply."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that staff return Trust assets to them during their notice period"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Must ensure all staff working remotely or using mobile devices are made aware of their personal responsibilities under current Data Protection legislation, their contract of employment, Code of Conduct and Trust policies and procedures relevant to the security and confidentiality of personal information."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.8. Trust Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff who are required to work remotely or use a mobile device must have successfully completed the Information Governance mandatory training."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for implementing and complying with the policy within the areas of their responsibility or control and returning Trust assets during their notice period."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All remote and home workers are bound by the \u201cNHS Confidentiality Code of Practice\u201d whilst employed by the Trust and this is especially pertinent whilst working off Trust premises."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.1. General Principles of Use"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1. Mobile devices are provided for the purposes of conducting Trust business. Use for personal reasons should be limited to reasonable use only. Any costs incurred due to personal use will be recovered through the monitoring of the invoices."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.2. Registration of devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1. All Trust issued devices (including but not limited to; computers, Smartphones, removable storage devices and iPods/iPads) that are used to access and/or store data from Trust information systems, must be appropriately registered on the Trust IT Asset Register."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2. Authorisation to use non-Trust equipment must be obtained from the IT Directorate under the Bring Your Own Device Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.3. Encryption of devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1. Encryption is the process of converting information (called plaintext) using an algorithm (called a cipher) to make it unreadable to anyone except those possessing special knowledge (referred to as the key - e.g. password). Decryption is the reverse process of using the 'special knowledge' against the encrypted data to revert the information back to plaintext."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.2. All mobile devices used to store data from Trust information systems must be encrypted in accordance with the current IT/Cyber Security Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.3. The use of proprietary encryption algorithms is not allowed for any purpose. Trust staff may only use encryption programs that have been authorised by the Head of IT and/or Head of IG, MSB Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4. All mobile devices and Laptop computers, whether containing confidential / sensitive data or not, will be encrypted to the current NHS standard using the current approved Trust/Group encryption solution."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.5. Users are reminded that the encryption password they set during the compression and encryption process must be in line with the Trust's password requirements and they may not forward the password for data access along with the data. The password must be supplied separately."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.4. Physical Security"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.1.  In addition to cyber security covered in the current IT/Cyber Security Policy, users are responsible for ensuring that the following conditions are adhered to at all times -"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Keep the mobile device in a safe and secure place and password/PIN protected at all times"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the device is not left unattended in a public place"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Keep the device out of sight both when transported and when parked"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Not left unattended overnight \u2013 e.g. in a car boot"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Kept protected from potential theft"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that the device is always kept charged and available for use while on duty both during normal business hours and shift/on-call"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that the SIM card/mobile device is kept locked to the Trust's approved network supplier"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Portable computers should be carried as hand luggage and disguised where possible when travelling"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Take care when accessing confidential information in public areas"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.5. Mobile Computers"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1. All Trust devices are installed with a standard set of security software including antivirus and encryption software according to the guidelines set out in current IT/Cyber Security Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.2. It is particularly important that an application (app) on any mobile device is not used for Trust business without first adhering to information governance legislation and Trust policies and procedures, including appropriate signoff and approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.3. Under no circumstance should PII, PID or PCD be transmitted using an app on a personal mobile device. All transfers of information must comply with existing registered information sharing agreements (ISA)."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.4. Non-compliance could result in disciplinary action, substantial financial penalties and legal action against the Trust and individuals concerned."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.5. It is the users' responsibility to ensure that their mobile Trust computer is regularly (minimum once per month) physically connected to the Trust network to enable automated security features such as virus protection software to update."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.6. In the event of a cyber-attack users are required to return any Trust issued mobile devices to the Digital Services Team/Service Desk prior to connecting to the corporate network."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.7. Despite these comprehensive security arrangements Trust users should not store sensitive or confidential data locally on mobile devices (except where network and/or remote access is unavailable). Connection to the Trust network or via the Trust secure remote access solution should be used as their main point of access to Trust systems, patient records and their Trust Home Drives."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.8. Backups from individual PC/laptop local drives, i.e. \u2018C' drives, are not part of the Trust's backup regime and anything stored there is subject to loss. Any data that a user has had to save locally due to an enforced lack of network and/or remote access, must be synchronised and/or copied to the relevant system or drive as soon as possible when connectivity is available."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.6. Smartphones and Tablets"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1. In order to maintain the security of Trust IT systems and patient data the use of personal (i.e. non-Trust issue) Smartphones, Tablets or other personal mobile devices is only permitted through specific mechanisms."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.2. Smartphones can be used to access Trust emails though the Microsoft Exchange ActiveSync (push mail) system. Users wishing to do so should raise a Request through the IT Service Desk Self-Service Portal."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.3. The use of other communications app, such as Whatsapp, can be used to inter team communications but should not to be used as a mechanism for discussing or sharing sensitive or confidential information. For further clarity regard messaging apps users should contact the Trust Information Governance manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.4. The limited use of personal tablets and laptops is provided in accordance with the current Bring Your Own Device Policy (BYOD)."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.7. Removable Media"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1. Automatic procedures are being introduced across the Group that enforce virus scanning of all removable media (USB disk, CD/DVD, etc.) before use; failure to comply, or the identification of a potential/actual threat, will result in access being denied."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.2. Once the relevant storage device is encrypted a password will be required to enable access on a non-Trust device. Users of this facility are required to take due care that this decryption password is not sent with the secured removable media. It must be communicated to the recipient by an alternate secure mechanism such as verbally or the Trust's secure email facility."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.3. The use of other USB devices such as cameras and media players is not permitted other than where a specific job function requires the use of such devices, ie medical photography or dictation of clinic letter. The proposed use will be initially assessed by the Trust Information Governance Manager and referred to the Information Governance Committee if a review of policy is required."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.4. Data that is only held in one place, or in one format, is at much higher risk of being unavailable or corrupted through loss, destruction or malfunction of equipment than data which is frequently backed up. Therefore removable media should not be a single source of the data. Copies of any data stored on removable media must also remain on the source system or networked computer."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.5. In order to minimise physical risk, loss, theft or electrical corruption, all storage media must be stored in an appropriately secure and safe environment."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.6. Each user is responsible for the appropriate use/security of data and for not allowing removable media devices, and the information stored on these devices, to be compromised in any way whilst in their care or under their control."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.7.7. All confidential or sensitive data files on removable media devices must be either encrypted or held on encrypted media devices."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.8. Users should be aware that the Trust may conduct audits of removable media devices to ensure compliance; failure to follow this policy may result in disciplinary action being taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.9. All removable media should be encrypted, where it does not prevent its operational use and application such as some medical devices."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.8. Medical Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1. Some medical devices, particularly diagnostic machines such as ultrasound scanners and EEG machines, require some patient demographics (PII) in order to be able to perform tests; in a majority of cases this information is locally cached to the device before it is uploaded (automatically or manually pushed) to the clinical information system."
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2. Data that is only held in one place and in one format is at much higher risk of being unavailable or corrupted through loss, destruction or malfunction of equipment than data which is frequently backed up. Therefore devices that have the capacity for native storage should not be a single source of the data. Copies of any data stored on removable media must also remain on the source system or networked computer."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.3. In order to minimise physical risk, loss, theft or electrical corruption, all medical devices which have native storage must be stored in an appropriately secure and safe environment."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.4. Each user is responsible for the appropriate use and security of data and for not allowing medical devices, and any information stored on these devices, to be compromised in any way whilst in their care or under their control."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.8.5. All confidential or sensitive data files on medical devices should be held in an encrypted or pseudonymised format where possible without impacting clinical operation and in-line with the manufacturer's warranty."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.9. Remote Access"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.1. The Trust provides a range of secure services to facilitate remote access to IT systems and health records. The following guidance outlines the usage policy that accompanies these facilities and ensures that the appropriate levels of security apply."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.2. Users requiring remote access facilities should raise a Request through the IT Service Desk Self-Service Portal which details the justification for this requirement and requires line manager approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.3. Remote access for staff is via the Trust remote access solution; this will required appropriate authentication to facilitate access."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.4. Remote access by contracted Third party suppliers, in order to support Trust systems, will be via N3 where they are compliant. Where suppliers are not N3 compliant a named individual will be issued with a remote access token. In both instances appropriate authentication is required in order to facilitate access."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.5. Under no circumstances will Third party suppliers make, or attempt to make, any changes to Trust systems without prior approval of the change control advisory board."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.10. Remote Access Usage"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.1. Access to the Trust systems via remote access is approved from any PC device, including home and personal PCs where access is via a VDI connection ie VMware or Citrix."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.2. This is permitted on the basis that the system is automatically restricted so that no information can be stored or cached locally on the remote access device thereby presenting no risk of data loss or misuse."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.3. Users are however reminded that it remains their responsibility to ensure that unapproved persons do not have sight of these records where, for example, they are being accessed in a public place."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.4. Remote access to Trust systems must only be undertaken in order to support Trust operational business."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.11. Remote Working"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.1. Any agreement on remote working is not permanent and may be brought to an end at any time by the member of staff or the Trust. An authorisation will be based on the needs of the Trust, the job role, and the departmental requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.2. The provision of remote access arrangements is made available for authorised remote workers and third party support providers. Whilst every effort will be made to provide access; it is possible that there may be periods where this service is not available due to planned upgrades, or poor quality internet service provision to the end users property. Where the disruption is within the control of the Trust, every endeavour will be made to keep service interruption to a minimum."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.3. The Trust monitors who logs into the network and can monitor which Internet and NHSnet sites are visited by any one user. Access to the remote access server is provided on the understanding that this is understood and accepted."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.4. Any hardware or software provided by the Trust remains the property of the Trust and shall be returned at the end of the remote working arrangement. Products, documents and other records used and/or developed while working remotely remain the property of, and will be available to the Trust. This information is subject to Trust policies regarding confidentiality and access, including the Caldicott recommendations."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.5. Trust owned software may not be duplicated under any circumstances. Staff working remotely using locally installed approved Trust software must adhere to the manufacturer's licensing agreements."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.6. The member of staff working remotely is responsible for setting up and maintaining an adequate workspace at the remote workplace and for ensuring that it is maintained to the same standards as apply to the conventional workplace."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.7. Users that work remotely are advised to undertake health and safety risk assessment; this must take into account all foreseeable risk arising from the work activity, and at the remote workplace. See Appendix 1."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.8. Purchasing and maintenance of appropriate personal office furniture, equipment or software e.g. desks, chairs, filing cabinets, and supported operating systems (Windows, iOS), is the responsibility of the member of staff working remotely."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.9. The Trust IT Service Desk will provide support for users accessing and using Trust applications remotely but it will not provide support for the users' device, software or any configuration thereof."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.10. All remote workers are reminded that they are bound by the \u201cNHS Confidentiality Code of Practice\u201d, and that they should protect against breaches of this guideline. Examples of a breach might be displaying confidential/sensitive material in a public place, i.e. on a train or in a coffee shop etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.12. Mobile and Removable Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "5.12.1. Examples of devices that are classified as mobile, removal media or containing native data storage, and therefore covered by the policy, can be found in Appendix  Please note that this list is indicative and not exhaustive due to continual changes in technologies."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.13. Loss or theft of devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.1. Loss or Theft of any Trust device, regardless of whether it contains Person Identifiable Information (PII) or other sensitive information, must be reported as soon as possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.2. Where a Trust device is lost, mislaid or stolen, the following steps should be taken:"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the device is lost or mislaid, the user must capture this on the Trust incident management system and inform the IT Service Desk immediately, or site office if out of hours, regarding the circumstances."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a device is stolen from Trust premises, staff must firstly contact the Trust Security Team so they can contact the police and report the device as stolen, and then the IT Service desk."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a device is stolen whilst off Trust premises, the member of staff must contact the police immediately and report the device as stolen, they should then contact the Trust Security Team and then the IT Service desk providing the police crime reference number."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When calling the IT Service Desk users must inform the call handler if there was any personal/patient identifiable data located on the device. They should also state if it was password protected in order to determine whether the risk of accessing the device and its contents is reportable as a Serious Incident internally and to the ICO."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the device is subsequently found, the IT Service Desk must be informed immediately."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The loss, misplacement or theft of a portable device does not automatically warrant a replacement being issued. A decision to replace a portable device will be made on a case-by-case basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.3. Where the capability exists, a device will be wiped remotely without recourse. When the Trust receives notification of a lost or stolen device, whether Trust or personally owned, it will be wiped of all information. Where this is a personal device, the user will have agreed to this dispensation when access to email and calendar services was authorised."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.14. Obligations of line managers and staff on termination of employment"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.1. When the user leaves the Trust, it is the responsibility of the line manager to inform IT so that remote access can be revoked."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.2. It is the users' responsibility to return all Trust equipment, including smartcards and ID badges, prior to leaving the Trust's employment. The line manager is responsible for collecting these and returning them to the IT service desk."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.15. Returning or Disposing of Trust Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.1. Trust mobile devices and removable media, including USB sticks, which are no longer required must be returned to the IT Helpdesk as soon as possible for secure disposal."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.2. The previous contents of any reusable media that has been returned for reuse must be backed up to a secure location by the staff returning the device (the service desk can assist in the process if required). All previous data held on the device  will  be  irretrievable  from  the  media  prior  to  reuse  in  order  to  avoid potential data leakage."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.1. Staff are required to complete IG training as part of their annual mandatory training obligations."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2. Between annual training requirements staff are to ensure that they keep up to date regarding IT or Cyber security update emails and messages published in staff circulars."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.1.  If there are any concerns regarding the content or implication of this policy they should be directed to the IT Service Desk."
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.1. In addition to the legal liabilities outlined above, staff who breach any of the terms of this policy may be subject to disciplinary action."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.2. Remote Access to Trust infrastructure will be monitored as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "type": "table",
+            "sequence_num": 185,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Responsibility for monitoring"
+                    },
+                    {
+                        "text": "Frequency of monitoring"
+                    },
+                    {
+                        "text": "Findings/ monitoring report recipients"
+                    },
+                    {
+                        "text": "Responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Authorised devices"
+                    },
+                    {
+                        "text": "Management Software"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "By exception"
+                    },
+                    {
+                        "text": "Cyber Security Officer"
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "Management Software"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "By exception"
+                    },
+                    {
+                        "text": "Cyber Security Officer"
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "E-mail"
+                    },
+                    {
+                        "text": "Secure Email application"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "By exception"
+                    },
+                    {
+                        "text": "Cyber Security Officer"
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Remote connection"
+                    },
+                    {
+                        "text": "Remote Access Solutions"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "By exception"
+                    },
+                    {
+                        "text": "Cyber Security Officer"
+                    },
+                    {
+                        "text": "Head of IT"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1. The following legislation will also apply to this policy (due to continual changes in legislation this list is not exhaustive):"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Protection Act 2018/General Data Protection Regulation"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Human Rights Act 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regulation of Investigatory Powers Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Telecommunications Regulations 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection from Harassment Act 1997"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Defamation Act 1996"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Disability Discrimination Act (DDA) 2005"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Equality Act 2010"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Copyright, Designs and Patents Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Obscene Publications Act 1959"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection of Children Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Criminal Justice Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Computer Misuse Act 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Health Records 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Medical Reports Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ISO / IEC 27001:2005 Section A.10.8.4"
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Freedom of Information Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Waste Electronic and Electrical Equipment Regulations Act 2006"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "This policy has been reviewed and quality assessed, see appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment (EIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "This policy has been reviewed and there is no impact noted based on the content of this document, see appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Remote Working - Health and Safety Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust cannot accept the responsibility for the health and safety of a remote working environment:"
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the remote site is, another Trust or facility providing a service to the Trust, the Health and Safety of the user will fall under the remote site's Health and Safety guidelines"
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the remote user is working from home it will be the individual's responsibility to ensure that they conduct any work for the Trust in a safe and practical manner as they would if situated in an office environment within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following list is a guide that the Trust recommends that a remote user should follow when working from home."
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Workplace Environment"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Try to work in an environment where temperature, noise ventilation and lighting levels are adequate for maintaining your normal level of job performance"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All stairs with four or more steps equipped with handrails"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do you have all electrical equipment free of recognised hazards that would cause physical harm (frayed wires, bare conductors, loose wires, flexible wires running through walls, exposed wires to the ceiling)?"
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Is the environment you have chosen, free of obstruction to permit visibility and movement?"
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If you have any filing cabinets and storage closets, are they arranged so drawers and doors do not open into walkways"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Make sure that any chairs, which will be used for work purposes, have no loose casters (wheels) and the rungs and legs of the chairs are sturdy. If possible use adjustable chair to help with posture when working for any prolonged period of time"
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tidy all phone lines, electrical cords, and extension wires so that they are secured under a desk or alongside a skirting board"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Try to keep office space neat, clean and free from clutter that could become a hazard"
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Try to keep any floor surfaces clean, dry, level and free of worn or frayed seams in your chosen working environment and carpets are well secured to the floor and free of frayed or worn seams?"
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure you have enough lighting for reading"
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Try to have a basic first aid kit in your home"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If you do not have one fit a smoke alarm"
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Try to use an area of the home where you can set up your computer so that the monitor and keyboard are in the correct position for a comfortable and safe working area with plenty of space"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Set the computer up so that you can easily read the text on the screen"
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Try to use a document holder"
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Make sure you have enough legroom at your desk or chosen working area"
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust will however take responsibility for equipment that it provides to a remote user and will ensure that it is in full working order when handed over to the user. The Trust will also maintain the equipment while the remote user within its employment."
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document Title: Mobile Device & Remote Access Policy / Register no: 18008/ version: 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Examples of Mobile Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Below are examples of devices that are classified as mobile devices, removal media or containing native data storage; please note that this list is indicative and therefore not exhaustive due to continual changes in technologies."
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "type": "table",
+            "sequence_num": 237,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Device"
+                    },
+                    {
+                        "text": "Device Type"
+                    },
+                    {
+                        "text": "Location where device is used"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Laptop"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": "limited group of users / departments"
+                    },
+                    {
+                        "text": "Surface"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": "limited group of users / departments"
+                    },
+                    {
+                        "text": "iPad"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": "across inpatient areas"
+                    },
+                    {
+                        "text": "Smart phone"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": "limited group of users / departments"
+                    },
+                    {
+                        "text": "iPod"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": "across inpatient areas"
+                    },
+                    {
+                        "text": "CD / DVD"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "Radiology Access to Records"
+                    },
+                    {
+                        "text": "Sending and receiving images to third parties were unable to receive via IEP"
+                    },
+                    {
+                        "text": "USB key"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Digital Camera"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "Medical photography A&E"
+                    },
+                    {
+                        "text": "During office hours (9-5, M-F) For use OoH"
+                    },
+                    {
+                        "text": "Dictaphone"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Medical Devices"
+                    },
+                    {
+                        "text": "Potentially has native data storage"
+                    },
+                    {
+                        "text": "Trust wide"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Quality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed: Mobile Devices & Remote Access Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "type": "table",
+            "sequence_num": 240,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1.0 Benefits"
+                    },
+                    {
+                        "text": "1.1. What evidence has been used to develop this proposal (e.g. NICE, NCEPOD, audit, patient or staff surveys?)"
+                    },
+                    {
+                        "text": "IG Toolkit General Data Protection Regulation (GDPR) Best Practice"
+                    },
+                    {
+                        "text": "1.2. What changes does this proposal make to the care pathway?"
+                    },
+                    {
+                        "text": "Supports the robust delivery of IT services and systems"
+                    },
+                    {
+                        "text": "1.3. Describe the positive impact on: Patient safety Clinical effectiveness Patient experience"
+                    },
+                    {
+                        "text": "Ensures that systems and data is managed, stored and accessed appropriately by staff and affiliates Ensures that data is managed and stored in a robust manner to support timely access by clinical staffs N/A"
+                    },
+                    {
+                        "text": "1.4. What current or new clinical outcome measures will monitor these benefits?"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "2.0 Impact Assessment"
+                    },
+                    {
+                        "text": "2.1. Describe how the impact of the change has been considered in relation to: Infection Prevention and Control Safeguarding vulnerable adults/ children Current quality indicators Quality Account priorities Patients/ carers/ members of the public Promoting self-care for people with long-term conditions Tackling health inequalities"
+                    },
+                    {
+                        "text": "Supports compliance to IG Toolkit, General Data Protection Regulation (GDPR) and Best Practice standards"
+                    },
+                    {
+                        "text": "2.2. How will you monitor the impact of this proposal? (Provide details of how this will be done, by whom, and when)"
+                    },
+                    {
+                        "text": "Trigger points early warning indicators"
+                    },
+                    {
+                        "text": "Escalate to?"
+                    },
+                    {
+                        "text": "When?"
+                    },
+                    {
+                        "text": "Responsible person"
+                    },
+                    {
+                        "text": "Staff not engaging with the defined policy"
+                    },
+                    {
+                        "text": "Digital Services and/or Information Governance Meetings"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Persons who identified non- compliance to defined policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed: Mobile Devices & Remote Access Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "type": "table",
+            "sequence_num": 243,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Equality or human rights concern."
+                    },
+                    {
+                        "text": "Does this item have any differential impact on the equality groups listed? Brief description of impact."
+                    },
+                    {
+                        "text": "How is this impact being addressed?"
+                    },
+                    {
+                        "text": "Gender"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Race and ethnicity"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Disability"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Religion, faith and belief"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sexual orientation"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transgender people"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Social class"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Carers"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date of assessment:  22/05/2018 Names of Assessor (s)  Kate Thompson"
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document Title: Mobile Device & Remote Access Policy / Register no: 18008/ version: 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        }
+    ]
+}

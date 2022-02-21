@@ -1,0 +1,950 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEGL-20006 MSE Respiratory COVID19 patient follow-up 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "RESPIRATORY COVID-19 PATIENT FOLLOW-UP GUIDELINE"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEGL20006"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Division of Medicine, Radiology"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "18 December 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "17 December 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations (i.e. NICE; RCOG) Local agreement taking into account National Guidance"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Division of Medicine"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Dr Marcus Pittman, Interim MSE Respiratory Clinical Lead"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Clinical Advisory Group COVID Care (Systems-wide)"
+                    },
+                    {
+                        "text": "09 November 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "David Walker- Chief Medical Officer"
+                    },
+                    {
+                        "text": "09 November 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "25 December 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "December 20"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEGL-20006 MSE Respiratory COVID19 patient follow-up 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Yoganathan Suthahar"
+                    },
+                    {
+                        "text": "Consultant, Medicine for the Elderly, Broomfield"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    },
+                    {
+                        "text": "Bernard Yung"
+                    },
+                    {
+                        "text": "Respiratory consultant, Basildon"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    },
+                    {
+                        "text": "Abigail Moore"
+                    },
+                    {
+                        "text": "Respiratory consultant, Broomfield"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    },
+                    {
+                        "text": "Yasser Ahmed"
+                    },
+                    {
+                        "text": "Respiratory Consultant, Southend"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    },
+                    {
+                        "text": "Alexia Farrugia"
+                    },
+                    {
+                        "text": "Radiology"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    },
+                    {
+                        "text": "Kevin Kiff"
+                    },
+                    {
+                        "text": "ITU"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    },
+                    {
+                        "text": "Qaiser Malik"
+                    },
+                    {
+                        "text": "MSE Radiology Lead"
+                    },
+                    {
+                        "text": "01 November 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) No related policies."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Marcus Pittman"
+                    },
+                    {
+                        "text": "First draft in this MSE approved template"
+                    },
+                    {
+                        "text": "18 December 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Key Elements of Policy / Guideline ............................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Training Requirements ................................................................................................. 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Approval and Implementation ....................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Equality Impact Assessment ......................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "References ................................................................................................................... 6 Appendix 1: Preliminary Equality Analysis ........................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This guideline is in response to variations across MSE in how COVID-19 patients, who have been discharged from level 1 or level 2 respiratory care at one of the MSE hospitals, are identified for follow-up care - and how follow up is conducted."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Cases will be identified for follow-up in a site specific way:"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Basildon: Using a spreadsheet kept by the division of medicine identifying positive cases."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Southend: Using positive swabs and positive radiology to identify cases."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Broomfield: Identifying cases managed by the respiratory team."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Audit  of  follow  up  has  identified  that  around  80%  of  CXR  abnormalities  have resolved by the time of follow up. There are a wide variety of symptoms present including fatigue, psychological, and respiratory symptoms."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to ensure an equitable approach to post-Covid follow ups and limit variation by introducing MSE-wide guidelines for the follow-up care of Covid-19 patients who have been discharged from any of the MSE hospitals following an admission to a level 1 or level 2 respiratory care."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "type": "table",
+            "sequence_num": 27,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "CXR"
+                    },
+                    {
+                        "text": "Chest X Ray"
+                    },
+                    {
+                        "text": "ITU"
+                    },
+                    {
+                        "text": "Intensive Care Unit"
+                    },
+                    {
+                        "text": "ECMO"
+                    },
+                    {
+                        "text": "Extra Corporeal Membrane Oxygenation."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "It is the responsibility of Consultants to identify patients who have an abnormal CXR associated with COVID-19 infection which requires follow up to ensure resolution."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Key Elements of Policy / Guideline"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Follow up passports:"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All patients discharged with COVID -19 are to be given written information regarding self-care follow up passport advise both locally and nationally. All patients discharged will receive a follow up call by their local community team at 6 weeks post discharge to assess any ongoing symptoms related to COVID \u2013 19 and sign post them to relevant help."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "There were concerns about the resource use involved in giving every patient a follow up appointment, given the somewhat overstretched nature of respiratory out- patient services. Therefore, standard follow up has been limited to repeating a CXR in those who have had an abnormal CXR during an admission with COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Chest Radiographs:"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Chest radiographs (CXR) will be requested using a specific COVID follow up indication. It is essential this is included on the request so radiology can direct these images for appropriate reporting. CXRs will then be reported by radiology using prose and, if appropriate, the following codes to indicate that abnormalities have completely resolved, or resolved to the point where there is no ongoing concern: CVCX0: CXR with no concerning features."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "PCVCX0: CXR which has been compared with a previous image, and has no concerning features."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The use of such codes will allow members of the administrative team to send a standard letter to those patients in whom there is no ongoing concern. Patients without this code will have their CXR reviewed by a member of the respiratory team and any further investigations (such as a CT scan) or follow up decided on."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "CT scans:"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Computed Tomography (CT) scans will be requested using a specific COVID follow up indication. It is essential this is included on the request so radiology can direct these images for appropriate reporting. CTs will then be reported by radiology using prose and, if appropriate, the following codes to indicate that abnormalities have completely resolved, or resolved to the point where there is no ongoing concern: CVCT0: CXR with no concerning features."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "PCVCT0: CXR which has been compared with a previous image, and has no concerning features."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The use of such codes will allow members of the administrative team to send a standard letter to those patients in whom there is no ongoing concern. Patients without this code will have their CT reviewed by a member of the respiratory team and any further investigations or follow up decided on."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Post ITU patients:"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients post-ITU should be followed up, but this should not duplicate ITU or post ECMO clinics that are planned by the Critical Care Team. Follow up will therefore be site specific and provided by the respiratory team as necessary, if not provided by the local ITU. This is outside of the scope of this guideline."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "Other specific concerns:"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "We established the need for guidelines for community colleagues, and information"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any additional concerns identified during a patient's admission (such as incidental findings identified on imaging) will be followed up using the relevant guideline for such conditions."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "No specific training requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "All policies, procedures and guidelines will be approved by the Clinical Advisory Group, which is the specialist group with the authority to approve local guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "It is the author's responsibility to inform the relevant teams of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "None"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory COVID -19 patient follow-up guideline / MSEGL20006/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory COVID -19 patient follow-up guideline / MSEGL20006/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Respiratory Covid-19 patient follow-up guideline: (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "type": "table",
+            "sequence_num": 62,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 63,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Proposal to ensure all patients with abnormal imaging during an admission with COVID-19 are followed up appropriately, and that this is communicated effectively to colleagues in primary care."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "The changes proposed will allow safe and effective follow up of chest radiographs and CT scans with abnormalities identified during an admission with COVID-19. The use of reporting codes will minimise disruption to existing radiology and respiratory services."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and staff."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 64,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Dr Marcus Pittman"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Interim MSE Respiratory Clinical Lead"
+                    },
+                    {
+                        "text": "Date"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If you have identified any negative impact in the preliminary analysis above, please request and complete the full Equality Impact Assessment (EIA) from Document Control."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        }
+    ]
+}

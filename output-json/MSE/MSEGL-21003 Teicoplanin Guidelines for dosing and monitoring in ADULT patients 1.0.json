@@ -1,0 +1,809 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21003"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "06/04/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "05/04/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "06/04/2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Teicoplanin Guidelines for Dosing and Monitoring in Adult Patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 2
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 69.0,
+                "text": "Teicoplanin is a glycopeptide antimicrobial agent that has a long half-life which permits once daily dosing for therapy. Its half-life ranges from  to 327 hours. Teicoplanin requires therapeutic monitoring in high doses due to narrow therapeutic window which is clinically important both for effectiveness and also due to consequences associated with adverse effects."
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The purpose of this guideline is to provide information for dosing and monitoring for treatment efficacy and to reduce the risk of adverse effects."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Serious, life-threatening hypersensitivity reactions have been reported with Teicoplanin (e.g. anaphylactic shock). If an allergic reaction to Teicoplanin occurs, treatment should be discontinued immediately and appropriate emergency measures should be initiated."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "In patients with known hypersensitivity to vancomycin, teicoplanin should only be used if there are no suitable alternatives, and must be administered by slow IV infusion, as crossed hypersensitivity reactions, including fatal anaphylactic shock, may occur. However, a prior history of \"red man syndrome\" with Vancomycin is not a contraindication to the use of Teicoplanin."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Teicoplanin is recommended as an alternative to vancomycin for the treatment of cellulitis, acute wound infection, necrotizing fasciitis, osteomyelitis, acute discitis, prosthetic joint infection and septic arthritis."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Follow Table 1 below for guidance on dosing and monitoring."
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1: Teicoplanin Dosing and Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "type": "table",
+            "sequence_num": 10,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Indications"
+                    },
+                    {
+                        "text": "Loading dose (See Table 2 for dose banding)"
+                    },
+                    {
+                        "text": "Maintenance dose (See Table 2 for dose banding)"
+                    },
+                    {
+                        "text": "Loading dose regimen"
+                    },
+                    {
+                        "text": "*Targeted trough concentrations at day 5 (equates to monitoring just prior to the 6th dose)"
+                    },
+                    {
+                        "text": "Maintenance dose"
+                    },
+                    {
+                        "text": "Monitor ONCE Weekly Targeted trough concentrations during maintenance"
+                    },
+                    {
+                        "text": "- Complicated skin and soft tissue infections - Pneumonia - Complicated urinary tract infections"
+                    },
+                    {
+                        "text": "6 mg/kg body weight every 12 hours for 3 administrations"
+                    },
+                    {
+                        "text": ">15 mg/L"
+                    },
+                    {
+                        "text": "6 mg/kg body weight intravenous or intramuscular once a day"
+                    },
+                    {
+                        "text": ">15 mg/L"
+                    },
+                    {
+                        "text": "- Bone and joint infections"
+                    },
+                    {
+                        "text": "12 mg/kg body weight every 12 hours for 3 to 5 administrations"
+                    },
+                    {
+                        "text": "30-40mg/L"
+                    },
+                    {
+                        "text": "12 mg/kg body weight intravenous or intramuscular once a day"
+                    },
+                    {
+                        "text": "30-40 mg/L"
+                    },
+                    {
+                        "text": "- Infective endocarditis"
+                    },
+                    {
+                        "text": "12 mg/kg body weight every 12 hours for 3 to 5 administrations"
+                    },
+                    {
+                        "text": "30-40 mg/L"
+                    },
+                    {
+                        "text": "12 mg/kg body weight intravenous or intramuscular once a day"
+                    },
+                    {
+                        "text": "30-40 mg/L"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "*Trough level reference range when measured by Fluorescence Polarisation Immunoassay (FPIA) method"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Refer to Table 2 below. Teicoplanin should be dosed using the patient's actual body weight, even for overweight/obese patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Prescribed doses should be rounded to the nearest multiples of 200mg Table 2: Weight-based dose banding"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Teicoplanin Guidelines for Dosing and Monitoring in Adult Patients / MSEGL-21003/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "type": "table",
+            "sequence_num": 16,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Weight (kg)"
+                    },
+                    {
+                        "text": "6mg/kg Dose"
+                    },
+                    {
+                        "text": "30"
+                    },
+                    {
+                        "text": "200mg"
+                    },
+                    {
+                        "text": "40"
+                    },
+                    {
+                        "text": "50"
+                    },
+                    {
+                        "text": "400mg"
+                    },
+                    {
+                        "text": "60"
+                    },
+                    {
+                        "text": "70"
+                    },
+                    {
+                        "text": "80"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "600mg"
+                    },
+                    {
+                        "text": "100"
+                    },
+                    {
+                        "text": "110"
+                    },
+                    {
+                        "text": "120"
+                    },
+                    {
+                        "text": "130"
+                    },
+                    {
+                        "text": "800mg"
+                    },
+                    {
+                        "text": "140"
+                    },
+                    {
+                        "text": "150"
+                    },
+                    {
+                        "text": "160"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "170"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 17,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Weight (kg)"
+                    },
+                    {
+                        "text": "12mg/kg Dose"
+                    },
+                    {
+                        "text": "30"
+                    },
+                    {
+                        "text": "400mg"
+                    },
+                    {
+                        "text": "40"
+                    },
+                    {
+                        "text": "50"
+                    },
+                    {
+                        "text": "600mg"
+                    },
+                    {
+                        "text": "60"
+                    },
+                    {
+                        "text": "800mg"
+                    },
+                    {
+                        "text": "70"
+                    },
+                    {
+                        "text": "80"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "90"
+                    },
+                    {
+                        "text": "1200mg"
+                    },
+                    {
+                        "text": "100"
+                    },
+                    {
+                        "text": "110"
+                    },
+                    {
+                        "text": "120"
+                    },
+                    {
+                        "text": "1400mg Adjust dose according to trough level. (consult microbiology or Antimicrobial pharmacist if higher doses required)"
+                    },
+                    {
+                        "text": "130"
+                    },
+                    {
+                        "text": "140"
+                    },
+                    {
+                        "text": "150"
+                    },
+                    {
+                        "text": "160"
+                    },
+                    {
+                        "text": "170"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Teicoplanin Guidelines for Dosing and Monitoring in Adult Patients / MSEGL-21003/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Dose adjustments for patients with renal impairment are not required until after the fourth day of treatment. See also section 8.1."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 3: Dosing in renal impairment"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "type": "table",
+            "sequence_num": 22,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Creatinine Clearance"
+                    },
+                    {
+                        "text": "Days 1 \u2013 4"
+                    },
+                    {
+                        "text": "Day 5 onwards"
+                    },
+                    {
+                        "text": "> 80ml/min"
+                    },
+                    {
+                        "text": "Normal dose regimen"
+                    },
+                    {
+                        "text": "Normal maintenance dose every 24 hours"
+                    },
+                    {
+                        "text": "30 \u2013 80ml/min"
+                    },
+                    {
+                        "text": "Normal dose regimen"
+                    },
+                    {
+                        "text": "Normal maintenance dose every 48 hours OR half the normal maintenance dose daily"
+                    },
+                    {
+                        "text": "< 30ml/min Haemodialysis Continuous ambulatory peritoneal dialysis(CAPD) Continuous renal replacement therapy(CRRT) \uf0b7"
+                    },
+                    {
+                        "text": "Normal dose regimen"
+                    },
+                    {
+                        "text": "Normal maintenance dose every 72 hours OR one third of the normal maintenance dose daily"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Intravenous:"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "Teicoplanin preferably should be administered by the intravenous route. In order to reduce the risk of infusion reaction, it should be given as a slow infusion in 50-100ml sodium chloride 0.9% over  to  minutes."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Intramuscular:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There are some specific situations where IM teicoplanin is recommended; e.g. patients with no IV access or where IV access is impossible or inappropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When intramuscular administration is required, prepare each 400mg vial with the entire contents of the accompanying diluent water ampoule. This should be added slowly down the side wall of the vial of teicoplanin (Targocid\u00ae) .The vial should be rolled gently between"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "the palms until the powder is completely dissolved, taking care to avoid foam formation. DO NOT SHAKE. If the solution does become foamy, allow to stand for  minutes for the foam to subside. The final solution should be 400 mg/3.0 mL of teicoplanin. Only inject 3ml (400mg) at a single site. Depending on the size of dose prescribed, 2 or more sites may be needed for intramuscular administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.1. Trough Serum Teicoplanin Concentration Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.1.1 Refer to Table 1 for monitoring guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.1.2 Monitoring of trough serum concentrations is necessary to prevent treatment failure due to suboptimal serum concentrations of Teicoplanin and to avoid adverse reactions associated with toxicity."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.1.3 Teicoplanin trough serum concentrations should be monitored at steady state after completion of the loading dose regimen, in order to ensure that a minimum trough serum concentration has been reached. Levels should be taken immediately before the next dose is due."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2. Interpretation of Serum concentration value"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.1 Refer to Table 1 for monitoring guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.2 Teicoplanin dose adjustments should not be made until the trough level is reported. Do not withhold doses whilst awaiting Teicoplanin level outcome."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.3 If Teicoplanin levels are out of range, firstly, ensure trough levels were taken at the correct time and if not then repeat the trough level prior to the next dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If levels are too high \u2013"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check administered dose was appropriate for the patient's current weight;"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check levels were done at 20-24 hrs post dose;"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check renal function is stable;"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If all checks are positive, consider dose reduction; consult antimicrobial pharmacist/ microbiology for advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If levels are too low \u2013"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check administered dose was appropriate for the patient's current weight;"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Check appropriate loading doses were used at the start of treatment (i.e. BD doses for 3 doses then OD) if not, repeat the loading doses and re-check levels prior to the th"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "dose;"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check no omitted doses prior to level;"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check levels were done at 20-24 hrs post dose and not later;"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If all checks are positive, consider dose increase; Consult antimicrobial pharmacist /microbiology for advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Renal Function"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.1 Renal function should be monitored weekly in patients having Teicoplanin beyond 7 days, and twice weekly for patients with renal impairment as Teicoplanin can cause nephrotoxicity."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.2 Patients with renal insufficiency, and/or in those receiving Teicoplanin in conjunction with or sequentially with other medicinal products with known nephrotoxic potential such as aminoglycosides (e.g gentamicin, amikacin & tobramycin), colistin, amphotericin B, cyclosporine, and cisplatin should be carefully monitored, and should include auditory tests."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.3 Since Teicoplanin is mainly excreted by the kidney, the dose of Teicoplanin must be adapted in patients with renal impairment (see Table 3 above)."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Ototoxicity"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.1 As with other glycopeptides, ototoxicity (deafness and tinnitus) has been reported in patients treated with Teicoplanin. Patients who develop signs and symptoms of impaired hearing or disorders of the inner ear during treatment with Teicoplanin should be carefully evaluated and monitored, especially in case of prolonged treatment, and in patients with renal insufficiency."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.2 Patients receiving teicoplanin in conjunction with or sequentially with other medicinal products with known neurotoxic/ototoxic potential such as the aminoglycosides (e.g gentamicin, amikacin & tobramycin) cyclosporine, cisplatin and furosemide should be carefully monitored and the benefit of teicoplanin evaluated if hearing deteriorates."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "Haematological"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.1  Blood dyscrasias including thrombocytopenia and neutropenia have been reported with Teicoplanin. Weekly full blood counts should be done for patients on long term teicoplanin."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Teicoplanin Guidelines for Dosing and Monitoring in Adult Patients / MSEGL-21003/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        }
+    ]
+}

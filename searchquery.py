@@ -1,9 +1,10 @@
 from rake_nltk import Rake
+from soupsieve import match
 from connDB import MySQLDB
-import nltk
 
-nltk.download('stopwords')
-nltk.download('punkt')
+# import nltk
+# nltk.download('stopwords')
+# nltk.download('punkt')
 
 def GetKeywords(text, unique=True):
     r = Rake()
@@ -16,42 +17,85 @@ def GetKeywords(text, unique=True):
     else:
         return keywords
 
-def checkAndUpdate(docsCount, lastID, docs=None):
-    conn_db = MySQLDB()
+def checkAndUpdate(docs, docsCount, lastID, conn_db):
     newCount, newlastID = conn_db.getDocInfo()
 
     if newCount == docsCount and newlastID == lastID:
-        """return [docs, docsCount, lastID]"""
+        return [docs, docsCount, lastID]
     else:                       # Data Update
         docs = conn_db.getAllDocs()
         docsCount, lastID = newCount, newlastID
-        print("Doc files updated")
-    conn_db.disconnectDB()    
-    return [docs, docsCount, lastID]
+        # print("Doc files updated")
+        return [docs, docsCount, lastID]
 
-def searchDocs(query, docs, docsCount, lastID, top_x=5):
+def searchDocs(query_keys, docs, docsCount, lastID, conn_db, top_x=5):
 
         results={}
-        query_keys = GetKeywords(query)
-        updated = checkAndUpdate(docsCount, lastID)
-        if updated[0]: # Updated
-            results["docs"] = updated[0]
-        else: # keep the old ones
-            results["docs"] = docs
-        results["docCount"] = updated[1]
-        results["docLastID"] = updated[2]
+        results["docs"], results["docCount"], results["docLastID"] = checkAndUpdate(docs, docsCount, lastID, conn_db)
+        
         score = {}
         
-        for doc_row in results["docs"]:
-            doc_name = doc_row[1]
+        for doc_row in results["docs"].values():
+            doc_name = doc_row[1]           # Doc Name at index 1
+            doc = doc_name + ';' + str(doc_row[0])
+            # doc_id = str(doc_row[0])      # Doc Id at index 0
             for key in query_keys:
-                score[doc_name] = score.get(doc_name, 0) + doc_row[3].count(key)
+                score[doc] = score.get(doc, 0) + doc_row[3].lower().count(key.lower())
 
-        results["matches"] = dict(sorted(score.items(), key=lambda item: item[1], reverse=True)[:top_x])
+        top_5_docs = dict(sorted(score.items(), key=lambda item: item[1], reverse=True)[:top_x])
+        x={}
+        for top_doc in top_5_docs.keys():
+            name, id= top_doc.split(';')
+            x[id] = name
+        results["matches"] = x
+
+
         return results
 
-def searchElements():
+def searchElements(query_keys, doc_ids, conn_db, n_results=5):
     """searching elements"""
+    # print(docs)
+    # doc_ids = []
+    # for id in docs.keys():
+    #     _, id = doc.split(';')
+    #     # print(name, id)
+    #     doc_ids.append(id)
+    
+    matches = []
+    elements = conn_db.getElements(doc_ids)
+    conn_db.disconnectDB()
+    # SELECT `id`, `keywords`, `content`, `item_type`, `doc_id` --> elements[1] = keywords
+    score = {}
+    for elem in elements.values():
+        elem_keywords = elem[1]
+        for key in query_keys:
+            freq = elem_keywords.lower().count(key.lower())
+            score[elem[0]] = score.get(elem[0], 0) + freq
+    
+    score = dict(sorted(score.items(), key=lambda item: item[1], reverse=True)[:n_results]) #[:n_results]
+    # return score
+    for elem_id in score.keys():
+        if score[elem_id] > 0:
+            row = list(elements[elem_id])
+            data ={}
+            data["element_id"] = row[0]
+            data["element_type"] = row[3]
+            data["document_id"] = row[4]
+            data["content"] = row[2]
+            # data["keywords"] = row[1]
+            matches.append(data)
+        else:
+            continue
+    
+    # for elem in elements:
+    #     if elem[0] in score.keys():
+    #         matches.append(elem)
+    
+    return matches
+    
+
+
+
 
 if __name__ == "__main__":
     inp_query = "risk assessment"

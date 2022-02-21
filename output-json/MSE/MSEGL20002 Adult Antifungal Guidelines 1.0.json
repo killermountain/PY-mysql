@@ -1,0 +1,888 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Reference: MSEGL20002"
+                    },
+                    {
+                        "text": "Category: Medicines Management"
+                    },
+                    {
+                        "text": "Version:1.0"
+                    },
+                    {
+                        "text": "Date: 02/12/2020"
+                    },
+                    {
+                        "text": "Review: 01/12/2023"
+                    },
+                    {
+                        "text": "Approved by: Antimicrobial committee Authorised by: Medicines Optimisation Committee (SUH) Medicines Management Committee (BTUH) Medicines Optimisation & Safety Group (MEH) Joint Document Management Group \u2013 01/12/2020"
+                    },
+                    {
+                        "text": "Written by: Titi Odewumi \u2013 Specialist Antimicrobial & infection Pharmacist."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Adult Antifungal Guidelines"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Posaconazole is non-formulary, only available to patients who have had bone marrow transplant."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Always check for drug allergy"
+                    },
+                    {
+                        "text": "Always write treatment duration AND indication on drug charts"
+                    },
+                    {
+                        "text": "Indication"
+                    },
+                    {
+                        "text": "First Choice"
+                    },
+                    {
+                        "text": "Hypersensitivity OR failure to respond to first choice"
+                    },
+                    {
+                        "text": "Mucosal Infections"
+                    },
+                    {
+                        "text": "Oropharyngeal Candidiasis Advise patients to rinse mouth after inhaled/nebulized steroid (Longer period may be necessary in Immunocompromised patients)"
+                    },
+                    {
+                        "text": "Mild:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Fluconazole 50mg PO od x 7days"
+                    },
+                    {
+                        "text": "Anidulafungin 100mg IV stat day1, followed by 50mg IV daily x 7-14days (3)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Moderate /Severe:"
+                    },
+                    {
+                        "text": "Fluconazole 100-200mg PO/IV od x 7-14 days"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Oesophageal Candidiasis"
+                    },
+                    {
+                        "text": "Mild cases"
+                    },
+                    {
+                        "text": "Fluconazole 100-200mg IV/PO OD for 14 days."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Moderate /severe/ immunosuppressed patients"
+                    },
+                    {
+                        "text": "Fluconazole 200mg-400mg PO/IV od x 14 to 21days days"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Genital Candidiasis (For recurrent cases \u2265 4 episodes/year, re-send swab,& treat with topical or oral azole, depending on sensitivities for 14/7)"
+                    },
+                    {
+                        "text": "**Fluconazole 150mg PO stat (This may be repeated every third day x 3 doses in re- current cases; i.e Day1, 4 & 7) (Longer period may be necessary in Immunocompromised patients)."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Respiratory Infections"
+                    },
+                    {
+                        "text": "No regular treatment required"
+                    },
+                    {
+                        "text": "Urinary Tract Infections"
+                    },
+                    {
+                        "text": "Urinary Candidiasis In Immunocompetent patients, removal of stents and catheters, and stopping broad spectrum antibiotics are important adjuncts to therapy."
+                    },
+                    {
+                        "text": "Asymptomatic cystitis does not require therapy. Only treat high risk patients such as, neutropenic adults, or those undergoing urological procedures. Treat as per symptomatic cystitis when indicated."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If Pyelonephritis: Fluconazole 200-400mg IV/PO od x 14/7 (Longer period may be necessary in Immunocompromised patients)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Candida Endophthalmitis"
+                    },
+                    {
+                        "text": "An urgent referral to Ophthalmology is required Intravitreal injection is sometimes indicated especially in exogenous endophthalmitis Typical duration is 4-6weeks"
+                    },
+                    {
+                        "text": "Fluconazole: 800mg IV/PO Stat, then 6-12mg/kg (400-800mg) od IV/PO For Fluconazole & Voriconazole resistant isolates: Ambisome 3-5mg/kg after initial test dose of 1mg over 10mins. Flucytosine 100mg/kg PO in 4 divided doses can be added only on a microbiologist's advice if the isolate is sensitive. Flucytosine is not routinely kept in pharmacy ensure to inform pharmacy to source once approved by Microbiology Consultant. Follow appendix 1section for Guideline for dose banding: Ambisome use in adult"
+                    },
+                    {
+                        "text": "Voriconazole: For patient \u2265 40kg; loading dose 6mg/kg bd IV OR 400mg bd PO x 2 doses, thereafter 4mg/kg bd IV /PO (can be reduced to 3mg/kg if not tolerated) Refer to BNF for dosing Body weight < 40kg. Severe: Discuss with Consultant Microbiologist"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Candidaemia (Positive B/C prior to sensitivities)"
+                    },
+                    {
+                        "text": "Discuss suspected (unproven) Candidaemia with a consultant microbiologist prior to treatment."
+                    },
+                    {
+                        "text": "Switch Candidaemia treatment to a suitable oral after 5-10days IV therapy if patient is stable, and can tolerate orally."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "AmBisome 3mg/kg IV od, following the initial test dose of 1mg Follow appendix section for Guideline for dose banding: Ambisome use in adult"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Anidulafungin 200mg IV stat on day 1, Thereafter 100mg IV daily."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If secondary to line infection remove/change the IV line. Treat uncomplicated Candidaemia for 14days from the last negative blood culture. (The first surveillance blood culture should be taken at 48hours after starting treatment) Treat according to sensitivities once the results are out."
+                    },
+                    {
+                        "text": "If the line tip culture is positive for candida but Blood Culture negative, consider 7days treatment as transient Candidaemia cannot be excluded. Treat for 14/7 if evident of infection with raised inflammatory markers."
+                    },
+                    {
+                        "text": "If the candida species is susceptible to fluconazole:"
+                    },
+                    {
+                        "text": "Anidulafungin 200mg IV stat on day 1, then 100mg IV daily thereafter x 6/7"
+                    },
+                    {
+                        "text": "Fluconazole 400mg po day 1, then 200-400mg od x 6/7. Consider IV if oral route is compromised or there's evidence of infection."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Other Candida Infections"
+                    },
+                    {
+                        "text": "Meningitis"
+                    },
+                    {
+                        "text": "Discuss with Consultant Microbiologist"
+                    },
+                    {
+                        "text": "Peritonitis"
+                    },
+                    {
+                        "text": "Endocarditis"
+                    },
+                    {
+                        "text": "Cryptococcosis in both immunocompetent & Immunocompromised"
+                    },
+                    {
+                        "text": "Discuss with Consultant Microbiologist. Treatment of choice is amphotericin + Flucytosine x 2weeks. Flucytosine is not routinely kept in pharmacy ensure to inform pharmacy to source once approved by Microbiology Consultant. In less severe cases: Fluconazole 400-800mg IV od x 2weeks"
+                    },
+                    {
+                        "text": "Osteomyelitis (duration depends on clinical response)"
+                    },
+                    {
+                        "text": "AmBisome 3mg/kg IV od, after the initial test dose of 1mg. (duration 2-6weeks) Follow appendix section for Guideline for dose banding: Ambisome use in adult followed by fluconazole 400mg PO od x 5-11 months"
+                    },
+                    {
+                        "text": "If susceptible isolate, Fluconazole 400mg od (6mg/kg) for 6-12months. Start with IV, then oral after 2- 6weeks"
+                    },
+                    {
+                        "text": "Septic Arthritis Debridement & surgical washout strongly recommended"
+                    },
+                    {
+                        "text": "As above for at least 6 weeks. 2 weeks IV, followed by 4weeks oral"
+                    },
+                    {
+                        "text": "As above for at least 6weeks total"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 10,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Invasive Fungal Infections In The Immunocompromised Host"
+                    },
+                    {
+                        "text": "Neutropenic sepsis: Confirmed OR suspected Fungal infection. All proven/confirmed fungal infections should be discussed with a Microbiology Consultant. Empirical treatment should be considered in neutropenic fever not responding to antibacterial treatment. Antifungals should continue until 3 consecutive days of sustained apyrexial OR a maximum of 10days, unless there's proven evidence of fungal infection."
+                    },
+                    {
+                        "text": "Anidulafungin 200mg stat on day 1, then 100mg od."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "For patient \u2265 40kg; Loading dose 6mg/kg bd IV x 2doses, thereafter 4mg/kg IV bd (can be reduced to 3mg/kg if not tolerated). Refer to BNF for dosing body weight < 40kg. Following 3days IV therapy, consider oral voriconazole 200- 300mg bd"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 11,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Invasive candidiasis: including hepatosplenic (chronic disseminated candidiasis)"
+                    },
+                    {
+                        "text": "Anidulafungin 200mg stat on day 1, then 100mg od"
+                    },
+                    {
+                        "text": "AmBisome 3mg/kg IV infusion od, if test dose(1mg over 10minutes) is tolerated Follow appendix section for Guideline for dose banding: Ambisome use in adult"
+                    },
+                    {
+                        "text": "Invasive pulmonary Aspergillosis"
+                    },
+                    {
+                        "text": "AmBisome 3mg/kg IV infusion od, if test dose of 1mg is tolerated Follow appendix section for Guideline for dose banding: Ambisome use in adult"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Refer to BNF for dosing body weight < 40kg. Therapy should be continued until the lesion is resolved(this maybe 6-12weeks)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Treatment For Allergic Bronchopulmonary Aspergillosis (ABPA)"
+                    },
+                    {
+                        "text": "Corticosteroids are the cornerstone of therapy in ABPA, but steroid sparing effect of Itraconazole has been demonstrated"
+                    },
+                    {
+                        "text": "Itraconazole capsule 200mg bd PO (liquid preparation may be used if there are concerns over absorption)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "IV (if patient is not absorbing)"
+                    },
+                    {
+                        "text": "Aspergilloma"
+                    },
+                    {
+                        "text": "Treatment as above"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 12,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Dermatophyte infections"
+                    },
+                    {
+                        "text": "Dermatophyte infection: Nail. (Only if infection is confirmed). To prevent recurrence: apply weekly 1% topical antifungal cream to entire toe area Stop treatment when continual, new, healthy, proximal nail growth."
+                    },
+                    {
+                        "text": "Terbinafine oral 250mg OD. Duration of treatment \u2013 Fingers- 6 weeks treatment. Toes-12 weeks treatment. If candida or non-dermatophyte infection is confirmed, use oral itraconazole. Itraconazole 200mg BD. Duration of treatment- Fingers- 1 week a month a total of 2 courses of treatment. Toes- 1 week a month, a total of 3 courses of treatment."
+                    },
+                    {
+                        "text": "Itraconazole 200mg BD. Duration of treatment- Fingers- 1 week a month a total of 2 courses of treatment. Toes- 1 week a month, a total of 3 courses of treatment."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1:Amphotericin (AmBisome) Injection use in adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Purpose: To provide dose-banding information for 3mg/kg as a prescribing and administration aid to practitioners"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Process:"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Locate band covering patient's accurate weight on chart. Read off banded dose for prescribing. Prior to prescribing the first dose, prescribe the relevant 1mg test dose (as shown below). Where weight is not covered by bands, prescribe by target dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "For administration: Add 12ml of water for injections to each vial to reconstitute (final volume= 12.5ml per vial). IMMEDIATELY after the addition of water, SHAKE THE VIAL VIGOROUSLY for  seconds to completely disperse the AmBisome."
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Withdraw the equivalent volume of AmBisome dose from the 5% glucose bag (i.e. 37.5ml if giving 150mg dose) and discard."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Withdraw the required dose from the reconstituted vial/s and introduce into the glucose 5% bag using the 5micron filter needle provided. (from pharmacy or emergency drug cupboard out-of-hours)"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For the first dose (test dose)"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Give an initial test dose of 1mg over 10 minutes. Stop the infusion, observe patient carefully for the next 30minutes. If there is no severe allergic or anaphylactic reaction, give the rest of the infusion over 60minutes."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For patients who experience discomfort during the infusion: Give infusion more slowly (i.e. over 2 hours)."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1mg Test dose (ml)"
+                    },
+                    {
+                        "text": "Weight"
+                    },
+                    {
+                        "text": "Dose to give"
+                    },
+                    {
+                        "text": "Amount of concentrate"
+                    },
+                    {
+                        "text": "Glucose"
+                    },
+                    {
+                        "text": "Duration"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "(kg)"
+                    },
+                    {
+                        "text": "(mg)"
+                    },
+                    {
+                        "text": "(ml)*"
+                    },
+                    {
+                        "text": "5% Bag"
+                    },
+                    {
+                        "text": "(mins)"
+                    },
+                    {
+                        "text": "42-58kg"
+                    },
+                    {
+                        "text": "150mg (3 vials)"
+                    },
+                    {
+                        "text": "37.5ml"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "60mins"
+                    },
+                    {
+                        "text": "1.66ml"
+                    },
+                    {
+                        "text": "59-74kg"
+                    },
+                    {
+                        "text": "200mg (4 vials)"
+                    },
+                    {
+                        "text": "50ml"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "60mins"
+                    },
+                    {
+                        "text": "1.25ml"
+                    },
+                    {
+                        "text": "75-91kg"
+                    },
+                    {
+                        "text": "250mg (5 vials)"
+                    },
+                    {
+                        "text": "62.5ml"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "60mins"
+                    },
+                    {
+                        "text": "1.00ml"
+                    },
+                    {
+                        "text": "92-108kg"
+                    },
+                    {
+                        "text": "300mg (6 vials)"
+                    },
+                    {
+                        "text": "75ml"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "60mins"
+                    },
+                    {
+                        "text": "0.83ml"
+                    },
+                    {
+                        "text": "109-125kg"
+                    },
+                    {
+                        "text": "350mg (7 vials)"
+                    },
+                    {
+                        "text": "87.5ml"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "60mins"
+                    },
+                    {
+                        "text": "0.71ml"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "* displacement of 0.5ml has been taken into account"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.0,
+                "text": "Mid & South Essex NHS Foundation Trust Adult Antifungal Guidelines / MSEGL20002 /1"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "type": "image",
+            "sequence_num": 26,
+            "data": {
+                "url": "MSEGL20002 Adult Antifungal Guidelines 1.0.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Always check for drug allergy  Always write treatment duration AND indication on drug charts"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Indication  First Choice  Hypersensitivity OR failure to respond to first choice"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        }
+    ]
+}

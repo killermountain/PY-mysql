@@ -1,0 +1,235 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21001"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "12/03/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "11/03/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group"
+                    },
+                    {
+                        "text": "11/03/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group (Chairs action)"
+                    },
+                    {
+                        "text": "11/03/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "R Ketley: Medication Safety Officer (MSO)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IV Infusions: mls per hour vs. drops per minute"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "1hr  2hrs  4hrs  6hrs  8hrs"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "12hrs"
+                    },
+                    {
+                        "text": "mls per hour"
+                    },
+                    {
+                        "text": "drops per minute"
+                    },
+                    {
+                        "text": "83"
+                    },
+                    {
+                        "text": "28"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "42"
+                    },
+                    {
+                        "text": "14"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "21"
+                    },
+                    {
+                        "text": "7"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "mls  drops  mls  drops  mls  drops  mls  drops  mls  drops"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "per  per  per  per  per  per  per  per  per  per hour  minute  hour  minute  hour  minute  hour  minute  hour  minute"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "1 Litre Bag"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "500ml Bag"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 42.0,
+                "text": "250ml Bag"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": "* Rates rounded to nearest ml / drop (based on  drops per ml)"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "TO BE USED AS A GUIDE ONLY FOR GRAVITY ADMINISTRATION."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        }
+    ]
+}

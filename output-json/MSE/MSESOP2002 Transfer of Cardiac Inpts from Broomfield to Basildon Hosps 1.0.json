@@ -1,0 +1,2891 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "STANDARD OPERATING PROCEDURE FOR THE TRANSFER OF CARDIAC INPATIENTS FROM BROOMFIELD HOSPITAL TO BASILDON HOSPITAL"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP2002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All emergency ( Mid / BTUH) village staff; Site office ( Mid / BTUH); Intensive care; All Medical staff ( Mid / BTUH); All Nursing staff( Mid / BTUH); Operational managers ( mid / BTUH); Site leadership team ( Mid / BTUH); East of England Ambulance Service; Patient transport Service; Pathology; Radiology; Hospital out of hours Trigger response Team ) Mid / BTUH); Resuscitation teams (Mid/ BTUH); All CTC staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th 13 February 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th12 February 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Merger of Services"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4)CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Medicine & Emergency Care"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Andrew Watson, Medicine Service Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate boxes to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\uf0fcMEHT \uf0fcBTUH \u25a1 SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Clinical and Operational Work Stream (MSE Group)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "2nd January 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr Jonathan Davis, Divisional Director Dr Stuart Harris, Clinical Lead"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "19th December 2019"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "21st January 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group"
+                    },
+                    {
+                        "text": "Date: February 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Coles"
+                    },
+                    {
+                        "text": "Cardiologist Mid"
+                    },
+                    {
+                        "text": "2nd January 2020"
+                    },
+                    {
+                        "text": "Dr Onkar Dhillon"
+                    },
+                    {
+                        "text": "Cardiologist Mid"
+                    },
+                    {
+                        "text": "Mark Passey/Karen Stewart"
+                    },
+                    {
+                        "text": "Cardiology Service Unit Manager, Basildon"
+                    },
+                    {
+                        "text": "Lynda Pilley"
+                    },
+                    {
+                        "text": "Cardiology Operational Manager, Basildon"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "Service Manager Medicine Mid"
+                    },
+                    {
+                        "text": "Jackie Smith"
+                    },
+                    {
+                        "text": "Senior Sister Basildon"
+                    },
+                    {
+                        "text": "Debbie Whitfield"
+                    },
+                    {
+                        "text": "Matron Cardiology Mid"
+                    },
+                    {
+                        "text": "Michelle Colton"
+                    },
+                    {
+                        "text": "Principal Physiologist Mid"
+                    },
+                    {
+                        "text": "Margaret Long"
+                    },
+                    {
+                        "text": "Principal Physiologist Mid"
+                    },
+                    {
+                        "text": "Katherine McNaughton"
+                    },
+                    {
+                        "text": "Improvement Lead"
+                    },
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text)"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "V0.1 \u2013 Draft"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "First draft"
+                    },
+                    {
+                        "text": "4th October 2019"
+                    },
+                    {
+                        "text": "V0.2 \u2013 Draft"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "Second draft"
+                    },
+                    {
+                        "text": "8th November 2019"
+                    },
+                    {
+                        "text": "V0.3 \u2013 Draft"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "Core hours, necessary requirements , board rounds"
+                    },
+                    {
+                        "text": "18th November 2019"
+                    },
+                    {
+                        "text": "V0.4 \u2013 Draft"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "Introduction, scope, patient journey"
+                    },
+                    {
+                        "text": "19th November 2019"
+                    },
+                    {
+                        "text": "V0.5 \u2013 Draft"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "Patients journey, Discharge"
+                    },
+                    {
+                        "text": "29th November 2019"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Andrew Watson"
+                    },
+                    {
+                        "text": "Created"
+                    },
+                    {
+                        "text": "13th February 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The purpose of this Standard Operating Procedure (SOP) is to give guidance and direction for the transfer of cardiology inpatients from Broomfield Hospital to Basildon Hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The service will deliver a seven day cardiology consultant service on James Mackenzie ward at Basildon Hospital, with Consultant of the Week (COW) cover 9am-5pm Mon-Fri and 9am- 12pm Sat-Sun. This is a collaborative partnership, inclusive of both Basildon and Mid Essex consultants."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The COW is supported by a Middle Grade of the Week (MOW) Mon-Fri 9am-5pm based on James Mackenzie ward."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Patients attending Mid Essex Emergency Department (ED) will have an assessment and initial treatment prior to a decision being made to transfer to Basildon. This will be initially provided by the acute medical services team and reviewed by the Broomfield Cardiology Liaison Service (led by Middle Grade and/or Specialist Nurse with Consultant oversight). Liaison between Broomfield and COW at Basildon will be facilitated by the use of the Forward App to share patient information and investigations such as blood test results and ECGs. Clinicians will also have access and training on the Acute Care Portal (ACP) for diagnostics and other patient information."
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "Patients will be transferred from Broomfield Hospital to Basildon Hospital in order to assist in resolving the bed deficit at Broomfield Hospital and support the maintenance of safe services over the winter period. Patients will have access to expert cardiology input across the MSE 24/7. This in turn will potentially increase medical bed capacity and elective activity in cardiac centre at Broomfield."
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "In the event James Mackenzie is at full bed capacity, the Basildon Cardiac Nurse Practitioner will update tele-tracking (and contact the hub on extension 2000), notify Broomfield site office on 01245 514 074 or x514666. NOTE: Broomfield site office will be required to discuss with the Broomfield Cardiac Nurse Practitioner, Cardiology Consultant/Registrar and AMU Nurse in Charge. Refer to Section 6, page 6 for more information."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Establish a process for bed management when James Mackenzie ward is at full capacity"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Detail protocol for managing patient transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Standardised procedure for board rounds and telemedicine round"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adherence to established clinical pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The cardiology service will be available during core hours Monday to Friday and limited hours on the weekend. Telemed ward round will take place at specific points throughout the day to discuss any patients requiring transfer to Basildon. Whilst discussion around pathway positive patients will occur in the core hours, this does not restrict the times patients can be transferred to Basildon."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Consultant cover at Basildon"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "type": "table",
+            "sequence_num": 17,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Monday-Friday (9am-5pm)"
+                    },
+                    {
+                        "text": "Saturday-Sunday (9am-12pm)"
+                    },
+                    {
+                        "text": "9am"
+                    },
+                    {
+                        "text": "Ward round (James Mackenzie) & review inpatient referrals requested by cardiac CNS"
+                    },
+                    {
+                        "text": "Ward round (James Mackenzie)"
+                    },
+                    {
+                        "text": "11am"
+                    },
+                    {
+                        "text": "Telemed ward round with Mid Essex CNS and BTUH CNS"
+                    },
+                    {
+                        "text": "Telemed ward round with AMU acute physician/ POD/ Ed consultant if patient is within the emergency dept. ( physician of the day) / Med Reg"
+                    },
+                    {
+                        "text": "1pm"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2pm"
+                    },
+                    {
+                        "text": "IP admin/ Result review/ Tertiary/Broomfield Liaisons"
+                    },
+                    {
+                        "text": "3pm"
+                    },
+                    {
+                        "text": "Board round (James Mackenzie)"
+                    },
+                    {
+                        "text": "4pm"
+                    },
+                    {
+                        "text": "Telemed catch up Broomfield"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Cardiac Liaison cover at Broomfield"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "type": "table",
+            "sequence_num": 19,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Monday-Friday (9am-5pm)"
+                    },
+                    {
+                        "text": "Saturday-Sunday (9am-12pm)"
+                    },
+                    {
+                        "text": "8:45am"
+                    },
+                    {
+                        "text": "Board Round AMU with Cardiac Nurse, Physiologist Registrar of the Day and Consultant"
+                    },
+                    {
+                        "text": "Cardiac Liaison weekend consultant to undertaken ward round."
+                    },
+                    {
+                        "text": "11am"
+                    },
+                    {
+                        "text": "Telemed with Cardiac Nurses at Basildon \u2013 other members of liaison team can join as required"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1pm"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2pm"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "3pm"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "4pm"
+                    },
+                    {
+                        "text": "Telemed with Cardiac Nurses at Basildon \u2013 other members of liaison team can join as required"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The Cardiology Liaison Consultant will review patients each day on AMU with a view to cardiology transfer to Basildon. Patients should be transferred in date order, unless there is an urgent clinical need. All Consultant transfers will be accepted by Basildon, without the need for discussion with the COW."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Middle Grade referrals from Broomfield will require discussion with the COW, who can be contacted via the Basildon Hospital switchboard \u2013 01268 524900."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "At the point of an agreed transfer, patients will be recorded as under the COW at Basildon."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Patients that have been agreed for transfer will be accepted by James Mackenzie into the evening. Patients will only require a review by the overnight Medical Registrar at Basildon, if they have deteriorated on transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "type": "image",
+            "sequence_num": 24,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.002.jpeg"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 25,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Responsibility"
+                    },
+                    {
+                        "text": "Method of Communication"
+                    },
+                    {
+                        "text": "Timeline"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "NEWS Score"
+                    },
+                    {
+                        "text": "Cardiac Nurse Practitioner/AMU/ED Nurse"
+                    },
+                    {
+                        "text": "Referring Clinician to update tele- tracking"
+                    },
+                    {
+                        "text": "Imminent"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Mid Essex Inpatient Referral Form (please see Appendix 11)"
+                    },
+                    {
+                        "text": "Referring clinician"
+                    },
+                    {
+                        "text": "Centralised email account"
+                    },
+                    {
+                        "text": "Prior to transfer"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Documentation (Copy of Medical Notes & Drug Chart + Pre Transfer Patient checklist) Please see appendix 10"
+                    },
+                    {
+                        "text": "Cardiac Nurse Practitioner/ Cardiology Doctor"
+                    },
+                    {
+                        "text": "Hard copies of all notes to be sent with the patient"
+                    },
+                    {
+                        "text": "30 minutes prior to transfer"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Echocardiogram"
+                    },
+                    {
+                        "text": "Cardiologist/ Cardiac Nurse Practitioner"
+                    },
+                    {
+                        "text": "Physiologist to undertake test and report available on Tomcat"
+                    },
+                    {
+                        "text": "Prior to transfer"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "X-RAY"
+                    },
+                    {
+                        "text": "Cardiologist/ Cardiac Nurse Practitioner"
+                    },
+                    {
+                        "text": "Radiology to undertake and report available on"
+                    },
+                    {
+                        "text": "Prior to transfer"
+                    },
+                    {
+                        "text": "6."
+                    },
+                    {
+                        "text": "Blood Tests"
+                    },
+                    {
+                        "text": "Cardiologist/ Cardiac Nurse Practitioner"
+                    },
+                    {
+                        "text": "Clinical team to undertake test and review on NHS Review"
+                    },
+                    {
+                        "text": "Prior to transfer"
+                    },
+                    {
+                        "text": "7."
+                    },
+                    {
+                        "text": "Frailty assessment"
+                    },
+                    {
+                        "text": "Referring clinician"
+                    },
+                    {
+                        "text": "Undertaken by appropriate clinician"
+                    },
+                    {
+                        "text": "Prior to transfer"
+                    },
+                    {
+                        "text": "8."
+                    },
+                    {
+                        "text": "CTC Network Referral for query NSTEMI"
+                    },
+                    {
+                        "text": "Cardiology Doctor"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Prior to Transfer"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "At the weekend the above necessary requirements will be the responsibility of the AMU Doctor."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Board rounds will take place in AMU (at Broomfield) at 8:45am Monday to Friday. Expected attendance will be:"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiologist Consultant"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiology Middle Grade"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiac Nurse Practitioner"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiac Physiologist"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Board rounds will take place on James Mackenzie (at Basildon) at 8:45am Monday to Friday. Expected attendance will be:"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiologist"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiology Middle Grade (Monday \u2013 Friday)"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiac Nurse Practitioner"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Necessary information includes the cardiology referral document. The group will be required to adhere to the clinical pathways as stated in the appendices."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Telemed rounds will be carried out via spider phone at 1pm and 4pm Monday \u2013 Friday and will take place as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon: Ward Managers office, James Mackenzie ward OR in the treatment room"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broomfield: Meeting room Acute Medical Unit \u2013 Broomfield"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "Basildon Cardiac Nurse Practitioner (James Mackenzie) can be contacted via BTUH switchboard (01268 524900) on ext 7217, or bleep 6221"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Broomfield Cardiac Liaison team can be contacted via 01245 51 2576"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "All staff will have access to Forward App and be given access to the specified group used to support cardiology. Forward App will be used to transfer images as required to the COW for review."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "All staff will also be given training and access to the Acute Care Portal where they can access a range of IT systems including pathology and imaging across the MSE trusts."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "James Mackenzie have 23 beds available. Beds will be prioritised for cardiology patients, and will only be used for medical outliers in the event that there are no cardiology patients to fill them."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "MEHT Acute Medical Unit (AMU) has 44 beds with the capacity to monitor 20 beds."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "MEHT Criteria for Cardiac monitoring is included in appendix 12."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical priority, this will be decided within the clinical teams."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Visibility on Tele tracking"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consultant (COW) name to be allocated when decision to transfer is added to TeleTracking"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider pathways for transfer"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Discuss with MEHT cardiac liaison Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update Teletracking"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify transfer requirement/ team"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient who do not trigger pathway identify continued care requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Terling ward if monitor required"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Handover to MEHT cardiology team for continued care"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": ": CARDIAC UNSTABLE WARD PATIENTS"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider early escalation (Trigger response team??)"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Early escalation to MEHT cardiac liaison team"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If patient does not meet transfer criteria ensure clear care plan is documented"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider Terling/ high dependency unit ward if requires monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Discuss with relevant team for handover and transfer"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update Teleltracking"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Pathways have been identified for the following cardiac areas and can be found in the appendices 1-7:"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broomfield to review tele-tracking for current bed status"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient will remain on Broomfield AMU under the care of the acute physicians and treatment plan constructed."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient will remain on Broomfield AMU until such time that a bed is available at Basildon"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nurse in Charge on James Mackenzie to contact the Tele-tracking Hub as soon as bed is available and contact Broomfield Nurse in Charge"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Teletracking Hub to update Broomfield site office of bed availability, and advise Senior Manager On Call (SMOC) at both sites."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If Basildon is on internal incident James Mackenzie ward will be made available for cardiology patients as a priority, then medical patients will be considered. Approval for medical patients will be undertaken by the Director of Operations/Exec Oncall at BTUH."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.1,
+                "text": "Cardiac beds at Basildon to be ring fenced for Broomfield patients, a minimum of 4 beds allowing seamless transfer of pathway positive patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "Patients waiting to be transferred to Basildon Hospital will be managed in date and time order, unless this is exacerbated by clinical priority."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.2,
+                "text": "Out of core working hour's emergency cases will be transferred by emergency ambulance. All other non-urgent cases will remain at Broomfield on the Acute Medical Unit until cardiology review the next day."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "There are various methods of transport available to transfer patients to Basildon. These include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "East of England Ambulance;"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Inter-hospital Treat and Transfer Ambulance (currently available 9-5pm weekends only);"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Transport Services (PTS): Thames Ambulance."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.4,
+                "text": "Criteria for the different types of patient transport is shown in Appendix 8 of this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "i) Emergency/Urgent Patient Transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) If patient is Emergency/Urgent, and the MSE Inter-hospital service (IHT) are not"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "available. Referring hospital to contact East of England (EOE) ambulance control via switchboard, or ring 999"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) In order to categorise your call EoE will ask for the following information:"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Name of patient;"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Weight of patient;"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Diagnosis;"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where the patient is transferring to and from?"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Referring doctors name;"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Requesting hospital telephone number;"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Are there any relatives travelling with the patient?"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "What is the patient's NEWS score?"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Does the patient need a wheelchair or stretcher?"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Does the patient require oxygen?"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Is the patient currently on a defibrillator or will they need to have?"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Can the patient be transferred with other patients?"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "c) The call operator will then agree with their superior the transfer category and provide the caller with a reference number."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "d) If the MSE Interhospital Transfer service is available, the Teletracking Control Centre will arrange this mode of transport. The MSE Interhospital transfer is available 9-5pm Saturday/Sunday and Bank holidays, and is equipped to take patients with all acuity levels, staffed by a paramedic and an ODP."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "ii) Non-urgent patient transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) If the patients clinical condition has been stable for over 8 hours (NEWS \u2264 1) they would be deemed a non-urgent transfer (required in the next 2-3 hours) and would be transferred as per the retrieval process for CTC."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) Thames ambulance patient transport can be requested online via the Healthcab system."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "c) Telephone contact numbers for Thames PTS In hours: 01268 512005"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Out of hours: 01163 666774"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "d) In order to request Patient Transport the following patient information will be required:"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Name of Patient;"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Number;"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Date of Birth;"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where is the patient travelling from and to?"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Mobility? i.e. stretcher/wheelchair;"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any equipment travelling with the patient;"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any special needs of the patient i.e. visually impaired;"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Can the patient travel with other patients?"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient journey date and time;"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Requester of transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The system then needs to be marked that the patient is ready to travel"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "iii) Patient Transport Survey (process)"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) As part of evaluating the service, a staff checklist form will be used capture details of the transfer. This will be used, along with the ambulance / transfer NEWS2 score recording sheet."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) On discharge from James McKenzie Ward a patient survey will be completed alongside completion of the Friends and Family test."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "c) Forms will be returned to the Strategy Unit in the Postgraduate Centre."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "d) Examples of the checklist and survey are included as appendices 9 and 10."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.5,
+                "text": "DISCHARGE"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "16.5.1 Patients transferred from Broomfield Hospital will be discharged from Basildon Hospital and followed up at Broomfield Hospital in outpatients."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "16.5.2 James Mackenzie ward will notify the Basildon Integrated Discharge Team (IDT) (as early as possible in the patient pathway), that the patient is anticipated to need IDT support on discharge. The Basildon IDT will make any necessary arrangements with the Broomfield IDT or with Essex County Council."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "16.5.3 Basildon IDT team will make a daily visit to James Mackenzie ward to check for patients, as well as be contactable through extension 4512"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "16.5.4 Cardiology patients who are treated on James Mackenzie ward by a Broomfield Consultant (i.e. Dr Onkar Dhillon or Dr Duncan Coles), and are local to Basildon (not a transferred patient) will be followed up locally at Basildon Hospital by a Basildon Consultant."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.6,
+                "text": "Referral to MEHT OPA"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If cardiologist named on the transfer document please ensure follow up is addressed to named consultant."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All referrals to go through MERC to this e mail address mie-tr.merc@nhs.net."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Please ensure appointment is clearly indicated as routine / urgent."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1: Heart failure pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 2: Rockwood Clinical Frailty Score Appendix 3: Emergency pacing pathway Appendix 4: Permanent pacing pathway Appendix 5: Atrial fibrillation pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 6: Acute coronary syndrome pathway Appendix 7: High Sensitivity Troponin T Guideline"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 8: MSE Cardiology Interhospital Transport Guideline Appendix 9: Pre Transfer Patient Checklist"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 10: Cardiology transfer patient questionnaire Appendix 11: MEHT Cardiology Inpatient Referral Form Appendix 12: MEHT Criteria for Cardiac Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "type": "image",
+            "sequence_num": 133,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "type": "image",
+            "sequence_num": 135,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1:"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "type": "image",
+            "sequence_num": 137,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 138,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.004.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2:"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "type": "image",
+            "sequence_num": 141,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3:"
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "type": "image",
+            "sequence_num": 143,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4:"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "type": "image",
+            "sequence_num": 146,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5:"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "type": "image",
+            "sequence_num": 148,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 149,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6:"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "type": "image",
+            "sequence_num": 152,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7:"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "type": "image",
+            "sequence_num": 154,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.012.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 155,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.013.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 156,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "type": "image",
+            "sequence_num": 159,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.014.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "MSE CARDIOLOGY INTERHOSPITAL TRANSPORT GUIDELINE Please refer to appropriate transfer pathway for further guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If unsure please discuss appropriate level of transfer with CTC Cardiology rERegistrarEMER.  GENCY"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "type": "image",
+            "sequence_num": 162,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CAT 2 EEAST TRANSFER POTENTIALLY LIFE THREATENING CARDIAC CONDITION** (eg STEMI,  YES"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "type": "image",
+            "sequence_num": 164,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.017.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "hemodynamically unstable arrhythmia or confirmed ACS with  WEEKEND / BH 9-5:"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "instability or requiring IV infusion*)?"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "MSE IHT TEAM"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NO"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "type": "image",
+            "sequence_num": 169,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.020.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "URGENT  WEEKEND / BH 9-5: YES  MSE IHT TEAM"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "type": "image",
+            "sequence_num": 171,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.025.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NOT IMM EDIATELY LIFE THREATENING ** (eg stable NSTEMI requiring"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "urgent angiography, haemodynamically stable arrhythmia)?  OTHER TIMES: Potentially unstable patient requiring transfer  CAT 3 EEAST TRANSFER"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "type": "image",
+            "sequence_num": 174,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.024.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NO"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "type": "image",
+            "sequence_num": 176,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.026.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NON-URGENT  YES"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "type": "image",
+            "sequence_num": 178,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.029.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "PATIENT TRANSPORT Has the pa  tient vital observations and clinical condition been stable for  SERVICES"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "over 8 hours (NEWS \u2264 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "*Please discu  ss clinical need for IV infusion with CTC cardiology MOW or COW"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "type": "image",
+            "sequence_num": 182,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.030.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "**Emergen  cy and Urgent patients both have cardiac monitoring capability for transit. Patient Tran  sport services do not have the capability for cardiac monitoring in transit."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "type": "table",
+            "sequence_num": 184,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Response time"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "7 mins"
+                    },
+                    {
+                        "text": "Aortic Dissections only"
+                    },
+                    {
+                        "text": "18 mins"
+                    },
+                    {
+                        "text": "Emergency Cardiac as defined above"
+                    },
+                    {
+                        "text": "1 hours 20mins"
+                    },
+                    {
+                        "text": "Urgent Cardiac as defined above"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "All patients except CAT 1"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "EoE Ambulance service to categorise transfer, based on clinical information provided at the point of transfer request."
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 28.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients on a GTN infusion can be transferred without a nurse escort."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "type": "image",
+            "sequence_num": 188,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "type": "image",
+            "sequence_num": 190,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.031.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pre-Transfer Patient Checklist"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "type": "table",
+            "sequence_num": 192,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Patient Name: DOB: NHS Number:"
+                    },
+                    {
+                        "text": "Date of Transfer:"
+                    },
+                    {
+                        "text": "GP name:"
+                    },
+                    {
+                        "text": "Patients address:"
+                    },
+                    {
+                        "text": "Patient destination :"
+                    },
+                    {
+                        "text": "ETA at destination:"
+                    },
+                    {
+                        "text": "Ward contact relatives of transfer:"
+                    },
+                    {
+                        "text": "Complete Teletracking process:"
+                    },
+                    {
+                        "text": "Referring Medical Clinician (name):"
+                    },
+                    {
+                        "text": "Referring Medical Clinician contact details:"
+                    },
+                    {
+                        "text": "Referring Cardiology Clinician (name):"
+                    },
+                    {
+                        "text": "Referring Cardiology Clinician contact details"
+                    },
+                    {
+                        "text": "Receiving Clinician (name):"
+                    },
+                    {
+                        "text": "Receiving Clinician contact details:"
+                    },
+                    {
+                        "text": "Intervention:"
+                    },
+                    {
+                        "text": "NEWS 2 Score at collection location:"
+                    },
+                    {
+                        "text": "Current infection status:"
+                    },
+                    {
+                        "text": "Relevant Co-morbidities: (Circle and describe) CVS RS Coag' Other None"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Referring Team and Transfer / Ambulance Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "type": "table",
+            "sequence_num": 194,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Task"
+                    },
+                    {
+                        "text": "\uf0fc"
+                    },
+                    {
+                        "text": "Initials"
+                    },
+                    {
+                        "text": "Handover received from referring clinical staff."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Inter-Hospital Transfer Team introduced to the patient."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Explanation provided to patient regarding the transfer process."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient's notes collected."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 195,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Referring Team"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signature:"
+                    },
+                    {
+                        "text": "Transfer / Ambulance Team"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signature:"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Receiving Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "type": "table",
+            "sequence_num": 197,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Task"
+                    },
+                    {
+                        "text": "\uf0fc"
+                    },
+                    {
+                        "text": "Initials"
+                    },
+                    {
+                        "text": "Imaging has been electronically transferred or is with the patient."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Most recent blood results are included in the notes."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Medications have been given as appropriate."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Medication is with patient."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is blood required?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is a Doctor Required to escort the patient?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient's possessions are with patient."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 198,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Receiving Team"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signature:"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "type": "image",
+            "sequence_num": 200,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.032.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Cardiology Transfer Patient Questionnaire"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "We would really appreciate your feedback. If you would like to share your thoughts please complete the below questionnaire. All information collected in this questionnaire is anonymous and will be used to help improve patient experience."
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "type": "table",
+            "sequence_num": 203,
+            "data": {
+                "num_rows": 30,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Did the transfer team introduce themselves to you?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Did you understand the reason you were transferred?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If No, what was not explained?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Did you feel safe during transfer?"
+                    },
+                    {
+                        "text": "Yes, Extremely"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Yes, Mostly"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Partly"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Not relevant"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If Yes, what made you feel safe?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If Partly or No, what were your concerns?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Once you had arrived at the hospital you were transferred to, were you introduced to the team who were looking after you?"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Yes No"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Yes, Extremely Yes, Mostly Partly"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No"
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Not relevant"
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "I consent to this information being used to inform an evaluation for service improvement"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "type": "image",
+            "sequence_num": 209,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.033.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "type": "image",
+            "sequence_num": 211,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.034.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Name:  MEHT CARDIOLOGY INPATIENT REFERRAL FORM DOB:"
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "type": "image",
+            "sequence_num": 213,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.035.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospital or NHS no:"
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Urgent Inpatient"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "In hours 9-5 \u2013 Email referral to Cardiologyreferrals@meht.nhs.uk  AND call Reg bleep 4007 Out of hours \u2013 ECTC cardiology reg bleep 9010 (send ECG's to CTC.ECG.reports@btuh.nhs.uk) Routine Inpatient \u2013 Email this referral to Cardiologyreferrals@meht.nhs.uk"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Outpatient - DO NOT USE THIS FORM \u2013 CON to CON referral letter"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prior to referral please refer to appropriate cardiology pathway (on intranet)"
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "type": "table",
+            "sequence_num": 219,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "From Consultant:"
+                    },
+                    {
+                        "text": "To Registrar:"
+                    },
+                    {
+                        "text": "Ward:"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Please note: Only a Consultant may make a request for a Cardiac Consultation"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "type": "table",
+            "sequence_num": 221,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "WHAT IS THE CLINICAL QUESTION: RELEVANT HISTORY (incl HPC/PMH/DH/ECG changes/abnormal bloods esp serial troponin levels) PREVIOUS CARDIAC HISTORY*: YES / NO (pls circle) Rockwood Frailty score: 1, 2, 3, 4, 5, 6, 7, 8, 9 *If YES please review TOMCAT/LORENZO and print relevant tests results (e.g. echo) and letters Inadequate or incorrect information could lead to delay in patient being seen."
+                    },
+                    {
+                        "text": "Has this patient been seen by a member of the team before? : YES / NO (pls circle):(if yes, please name the doctor seen , when and state whether it was as an inpatient or outpatient)"
+                    },
+                    {
+                        "text": "Signature:"
+                    },
+                    {
+                        "text": "Print Name: Bleep:"
+                    },
+                    {
+                        "text": "Grade: Date:"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "SEND ATTACHED REFERRAL TO Cardiologyreferrals@meht.nhs.uk & PRINT ORIGINAL + PUT IN NOTES"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "type": "table",
+            "sequence_num": 223,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Diagnosis / Outcome:"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Designation / Grade:"
+                    },
+                    {
+                        "text": "Date seen:"
+                    },
+                    {
+                        "text": "Any follow up arranged?"
+                    },
+                    {
+                        "text": "Where seen:"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 12  MEHT Criteria for Continuous Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "type": "image",
+            "sequence_num": 225,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.036.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CARDIOLOGY"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "type": "image",
+            "sequence_num": 227,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.037.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "STROKE"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "type": "image",
+            "sequence_num": 229,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.038.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "OTHER REASONS FOR CONSIDERING CONTINUOUS CARDIAC MONITORING"
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "type": "image",
+            "sequence_num": 231,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.039.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CRITERIA WHERE CARDIAC MONITORING CAN BE DISCONTINUED"
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "type": "image",
+            "sequence_num": 233,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.040.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 234,
+            "data": {
+                "url": "MSESOP2002 Transfer of Cardiac Inpts from Broomfield to Basildon Hosps 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        }
+    ]
+}

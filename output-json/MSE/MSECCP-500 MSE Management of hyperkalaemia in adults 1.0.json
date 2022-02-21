@@ -1,0 +1,4507 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "MANAGEMENT OF ACUTE HYPERKALAEMIA IN ADULTS - CLINICAL CARE PATHWAY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSECCP- 500"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "CCP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All clinical staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "10 November 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "09 November 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NICE Technology appraisals Updated Renal Association guidelines"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Medicine - Nephrology"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Mabel Odonkor Dr. Jonathan Wong Dr. Aroon Lal"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "MSE Kidney Service Consultant group"
+                    },
+                    {
+                        "text": "01 October 2020"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "MSE Renal Acute Reconfiguration Programme Board"
+                    },
+                    {
+                        "text": "21 October 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Mabel Odonkor, Homecare and Biologics Pharmacist"
+                    },
+                    {
+                        "text": "05 October 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "03 November 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "October 20"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Sarah Cox"
+                    },
+                    {
+                        "text": "Lead Pharmacist, Renal"
+                    },
+                    {
+                        "text": "05 October 2020"
+                    },
+                    {
+                        "text": "Maria Richards"
+                    },
+                    {
+                        "text": "Principal Pharmacist, Emergency Care"
+                    },
+                    {
+                        "text": "05 October 2020"
+                    },
+                    {
+                        "text": "All MSE renal consultants"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "01 September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) Author to complete"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Mabel Odonkor Dr. Jonathan Wong Dr. Aroon Lal"
+                    },
+                    {
+                        "text": "MSE Kidney Consultants. Supersedes: SUH CL47 POL - Management of Hyperkalemia - Clinical Practice Guideline CCP 3.1 \u2013 Clinical Care Pathway: Management of hyperkalaemia in adult patients"
+                    },
+                    {
+                        "text": "10 November 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Key Elements of Policy ................................................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Training Requirements ............................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Monitoring and Audit ................................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Approval and Implementation ..................................................................................... 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Equality Impact Assessment ....................................................................................... 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "References ................................................................................................................. 13 Appendix 1: Preliminary Equality Analysis ......................................................................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This is a clinical care pathway which details the management of acute hyperkalaemia in adults in hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Hyperkalaemia is defined as a serum potassium concentration [K+] above 5.5 mmol/L. Absolute serum K+ level as well as the rate of rise of K+ value determines the complication e.g. those with massive tissue destruction (burns or crush injuries) may be at risk of the consequences of hyperkalaemia at lower plasma levels, due to the rate of change in K+ concentration."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The severity of hyperkalaemia must be established before initiating therapy. Ensure this is not an artefact (e.g. due to haemolysis). If pseudo-hyperkalaemia is suspected, please perform simultaneous measurements of plasma K+ in a lithium heparin (plasma) and in a"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "clotted (serum) specimen."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "All patients presenting with hyperkalaemia should undergo a comprehensive medical and drug history and clinical examination to determine the cause of hyperkalaemia."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.6,
+                "text": "Acutely unwell patient should be assessed using Airway, Breathing, Circulation, Disability and Exposure (ABCDE) approach and close monitoring should be done, as guided by National Early Warning Scoring (NEWS) system."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this Clinical Care Pathway (CCP) is to advise Trust staff on how to manage adult patients with hyperkalaemia:"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.2,
+                "text": "This pathway is not applicable for the following groups of patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients under 18 years old"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients who are in intensive therapy units"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Re-feeding syndrome"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients that require intramuscular or subcutaneous administration"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with diabetic ketoacidosis (DKA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Role & Responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Individual responsibilities (i.e. Committees)"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Renal directorate"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure governance structure and systems in place for monitoring and reporting hyperkalaemia, and managing severe hyperkalaemia needing direct care under the renal service"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Individual responsibilities (i.e. Chief Executive)"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Medical Directors: responsible for ensuring that all consultants aware of and comply with this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consultant in charge of patients' care: ensure that the patient under their care has the appropriate care that is expected for patient that has hyperkalaemia."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Junior Medical Staff:"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that appropriate pathways are executed"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure clear documentation in the notes, including the minimum entry for quality improvement processes."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Key Elements of Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Causes of Hyperkalaemia"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.1 Pseudohyperkalaemia"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Haemolysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prolonged transit time to the laboratory or poor storage conditions"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Difficult venepuncture"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Marked leukocytosis, erythrocytosis"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.2 Acute kidney injury (AKI)"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.3 Chronic kidney disease (CKD)"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.4 Drugs"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Potassium sparing diuretics e.g. amiloride"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Aldosterone antagonists e.g. spironolactone"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ACE inhibitors and angiotensin II receptor blockers"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Potassium containing laxatives e.g. macrogol, Kleanprep\u00ae, Fybogel\u00ae"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.5 Acidosis"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.6 Mineralocorticoid deficiency (e.g. Addison's disease)"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.7 Endogenous causes e.g. tumour lysis syndrome, trauma, burns, rhabdomyolysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "type": "table",
+            "sequence_num": 58,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Severity"
+                    },
+                    {
+                        "text": "Potassium level"
+                    },
+                    {
+                        "text": "Severe"
+                    },
+                    {
+                        "text": "\u2265 6.5 mmol/L"
+                    },
+                    {
+                        "text": "Moderate"
+                    },
+                    {
+                        "text": "6.0 - 6.4 mmol/L"
+                    },
+                    {
+                        "text": "Mild"
+                    },
+                    {
+                        "text": "5.5 - 5.9 mmol/L"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.8 Treatment is guided by both serum potassium level and the patient's clinical condition."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Treatment of hyperkalaemia"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.1 All patients with hyperkalaemia should have an urgent 12-lead ECG performed on admission (prior to receiving treatment for hyperkalaemia). If there were changes in the initial ECG, a repeat ECG should be done immediately following treatment to see if they have resolved."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.2 ECG changes may include: absent/flattened P wave, tall \u2018tented' T waves, bradycardia, increased PR interval, widened QRS complex, \u2018sine wave' pattern, VT, VF, asystole."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.3 Figure 1: Five key steps in the treatment of hyperkalaemia (UK Renal Association 2014)"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "type": "image",
+            "sequence_num": 64,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.4 STEP 1 - Cardiovascular protection (reduce cardiac cell membrane excitability)"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.5 Intravenous calcium chloride or calcium gluconate should be given to patients in the presence of ECG changes. This treatment does not affect potassium levels."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.6 Give either:"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "ml 10% calcium gluconate (6.8 mmol Ca2+) IV over 15 minutes OR"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "ml 10% calcium chloride (6.8 mmol Ca2+) IV over 5 - 10 minutes"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.7 Dose can be repeated after 5 - 10 minutes if hyperkalaemic ECG changes persist and repeated later as required for recurrence of ECG changes."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.8 Calcium salts are irritant to veins \u2013 monitor injection site closely. Use large peripheral vein if a central venous access device is unavailable."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.9 STEP 2 - Shift K+ from plasma into cells to reduce serum potassium concentration"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.10 In severe hyperkalaemia (serum K+ \u2265 6.5 mmol/L): treatment should be initiated with or"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "without ECG changes."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.11 In moderate hyperkalaemia (K+ 6.0 - 6.4 mmol/L): treatment should be considered and guided by clinical scenario, ECG and rate of rise."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) Insulin and glucose infusion"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Give 10 units soluble insulin (e.g. Actrapid) in 50 ml glucose 50% over 15 minutes with regular capillary blood glucose checks (see step 4)."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "Effective within:  - 30 minutes"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Duration of action: 4 - 6 hours"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There is a risk of hypoglycaemia post infusion and patients should have regular glucose monitoring (see treatment algorithm)"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Give 10% glucose by infusion at 50mL/hr (25g) for 5 hours in patients with pre-treatment blood glucose <7.0 mmol/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) Nebulised salbutamol"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nebulised salbutamol (10 - 20mg) should only be used as an adjuvant therapy in severe hyperkalemia (K+ \u2265 6.5 mmol/L). It should be used with caution in patients with cardiovascular disease. The effect of salbutamol is dose-dependent. A further dose may be given if necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "Effective within:  - 60 minutes; max. effect should be seen 90 minutes after dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Duration of action: 4 - 6 hours"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "STEP 3 - Remove K+ from the body"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) Severe hyperkalaemia \u2013 oral potassium binders"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.12 Highly selective oral potassium binders reduce free concentration of free potassium in the gastrointestinal tract and promoting faecal potassium excretion. The use of oral potassium binders should be used as add-on therapy for the treatment of severe hyperkalaemia (serum K+ \u22656.5mmol/L). The onset of action is 4-7 hours after administration and should not replace or be used solely for emergency treatment of hyperkalaemia. Two oral potassium binders are available:-"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 48.0,
+                "text": "4.2.13 Serum potassium levels should be monitored regularly during treatment. Typically normokalaemia is achieved within 24 to  hours. If normokalaemia is not achieved after 72 hours other treatments should be considered."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.14 Administration of sodium zirconium cyclosilicate and patiromer should be separated by 3 hours from other oral medicinal products."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.15 Note potential clinically relevant drug interaction due to effects on gastric pH. e.g. atorvastatin, azole antifungals, dabigatran and furosemide. For full list refer to drug SmPC."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "b) Mild \u2013 Moderate hyperkalaemia - Calcium Resonium\u00ae"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.16 Calcium resonium is not recommended for use in the emergency management of severe hyperkalemia but short-term use may be considered in patients with moderate hyperkalemia (serum K 6.0-6.4mmol/L). It is poorly tolerated and should not be used together with Sodium zirconium cyclosilicate (Lokelma\u00ae) or Patiromer (Veltassa\u00ae). Use should usually be restricted to a maximum of 2 days and should be stopped once K+ is normalised."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "4.2.17 Oral:  g every 6 - 8 hours in a suspension of water or syrup in the ratio of 3 - 4 ml/ g of resin."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.18 Co-prescribe lactulose with oral resin to avoid constipation and the formation of bezoars which could perforate the gut."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.19 Haemodialysis may be required to remove potassium in resistant cases, particularly in patients with acute kidney injury (AKI) or pre-existing chronic kidney disease."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.20 STEP 4 - Monitor K+ and glucose"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "4.2.21 Serum potassium should be assessed at least 1, 2, 4, 6 and  hours after identification and treatment of hyperkalaemia, to assess efficacy of treatment and look for rebound"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.22 hyperkalaemia after the initial response to treatment. Venous blood gas (VBG) can be used for the purpose of monitoring."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "4.2.23 Blood glucose concentration should be monitored at regular intervals (0, 15, 30, 60, 90, 120, 180, 240, 360, 480 and 720 minutes) for up to  hours after administration of insulin- glucose infusion in all patients with hyperkalaemia."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.24 STEP 5 \u2013 Prevent recurrence"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.25 Primary prevention steps for patients with CKD include regular blood monitoring, careful drug prescribing and dietary advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.26 Assessing risk factors for the development of hyperkalaemia and stopping potential precipitants e.g. nephrotoxic drugs, are examples of secondary prevention. A follow- up plan needs to be made."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Patient Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.3.1 Continuous cardiac monitoring with 3-lead ECG is recommended for all patients with:"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serum K+ \u2265 6.5 mmol/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Features of hyperkalaemia on 12-lead ECG"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serum K+ value between 6.0 - 6.4 mmol/L and who are clinically unwell or in whom a rapid rise in serum K+ is anticipated"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.3.2 Extravasation of calcium may cause tissue damage. If extravasation occurs, stop administration of the medicine; aspirate the residual fluid through the cannula. Elevate the limb."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "4.3.3 Blood glucose and K+ should be monitored as in step"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.3.4 Patients with hyperkalaemia will need to be nursed in a monitored bed on an acute ward by adequately trained nursing staff. They should not be nursed in a \u2018medical outlying ward'. HDU admission may be required for patients with poor National Early Warning System (NEWS) scores."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Escalation of Care"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.4.1  Patients with severe hyperkalemia (serum potassium > 6.5 mmol/L) should be referred to the renal team for an urgent opinion, guided by the clinical scenario and its persistence after initial medical treatment. Referral should also be made to renal or intensive care for severe hyperkalaemia in the presence of severe AKI with oliguria and for those who failed to respond to initial treatment."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Emergency Management of"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "type": "image",
+            "sequence_num": 115,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.008.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "ARedapnalte Ad ssfrocoimati guionde andline The by The  Hyperkalaemia in Adults D.ONAMHosp.BiEt.:a:   l No: Resuscitation Council (UK), July"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "type": "table",
+            "sequence_num": 117,
+            "data": {
+                "num_rows": 33,
+                "num_cols": 26,
+                "table_items": [
+                    {
+                        "text": "Date: / / Time: :"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "First 15-30 min"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Assess patient"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Airway Breathing Circulation Disability Exposure (ABCDE) Approach Seek expert help if airway, breathing or circulation compromised"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Na+: K+: Urea: Creat: Time: :"
+                    },
+                    {
+                        "text": "0 Sat: % 2 RR: BP: / Pulse: EWS:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Perform 12-lead ECG"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Check K+ Send lithium-heparin sample to lab Use blood gas analyser if available exclude pseudo-hyperkalaemia Dialysis patient: Contact Renal Unit Cardiac monitoring: YES/NO Call for senior help: YES/NO Renal or ICU referral: YES/NO"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Seek xpert help e"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Cardiac rhythm monitoring Acute ECG changes, K>6.5mmol/L, unwell patient"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Acute ECG changes present (tick if present)? Peaked T waves Absent/flattened P waves Broad QRS Sine wave Bradycardia VT"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NO"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "IV Calcium (6.8mmol) 10ml 10% calcium chloride IV OR 30ml 10% calcium gluconate IV"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Protect the Heart"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Calcium Gluconate IV (30mL over 15 minutes) Repeat ECG and consider further dose after 5 min if ECG changes persists"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Insulin- Glucose IV Infusion +/- Salbutamol 10-20mg Nebulised Give in severe hyperkalaemia Consider in moderate hyperkalaemia (assess ECG and rate of rise) Life-threatening hyperkalaemia Sodium zirconium cyclosilicate10g TDS for 72 hrs (max) Or Patiromer 8.4g OD Calcium resonium\u00ae 15g QDS oral or 30g BD rectally Consider Dialysis Seek advice from Renal or ICU team; patient transfer may be required"
+                    },
+                    {
+                        "text": "Use large vein- give over 5-10min"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Shift K+ into cells"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Next 15-30 min"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Glucose (25g) over 15 min 50ml 50% glucose OR 125ml 20% glucose, WITH soluble insulin- 10 units, if pre-treatment BM<7 give additional 10% dextrose 50mL/hr for 5 hours Salbutamol Give 10mg if history of IHD avoid if tachyarrhythmia present Blood Monitoring: Baseline glucose __.__ K+__._ 15min glucose __.__ K+__._ 30min glucose __.__ K+__._ 60min glucose __.__ K+__._"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Remove K+ from body"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Monitor K+ and blood glucose"
+                    },
+                    {
+                        "text": "After 1st hour"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Monitor serum K+ and blood glucose"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Blood Monitoring: 90min glucose __.__ K+__._ 120min glucose __.__ K+__._ 180min glucose __.__ K+__._ 240min glucose __.__ K+__._ 360min glucose __.__ K+__._ 480min glucose __.__ K+__._ 720min glucose__.__ K+__._"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Prevention"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "No specific training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Monitoring and Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Outlined  below  is  the  Trust's  process  of  monitoring  compliance  with,  and  the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "type": "table",
+            "sequence_num": 122,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequenc y of the monitori ng activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "This guideline will be reviewed annually to recommend and implement changes/improv ements where necessary"
+                    },
+                    {
+                        "text": "Instances of non- complianc e to be investigate d and recorded as DATIX"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Record episodes of hypoglycaemia with hyperkalaemia treatment"
+                    },
+                    {
+                        "text": "Through JAC monitoring"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Record episodes of death and life threatening cardiac events linked to hyperkalaemia"
+                    },
+                    {
+                        "text": "Mortality review"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Record deviation from policy"
+                    },
+                    {
+                        "text": "DATIX"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Use of potassium binders"
+                    },
+                    {
+                        "text": "JAC monitoring"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    },
+                    {
+                        "text": "MSE Renal"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "This clinical care pathway will be reviewed and approved by the renal consultants across the MSE group of hospitals. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "This will be implemented with immediate effect from its agreement date. This document will be available electronically on the Trust intranet. Advice and support on the implementation of this policy is available via the site department of pharmacy."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dr  Annette  Alfonzo  et  al.  Clinical  Practice  Guideline:  Treatment  of  Acute Hyperkalaemia in Adults. UK Renal Association. July 2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Medusa accessed via http://medusa.wales.nhs.uk accessed 06/10/20"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2019.0,
+                "text": "Calcium  Polystyrene  Sulfonate  (Calcium  Resonium\u00ae)  99.934%w/w  powder  for oral/rectal suspension \u2013 Electronic Medicines Compendium (emc) [database on the internet]:  Sanofi  -  Last  updated  on  EMC:   August   - https://www.medicines.org.uk/emc/product/1439 - accessed 04/10/2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Calcium  Gluconate  injection  BP  \u2013  Electronic  Medicines  Compendium  (emc) [database on the internet]: Hameln Pharma LTD - Last updated on EMC: 25 June 2020 - https://www.medicines.org.uk/emc/product/6264 - accessed 04/10/2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2018.0,
+                "text": "Calcium  Chloride  injection  10%w/v  \u2013  Electronic  Medicines  Compendium  (emc) [database on the internet]: Sanofi - Last updated on EMC:  January  - https://www.medicines.org.uk/emc/product/4126 - accessed 04/10/2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2020.0,
+                "text": "Sodium  Zirconium  Cyclosilicate  (Lokelma\u00ae)  10g  powder  for  oral  suspension  \u2013 Electronic Medicines Compendium (emc) [database on the internet]: AstraZeneca UK  Limited  -  Last  updated  on  EMC:   May   - https://www.medicines.org.uk/emc/product/10074 - accessed 04/10/2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patiromer sorbitex calcium (Veltessa\u00ae) 8.4g powder for oral suspension \u2013 Electronic Medicines Compendium (emc) [database on the internet]: Vifor Fresenius Medical"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2019.0,
+                "text": "Care Renal Pharma UK Ltd \u2013 Last updated on EMC:  Jun  - https://www.medicines.org.uk/emc/product/779 - accessed 06/10/2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "GAIN guidelines August 2014 https://www.rqia.org.uk/RQIA/files/6f/6f51b366-f8bf-44de-a630-6967d5353a87.pdf"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE Guidance [TA599] \u2013 Sodium zirconium cyclosilicate for treating hyperkalaemia, September 2019"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE Guidance [TA623] \u2013 Patiromer for treating hyperkalaemia, February 2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Potassium homeostasis and management of dyskalemia in kidney diseases: conclusions from KDIGO Controversies conference 2020 - Kidney International (2020) 97, 42\u201361"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management of Acute Hyperkalaemia in Adult / MSECCP- 500/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Airway Breathing Circulation Disability Exposure (ABCDE) Approach Seek expert help if airway, breathing or circulation compromised"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "type": "image",
+            "sequence_num": 144,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Perform 12-lead ECG"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "type": "image",
+            "sequence_num": 146,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.014.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Cardiac rhythm monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "type": "image",
+            "sequence_num": 148,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.018.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acute ECG changes, K>6.5mmol/L, unwell patient"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Acute ECG changes present (tick if present)?  Peaked T waves  Absent/flattened P waves"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "type": "image",
+            "sequence_num": 151,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.019.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broad QRS  Sine wave"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Bradycardia  VT"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NO"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "type": "image",
+            "sequence_num": 155,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.020.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "YES"
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "type": "image",
+            "sequence_num": 157,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.021.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Next 15-30 min"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "type": "image",
+            "sequence_num": 159,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.031.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remove K+ from"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "type": "image",
+            "sequence_num": 161,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.033.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "body"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "After st hour"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "type": "image",
+            "sequence_num": 164,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.031.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Monitor serum K+ and blood glucose"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "type": "image",
+            "sequence_num": 166,
+            "data": {
+                "url": "MSECCP-500 MSE Management of hyperkalaemia in adults 1.0.035.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management of Acute Hyperkalaemia in Adult / MSECCP- 500/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Management of Acute Hyperkalaemia in Adult: (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "type": "table",
+            "sequence_num": 171,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 172,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Management of hyperkalaemia to be in line with national guidance"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "National Patient Safety Alert for hyperkalaemia"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients who have this common medical complication will have clear consistent treatment in line with national guidance"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Discussed with MSE Renal Consultant body. Once approved, we will encourage adoption by all medical staff"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 173,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "G Balasubramaniam"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Consultant Nephrologist"
+                    },
+                    {
+                        "text": "12 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If you have identified any negative impact in the preliminary analysis above, please request and complete the full Equality Impact Assessment (EIA) from Document Control."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        }
+    ]
+}

@@ -1,0 +1,1625 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-21010 Cavity wound packing guidance 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "CAVITY WOUND PACKING GUIDANCE"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-21010"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All clinical staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "16 August 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "15 August 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Wound, Cavity, packing"
+                    },
+                    {
+                        "text": "Developed in response to: (National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Harm Free Care"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Sarah Charlton"
+                    },
+                    {
+                        "text": "Group Clinical Lead Tissue Viability"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Harm Free Care Approval Group"
+                    },
+                    {
+                        "text": "09 July 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dawn Patience"
+                    },
+                    {
+                        "text": "Director of Nursing, Deputy Chief Nurse \u2013 CG1"
+                    },
+                    {
+                        "text": "09 August 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "10 August 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "September 21"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-21010 Cavity wound packing guidance 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: (Must include Specialist Pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Elisabete Martins"
+                    },
+                    {
+                        "text": "Tissue Viability Nurse"
+                    },
+                    {
+                        "text": "12 May 2021"
+                    },
+                    {
+                        "text": "Shauna Latos"
+                    },
+                    {
+                        "text": "Tissue Viability Nurse"
+                    },
+                    {
+                        "text": "12 May 2021"
+                    },
+                    {
+                        "text": "Kerstie Metcalf"
+                    },
+                    {
+                        "text": "Tissue Viability Nurse"
+                    },
+                    {
+                        "text": "12 May 2021"
+                    },
+                    {
+                        "text": "James Brown"
+                    },
+                    {
+                        "text": "Consultant Vascular Surgeon"
+                    },
+                    {
+                        "text": "07 July 2021"
+                    },
+                    {
+                        "text": "Pam Charlesworth"
+                    },
+                    {
+                        "text": "ADoN Basildon site"
+                    },
+                    {
+                        "text": "07 July 2021"
+                    },
+                    {
+                        "text": "Julie Coleman"
+                    },
+                    {
+                        "text": "ADoN Basildon site"
+                    },
+                    {
+                        "text": "07 July 2021"
+                    },
+                    {
+                        "text": "Katie Fox"
+                    },
+                    {
+                        "text": "Community Tissue Viability Lead"
+                    },
+                    {
+                        "text": "10 June 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Harm Free Care Approval Group"
+                    },
+                    {
+                        "text": "09 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) Wound care policy or equivalent"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Sarah Charlton"
+                    },
+                    {
+                        "text": "16 August 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Wound Packing Guidance"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Standards of practice .................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Process ......................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Wound management .................................................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Pre-assessment ............................................................................................................ 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Wound assessment ...................................................................................................... 7  Wound management .................................................................................................... 8  Training requirements ................................................................................................. 10  Monitoring and audit ................................................................................................... 10  Approval and implementation ..................................................................................... 10  Equality impact assessment ....................................................................................... 10  References ................................................................................................................. 11 Appendix 1: Types of cavity wounds .................................................................................. 12 Appendix 2: Pathway for managing a cavity wound ........................................................... 13 Appendix 3: Preliminary equality analysis .......................................................................... 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The wound healing process is a complex sequence of events and whilst many wounds heal without any complications some, such as cavity wounds, can present challenges for clinicians. This can be in terms of accurate wound assessment, and appropriate treatment regimes."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "It is essential that all patients presenting with a cavity wound receive a holistic assessment, and have a structured and well documented wound management care plan in place with clear and concise instructions including wound review and wound evaluation dates. This will ensure patients receive appropriate wound management, and reduce the likelihood of further wound complications. This in turn will facilitate the best potential healing outcomes for the patient wherever possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To set minimum safety standards for Registered Nurses and Midwives, and Medical personnel who may be required to manage a cavity wound."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To describe minimum standard for patient records"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure local governance requirements are met"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "type": "image",
+            "sequence_num": 27,
+            "data": {
+                "url": "MSESOP-21010 Cavity wound packing guidance 1.0.003.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Cavity Wound"
+                    },
+                    {
+                        "text": "A clear definitive and standardised definition of a cavity wound does not exist. The literature1 provides different definitions of what constitutes a cavity wound including, amongst these, any wound that extends into the dermis and exposes underlying structures for example tendon, muscle and bone2. A cavity can exist in most wound types, and can result from, for example, surgical intervention, and subsequent wound dehiscence, traumatic wounds, chronic wounds such as pressure ulcers, diabetic foot, leg ulcers, or malignant wounds. A cavity wound may present with additional features of undermining, sinus or fistula formation, bridging."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Types of cavity wounds are set out in Table"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "type": "image",
+            "sequence_num": 30,
+            "data": {
+                "url": "MSESOP-21010 Cavity wound packing guidance 1.0.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Chief Medical Officer and site Medical Directors"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is safe and effective implementation of this document and maintained compliance in all areas of the organisation/site;"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Chief Medical Officer and site Medical Directors delegate this responsibility to the Divisional Medical Directors and specialty Clinical Directors for delivery."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Speciality Clinical Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is safe and effective implementation of this document and maintained compliance in all areas of the organisation/site;"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Chief Nursing Officer / site Directors of Nursing"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is safe and effective implementation of this document and maintained compliance in all areas of the organisation/site;"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Associate Director of Nursing (covering relevant specialty)"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring local dissemination of this document within their service/s;"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Implementing and maintaining safe systems and practices within their divisions under the direction of the Chief Nurse/Directors of Nursing;"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring monitoring and audit activities are undertaken regularly and robustly;"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Providing the opportunity for delivery of relevant education and training for nursing staff;"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Matron"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that implementation and maintenance of safe systems and practices, including training, has happened effectively in areas they oversee;"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Ward Manager (Nurse-in-charge of a clinical area)"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that implementation and maintenance of safe systems and practices has happened effectively on ward/department;"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring staff receive the minimum training, supervision and support in achieving and maintaining competence in using the Toto lateral turning system"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determining, and communicating to their team, the level of supervision required for both their team bank or agency staff on shift, with respect to caring for a patient who has a cavity wound"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Ward Nurse"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring they are competent in undertaking the clinical practice of managing a cavity wound and adhere to the safe and effective practice as set out in the SOP."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring they practice the safe and effective use of Toto Lateral Turning system in line with Manufacturers guidance for use"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Standards of practice"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "This SOP does not cover management of non-cavity wounds regardless of cause of aetiology. Such situations will be covered by the Wound Care policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Information relating to the patient and their presenting problem is collated in accordance with standards set by the practitioner's professional organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Information relating to treatment options is identified based on the best available evidence in accordance with standards set by the practitioner's professional organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Patients will be individually assessed by an appropriately registered practitioner to ensure it is appropriate to apply dressings to the cavity wound."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Referral to the Tissue Viability Team should be made if any wound related concerns are identified, or if the wound is not responding to evidence-based standard of care."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The aim of packing a cavity wound is to allow drainage and absorption of exudate, to prevent the base of the wound from becoming too wet or harbouring bacteria and to prevent the skin healing over the cavity before it has closed. Packing the cavity very tightly is poor practice; this will cause pain, inhibit free draining of exudate, and potentially cause damage to the newly granulating tissue (Tickle 2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "A thorough wound assessment is essential to determine the nature of the wound bed in order to aid appropriate treatment."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Necrotic or sloughy tissue may be present at the wound bed, however this may be challenging to fully visualise, access and remove."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "The challenges of effective exudate management, and prevention and management of wound infection must be considered and addressed through holistic assessment, and the development of a robust wound management plan."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Delayed healing, and the increased risks associated with this, may arise from managing a cavity wound ineffectively."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Wound management"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Treatment is undertaken in a clean and private environment with adequate washing facilities nearby."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "A gown, towel or other cover is provided to maintain the patient's privacy and dignity."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "The practitioner washes their hands before and after the procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The practitioner uses a sterile wound dressing technique."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Pre-assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "To carry out this procedure you will need the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "type": "table",
+            "sequence_num": 72,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Quantity"
+                    },
+                    {
+                        "text": "Equipment (amend to suit)"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Clean dressing trolley"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Sterile dressing pack and sterile plastic probe or wound swab"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Flat dressing, or ribbon dressing depending on cavity type. Topical Negative Pressure (TNP) pack (either kerlix gauze or granufoam filler, and if required low adherent wound contact layer)."
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Trust approved skin barrier product; this may be required depending on the outcome of a thorough wound assessment"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Sachet normal saline or chlorhexidine solution for wound irrigation / cleansing. If either covert or overt signs of wound infection are present consider use of a Trust approved surfactant as the cleansing agent"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Appropriate secondary dressing and fixation as required"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Sterile scissors"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Torch"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Wound assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "type": "table",
+            "sequence_num": 74,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "Examine the cavity bed; use a torch if required. Measure and document the maximum length, width and depth of the cavity wound in centimetres (cm). Document position of patient when examining the cavity to ensure consistent approach to subsequent assessment and review. Probe the wound gently, but thoroughly and with caution (especially if the full depth is not visible), with either a sterile plastic probe, or wound swab, using the clock face method."
+                    },
+                    {
+                        "text": "In order to obtain and document baseline data. This will enable clinicians to assess wound progress in line with endpoint / goal set for the patient"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 75,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "Larger cavities may require a sterile gloved finger to probe the inside of the cavity. This is useful if there is concern about bone involvement which can lead to osteomyelitis. Assess the cavity and surrounding skin for clinical signs of wound infection. Examine the amount and type of exudate. Clear moderate amounts of exudate indicate normal wound healing. Malodourous, purulent, thick, copious amounts of exudate, or bleeding is likely to indicate wound infection. Document anatomical site of the cavity, and tissue type present, if this can be visualised Request wound photography on initial assessment and on change of presentation, if appropriate to do so, or as soon as clinically appropriate to do so."
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Wound management"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "type": "table",
+            "sequence_num": 77,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "At each dressing change always count, and document, in the patient's clinical record, and wound management care plan, the number of dressings that are removed and reinserted in the cavity wound (i.e. number of flat or ribbon dressings, TNP filler (gauze or granufoam, and if used non-adherent contact layer). Clearly document the name of the dressing products used in the wound management / pressure ulcer care plan. If on removal of the dressing products there is a discrepancy in the number of dressings applied versus removed, the Nurse should contact the patient's Medical / Surgical Team for urgent advice. This situation, and action taken, should be clearly documented in the patient's clinical record. Select appropriate packing type: A) a flat dressing may be appropriate for a shallow cavity wound or one with undermining, or with a wide aperture. The dressing may need to be folded into the cavity and / or undermining. B) a ribbon dressing will be required for a cavity"
+                    },
+                    {
+                        "text": "To ensure safe and appropriate practice by an appropriately registered clinician"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 78,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "wound with a narrow aperture or with a sinus formation Cleanse the wound. Note: A sinus wound needs to be flushed with saline to ensure any exudate at the wound base is removed. The remainder of the fluid can then be removed using a wick of gauze before applying the packing. Leave a 2cm tab of ribbon dressing at the wound margin. Do not insert one ribbon dressing on top of another, or tie dressings together to increase the overall length. If more than one ribbon dressing is required, each dressing must be left with a 2cm tab at the wound margin. Do not pack tightly or firmly; the dressing will swell as it absorbs exudate. If the cavity is packed too tightly this may impede free drainage of exudate and may also delay granulation Apply an appropriate secondary dressing depending on anatomical location \u2013 for example wound pad and bandage, or foam bordered adhesive Dressing change frequency will depend on factors such as exudate levels, wound infection, condition of the surrounding skinUse of a Trust approved skin barrier product\u20f0 may be required to protect the peri-wound; this will depend on the outcome of a thorough wound assessment.Reassess the cavity wound at each dressing change and document the outcome in the patient's wound management / pressure ulcer care plan. Update the wound care plan at least weekly, or more frequently if there is a change of wound condition If there are signs of deterioration or wound infection report to the patient's Medical / Surgical Team and refer to the Tissue Viability Service for their support and input."
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "No specific training requirements. However this procedure should only be undertaken by an appropriately registered clinician. If a student nurse is required to undertake this procedure as part of their training, their practice should be supervised by an appropriately registered clinician."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "type": "table",
+            "sequence_num": 83,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Safe and effective management of cavity wounds"
+                    },
+                    {
+                        "text": "Audit Local Incident Reports"
+                    },
+                    {
+                        "text": "Divisional Directors Associate Directors, Heads of Nursing and HRBPs"
+                    },
+                    {
+                        "text": "Real time"
+                    },
+                    {
+                        "text": "Medical Equipment Management Group"
+                    },
+                    {
+                        "text": "Divisional Directors, Line Managers, Employees"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "All policies, procedures and guidelines will be approved by Harm Free Care Approval Group, which is the specialist group with the authority to approve local wound management related guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "It is the author's responsibility to inform the Harm Free Care Directorate of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 2)"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "Vowden, K. (2016) Defining, assessing and managing cavity wounds. Wounds UK. Vol  | No 1 |"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tickle, J (2021) Addressing the challenges of cavity wounds in clinical practice. Wound Care Today. www.woundcare-today.com/journals/issue/wound-care- today/article"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Smith N, Overland J, Greenwood J. Local management of deep cavity wounds \u2013 current and emerging therapies. Chronic Wound Care Management and Research. 2015;2:159-170"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "https://doi.org/10.2147/CWCMR.S62553"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Types of cavity wounds"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Table below is a useful tool to illustrate different types of cavity wounds"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "type": "table",
+            "sequence_num": 97,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Diagrammatic image"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Definitions"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "The upper layer indicates the epidermis and dermis, the second pale layer is subcutaneous tissue, and the deeper layer is fascia, muscle and bone."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Simple cavity wound: a cavity of this type may go down to the muscle, bone or fascia, but you can see that all edges are clear, with no tracking or undermining present."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Cavity wound with undermining: type of cavity will need careful assessment and measurement using a plastic probe and the clock face method used to determine the depth of the undermining, just below the dermis and into the subcutaneous tissue."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Cavity wound with a sinus: which can hold and trap exudate, making the base of the wound very wet thus macerating it further, causing the sinus cavity to increase in size."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Fistula: A fistula is an abnormal communication between two hollow organs or between a hollow organ and the exterior."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Correct narrow cavity"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Gently place the ribbon dressing into the centre of the wound bed, with a 2cm tab hanging outside of the top of the wound, a little like a candle wick, so that the exudate can be absorbed up and out of the wound. The dressing can be laid gently to the side of the wound so that it is easy to remove. Cover with an appropriate absorbent adhesive dressing. If peri-wound area is at vulnerable, use a barrier film to help protect. DO NOT PACK TIGHTLY OR EVEN FIRMLY"
+                    },
+                    {
+                        "text": "or sinus packing"
+                    },
+                    {
+                        "text": "technique if required:"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cavity wound packing guidance / MSESOP-21010/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Pathway for managing a cavity wound"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Click here to open pathway for managing a cavity wound"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cavity wound packing guidance / MSESOP-21010/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cavity wound packing guidance / MSESOP-21010/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix3: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Cavity wound packing guidance/MSESOP-21020 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "type": "table",
+            "sequence_num": 107,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 108,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "It is an update to the Southend site cavity wound packing SOP which requires updating"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "In response to a serious Incident"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients who have a cavity wound that requires packing and clinicians who will undertake this procedure"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2. The Tissue Viability Team have been consulted and their input has informed the final document."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 109,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Sarah Charlton"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Group Clinical Lead Tissue Viability"
+                    },
+                    {
+                        "text": "29 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        }
+    ]
+}

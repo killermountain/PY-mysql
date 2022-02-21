@@ -1,0 +1,4173 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSBPO-18001 Information governance and management policy 1.4.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "INFORMATION GOVERNANCE & MANAGEMENT POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSBPO-18001"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Trust Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "12 September 2018"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "11 September 2021 extended to 31 January 2022"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit General Data Protection Regulation (GDPR) Best Practice BS ISO/IEC 27002:2005 Information Technology \u2013 Security Techniques \u2013 Code of Practice for Information Security Management"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "Regulation 12 \u2013 Safe care and treatment Regulation 15 \u2013 Premises and Equipment Regulation 17 \u2013 Good governance"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Information Governance (IG)"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Matt Barker, Head of Information Governance (IG) MSE"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Martin Callingham, Senior Information Risk Owner and Chief Information Officer MSE"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "May 2018"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group (JDMG)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "19 June 2018"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "Date: September 2018"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSBPO-18001 Information governance and management policy 1.4.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance MSE"
+                    },
+                    {
+                        "text": "09 May 2018"
+                    },
+                    {
+                        "text": "Angela Bridges"
+                    },
+                    {
+                        "text": "Information Governance Manager, Southend Hospital site"
+                    },
+                    {
+                        "text": "11 May 2018"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Information Governance Manager, Broomfield Hospital site"
+                    },
+                    {
+                        "text": "10 May 2018"
+                    },
+                    {
+                        "text": "Kate Thompson"
+                    },
+                    {
+                        "text": "Interim Digital Services Governance Manager MSE"
+                    },
+                    {
+                        "text": "11 May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSE Policies"
+                    },
+                    {
+                        "text": "MSBPO-18002 Information Lifecycle Management Policy MSBPO-18003 Overarching Information Sharing Protocol MSBPO-18004 Privacy Impact Assessment Procedure Policy MSBPO-18005 Bring Your Own Device (BYOD) Policy MSBPO-18006 Information Technology (Cyber) Security Policy MSBPO-18007 Email Policy MSBPO-18014 DS Password Policy MSBPO-18015 DS User Access & Acceptable Usage of IT Policy MSEPRO-19005 EFM Freedom of Information Request Procedure MSEPO-19006 Estates and Facilities Management for Document Control MSEPO-19010 Child Safeguarding Policy MSEPO-19013 MSE IG Staff Handbook MSEPO-19014 Policy for Management of Incidents MSEPO-19015 Procedure Report Management of Incidents and Serious Incidents MSBPO-19016 Being Open & Duty of Candour Policy MSBPO-19023 Change Management Policy (Digital Services) MSEPO-19024 Data Subject Access Request (Data Disclosure) Policy MSEPO-20207 Data Opt-out Policy MSEPO-20212 Data Quality Policy MSEPO-20222 Disciplinary Policy MSEPO-20225 Access to Healthcare Records Policy MSEPO-20243 MSE Freedom of Information Policy MSEPO-20238 Anti-Fraud and Anti Bribery Policy MSEPO-20239 Clinical Record Keeping Standards Policy MSEPO-21064 Use of social media policy MSEPO-21065 Registration Authority Policy MSEPO-21092 Risk Management Policy & Procedure MSEPO-21112 Waste Management Policy & Procedure Information Governance Strategy"
+                    },
+                    {
+                        "text": "Site Policies: Broomfield"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Site Policies: Southend"
+                    },
+                    {
+                        "text": "IS44 Policy for Visual & Audio Recording of Patients"
+                    },
+                    {
+                        "text": "Site Policies: Basildon"
+                    },
+                    {
+                        "text": "CO/PC/00188 Electronic and CTC Health Records - Standard Operating Procedure CO/PC/00133 Corporate Business Continuity Policies and Plan PE/PO/00026 Whistleblowing Policies and Procedure IM/PO/00023 Patient Identifiable Data for Secondary Use - Policies and Procedures"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Initial draft created to replace the following policies: BTUH: IM/PO/00011 Information Governance Policy Southend: IS36 Information Governance Management Framework MEHT: 07012 Information Governance"
+                    },
+                    {
+                        "text": "12 September 2018"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Request to archive MEHT 07011 - Confidentiality & Data Protection Policy as superseded by MSBPO-18001 Information Governance & Management Policy"
+                    },
+                    {
+                        "text": "28 March 2019"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Removal of pre-merger site details and replaced with merged site details throughout the document. \u2018Related Trust Policies' updated with relevant policies. Section 4.1 \u2013 Risk and Compliance Group added. Section 5.1.6 \u2013 New Caldicott Principle added. Section 5.15.3 \u2013 Text added to clarify procedure upon receipt of police A101 form. Section 5.18 \u2013 updates made to reflect incident reporting criteria."
+                    },
+                    {
+                        "text": "24 December 2020"
+                    },
+                    {
+                        "text": "1.3"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Minor updates made throughout the document in line with document review requirements"
+                    },
+                    {
+                        "text": "01 October 2021"
+                    },
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "Sarah Wellings"
+                    },
+                    {
+                        "text": "Extension granted due to legal undertakings priority"
+                    },
+                    {
+                        "text": "16 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction .................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope .............................................................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology ........................................................................ 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Responsibilities ............................................................................................. 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements ................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements ................................................................................ 26"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit ...................................................................................... 26"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References ................................................................................................... 27"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA) .............................................................. 28"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment (EIA) ............................................................. 29 Appendix 1, Senior Information Risk Owner Role Responsibilities .................. 30 Appendix 2, Caldicott Guardian Role Responsibilities ....................................... 31 Appendix 3, Information Asset Owners Role Responsibilities .......................... 32 Appendix 4: IG Reporting & Communication Structure ...................................... 33 Appendix 5, National Data Security Standards ................................................... 34 Appendix 6, Data Privacy Impact Assessment Process .................................... 35 Appendix 7, Information Sharing Agreements (ISA) ........................................... 37"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "The Trust recognises its responsibilities for the provision of a robust Information Governance (IG) Framework for managing its responsibilities & obligations in relation to a list of statutes and guidance including, though not limited to those listed in Section"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Information Governance (IG) is a set of standards that the NHS must follow to make sure that it carries out its duty to maintain full and accurate records and keep those records confidential, secure and accurate. Robust Information Governance requires clear and effective management and accountability structures, governance processes, documented policies and procedures, trained staff and adequate resources. The way that an organisation chooses to deliver against these requirements is described within its Information Governance Management Framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Data and access to information systems will be restricted to those who require access to undertake their role and who have been granted explicit authority to view and change information where it is required."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Any unauthorised access to information that has not been expressly permitted will be a breach of this policy and subject to disciplinary or legal proceedings."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This policy applies to employees, contractors, business consultants, temporaries, and other workers, including all personnel affiliated with third parties of Mid and South Essex NHS Foundation Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The purpose of this policy is to describe the Trust's IG Framework for managing its responsibilities and obligations in relation to a list of statutes and guidance including, though not limited to those listed in Section 8."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "A more detailed list of relevant sources of responsibilities and obligations are contained in within the Department of Health's NHS Information Governance Guidance to Legal and Professional obligations."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "This policy applies to all information which is owned, held and used by the Trust and/or third parties employed by the Trust. The information can be spoken, written, printed or stored electronically."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "IG compliance is monitored through providing evidence annually to meet the requirements set out in the national Data Security and Protection Toolkit (DSPT)."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.6,
+                "text": "The DSPT provides a framework for implementing the IG management agenda, and consists of a number of requirements set out under the 10 Data Security Standards."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.7,
+                "text": "This policy should be read in reference to those documents identified above."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "type": "table",
+            "sequence_num": 33,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "The \u201cTrust\u201d"
+                    },
+                    {
+                        "text": "Referred to as Mid and South Essex NHS Foundation Trust, incorporating Basildon Hospital, Southend Hospital and Broomfield Hospital sites."
+                    },
+                    {
+                        "text": "Access Control"
+                    },
+                    {
+                        "text": "Access to Information Assets, i.e. systems and data"
+                    },
+                    {
+                        "text": "Accountability"
+                    },
+                    {
+                        "text": "Responsibility for an decisions and actions of an entity"
+                    },
+                    {
+                        "text": "Anonymised Information"
+                    },
+                    {
+                        "text": "This is information which does not identify an individual directly, and which cannot reasonably be used to determine identity. Anonymisation requires the removal of name, address, full post code and any other detail or combination of details that might support identification."
+                    },
+                    {
+                        "text": "Caldicott Guardian"
+                    },
+                    {
+                        "text": "The term Caldicott derives from the 1997 report of the Review of Patient-Identifiable Information, chaired by Dame Fiona Caldicott (the Caldicott Report). This review recommended establishing the role of the Caldicott Guardian to serve as the \u201cconscience\u201d of the organisation in relation to decisions about disclosure and to ensure senior level management of the confidentiality function which is itself a part of broader Information Governance."
+                    },
+                    {
+                        "text": "Disclosure"
+                    },
+                    {
+                        "text": "This is the divulging or provision of access to data."
+                    },
+                    {
+                        "text": "DPA"
+                    },
+                    {
+                        "text": "Data Protection Act 2018 \u2013 \u201cThe Act\u201d"
+                    },
+                    {
+                        "text": "DSPT"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit, previously known as the Information Governance (IG) Toolkit"
+                    },
+                    {
+                        "text": "GDPR"
+                    },
+                    {
+                        "text": "The General Data Protection Regulation (GDPR) is a legal framework that sets guidelines for the collection and processing of personal information of individuals within the European Union (EU). GDPR will come into effect across the EU on May 25, 2018"
+                    },
+                    {
+                        "text": "IG&CSSG"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Information Sharing Protocols"
+                    },
+                    {
+                        "text": "Documented rules and procedures for the disclosure and use of patient information, which specifically relate to security, confidentiality, and data destruction between two or more organisations or agencies."
+                    },
+                    {
+                        "text": "New Safe Haven"
+                    },
+                    {
+                        "text": "A term used to describe a location or nominated person where patient identifiable information used for purposes other than direct patient care (e.g. research, finance and audit) is received and pseudonymised. The Information Department is the Trust's New Safe Haven."
+                    },
+                    {
+                        "text": "Pseudonymised Information"
+                    },
+                    {
+                        "text": "Like anonymised information, in the possession of the holder, an individual cannot be identified. However, the original provider of the information may retain a means of identifying individuals often being achieved by attaching codes or other unique references to information so that the data will only be identifiable to those who have access to the key or index."
+                    },
+                    {
+                        "text": "SIRO"
+                    },
+                    {
+                        "text": "Senior Information Risk Owner is the Chief Information Officer who acts as an advocate for information risk on the Board and in internal discussions, and will provide written advice to the Accountable Officer on the content of their annual Statement of Internal Control (SIC) in regard to"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 34,
+            "data": {
+                "num_rows": 20,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "information risk."
+                    },
+                    {
+                        "text": "Registration Authority"
+                    },
+                    {
+                        "text": "The NHS Care records Registration Authority (RA) is responsible for registering and verifying the identity of NHS staff that need to access patient PII on National systems."
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Information Governance is a set of standards that the NHS must follow to make sure that it carries out its duty to maintain full and accurate records and keep those records confidential, secure and accurate."
+                    },
+                    {
+                        "text": "Information Governance Toolkit (IGT)"
+                    },
+                    {
+                        "text": "The IG Toolkit was an online system which allowed NHS organisations and partners to assess themselves against Department of Health Information Governance policies and standards. It also contained a training component which is mandatory for all NHS staff. This was replaced with the Data Security and Protection Toolkit in April 2018."
+                    },
+                    {
+                        "text": "KPIs"
+                    },
+                    {
+                        "text": "Key Performance Indicators."
+                    },
+                    {
+                        "text": "Information Asset"
+                    },
+                    {
+                        "text": "Data or knowledge that has value to the Trust"
+                    },
+                    {
+                        "text": "Information Asset Administrator (IAA)"
+                    },
+                    {
+                        "text": "Information Asset Administrator - operational managers responsible for maintaining the integrity of one or more information assets, managing information risks locally."
+                    },
+                    {
+                        "text": "Information Asset Owner (IAO)"
+                    },
+                    {
+                        "text": "Senior Manager who is responsible for managing information assets to comply with statutory obligations such as FOI, DPA etc."
+                    },
+                    {
+                        "text": "Information Asset Register (IAR)"
+                    },
+                    {
+                        "text": "The Trust's IAR is a register of information assets, containing key information e.g. what type of information the asset contains and the responsible IAO and IAA."
+                    },
+                    {
+                        "text": "ICO"
+                    },
+                    {
+                        "text": "Information Commissioner's Office is the Office that enforces the principles of the Data Protection Act 2018."
+                    },
+                    {
+                        "text": "Information Security"
+                    },
+                    {
+                        "text": "Protecting the confidentiality, loss, accidental disclosure of Information Asset(s) from unauthorised person(s)/ organisations(s)"
+                    },
+                    {
+                        "text": "Information Security Event/Incident"
+                    },
+                    {
+                        "text": "One or more unwanted or unexpected information security issues that result in the probability of compromising business operations and Information Security"
+                    },
+                    {
+                        "text": "Information Integrity"
+                    },
+                    {
+                        "text": "Protection of the accuracy and completeness of an Information Asset"
+                    },
+                    {
+                        "text": "ITIL"
+                    },
+                    {
+                        "text": "Information Technology Infrastructure Library v3 \u2013 industry standard for IT Service Management. Originally developed by the UK Office of Government Commerce (OGC)"
+                    },
+                    {
+                        "text": "Malicious code"
+                    },
+                    {
+                        "text": "A virus, worm, Trojan Horse, email bomb etc., (this list is not exhaustive)"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "An asset such as a mobile phone, a smartphone, Blackberry, iPhone, iPad, iPod, (this list is not exhaustive)."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "PID"
+                    },
+                    {
+                        "text": "Patient Identifiable Data"
+                    },
+                    {
+                        "text": "PII"
+                    },
+                    {
+                        "text": "Patient Identifiable Information Key identifiable includes: Person's (staff or patient) name, address, full post code, date of birth; pictures, photographs, videos, audio-tapes or other images of patients; NHS number and local patient identifiable codes; Anything else that may be used to identify a patient"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 35,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "directly or indirectly. For example, rare diseases, drug treatments or statistical analyses which have very small numbers within a small population may allow individuals to be identified. PII includes staff as well as patient information"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "An asset such as an external hard disk, CD-ROM, DVD, USB flash drive etc. (this list is not exhaustive)"
+                    },
+                    {
+                        "text": "Risk"
+                    },
+                    {
+                        "text": "The effect of uncertainty on objectives, whether positive or negative"
+                    },
+                    {
+                        "text": "Risk assessment"
+                    },
+                    {
+                        "text": "Evaluation of a risk/threat and determining the severity of business impact if the evaluated risk occurs partially or in full"
+                    },
+                    {
+                        "text": "Risk management"
+                    },
+                    {
+                        "text": "Processes designed to co-ordinate ways in which an organisation handles risk established by undertaking a risk assessment"
+                    },
+                    {
+                        "text": "Threat"
+                    },
+                    {
+                        "text": "Cause or potential cause of an unwanted incident that may exploit a vulnerability and may cause harm to an organisation or person(s)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Roles & Responsibilities within the Trust (Committees)"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.1 Risk and Compliance Group \u2013 The purpose of the Risk and Compliance Group is to provide assurance to the Site Leadership Teams / Directors Forum on behalf of the Trust Board of Directors in relation to the implementation of the agreed Risk Management Strategy and internal compliance framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.2 Information Governance & Cyber Security Steering Group \u2013 is responsible for the review and approval of the information governance and cyber security framework and regulations, including the Information Governance Strategy and Cyber Security Strategy, overseeing the monitoring of the information governance and cyber security framework, ensuring compliance with the Data Security and Protection Toolkit requirements and providing assurance of such for the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.3 Joint Document Management Group \u2013 to ratify polices"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Roles & Responsibilities of Individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.1 The Chief Executive as the Trust's Accountable Officer has ultimate responsibility for compliance with legal requirements and achievement of standards of best practice and will ensure:"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate delegation of risk management and confidentiality management functions to a Director or equivalent;"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adequate resources to support effective information governance;"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Submission of the annual Data Security and Protection Toolkit compliance self- assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2 Senior Information Risk Officer (SIRO) \u2013 Board appointed Chief Information Officer responsible for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serious information risk management issues are brought to the Board for decision as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A lead or manager is in place to organise and enforce the Trust's approach to information risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written advice is provided to the Accountable Officer and appropriate Trust Boards regarding the information risk management content of the annual report and Statement of Internal Control (SIC)."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "See Appendix 1 for more information"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.3 Caldicott Guardian \u2013 Board appointed Site Director is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protecting the confidentiality of PID processed by the Trust, ensuring that all sites satisfy the highest practical standards for handlingPID ."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as the \u201cconscience\u201d of the Trust, by actively supporting work to enable use and sharing of PID where this is appropriate and advising on lawful and ethical solutions."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Championing confidentiality and information sharing requirements and issues at Board level and, where appropriate, at a range of levels within the Trust's overall governance framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "See Appendix 2 for more information."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.4 Clinical Directors (CD's) / Clinical and Non-Clinical Directors / General Managers and Head Nurses \u2013 as senior leaders at each Trust they have responsibility for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as Information Asset Owners (IAO) for systems within their local area of management (see Appendix 3 for IAO responsibilities)."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Compliance with the requirements of this policy within their local area of management."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring staff within their management remit undertake mandatory information governance and other relevant training."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing the reporting of breaches of this policy resulting in information security or health and safety incidents on Trust incident reporting system."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing the investigation of reported breaches of this policy, making sure lessons learned are shared and appropriate changes in practice are implemented."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.5 Director of Human Resources - has responsibility for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "That all staff contracts include appropriate clauses to maintain confidentiality."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "That the Trust's training programme (induction and statutory) includes the appropriate information governance training and that all staff undergo this training."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There are robust leavers' procedures in place to enable the removal of system access rights in a timely manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Disciplinary procedures are conducted, which may be invoked should breaches in information security arise"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.6 Head of Procurement MSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oversee maintenance of the Trust's contracts database"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure contracts with external contractors contain appropriate information governance clauses"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.7 Head of Information Governance MSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for development and updating of IG management frameworks and Policies in line with local and National requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Head of Information Governance is the Trust appointed Data Protection Officer reporting to the highest level of organisational management via the Chief Information Officer."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.8 Line Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for ensuring that staff are aware of this policy that they adhere to it and for managing issues which arise when staff fail to comply."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all current and future staff are instructed in their security responsibilities;"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all their staff using information systems/media are trained in their use;"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that no unauthorised staff are allowed to access any of the Trust's information system as such access could compromise data integrity;"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determining which individuals are to be given authority to access specific information systems. The level of access to specific systems should be on a job function need, independent of status;"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Implementing procedures to minimise the Trust's exposure to fraud/theft/disruption of its systems or equipment, such as segregation of duties/dual control/staff rotation in critical/susceptible areas;"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring all staff sign confidentially (non-disclosure) undertaking as part of their contract;"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that the relevant IAA's/user system managers are advised immediately about staff changes affecting computer access (e.g. job function changes/leaving department or organisation) so that passwords may be withdrawn/deleted."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.9 Trust Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for implementing and complying with the policy within the areas of their responsibility or control."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for being aware of what threats might be targeted via E-mail or other methods i.e. phone calls, social engineering etc. and reporting any suspicious activity to the IT Service Desk."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.10 Information Asset Owners (IAO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Usually the Clinical Directorate Director (CD), Clinical and Non-clinical Directorate Director or General Manager who are responsible for;"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identifying and documenting the scope and importance of all information assets they own. This will include identifying all information necessary in order to respond to incidents or recover from a disaster affecting the information asset."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Taking ownership of their local asset control, risk assessment and management processes for the information assets they own. This includes the identification, review and prioritisation of perceived risks and oversight of actions to mitigate those risks."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Providing support to the SIRO to maintain their awareness of the risks to all information assets that are owned by the Trust and report those risks as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that staff and relevant others are aware of and comply with expected information governance and data protection working practices for the effective use of information assets:"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Promoting local induction and ensure that all new starters, before they access any information system are given instruction in information governance requirements as part of their induction programme."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that staff are aware of the Data Custodian/IAO for their area and the contact details for the information governance team."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring all staff know the Trust policy and procedure for reporting information security incidents."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that the Trust's requirements for information incident identification, reporting, management and response apply to the information assets they own; including completion of data flow mapping when required."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supervising and delegating tasks to the IAA."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.11 Information Asset Administrators (IAA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The IAA is an operational member of staff with a high level of working knowledge of the business functions of the area and use of the information assets, usually department heads, system super-users or system managers. The IAA's primary role is to support the IAO to fulfil their responsibilities. Detailed responsibilities will be in agreement with the IAO, but are likely to include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintenance of details and risk assessments relating to their nominated Information Assets"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring compliance with Data Protection Legislation \u2013 data sharing agreements within the local area"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring information handling procedures are fit for purpose and are properly applied."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under the direction of their IAO, ensuring that personal information is not unlawfully exploited."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recognising new information handling requirements (e.g. a new type of information arises) and that the IAO is consulted over appropriate procedures \u2013 e.g. completing/updating data flow mapping."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recognising potential or actual security incidents and consulting with the IAO."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting to the IAO on current state of local information handling."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that local information handling constraints (e.g. limits on who can have access to the assets) are applied, referring any difficulties to the IAO."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Act as a first port of call for local staff seeking advice on handling information."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under the direction of IAO, ensuring that information is securely destroyed at the end of the approved retention period."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.12 Health Records Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Day to day management and coordination of subject access requests"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Authorising the transfer and copying of individual medical records to outside bodies logging the loss of permanent medical records and the issue of temporary record"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting on record management issues to IGC"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Overarching Legislation and Principles"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 A range of components fall under IG as it overlaps Clinical Governance and is a subset of Corporate Governance. The overarching NHS framework is outlined in the Data Security and Protection Toolkit (DSPT), which replaced the IG Toolkit (IGT) in April 2018. Known as the National Data Security Standards, they are drawn from the 2016 Caldicott 3 Report and are outlined in Appendix 5."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 In its management of PID, the Trust complies with Data Protection and Caldicott Principles. Under the new law, PID must be processed in line with six principles:"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 Data Subjects also have rights under the new legislation to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Have access to information about how their information is being processed. The Trust addresses this by ensuring a layered approach to informing data subjects how their information is used, including posters, pamphlets and service-level leaflets."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Access to their information. Individuals have the right to access their personal data and supplementary information. The right of access allows individuals to be aware of and verify the lawfulness of the processing. The Trust addresses this via Subject Access Request and Access to Medical Records policies and procedures. (See Section 5.15)"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Rectification when information is wrong. Any request for rectification will be assessed on a case by case basis using the precedent of the Trust's developing experience of the new legislation, along with relevant case law."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Be forgotten, when it is appropriate. In healthcare information needs to be retained for care and medico legal purposes, rendering this right largely exempt. Any request to be forgotten will be assessed on a case by case basis using the precedent of the Trust's developing experience of the new legislation, along with relevant case law."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Restrict processing. Data Subjects may request that the Trust hold only sufficient Personal Data about them, but not process it any further. Any request for restriction of processing will be assessed on a case by case basis using the precedent of the Trust's developing experience of the new legislation, along with relevant case law."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Data portability. This allows Data Subjects to obtain and reuse their information across different services. In healthcare there are not expected to be many requests, as much information is available as a SAR. Any request for portability of data will be assessed on a case by case basis using the precedent of the Trust's developing experience of the new legislation, along with relevant case law."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Object to processing. This allows the Data Subject to object if they do not believe the use of their information is legitimate. Any request to object will be assessed on a case by case basis using the precedent of the Trust's developing experience of the new legislation, along with relevant case law."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appropriate decision-making. The Trust is required to demonstrate that it has a lawful basis to carry out profiling and / or automated decision-making. This is undertaken by an annual organisation-wide assessment, led by the IG Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.4 All requests from Data Subjects to exercise their rights must normally be responded to within one calendar month, unless there are extenuating circumstances, in which case there are some rights to extension under the legislation. The full text of the new Data Protection Act is published on the Government's legislation website."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.5 In the NHS, the Caldicott Principles are equally as important; when using PID:"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Full detail about the Caldicott Principles is available in the document: A Manual for Caldicott Guardians https://www.ukcgc.uk/manual/contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.6 The Trust also ensures compliance with the Freedom of Information Act 2000 (FOI) and the associated Lord Chancellor's Codes of Practice under sections 45 and 46. This is set out in the Freedom of Information Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Effective Information Governance Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 The Trust's IG compliance will be measured via a self-assessment process of compliance against standards set out in the NHS Digital Data Security and Protection Toolkit (DSPT) (see Appendix 5)."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 The Trust will utilise the DSPT to assess its IG practice and compliance against national standards."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.3 IG management and performance across the Trust will be reviewed regularly in the IG&CSSG (see Appendix 4 for IG Reporting Structure)"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Care Quality Commission Oversight"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1  CQC, as outlined in Safe Data, Safe Care (2016), have powers to inspect the Trust's IG as part of its inspection round. To this end the Trust must ensure that robust IG practices are in place. CQC specifically requires that Medical Records are accurate, fit for purpose, held securely and held confidentially."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Mandatory Training and Awareness"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.1 Fundamental to the success of delivering a robust IG agenda across the Trust is the development of an IG-aware culture. Training is provided to all staff to promote this ethos. NHS Digital mandates that 95% of all staff must be trained."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.2 In addition to formal IG training, a layered approach to awareness is employed, acknowledging a broader understanding of training in order to"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "embed knowledge. Some roles, such as SIRO, Caldicott Guardian, and IAOs are required to undertake regular training to remain current."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.3 All decisions on the need for training will be documented in a Training Needs Analysis, which must be ratified by the Information Governance and Cyber Security Steering Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Confidentiality Code of Conduct"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff must be aware of their individual responsibilities for the maintenance of confidentiality, Data Protection, InfoSec management and data quality. They are given the tools for this through completing annual mandatory IG training, reading and understanding the Information Governance Handbook, and signing the Confidentiality Code of Conduct."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1  It is made clear in both of these documents that failure to maintain confidentiality may lead to disciplinary action, including dismissal."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Communicating Confidentiality and Data Protection"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1  The IG Team maintains an Information Governance Strategy and Work Plan. This includes actions to ensure that patients and the public are adequately informed about confidentiality and the way their information is used and shared, their rights as Data Subjects, in particular how they may access their Personal Data and how they may exercise those rights."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "Information Asset Management and Business Continuity"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1 A core IG objective is that IAs and the use of information in them are identified and that the business importance of those assets is established."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.2 IAs are those that are central to the efficient running of the Trust and specific departments, e.g. patient, finance, stock control etc. They also include, but are not limited to the following examples:"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information \u2013 system documentation and procedures, archive media and data."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Software \u2013 databases, application programs, systems, development tools and utilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Physical \u2013 infrastructure, equipment, furniture and accommodation used for data processing."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Services \u2013 computing and communications, heating, lighting, power, air conditioning used for data processing."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "People \u2013 qualifications, skills and experience in the use of information systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Intangible \u2013 the Trust's reputation."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.3 The Trust has clear lines of accountability for Information Risk Management (IRM) that lead directly to the Board through the SIRO (see Appendix 4). IAOs are usually senior members of staff who are the nominated owner for one or more of the Trust's identified IAOs (see Appendix 4), and report for this function to the SIRO."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.4 Within their area of responsibility, it is the IAOs role to log the Information Assets held, and to ensure this is documented in an IA Register (IAR) and undertake a Data Flow Mapping (DFM) exercise. Collectively these Information Asset Management activities are owned by the IAOs, who are accountable for its effective completion."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.5 Whereas it is ideal that all assets are clearly identified on the IAR, the Trust has a risk-based approach that gives priority to IAs that are comprised of or contain PID and / or would have the greatest impact on patients, staff, a particular department and/or the Trust if they were not available."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.6 The SIRO has the final decision on approving identified risk mitigation plans. Serious risks must be entered onto the Corporate Risk Register for Board consideration."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.7 IAOs are mandated by the SIRO to receive training to ensure they remain effective in their role."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.8 Data in the IAR includes necessary information to assist in a Business Continuity event. IAOs must ensure that Information Asset Management (IAM) risk assessments are performed at least annually, and that any significant risks to their asset, whether identified in the annual risk assessment or on an ad hoc basis, are reported immediately to the SIRO."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.9 All information and assets associated with information processing facilities must be owned by a designated part of the organisation, for example a Trust Directorate. The IAO is responsible for ensuring that information and assets associated with information processing facilities are appropriately identified and classified; defining and reviewing access restrictions, classifications, and BC arrangements taking into account applicable access control policies."
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.10 In complex information systems it may be useful to designate groups of assets, which act together to provide a particular function as \u2018services'. In this case the service owner is responsible for the delivery of the service, including the functioning of the assets, which provide it."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.11 The IAO role is especially important where IAs are shared by multiple parts of the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.12 Each IA and its IAO must have in place regular documented local Data Quality audits; local Data Quality issue logs; and regular documented data quality spot checks."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.13 All changes to IA, such as system upgrades, should follow an established change control procedure, such as a Data Privacy Impact Assessment Procedure (see Appendix 6)."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.14 IAOs are encouraged, as best practice, to engage an IA Administrator to support them in their role, particularly if they manage a large operational area,"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "to ensure that policies and procedures are followed, recognise actual or potential security incidents, consult their IAO on incident management, and ensure that IAM records are accurate and up-to-date."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.15 When considering transferring PID outside of the EU it is important under the new legislation to ensure there is a legitimate basis for doing so when those jurisdictions do not have adequate DP regulation, as this ensures Data Subjects information is not undermined. Whereas this changes little from previously, there is now greater encouragement to use transfer adequacy Codes of Practice and Certification Schemes."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Information Risk Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 The Trust is committed to making the best use of the information it holds to provide efficient healthcare and services to its patients and the local health economy while ensuring that adequate safeguards are in place to keep information secure and to protect Data Subjects' right to privacy."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2 The Trust recognises that information handling represents a significant corporate risk in that failures to protect information properly or use it appropriately can have a damaging impact on its reputation. Furthermore, failure to protect information adequately can attract the attention of the Information Commissioner's Office (ICO), which regulates Data Protection and has access to a range of sanctions including the significant fines."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.3 IRM complements the Trust's risk management framework. As part of this, information risks are clearly recognised and the appropriate controls implemented through a Board-approved corporate risk management strategy and policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.4 Information risk is intrinsic in all administrative and business activities and all staff must continuously manage it. The Trust recognises that the aim of IRM is not to eliminate risk, but to provide the structural means to manage it, by balancing its treatments with anticipated benefits that maybe derived."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.5 The Trust acknowledges that IRM is an essential element of broader IG and InfoSec arrangements and is an integral part of good management practice; it should not be seen as an additional requirement."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.6 The risk management framework is dependent on allocating clear organisational responsibilities, identifying all the IAs, assessing the associated risks and managing any incidents arising from them. This will:"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protect the Trust, its staff and its patients from information risks where the likelihood of occurrence and the impact is significant."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a consistent risk management framework in which information risks will be identified, considered and addressed."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Encourage proactive rather than reactive risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Inform decision making throughout the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Meet legal and statutory requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Assist in safeguarding the Trust's IAs."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.7 Information Risk Assessments are performed for all information systems and critical IAs at the following times:"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At least annually, as an integral part of the IAM process."
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ahead of introducing new systems, applications, facilities, etc. that may impact the assurance of Trust information or systems, using a Data Privacy Impact Assessment (see Appendix 6)."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ahead of agreeing enhancements, upgrades, and conversions associated with critical systems or applications. Those containing or which involve personal information will also require a Data Privacy Impact Assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When NHS policy, legislation or associated guidance requires risk determination, or when that legislation and guidance is changed or updated."
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When required by the Trust, as directed by the SIRO, Caldicott Guardian or Head of Information Governance / Data Protection Officer."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.8 Where Risk Assessment is not part of the IAM or Data Privacy Impact Assessment processes, the Trust's incident reporting system (DATIX) may be used, although a Data Privacy Impact Assessment would cover most needs. For assessments undertaken as part of the IAM process, every attempt is taken to Treat, Mitigate or Eliminate risks scored as anything other than Green on the Red/Amber/Yellow/Green scoring matrix. Any scoring Red will be considered by the SIRO for addition to the Corporate Risk Register. The Data Privacy Impact Assessment process is intentionally designed to ensure all new / amended processes are introduced with the least possible risk apparent."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.9 Information incident reporting is in line with the Trust\u2018s overall risk management and incident reporting processes, utilising the incident reporting application. Additional guidance is drawn from NHS Digital's (NHSD) Checklist Guidance for Reporting, Managing and Investigating Information Governance and Cyber Security Serious Incidents Requiring Investigation."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.10 Indicators that IRM is being positively enacted include, but are not limited to successful completion of the DSPT and there having been no involvement from the ICO as a result of significant Data Protection breaches."
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.11 An annual review will be carried out by the IG Team on behalf of the SIRO and reported to Information Governance & Cyber Security Steering Group or other suitable management route. Overall responsibility for action plans lies with the SIRO, to be completed by the relevant IAO and monitored by Information Governance & Cyber Security Steering Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Data Privacy Impact Assessments (Privacy Impact Assessments)"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.1 In line with ICOs guidance, a Data Privacy Impact Assessment must be undertaken for any project, procurement, business case, and transfer of Personal Data or departmental / team initiative where there is a potential impact upon the privacy of individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.2 Data Privacy Impact Assessments are a Risk Assessment tool to analyse how a particular project or system will affect the privacy of the individuals involved. Projects are not formally defined by the Trust, but must be understood be any plan or proposal, including potentially any proposal, procurement, business case and / or departmental / team initiative that include transfers of Personal Data and / or potential sensitive business information."
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.3 The Data Privacy Impact Assessment process must be an integral to conventional project management techniques, and be started from the very earliest stages of the project's initiation, often as a result of the business case process being invoked."
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.4 Data Privacy Impact Assessments are chiefly concerned with an individual's ability to manage their information; the Trust's processes are therefore aligned to Data Protection and Caldicott principles, with specific concentration being given to the minimising of harm arising from intrusion into privacy, as defined by those principles."
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.5 An effective Data Privacy Impact Assessment allows the organisation to identify and resolve any such problems at an early stage, minimising costs and reputational damage which might otherwise occur."
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.6 For further procedural detail see Appendix 6 and the Data Privacy Impact Assessment Procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "InfoSec, Cyber Security and User Access Controls"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.1 Increasingly all organisations and their information systems and networks are faced with security threats from a wide range of sources, including lost or stolen equipment or data, computer-assisted fraud, sabotage, vandalism, fire or flood."
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.2 To prevent unauthorised access to information systems, formal procedures are in place to control the allocation of access rights to information systems and services, which cover all stages in the lifecycle of system access. This is supported by the relevant Trust policies currently in place."
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.11,
+                "text": "Safe Haven"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.1 All transfers of PID, for whatever reasons, must wherever possible, be undertaken within a Safe Haven environment, to ensure it adheres to the legal restrictions that govern transfer of such information."
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.2 Detailed operational guidance, which must be followed, is available for staff within the Information Governance Staff Handbook."
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.12,
+                "text": "Records Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.1 The Trust is committed to a systematic and planned approach to the management of records within the organisation, from their creation to their ultimate disposition. The Trust ensures it controls the quality and quantity of the information that it generates, can maintain that information in an effective manner, and can dispose of the information efficiently and securely when it is no longer required."
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.2 Medical Records are managed in accordance with the Records Management Code of Practice for Health and Social Care, as set out in the Health Records Policy and managed by the Medical Records Department. Corporate records are equally guided by this code of practice and are set out in the Information Lifecycle Policy for Corporate Records, managed by the Company Secretariat."
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.3 To ensure that the Trust maintains the highest standards in the quality of its Medical Records an annual audit of clinical records is undertaken."
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Third Party Contracts"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.4 It is not unusual to have third parties undertaking tasks and services on behalf of the Trust. It is possible that as a result of access to Information Assets, third party staff may have significant access to patient or staff PID."
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.5 Without exception contracts must be in place for any activity where third parties have access to patients, their PID, or staff PID on behalf of the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.6 It is the joint responsibility of the Commissioning / Procurement Team and the owning Manager of the contract to ensure this Checklist is completed and the contract is IG compliant. However, the Standard NHS Contract is also fully acceptable in ensuring the requirements are met, and so does not need to have the checklist completed. Any deviation from that contract or this checklist must be reviewed for appropriateness by the IG Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.7 The SIRO and IAOs must take all reasonable steps to ensure that contractors and support organisations to whom PID is disclosed comply with their contractual obligations to keep PID secure and confidential."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.8 Directors, Managers and Supervisors at all levels, and IAOs must ensure that all existing contracts are monitored and reviewed annually to ensure that IG controls are being adhered to and to resolve problems or unforeseen events."
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.9 An accurate register of all third party contracts must be maintained by the Trust, and is managed by the Procurement Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.13,
+                "text": "Processing Data, the Use of Consent and Information Sharing"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.1 Sharing and use of information about an individual between within and between partner agencies is vital to the provision of co-ordinated and seamless provision of care and services. The Trust keenly recognises the need for shared information and robust Information Security to support the implementation of joint working arrangements. The uses and sharing of clinical data can be divided into two broad categories."
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.2 The first of these is immediate Direct Care, which the Independent IG Oversight panel defines as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u201cA clinical, social or public health activity concerned with the prevention, investigation and treatment of illness and the alleviation of suffering of individuals. It includes supporting individuals' ability to function and improve their participation in life and society. It includes the assurance of safe and high quality care and treatment through local audit, the management of untoward or adverse incidents, person satisfaction including measurement of outcomes undertaken by one or more registered and regulated health or social care professionals and their team with whom the individual has a legitimate relationship for their care.\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.3 For such use patient consent is not generally required under new legislation, however, practitioners must maintain an awareness of the Common Law Duty of Confidentiality; that is if the patient disclosed information in circumstances where it was expected that a duty of confidence applied, it should not normally be further disclosed without that Data Subject's consent. If this has not been obtained it is beholden on the member of staff intending to share personal information to make an appropriate decision based on whether disclosure is essential to safeguard either the Data Subject or a third party and is considered to be in the public interest. There may also be a legal obligation to share the information, such as a Court Order."
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.4 The second category is Secondary Uses, which the National IG Board defines as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u201cAny purpose which does not \u201cdirectly contribute to the diagnosis, care and treatment of an individual and the audit/assurance of the quality of the healthcare provided\u201d to the individual'."
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.5 For such use patient consent is generally required. This is defined as \u2018freely given, specific, informed and unambiguous indication of the Data Subject's agreement to the processing of Personal Data relating to him or her, such as by a written statement, including by electronic means, or an oral statement'."
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.6 However, under the new legislation consent is not required where there is another condition for processing. There are specific legal gateways for sharing PID for the planning of services and management of health and social care systems and services. For such uses a Data Privacy Impact Assessment must be completed where identifiable Special Categories of Data are present and formal advice must be sought from the IG Team. A documented Information Sharing Agreement (ISA) is highly likely to be required (see Appendix 7)."
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.7 An ISA is good practice and can be a useful way of providing transparency for organisations needing to exchange information, providing assurance in respect of the standards that each party agrees to adopt."
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.8 Beyond sharing for immediate Direct Care and Secondary Uses, an ISA is required for large-scale regular / permanent sharing, such as giving access to a clinical system."
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.11 For use of PID in other circumstances, the Secretary of State for Health is permitted to make regulations to set aside the Common Law Duty of Confidentiality for defined medical purposes under Section 251 of the National Health Service Act 2006. These are essential activities of the NHS, and important medical research, that require the use of PID but, because patient consent had not been obtained to use it for these other purposes, there was no secure basis in law."
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.12 Section 251 can be utilised when it is not possible to use anonymised information and where seeking consent is impractical, having regard to the cost and technology available. It is administered by the NHS Health Research Authority, through a Confidentiality Advisory Group. Internally enquiries regarding section 251 must be made to either the Clinical Audit Department or Research and Innovation."
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.14,
+                "text": "Subject Access Requests/Access to Medical Records"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.1 All living individuals, whether patients or staff, have a right to verify the lawfulness of the processing by:"
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Having it confirmed to them that their data is being processed."
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Being given access to their Personal Data."
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Being given supplementary information, akin to that given in a Privacy Notice, explaining why the data is being processed."
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.2 Responsibilities for processing SAR/Access to Medical Records requests are clearly defined in MSEPO-19024 Data Subject Access Request (data disclosure) Policy, and MSEPO-20225 Access to Healthcare Records Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": ". Requests must be processed within a statutory one calendar month, using the defined Subject Access Request/Access to Medical Records Procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.3 Other requests may be received elsewhere in the Trust, including, but not limited to, People and Organisational Development, Estates, Research and Innovation and A&E. Each are responsible for fulfilling requests received within the statutory one calendar month. The IG Team will provide advice and guidance upon request."
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.4 Applications from third parties for access to records of deceased patients are managed by the SAR Team under the provisions of the Access to Health Records Act 1990, in line with DHs Guidance for Access to Health Records Requests."
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.5 Staff must be aware that anything they record about patients or colleagues, wherever it is stored, legally could and should in principle be released when a request is received, as all information technically forms part of the data subjects' wider HR or Medical Record."
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.15,
+                "text": "Disclosure of Information to the Police"
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.1 Under the law the Police and other law enforcement agencies do not have automatic right to see PID about patients or staff. However, the Trust will cooperate with them as much as possible, when it is legal to do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.2 When requests are received, even with a Police Officer in attendance, each one must be considered individually on its own merit. PID will not be released without careful consideration."
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.3 Requests from the Police were formerly considered under Section 29(3) of the Data Protection Act 1998, so it is likely that colloquially such requests may continue to be known as a Section 29(3). This should not prevent them being actioned in line with the new legislation, which allows for the release of personal and special categories of data for \u2018the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including the safeguarding against and the prevention of threats to public security'. Requests for such information must be received via a completed A101 form which is issued by the police, and must be approved by the IG team prior to actioning by the department concerned."
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.4 The Trust requires any request to release personal or sensitive data about patients or staff to be signed or countersigned by a police officer of at least Inspector rank."
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.5 The types of scenarios where requests are likely to be considered appropriate are based on those outlined in the Confidentiality: NHS Code of Practice and include, but are not limited to, murder, manslaughter, rape, treason, kidnapping, child abuse, serious harm to state security, serious harm to public order, as well as crimes involving substantial financial gain."
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.6 As most requests are unlikely to be urgent, they will be processed by the IG Team usually during normal office hours. In difficult cases the IG Team, sometimes along with the SIRO and / or Caldicott Guardian, will assess the decision to release to the Police."
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.7 However, unless there is a legal basis to do so the Trust is not obliged to make a release, and will make decisions based on a public interest test. Further details regarding disclosing information to the police can be found in MSEPO-19024 Data Subject Access Request (Data Disclosure) Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.16,
+                "text": "Abuse of Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.1 The security measures and mechanisms employed by the Trust are designed to protect the core business systems used and the data held within those systems. Any member of staff that contravenes this policy, or related policies, will be subject to disciplinary proceedings, verbal or written warning and potential termination of employment. Any failure to comply could result in possible criminal/civil sanctions being applied."
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.2 The Trust is obliged that any breach of Data Protection has to be reported to the ICO and other relevant authorities, it is therefore important that all staff are aware that their actions can have serious consequences if this policy is breached."
+            },
+            "type": "ListItem",
+            "sequence_num": 248
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.17,
+                "text": "Information Asset Register (IAR)"
+            },
+            "type": "ListItem",
+            "sequence_num": 249
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.1 The Trust, via the Information Governance leads at each site, maintains an Information Asset Register for all electronic and manual systems (including written records). This identifies the overall Information Asset Owner, Information Asset Administrator/System Manager, and Risk Assessor (if different). These people must be consulted with following an IT security issue that impacts on a system that they have overall responsibility for."
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Risk Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 251
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.2 By definition, patient data is highly confidential, sensitive and covered by GDPR and/or relevant Data Protection legislation, as overseen and governed by the Information Commissioner's Office (ICO). There are serious penalties for careless or irresponsible loss of data that will have severe implications on Trust finances."
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.3 Formal risk assessment logs are maintained for all Trust IT systems; all new IT systems will be risk assessed before go live as part of the formal commissioning procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.4 Risk assessments will be reviewed annually by Information Asset Owners and Information Asset Administrators and Trust IT Management."
+            },
+            "type": "ListItem",
+            "sequence_num": 254
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.5 All information and/or cyber security breaches, or potential breaches, must be reported on the Trust Incident Reporting System."
+            },
+            "type": "ListItem",
+            "sequence_num": 255
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.6 Information security incidents will be investigated by the appropriate nominated handler with the assistance of the Information Governance and/or Digital Services Teams to establish their cause, impacts and lessons learned."
+            },
+            "type": "ListItem",
+            "sequence_num": 256
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.7 The Information Governance forums will receive regular reports on information governance incidents reported and lessons learned disseminated via the Trust's staff communications."
+            },
+            "type": "ListItem",
+            "sequence_num": 257
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.8 When data has been created and/or stored and/or transmitted and/or used on any of the Trust's systems or networks, to enforce this policy, the Trust may:"
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor the content of any electronic data and/or voicemail messages and/or other files and/or transmissions"
+            },
+            "type": "ListItem",
+            "sequence_num": 259
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access and/or disclose the content of business and/or private messages and/or files to managers within the Trust for appropriate action to be taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.18,
+                "text": "Incident Reporting"
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.1 It is the responsibility of all Trust employees to identify security incidents, suspected security weaknesses or near misses, security threats to services or systems through appropriate management channels by raising this on the Trust incident reporting system (Datix). Under new regulations, the Trust has 72 hours from becoming aware of a serious Information Governance breach to inform the Information Commissioner's Office."
+            },
+            "type": "ListItem",
+            "sequence_num": 262
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Following an incident being reported on the Trust Incident Reporting System a decision will be made as to whether the incident should be classified as a Serious Incident (SI). If the incident is a potential SI, the Information Governance Manager will complete the Assessment Checklist for Information Governance/Cyber Security Serious Incidents."
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This form is to be used for each incident reported as a potential IG/Cyber Security Serious Incident"
+            },
+            "type": "ListItem",
+            "sequence_num": 264
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Any Information Governance incidents graded 6 and above MUST be reported to the Information Commissioner's Office within 72 Hours of becoming aware of the incident. The table below provides grading and outcomes."
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.2"
+            },
+            "type": "ListItem",
+            "sequence_num": 266
+        },
+        {
+            "type": "image",
+            "sequence_num": 267,
+            "data": {
+                "url": "MSBPO-18001 Information governance and management policy 1.4.003.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.3 Reporting incidents allows the organisation to relate to similar occurrences and highlights any areas of vulnerability, identifying where greater awareness is needed, or procedures / protocols that require reviewing."
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.4 Examples of Information Governance Incidents would include, but are not limited to, NHSD's classifications:"
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidential Information Found"
+            },
+            "type": "ListItem",
+            "sequence_num": 270
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidential Information Left in Unsecure Location/unattended"
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidential Information Posted or Faxed to Incorrect Recipient"
+            },
+            "type": "ListItem",
+            "sequence_num": 272
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidential Information Sent by Email to Incorrect Recipient"
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidential Information Sent Without Appropriate Encryption"
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidential Information Uploaded to Webpage Without Authorisation"
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Failure to Remove Confidential Information Before Disclosure"
+            },
+            "type": "ListItem",
+            "sequence_num": 276
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Inappropriate Verbal Disclosure of Confidential Information"
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Insecure Disposal of Confidential Information"
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Loss or Theft of Confidential Information"
+            },
+            "type": "ListItem",
+            "sequence_num": 279
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Loss or Theft of Unencrypted Device"
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sharing of Passwords/pin Numbers"
+            },
+            "type": "ListItem",
+            "sequence_num": 281
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Unauthorised Access to Confidential Records"
+            },
+            "type": "ListItem",
+            "sequence_num": 282
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Unauthorised Access/disclosure of Confidential Information"
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Unauthorised Sharing of Confidential Information"
+            },
+            "type": "ListItem",
+            "sequence_num": 284
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.5 It is important that security incident reports give as much detail as possible. Including a description of activities leading up to the security incident, information about circumstances prevailing at the time, how the incident came about, how the security incident was detected."
+            },
+            "type": "ListItem",
+            "sequence_num": 285
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.6 The decision to report externally to the ICO is made in line with NHSD's Checklist Guidance for Reporting, Managing and Investigating Information Governance and Cyber Security Serious Incidents Requiring Investigation, with the ultimate decision being the SIRO, based on the advice of colleagues in the previous paragraph."
+            },
+            "type": "ListItem",
+            "sequence_num": 286
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.7 Information Governance & Cyber Security Steering Group (IGCSSC) has a key function to monitor and review IG incident trends and guide overarching remedial action to those trends."
+            },
+            "type": "ListItem",
+            "sequence_num": 287
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.8 Any reports are made by the IG Team, having taken advice from the SIRO, Caldicott Guardian and / or a senior Manager within the respective Department."
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 289
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Staff are required to complete IG training as part of their annual mandatory training obligations."
+            },
+            "type": "ListItem",
+            "sequence_num": 290
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Between annual training requirements staff are to ensure that they keep up to date regarding IG update emails and messages published in staff circulars."
+            },
+            "type": "ListItem",
+            "sequence_num": 291
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 292
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Compliance to this policy will be monitored as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "type": "table",
+            "sequence_num": 294,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Aspect being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Responsibility for monitoring"
+                    },
+                    {
+                        "text": "Frequency of monitoring"
+                    },
+                    {
+                        "text": "Findings/ monitoring report recipients"
+                    },
+                    {
+                        "text": "Responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "All aspects of the DSPT Toolkit"
+                    },
+                    {
+                        "text": "Supplying the evidence as stated on the IG toolkit for each requirement"
+                    },
+                    {
+                        "text": "Information Governance leads"
+                    },
+                    {
+                        "text": "Quarterly In advance of interim DSPT submissions"
+                    },
+                    {
+                        "text": "Information Governance &Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Trust"
+                    },
+                    {
+                        "text": "Completion of mandatory IG training"
+                    },
+                    {
+                        "text": "Review of compliance data provided by HR systems team"
+                    },
+                    {
+                        "text": "Information Governance leads"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "Information Governance &Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Trust"
+                    },
+                    {
+                        "text": "Access Controls"
+                    },
+                    {
+                        "text": "Network and system access control utilities"
+                    },
+                    {
+                        "text": "Information Governance lead"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Heads of IG and Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Process Audit"
+                    },
+                    {
+                        "text": "Information Governance lead"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Secure Email system"
+                    },
+                    {
+                        "text": "PII transmission"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of Digital Services"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following legislation applies to this policy however, due to continual changes in legislation, this list is not exhaustive:"
+            },
+            "type": "ListItem",
+            "sequence_num": 296
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Health Records 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 297
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Medical Reports Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 298
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Health Records 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 299
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Computer Misuse Act 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 300
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Caldicott Guardian Manual (2010)"
+            },
+            "type": "ListItem",
+            "sequence_num": 301
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Common Law Duty of Confidentiality"
+            },
+            "type": "ListItem",
+            "sequence_num": 302
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "General Data Protection Regulation"
+            },
+            "type": "ListItem",
+            "sequence_num": 303
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Environmental Information Regulations"
+            },
+            "type": "ListItem",
+            "sequence_num": 304
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Freedom of Information Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 305
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Social Care Act 2012"
+            },
+            "type": "ListItem",
+            "sequence_num": 306
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Social Care (Safety & Quality) Act 2015"
+            },
+            "type": "ListItem",
+            "sequence_num": 307
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidentiality NHS Code of Practice (2003)"
+            },
+            "type": "ListItem",
+            "sequence_num": 308
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Human Rights Act 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 309
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Records Management Code of Practice for Health and Social Care (2016) Information Security Management Code of Practice (2007)"
+            },
+            "type": "ListItem",
+            "sequence_num": 310
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information: To Share or Not to Share (2013) (Caldicott 2)"
+            },
+            "type": "ListItem",
+            "sequence_num": 311
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Privacy and Electronic Communication Regulations"
+            },
+            "type": "ListItem",
+            "sequence_num": 312
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regulation of Investigatory Powers Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 313
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report on the Review of Patient-Identifiable Information (1997) (The Caldicott Report)"
+            },
+            "type": "ListItem",
+            "sequence_num": 314
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review of Data Security, Consent and Opt Outs (2016) (Caldicott 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 315
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Safe Data, Safe Care (2016)"
+            },
+            "type": "ListItem",
+            "sequence_num": 316
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Information Governance Toolkit/Data Security and Protection Toolkit Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 317
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection of Children Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 318
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Public Records Act 1958/1967"
+            },
+            "type": "ListItem",
+            "sequence_num": 319
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regulation of Investigatory Powers Act 2000 Telecommunications Regulations 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 320
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 321
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This policy has been reviewed and quality assessed. Title of document being impact-assessed:"
+            },
+            "type": "ListItem",
+            "sequence_num": 322
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IG Information Governance and Management Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 323
+        },
+        {
+            "type": "table",
+            "sequence_num": 324,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1.0 Benefits"
+                    },
+                    {
+                        "text": "1.1. What evidence has been used to develop this proposal (e.g. NICE, NCEPOD, audit, patient or staff surveys?)"
+                    },
+                    {
+                        "text": "NHS Digital Data Security and Protection Toolkit General Data Protection Regulation (GDPR) Best Practice"
+                    },
+                    {
+                        "text": "1.2. What changes does this proposal make to the care pathway?"
+                    },
+                    {
+                        "text": "Supports the robust delivery of Information Governance to protect Trust services, systems and data within its control"
+                    },
+                    {
+                        "text": "1.3. Describe the positive impact on: Patient safety Clinical effectiveness Patient experience"
+                    },
+                    {
+                        "text": "Ensures that Trust IG systems and processes are suitably robust to protect against the risk of data loss or misuse Mitigates against interruption of staff access to systems and data resulting from malicious attack Able to demonstrate that robust processes are in place to ensure that safety of personal and clinical data"
+                    },
+                    {
+                        "text": "1.4. What current or new clinical outcome measures will monitor these benefits?"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "2.0 Impact Assessment"
+                    },
+                    {
+                        "text": "2.1. Describe how the impact of the change has been considered in relation to: Infection Prevention and Control Safeguarding vulnerable adults/ children Current quality indicators Quality Account priorities Patients/ carers/ members of the public Promoting self-care for people with long-term conditions Tackling health inequalities"
+                    },
+                    {
+                        "text": "Supports compliance with NHS Information Governance Toolkit Requirements, General Data Protection Regulation (GDPR) and Best Practice and ISO standards"
+                    },
+                    {
+                        "text": "2.2. How will you monitor the impact of this proposal? (Provide details of how this will be done, by whom, and when)"
+                    },
+                    {
+                        "text": "Trigger points early warning indicators"
+                    },
+                    {
+                        "text": "Escalate to?"
+                    },
+                    {
+                        "text": "When?"
+                    },
+                    {
+                        "text": "Responsible person"
+                    },
+                    {
+                        "text": "Staff not engaging with the defined policy"
+                    },
+                    {
+                        "text": "Information Governance Lead for further investigation"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Persons who identified non- compliance to defined policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regular monitoring reports made  Information Governance &  Cyber Security"
+            },
+            "type": "ListItem",
+            "sequence_num": 325
+        },
+        {
+            "type": "image",
+            "sequence_num": 326,
+            "data": {
+                "url": "MSBPO-18001 Information governance and management policy 1.4.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Immediately"
+            },
+            "type": "ListItem",
+            "sequence_num": 327
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "available for review  Cyber Security Steering Group  Officer"
+            },
+            "type": "ListItem",
+            "sequence_num": 328
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment (EIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 329
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Title of document being impact-assessed:"
+            },
+            "type": "ListItem",
+            "sequence_num": 330
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IG Information Governance and Management Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 331
+        },
+        {
+            "type": "table",
+            "sequence_num": 332,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Equality or human rights concern."
+                    },
+                    {
+                        "text": "Does this item have any differential impact on the equality groups listed? Brief description of impact."
+                    },
+                    {
+                        "text": "How is this impact being addressed?"
+                    },
+                    {
+                        "text": "Gender"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Race and ethnicity"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Disability"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Religion, faith and belief"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sexual orientation"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transgender people"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Social class"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Carers"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date of assessment:  09/05/2018"
+            },
+            "type": "ListItem",
+            "sequence_num": 333
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Names of Assessor (s)  Matt Barker, MSE Head of Information Governance"
+            },
+            "type": "ListItem",
+            "sequence_num": 334
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1, Senior Information Risk Owner Role Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 335
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2, Caldicott Guardian Role Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 336
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3, Information Asset Owners Role Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 337
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: IG Reporting & Communication Structure"
+            },
+            "type": "ListItem",
+            "sequence_num": 338
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Governance Accountability Structure"
+            },
+            "type": "ListItem",
+            "sequence_num": 339
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Audit Committee"
+            },
+            "type": "ListItem",
+            "sequence_num": 340
+        },
+        {
+            "type": "image",
+            "sequence_num": 341,
+            "data": {
+                "url": "MSBPO-18001 Information governance and management policy 1.4.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Governance & Cyber Security Steering"
+            },
+            "type": "ListItem",
+            "sequence_num": 342
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Risk andCommittee"
+            },
+            "type": "ListItem",
+            "sequence_num": 343
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Information Governance elements: combinedReports and QuarterlyReports)"
+            },
+            "type": "ListItem",
+            "sequence_num": 344
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon Site  Southend Mid Essex Site Information Governance  Information Governance  Information Governance Lead Lead Lead"
+            },
+            "type": "ListItem",
+            "sequence_num": 345
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "National"
+            },
+            "type": "ListItem",
+            "sequence_num": 346
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2018.0,
+                "text": "INFORMATION  GDPR COMPLIANCE/  DATA SECURITY AND NHSx / NHS Digital COMMISSIONER'S OFFICE &  DATA PROTECTION ACT  PROTECTION TOOLKIT NATIONAL CALDICOTT   (INFORMATION"
+            },
+            "type": "ListItem",
+            "sequence_num": 347
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "GUARDIAN BOARD GOVERNANCE TOOLKIT)"
+            },
+            "type": "ListItem",
+            "sequence_num": 348
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5, National Data Security Standards"
+            },
+            "type": "ListItem",
+            "sequence_num": 349
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The National Data Security Standards are from the National Data Guardian's Review of Data Security, Consent and Opt-Outs (2016) (Caldicott 3), and form the structural basis of the Data Security and Protection Toolkit, which replaces the IGT in April 2018."
+            },
+            "type": "ListItem",
+            "sequence_num": 350
+        },
+        {
+            "type": "table",
+            "sequence_num": 351,
+            "data": {
+                "num_rows": 20,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Leadership Obligation 1:"
+                    },
+                    {
+                        "text": "People: Ensure staff are equipped to handle information respectfully"
+                    },
+                    {
+                        "text": "And safely, according to the Caldicott Principles."
+                    },
+                    {
+                        "text": "All staff ensure that personal confidential data is handled, stored and transmitted securely, whether in electronic or paper form. Personal confidential data is only shared for lawful and appropriate purposes."
+                    },
+                    {
+                        "text": "All staff understand their responsibilities under the National Data Guardian's Data Security Standards including their obligation to handle information responsibly and their personal accountability for deliberate or avoidable breaches."
+                    },
+                    {
+                        "text": "All staff complete appropriate annual data security training and pass a mandatory test, provided through the revised Information Governance Toolkit."
+                    },
+                    {
+                        "text": "Leadership Obligation 2:"
+                    },
+                    {
+                        "text": "Process: Ensure the organisation proactively prevents data security"
+                    },
+                    {
+                        "text": "breaches and responds appropriately to incidents or near misses."
+                    },
+                    {
+                        "text": "Personal confidential data is only accessible to staff who need it for their current role and access is removed as soon as it is no longer required. All access to personal confidential data on IT systems can be attributed to individuals."
+                    },
+                    {
+                        "text": "Processes are reviewed at least annually to identify and improve processes which have caused breaches or near misses, or which force staff to use workarounds which compromise data security."
+                    },
+                    {
+                        "text": "Cyber-attacks against services are identified and resisted and CareCERT security advice is responded to. Action is taken immediately following a data breach or a near miss, with a report made to senior management within 12 hours of detection."
+                    },
+                    {
+                        "text": "A continuity plan is in place to respond to threats to data security, including significant data"
+                    },
+                    {
+                        "text": "breaches or near misses, and it is tested once a year as a minimum, with a report to senior"
+                    },
+                    {
+                        "text": "management."
+                    },
+                    {
+                        "text": "Leadership Obligation 3:"
+                    },
+                    {
+                        "text": "Technology: Ensure technology is secure and up-to-date."
+                    },
+                    {
+                        "text": "No unsupported operating systems, software or internet browsers are used within the IT estate."
+                    },
+                    {
+                        "text": "A strategy is in place for protecting IT systems from cyber threats which is based on a proven cyber security framework such as Cyber Essentials. This is reviewed at least annually."
+                    },
+                    {
+                        "text": "IT suppliers are held accountable via contracts for protecting the personal confidential data they process and meeting the National Data Guardian's Data Security Standard."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            },
+            "type": "ListItem",
+            "sequence_num": 352
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6, Data Privacy Impact Assessment Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 353
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A non-exhaustive list of projects that would require a Data Privacy Impact Assessment (DPIA) includes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 354
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A new IT system for storing and accessing Personal Identifiable Data (PID)."
+            },
+            "type": "ListItem",
+            "sequence_num": 355
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A data sharing initiative where multiple organisations seek to link sets of PID."
+            },
+            "type": "ListItem",
+            "sequence_num": 356
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A proposal to identify people in a particular group or demographic and initiate a course of action."
+            },
+            "type": "ListItem",
+            "sequence_num": 357
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Using existing PID for a new, unexpected or more intrusive purpose."
+            },
+            "type": "ListItem",
+            "sequence_num": 358
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A new surveillance system, especially one which monitors members of the public, or the application of new technology to an existing system, for example adding number plate recognition capabilities to existing CCTV."
+            },
+            "type": "ListItem",
+            "sequence_num": 359
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A new database which consolidates information held by separate parts of an"
+            },
+            "type": "ListItem",
+            "sequence_num": 360
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 361
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Legislation, policy or strategies which will impact on privacy through the collection of use of information, or through surveillance or other monitoring."
+            },
+            "type": "ListItem",
+            "sequence_num": 362
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use of data that appears to be pseudonymised or anonymised, but could be identifiable if combined with other information. Pseudonymisation is \u2018the process of distinguishing individuals in a dataset by using a unique identifier which does not reveal their \u2018real world' identity', and anonymisation \u2018[t]he process of rendering data into a form which does not identify individuals and where identification is not likely to take place'."
+            },
+            "type": "ListItem",
+            "sequence_num": 363
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Answering a set of screening questions within the Data Privacy Impact Assessment document will identify if there is any potential impact on privacy. A positive answer to any of the questions confirms that a Data Privacy Impact Assessment is required."
+            },
+            "type": "ListItem",
+            "sequence_num": 364
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If so, the Project Manager or Board (however these are defined, depending on the size of the project) must proactively consider how project management activity can address privacy issues. These must also be discussed with all appropriate stakeholders."
+            },
+            "type": "ListItem",
+            "sequence_num": 365
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Privacy Impact Assessments must be conducted by someone that is introducing a new or significantly changed project, procurement, business case or departmental/team initiative that involves PID. The responsibility for carrying out the Data Privacy Impact Assessment must be formally recorded and assigned by the Project Board / appropriately senior Manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 366
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The selection must be allocated to a member of the project team, with a strong understanding of the project or process itself."
+            },
+            "type": "ListItem",
+            "sequence_num": 367
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Privacy implications must be considered at each phase of the life-cycle of a project. This may result in several Data Privacy Impact Assessments being completed or updated. It is for the Project Manager or Board to ensure this is effectively managed."
+            },
+            "type": "ListItem",
+            "sequence_num": 368
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Not all Data Privacy Impact Assessments will relate to changes that require the production of a business case. Where a business case will be required by the Trust the approved Data Privacy Impact Assessment (or nil return) should be appended to the case in line with the business case process."
+            },
+            "type": "ListItem",
+            "sequence_num": 369
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When a Data Privacy Impact Assessment is completed it must first be reviewed by the appropriate Project Board, and then be submitted to the Information Governance Team by email for triage."
+            },
+            "type": "ListItem",
+            "sequence_num": 370
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For patient-based Data Privacy Impact Assessments, the IG Team will make a recommendation to the Caldicott Guardian, who acts as the Trust's conscience with regard to use of patient information and has ultimate sign-off for the processes using their information. For similar non-patient based Data Privacy Impact Assessments, such as (but not limited to) Human Resources, the sign-off will be undertaken by the SIRO. The recommendations will be either Approved, or Declined."
+            },
+            "type": "ListItem",
+            "sequence_num": 371
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once approved by the IG Team Data Privacy Impact Assessment Panel and passed to the Caldicott Guardian / SIRO (as applicable), who will Approve or Decline it."
+            },
+            "type": "ListItem",
+            "sequence_num": 372
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This process will continue cyclically until such time as the IG Team and Caldicott Guardian / SIRO (as applicable) are in agreement with the project's proposals."
+            },
+            "type": "ListItem",
+            "sequence_num": 373
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Data Privacy Impact Assessments must be retained by the Project Board / appropriate Senior Manager and form part of official Project Documentation where applicable."
+            },
+            "type": "ListItem",
+            "sequence_num": 374
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The outcomes of a Data Privacy Impact Assessment include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 375
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The identification of the project's privacy impacts."
+            },
+            "type": "ListItem",
+            "sequence_num": 376
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appreciation of those impacts from the perspectives of all stakeholders."
+            },
+            "type": "ListItem",
+            "sequence_num": 377
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "An understanding of the acceptability of the project and its features by the organisations and people that will be affected by it."
+            },
+            "type": "ListItem",
+            "sequence_num": 378
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identification and assessment of less privacy-invasive alternatives."
+            },
+            "type": "ListItem",
+            "sequence_num": 379
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identification of ways in which negative impacts on privacy can be avoided."
+            },
+            "type": "ListItem",
+            "sequence_num": 380
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identification of ways to lessen negative impacts on privacy."
+            },
+            "type": "ListItem",
+            "sequence_num": 381
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where negative impacts on privacy are unavoidable, clarity as to the business need that justifies them."
+            },
+            "type": "ListItem",
+            "sequence_num": 382
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Documentation of the outcomes."
+            },
+            "type": "ListItem",
+            "sequence_num": 383
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Compliance with the Data Privacy Impact Assessment requirement is monitored by the IG Team, which regularly reviews incidents reported on the Trust incident management application to establish if they have been caused in whole or part by Data Privacy Impact Assessments not being appropriately completed. To ensure projects appropriate complete Data Privacy Impact Assessments, there will be IG membership / attendance / review of minutes at the Trust's various IM&T groups."
+            },
+            "type": "ListItem",
+            "sequence_num": 384
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7, Information Sharing Agreements (ISA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 385
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Whenever an Information Sharing Agreement is required, the following basic information must be covered."
+            },
+            "type": "ListItem",
+            "sequence_num": 386
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information is to be shared."
+            },
+            "type": "ListItem",
+            "sequence_num": 387
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The business rationale for sharing it."
+            },
+            "type": "ListItem",
+            "sequence_num": 388
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The legal basis for sharing it under Data Protection legislation."
+            },
+            "type": "ListItem",
+            "sequence_num": 389
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The benefits to either the:"
+            },
+            "type": "ListItem",
+            "sequence_num": 390
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identifying the Data Controller."
+            },
+            "type": "ListItem",
+            "sequence_num": 391
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "How Data Quality will be assured, going forward."
+            },
+            "type": "ListItem",
+            "sequence_num": 392
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "What processes are in place to assure the Information Security of the processing:"
+            },
+            "type": "ListItem",
+            "sequence_num": 393
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When in transit from the sending to the receiving organisation, and / or"
+            },
+            "type": "ListItem",
+            "sequence_num": 394
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At the receiving organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 395
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "What the arrangements are for the retention and disposal of the information."
+            },
+            "type": "ListItem",
+            "sequence_num": 396
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "How requests concerning the use of the information under the Freedom of Information Act 2000 will be managed between the organisations."
+            },
+            "type": "ListItem",
+            "sequence_num": 397
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "How Data Breaches will be dealt within in line with Data Protection law."
+            },
+            "type": "ListItem",
+            "sequence_num": 398
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The date the agreement is effective from, and for how long."
+            },
+            "type": "ListItem",
+            "sequence_num": 399
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sign-off by a responsible manager within the sending and receiving organisations."
+            },
+            "type": "ListItem",
+            "sequence_num": 400
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sign-off from the Caldicott Guardian for the sending organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 401
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document Title: Information Governance & Management Policy / Register no: MSBPO-18001 / version: 1.4"
+            },
+            "type": "ListItem",
+            "sequence_num": 402
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 38.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 403
+        }
+    ]
+}

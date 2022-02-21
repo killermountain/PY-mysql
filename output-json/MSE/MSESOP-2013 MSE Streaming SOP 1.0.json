@@ -1,0 +1,2032 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "STREAMING PROCESS IN THE EMERGENCY DEPARTMENT"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-2013"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff within ED"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "23 December 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "22 December 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National NHS111 First Mandate"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Care Group 1 \u2013 Acute Medicine / Local Services"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Chantel Davies ADO Accident and Emergency and Acute Medicine Basildon Hospital"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2612 Basildon Hospital \u2612 Broomfield Hospital \u2612 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "MSE Streaming Workstream ED Front Door and Admission Avoidance Steering Group"
+                    },
+                    {
+                        "text": "29 October 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Samantha Goldberg Emergency Care Systems Director"
+                    },
+                    {
+                        "text": "29 October 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "17 November 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "November 20"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Workstream members"
+                    },
+                    {
+                        "text": "Southend ED Workstream group"
+                    },
+                    {
+                        "text": "29 October 2020"
+                    },
+                    {
+                        "text": "Workstream members"
+                    },
+                    {
+                        "text": "Broomfield ED Workstream group"
+                    },
+                    {
+                        "text": "29 October 2020"
+                    },
+                    {
+                        "text": "Workstream members"
+                    },
+                    {
+                        "text": "Basildon ED Workstream group"
+                    },
+                    {
+                        "text": "29 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Emergency Department Crowding Policy Ambulance Handover Standard Operating Procedure"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Chantel Davies"
+                    },
+                    {
+                        "text": "Newly created document. No superseded documents."
+                    },
+                    {
+                        "text": "23 December 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Key Elements of Policy ................................................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Background .................................................................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "The Patient Journey ...................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Training Requirements ............................................................................................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Monitoring and Audit ................................................................................................... 15  Approval and Implementation ..................................................................................... 15  Equality Impact Assessment ....................................................................................... 15  References ................................................................................................................. 16 Appendix 1: Site based Red Flag posters .......................................................................... 17 Appendix 2: Site based Mental Health Pathways .............................................................. 20 Appendix 3: Respiratory Admissions Winter Pathway Covid-19 ....................................... 25 Appendix 4: Preliminary Equality Analysis ......................................................................... 26"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This policy provides guidance on the various processes required to maintain patient safety whilst in the waiting area as well as identifying escalation triggers and actions."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\uf0b7  Detail the process taken to ensure the safe management of patients within the Emergency Department waiting room as well as the streaming processes in place to identify patients at high risk of deterioration and the correct management of patients across Mid and South Essex NHS FT."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Heralded Patients"
+                    },
+                    {
+                        "text": "Heralded patients are those that have contacted NHS111 either by telephone or internet. Following a completed clinical assessment by NHS111 they are booked into an appointment slot to attend either ED/SDEC/UTC"
+                    },
+                    {
+                        "text": "Unheralded Patients"
+                    },
+                    {
+                        "text": "Unheralded patients are those which have had no contact with NHS111 prior to attending and do not have a pre booked appointment."
+                    },
+                    {
+                        "text": "Streaming"
+                    },
+                    {
+                        "text": "Streaming is the process of allocating patients to different physical areas / services, pathways or processes, in order to improve efficiency and effectiveness. The main objective of streaming is to ensure that the patient is directed to the correct location / service and to the correct person to manage their clinical needs. Streaming may include streaming to co-located or specialist services. For streaming to be effective it needs to be brief, in order to avoid queues developing. However, the overall system used must incorporate safeguards to provide further assessment of those patients in whom it is clinically required. Good quality streaming will typically involve taking a brief history and performing basic observations. (RCEM 2017)"
+                    },
+                    {
+                        "text": "Care Navigator"
+                    },
+                    {
+                        "text": "Non-clinical navigators. Non-clinical staff who are based within the emergency department to actively support the streaming pathway."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The Deputy Director of Operations and Associate Director of Nursing ED is responsible for ensuring all staff within the ED are aware of this SOP at site level"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "All staff within the ED are responsible for ensuring they adhere to this SOP at all times."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Key Elements of Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Patients who self-present to the Emergency Department may be just as sick and have the propensity to deteriorate as much as those conveyed by Emergency Services. It is therefore essential that the Emergency Department (ED) has processes in place to allow immediate assessment of patients as they arrive. It is recognised that at times of peak demand; the time taken to book in and await triage can lead to unnecessary and crucial delays in identification and management of unwell patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "This standard operating procedure (SOP) has been developed in order to manage the operational  day-to-day  process between  Mid  and  South  Essex  (MSE)  Foundation Trust sites and the local NHS111 provider IC24."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "The procedures will detail the operational processes to safely manage patient flows and access to urgent and emergency care within the Mid and South Essex Foundation Trust sites following the implementation of the think NHS111 first national initiative."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Background"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "NHS 111 First is an extension to the existing Integrated Urgent Care (IUC) Service accessed through NHS 111. It aims to encourage the use of NHS 111 Online and telephony as the primary means to access urgent health care but with a more prominent public facing message \u2013 \u201cNHS 111 First\u201d."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "The Covid pandemic of 2020 has had a profound effect upon the delivery of NHS services and the behaviour of the general public in the way they access healthcare. There have been rapid developments to operational delivery within the NHS in order to ensure patients who are Covid positive receive the treatment they need and at the same time protect those who are most at risk. The \u2018lockdown' of the population to control the spread of Covid-19 has meant a sharp reduction in attendance at emergency departments (EDs) of up to 60%, and a large increase in the inbound call volumes to the NHS 111 Service."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "This change to the way the public access services must be maintained beyond the current pandemic to reduce the risks of nosocomial spread and ensure that healthcare service demand is more proactively managed."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "The term NHS 111 First refers to the development of the current NHS 111 Service to offer patients a different approach to the way they access and receive urgent healthcare. It is a new public facing brand which means:"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS 111 (both online and via existing telephony) is the first point of contact when experiencing a health issue"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A move away from (but not exclusion of) going to a physical location as the first choice to access healthcare"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Embracing remote assessment and the technology which supports it"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Preventing nosocomial (hospital acquired) infection by ensuring patients do not congregate together in ED waiting rooms"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring patients get a clear direction of what they need to do and where they need to go in order to resolve their issue"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protecting those most at risk by giving them an enhanced service."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In short, the NHS 111 First initiative aims to build on the beneficial changes brought about by the Covid-19 pandemic and make them permanent for the future benefit of patients and to reduce the continued overcrowding within emergency departments."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "The Patient Journey"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Patients will access urgent and emergency care in a number of ways and these procedures will direct patients to the right care in the right place and at the same time manage the risk and governance process to ensure patients reach the appropriate and safe outcomes. New initiatives and processes have been developed as part of the 111 First initiative."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "A review has been undertaken of the current infrastructure on all of the MSE sites to determine the best patient pathway, ensure a consistent approach and methodology across all of the locations."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Patients accessing NHS 111 Online or phoning NHS 111 Patients accessing NHS 111 Online and completing a full assessment will be directed as follows; this includes self- presenting patients to ED who do not have any red flag symptoms:"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Primary care dispositions during the in hours and out of hours period."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dental or mental health dispositions will be transferred to the relevant service for further clinical assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For emergency dispositions such as a 999 ambulance (Cat 1 and 2), the patients are advised to contact 999 for an emergency ambulance to be dispatched to them. This is the same process for all ambulance outcomes nationally."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cat 3 & 4 ambulance dispositions will transfer for clinical validation."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For other low acuity dispositions such as pharmacy, patients are advised to ring or present to those locations themselves."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.4,
+                "text": "Home management dispositions:"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.4.1 If this disposition is reached by self-presenting patients when using the iPads within the Hospital, the patient will be provided with information referring them to NHS Choices and the relevant symptom group to further research how to manage their condition at home and to contact NHS 111 again if their symptoms worsen or change in any way."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "PATHWAY FOR HERALDED AND UNHERALDED PATIENTS"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "type": "image",
+            "sequence_num": 55,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.4.2 The aim is for patients to be streamed within 15 minutes of arrival in the department"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.4.3 Patients attending the emergency departments at MSE sites will have an initial clinical assessment by a band 6 or above nurse who will stream the patient as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.5,
+                "text": "Heralded patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.1 Heralded patients have had an assessment undertaken by NHS111 and have been advised to attended the emergency department. In advance of the patient attendance within the emergency department, patients will have either an online or telephone assessment through the NHS111 service."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.2 The assessment that has been undertaken by NHS111 will be uploaded to Emergency Department Digital Integration (EDDI) system as well as an appointment booked for the patient at the designated Emergency Department."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.3 This would mean the Trust using EDDI which is a web based solution built and provided by NHS Digital."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.4 This system would sit alongside current Trust systems and require staff to manually review the system for booked patients. Once patients arrive in the emergency department, staff would mark them as arrived in EDDI and then book them into current ED system."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.5 The reception staff on each site will be responsible for monitoring the bookings on EDDI. When an appointment is made on the EDDI system, the receptionists will have the responsibility of printing off the NHS111 assessment and notifying the streaming nurse of the patients booking and expected arrival time."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.6 The notes will be given to the streaming nurse responsible for assessing the heralded patients in advance of the patient attendance in order to support assessment and avoid duplication of patient information sharing."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Screenshot from EDDI using dummy patient details:"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "type": "image",
+            "sequence_num": 66,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.004.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.6,
+                "text": "Patient does not attend (DNA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.6.1 The EDDI system will allow for NHS111 (IC24) to receive a notification once a booked patient arrives within the ED department and is marked as \u2018arrived', At this point, duty of care will transfer to the receiving ED."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.6.2 Patients with red flag/safeguarding issues who have been advised to attend ED and have not been marked as arrived within one hour of their arrival time will receive a follow up contact by an NHS111 (IC24) clinician to determine the reason for non- attendance and to also reassess the patient's clinical condition."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.7,
+                "text": "Appointment Slots within EDDI"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.7.1 Booking slots are available 24 hours a day, 7 days a week, 365 days a year."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.7.2 Booking slots overnight will be available."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.7.3 There may be occasions during the day where there are no booking slots available. This will generally be driven by the volume of NHS 111 referrals exceeding the number of available slots within the department. When this occurs, the patient's details will still be transferred by the CAS clinician to the emergency department email and the patient will be advised to attend"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.7.4 All patients must be asked to arrive no sooner than 15 minutes prior to their booked slot to ensure the waiting area can maintain social distancing."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.8,
+                "text": "Scheduling Slots"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.8.1 Slots offered will be calculated at 20% of current activity at each of the 3 MSE sites. These will be weighted by hour, to ensure more slots are offered at peak times of attendance. Separate slots will be offered for adult and paediatric attendances."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.8.2 In the event of no slots being available, additional slots can be opened on the EDDI system. This process can only be completed by a member of the senior management team following internal authorisation from Deputy Director of Operations."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.9,
+                "text": "Blocking Slots"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.9.1  In the event of a major incident, MSE will invoke their Major Incident Policy and booked slots can be blocked."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Unheralded patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.10.1 These are patients who have not had any prior engagement with NHS111 before attendance at the emergency department. The signage outside of the hospital sites will direct the patient to contact NHS111."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.10.2 Upon entrance to the emergency department, patients will be directed to the streaming nurse where their assessment will be undertaken."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.11,
+                "text": "STREAMING"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.11.1 Definition"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.11.2 Streaming is the process of allocating patients to different physical areas / services, pathways or processes, in order to improve efficiency and effectiveness. The main objective of streaming is to ensure that the patient is directed to the correct location / service and to the correct person to manage their clinical needs. Streaming may include streaming to co-located or specialist services. For streaming to be effective it needs to be brief, in order to avoid queues developing. However, the overall system used must incorporate safeguards to provide further assessment of those patients in whom it is clinically required. Good quality streaming will typically involve taking a brief history and performing basic observations. (RCEM 2017)"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.11.3 In addition to the above patients are triaged is based on the Manchester Triage system and is completed through an electronic system. Observations completed in streaming are also recorded on the e-observation patient-track system to allow easy recognition and tracking of patients with high NEW score."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.12,
+                "text": "The Streaming process"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.12.1 On arrival to the department, adults (16 and over) will be greeted with agreed signage on the premises of MSE sites and the ED doors will direct patients to contact NHS 111 Online or by telephone unless they have a red flag condition, are vulnerable, are shielding, or if they already have a booked slot."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.12.2 Upon entry to the emergency department, patients are directed to the streaming practitioner via signage within the department and the Care Navigator (CN). This nurse is either a band 6 or 7 nurse with extensive ED experience. During this process a quick registration is undertake on the Medway system and a full PDS registration is undertaken on Lorenzo, following that a clinical history is taken as well as a set of observations and an NEWS score taken. This process is documented within the clinical systems as well as an identified appropriate location for the patient to be managed. Patients may be allocated to one of the following areas:"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Diagnostics (then on to Majors or Minors)"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Direct to Minors (does not require further diagnostics)"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Direct to on-site Minor injuries (if open)"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Direct to on-site GP"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Direct to Medical Ambulatory Care (if NEWS 3 or less and doctor letter present)"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Direct referral to Maternity/Gynae Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Directed to make contact with NHS111 either on-line or within the telephone booths"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.12.3 As they leave the streaming room, patients are asked to attend the reception to complete the full registration and where clinically appropriate, will be directed to the senior emergency technician in order to have further diagnostics such as blood tests, ECG etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.12.4 The time of arrival noted on the system during registration will be the time that is noted on the streaming form."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "7.12.5 For patients presenting with potential Mental Health conditions, an additional assessment is completed at triage to identify suitable place to wait in the department and to highlight where a fast-track Mental Health referral is appropriate. Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.12.6 Patients who present with vulnerabilities, not limited to; physical or mental impairments, English not being a first language, frailty, homelessness, substance abuse, domestic violence/abuse, will be fully supported in accessing the right care to ensure appropriate support and if necessary safeguarding."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.13,
+                "text": "Care Navigator"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.13.1  Care Navigators are non-clinical staff who are based within the emergency department. They actively support the streaming and redirection team. The staff make sure the patient is seen in the correct place at the right time. For example, a dressing clinic or GP appointment. They also help patients to register with a GP practice while waiting with the emergency department/urgent treatment centre. This reduces the number of unregistered patients within the local community. And it encourages patients to use their GP first - for next time. The CN will also identify and support more vulnerable patients who may struggle to access NHS 111 services. The CN can support vulnerable patients with the use of technology."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "type": "image",
+            "sequence_num": 103,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.14,
+                "text": "Location"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.14.1 The streaming rooms at Basildon Hospital are the first rooms on the right as you enter through the main entrance to the department. It has duel access to support staff safety and is equipped with a computer, portable phone and clinical equipment required to undertake a clinical assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.14.2 The streaming rooms at Southend Hospital are the first rooms to the right of reception where there is shared access to EDA and other diagnostic staff as they back on to Majors light."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.14.3 The streaming rooms at Broomfield Hospital are next to reception, directly opposite the main entrance to the waiting room."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.15,
+                "text": "Escalation of High-Risk Patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.15.1 The streaming process allows the identification of those patients requiring early intervention and minimises delay, which may be present awaiting a full triage. The streaming practitioner has the authority to fast-track a patient as required and anyone can fast track a red flag patient. Examples include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NEWS score >4"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Chest Pain"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Possible Stroke"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heavy blood loss"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sepsis"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Neutropenic/Chemotherapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.15.2 The list is not exhaustive and the nurse is supported in using clinical judgement as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.15.3 Anyone requiring urgent review is highlighted to the diagnostic team for urgent investigations or is discussed with the nurse-in-charge and moved immediately into the department."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.16,
+                "text": "Escalation of Streaming Delays"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.16.1  The Streaming nurse is responsible for escalating to the nurse in charge, when there are more than 3 patients waiting to be streamed. This will prompt the opening of an additional streaming room to manage demand."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.17,
+                "text": "Booking In At Reception"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.17.1 The Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.17.2 Patients are asked to complete registration after being streamed. This allows the Reception staff to confirm full patient information on the clinical systems. The booking- in time will be recorded as the Streaming time as this was the patient's first contact with a health professional. The booking-in process will also allow the identification of any pre-existing system alerts, which were not disclosed at streaming. Patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "personal details are also confirmed during the booking-in process in order to register fully or update any changes."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.18,
+                "text": "Red-Flags at Reception"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.18.1 Patients are directed to see the Streaming Nurse on arrival to allow early clinical oversight of the patient, but it is recognised that some patients may still present directly to the Reception desk or their condition may change within the waiting room and they may seek advice from the reception staff. It is therefore essential that Reception staff are able to recognise certain symptoms that require immediate attention. Each MSE hospital has a red flags poster displayed behind reception desks to provide guidance to Reception staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.18.2 Appendix 1 \u2013 Site based Red Flag posters"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.18.3 Reception staff are also asked to complete an online or face to face training resource to reinforce this process."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.19,
+                "text": "Managing Delays at Reception"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.19.1  The reception staff are responsible for escalating when there are delays in booking in as it is recognised that this also can create a potential delay in the recognition of deteriorating patients (although patients have already been streamed so this is minimal). When there are more than 5 patients waiting to book in, the receptionist will escalate the delay to the Nurse-in-Charge."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Diagnostics"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.20.1 Location"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.20.2 The triage rooms are located off of the main waiting area, with dual access for staff safety. The rooms are equipped with trolleys and chairs as well as the clinical equipment required for triage i.e. phlebotomy and ECG."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.21,
+                "text": "Diagnostics Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.21.1 Patients are directed to a senior emergency technician following the streaming where patients require further diagnostics to support their treatment and management. Observations completed in streaming are also recorded on the e-observation system to allow easy recognition and tracking of patients with high NEW score."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.21.2 Following diagnostics the patient will be allocated an area to wait and see the clinician. This may be either within Resus, Majors or Minors or in the main waiting area."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.22,
+                "text": "Diagnostics Demand/Surges"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.22.1 During times of peak activity or surges in walk-in demand, diagnostic rooms are identified as high/low acuity in order to prioritise those patients requiring further intervention."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.22.2 This streaming nurse will identify the need for either Rm1 or Rm2 depending on NEWS and presenting symptoms."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.23,
+                "text": "The Waiting Area"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.23.1 The Environment"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.0,
+                "text": "7.23.2 The waiting room at Basildon Hospital has seating capacity for approximately  people, this is made up of 6 spaces in minors,  spaces in the \u2018amber' waiting area and  spaces in the \u2018red' waiting area.. There are vending machines, a TV screen with access to the News."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.23.3 Southend Hospital's main Amber waiting room has capacity for seats 20 patients with social distancing and an escalation area which would seat a further 25 with social distancing, which can be used for Red (likely Covid) patients if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.0,
+                "text": "7.23.4 Broomfield Hospital's waiting area can accommodate  patients with social distancing measures in place. It does not have a separate Covid/Non Covid waiting area. Patients are streamed to areas post triage. There are 3 vending machines, direct taxi telephone and a television displaying current news."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.24,
+                "text": "Patient Safety in the Waiting Room"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.24.1 The waiting room is covered by an internal CCTV system which is visible to Reception Staff as well as Nursing staff in both Majors and Minors."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.24.2 Following diagnostics all patients, are now logged onto the e-obs patient-track system. This allows a visual display of all patient's NEW score within the department. This includes a prompt for when next observations are due."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.24.3 The Streaming nurse operates from a room with an open door. In order to maintain privacy and dignity this door may be closed on occasion, but Reception Staff do have access to both Streaming and diagnostic teams for support, if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.24.4 There are escalation processes for expanding the capacity for streaming and triage at times of peak activity (see site specific Emergency Department Crowding policy)."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "7.24.5 Appendix  Site based Mental Health assessment tools"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.24.6 All patients entering into the Emergency Department are required to sanitise their hands and wear a face covering. Face masks are provided at the entrance. Any patients who are displaying symptoms for Covid 19, or who for any reason are suspected of Covid19 will immediately follow the \u2018Respiratory Admissions Winter Pathway Covid 19' pathway, regardless whether they are a heralded or unheralded patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "7.24.7 Appendix 3. Respiratory Admission Winter Pathway Covid"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.25,
+                "text": "Contingency"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.25.1  In the event of the EDDI system failing, patients will still be directed to the ED by NHS111, if appropriate. NHS111 clinicians will be able to ensure that the clinical information is transferred to the emergency departments by sending PEM messages to the dedicated email addresses at each of the 3 sites."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All reception staff are required to attend training to recognise red flag symptoms."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "ED reception staff will be required to undergo training on the EDDI system, provided by NHS digital."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Monitoring and Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "A new ED sitrep and dashboard is being created by NHS England and CCG's to reflect the new processes and pathway activity. Once completed and shared with Trusts, this monitoring and evaluation criteria will be added below."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "type": "table",
+            "sequence_num": 160,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "See point 9.2"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "All policies, procedures and guidelines will be approved by the ED Flow and Admissions avoidance Steering Group which is the specialist group with the authority to approve local SOP's relating to Flow and NHS111. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "It is the author's responsibility to inform the Emergency Department staff of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Initial assessment of Emergency Department patients, Royal College of Emergency Medicine February 2017"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "https://www.rcem.ac.uk/docs/SDDC%20Intial%20Assessment%20(Feb%202017).pdf"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.0,
+                "text": "Urgent Care Service Specification Addendum: NHS 111 First, A new way to manage access to Emergency Departments, Version 3.6, th June 2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "https://future.nhs.uk/NHS111covid/view?objectId=85012933"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Site based Red Flag posters"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Southend Hospital Red Flag poster"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "type": "image",
+            "sequence_num": 174,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.007.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon Hospital Red Flag poster"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "type": "image",
+            "sequence_num": 176,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.008.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broomfield Hospital Red Flag poster"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "type": "image",
+            "sequence_num": 178,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.009.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Site based Mental Health Pathways"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Southend Hospital Mental Health pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "type": "image",
+            "sequence_num": 181,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.011.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Basildon Hospital Mental Health pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "type": "image",
+            "sequence_num": 183,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.012.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 184,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.013.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Broomfield Hospital Mental Health Pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "type": "image",
+            "sequence_num": 186,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.014.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 187,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.015.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Respiratory Admissions Winter Pathway Covid-19"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "type": "image",
+            "sequence_num": 189,
+            "data": {
+                "url": "MSESOP-2013 MSE Streaming SOP 1.0.016.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Streaming Process in the Emergency Department / MSESOP-2013 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Streaming Process in the Emergency Department / MSESOP-2013 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Doc control admin to add Document title and number: (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "type": "table",
+            "sequence_num": 195,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2612 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2612 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 196,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "A change in the way patients are streamed once within the Emergency Department"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "Due to National guidance, we have to have a streaming pathway which can accommodate \u2018Heralded' and \u2018Unheralded' patients"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients who do not need to be seem within the Emergency Department can be effectively streamed to other services for help quickly. Reduced crowding will enable social distancing to be adhered to and the risk on nosocomical infections reduced for patients that remain within the department."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No. No patient will be turned away or refused help. All patients who are vulnerable, such as elderly, confused, victims of violence, non-English speaking, sight or hearing impaired, will be streamed and seen/treated within the emergency department."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "This pathway has been created in partnership with Clinical ED colleagues from each site across MSE, CCG, NHS England, NHS Improvement and NHS Digital."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "It is part of a National campaign which is being advertised using social media, television and radio by NHS England."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 197,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Chantel Davies"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "ADO Accident and Emergency and Acute Medicine - Basildon Hospital"
+                    },
+                    {
+                        "text": "06 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If you have identified any negative impact in the preliminary analysis above, please request and complete the full Equality Impact Assessment (EIA) from Document Control."
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        }
+    ]
+}

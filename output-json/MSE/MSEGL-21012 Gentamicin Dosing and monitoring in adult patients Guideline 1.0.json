@@ -1,0 +1,889 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21012"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "29/06/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "28/06/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group 28/05/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "29/06/2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Gentamicin Dosing and Monitoring in Adult Patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Intravenous Once Daily dosing & Multiple Dosing in Endocarditis)"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The aim of once daily high dose gentamicin is to achieve high peak concentrations to kill micro-organism whilst allowing a drug-free interval to avoid accumulation and toxicity. It is"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "as effective as multiple daily dosing, has a lower risk of nephrotoxicity, and no greater risk"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "of ototoxicity. Gentamicin, as with other aminoglycosides, also exhibits a post-antibiotic"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "effect; it continues to kill bacteria, even when the serum level is below the minimum"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "inhibitory concentration. Once daily administration results in prolongation of this effect. Gentamicin is bactericidal against many gram negative and some gram positive bacteria, Its"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "use must be reviewed at 48-72 hours in the light of microbiological results. It is rarely"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "necessary to continue therapy for longer than 5 days."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Avoid prolonged courses of gentamicin (>7days) as this is associated with increased risk of toxicity. Even in marked sepsis, most patients will only need ONE or TWO doses (48hours worth) of gentamicin, in addition to other appropriate antibiotics, pending microbiology results."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "These guidelines do not offer dose recommendations for the listed indications; discuss such circumstances with a consultant microbiologist or an antimicrobial pharmacist."
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Endocarditis"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cystic fibrosis"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Major Burns (>20%)"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Surgical prophylaxis"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with a history or signs of hearing loss or vestibular dysfunction. In severe visual impairment/blindness due to potential serious sequelea should ototoxicity occur."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with Myasthenia gravis (neuromuscular blockage can occur)."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hypersensitivity to aminoglycosides or any of the additives."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Use with caution in the elderly, impaired renal function and conditions that can pre- dispose the patient to ototoxicity, such as diabetes, otitis media and concurrent use of ototoxic drugs."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Avoid concurrent nephrotoxic and neurotoxic drugs."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "In acute kidney injury. Acute kidney injury is defined as one of the following within 48 hours: 50% or 26\u00b5mol/L increase in serum creatinine from a stable baseline in the normal"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "range and/or 6 hours oliguria (<0.5ml/kg/hour). If gentamicin is clinically indicated, administer a single dose as per guidance and discuss with a Consultant Microbiologist or a clinical Pharmacist."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Table 1: Dosing calculator"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dose is calculated using:"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CrCl= (140-age) x weight(kg)xF"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serum Cr"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "F=1.23 for males & 1.04 for females"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CBW(kg) = IBW+0.4(Actual weight-IBW)"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IBW(kg) = R+2.3kg for every inch over 5ft"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "R=50 for males and 45.5 for females"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Table 2: Initial Dosing"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "type": "table",
+            "sequence_num": 34,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Creatinine Clearance (ml/min)"
+                    },
+                    {
+                        "text": "Body Weight (KG) Use the recommendations in Table 1 for appropriate body weight calculations (IBW/CBW/ABW)"
+                    },
+                    {
+                        "text": "INITIAL DOSING REGIMEN"
+                    },
+                    {
+                        "text": "Doses rounded up to the nearest multiples of 20mg"
+                    },
+                    {
+                        "text": "40-49kg"
+                    },
+                    {
+                        "text": "50-59kg"
+                    },
+                    {
+                        "text": "60-69kg"
+                    },
+                    {
+                        "text": "70-80kg"
+                    },
+                    {
+                        "text": "Over 80kg"
+                    },
+                    {
+                        "text": ">30 5mg/kg dose banded"
+                    },
+                    {
+                        "text": "220"
+                    },
+                    {
+                        "text": "260"
+                    },
+                    {
+                        "text": "320"
+                    },
+                    {
+                        "text": "360"
+                    },
+                    {
+                        "text": "400"
+                    },
+                    {
+                        "text": ">10-30 3mg/kg dose banded"
+                    },
+                    {
+                        "text": "120"
+                    },
+                    {
+                        "text": "160"
+                    },
+                    {
+                        "text": "180"
+                    },
+                    {
+                        "text": "220"
+                    },
+                    {
+                        "text": "240"
+                    },
+                    {
+                        "text": "<10 HD CCV/VVHD 2mg/kg dose banded"
+                    },
+                    {
+                        "text": "80"
+                    },
+                    {
+                        "text": "100"
+                    },
+                    {
+                        "text": "120"
+                    },
+                    {
+                        "text": "140"
+                    },
+                    {
+                        "text": "160"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Once daily Intravenous dose of gentamicin should be prepared in 50-100ml 0.9% sodium chloride or 50-100ml 5% glucose, and infuse over 60mins."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Gentamicin should not be mixed with other drugs in syringes or infusions nor given simultaneously through the same line."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Flush intravenous line with sodium chloride 0.9% before and after gentamicin administration to ensure no interactions."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "The first pre-dose level should be done prior to the second gentamicin dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "To monitor the Pre-dose (trough) level, take a blood sample at 18- 24hours after the start of the gentamicin infusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Avoid taking blood specimen for levels through IV lines"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the trough level result is obtained, and within the acceptable range before a further dose is given."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Target level is less than (<) 1mg/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If the first trough level is within range and as long as the renal function is stable and dose does not change, pre-dose levels are required prior to alternate doses or twice"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "weekly."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Requesting Trough Levels"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In order to accurately interpret gentamicin level results:"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Indicate clearly on the request form the date and time of last dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The date and time the sample was taken"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The dosage regimen"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Table 3: Interpreting Trough level result"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "type": "table",
+            "sequence_num": 51,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Pre\u2013dose Level"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "<1mg/L"
+                    },
+                    {
+                        "text": "Give next dose as prescribed"
+                    },
+                    {
+                        "text": "\u22651mg/L"
+                    },
+                    {
+                        "text": "Verify the right dose was given. Verify level was checked at correct time. \uf0b7 If above verifications were positive, hold dose and repeat level. Do not re-dose unless level <1mg/L. Thereafter, continue at the next lower dose in Table 2, based on the patient's creatinine clearance. If verifications were negative, repeat level and continue dosing when level <1mg/L. Amend dose if wrong dose given initially, and monitor subsequent levels at the appropriate time. Discuss with a microbiologist or a clinical pharmacist if in doubt."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 52,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Pre\u2013dose Level"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "< 0.2mg/L"
+                    },
+                    {
+                        "text": "Negligible level Verify correct dose was administered Verify level was done within 18-24hrs post dose and NOT afterwards. \uf0b7 If verifications were positive, Increase to the next higher dose in Table 2 based on the patient's creatinine clearance"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Other factors to consider if the trough level is unexpectedly high or low:"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Were the dosing and trough sample times recorded accurately?"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Was the sample taken from the line used to administer gentamicin?"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Was the sample taken during administration?"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has renal function declined or improved?"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Does the patient have oedema or ascites?"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "If in doubt repeat trough level immediately and await the result before administering a further dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Table 4: Multiple daily dosing First Dose:"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Give 1mg/kg every 12 hours"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Calculate dose as recommended in Table1 above:"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Subsequent Dose:"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is based on the trough and peak levels results"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If advice is required for levels outside of the target range, discuss with a senior clinical pharmacist or a microbiologist prior to dose adjustment"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pre-dose (Trough) level should be less than 1mg/L \u2013 if higher, increase dosing interval to 24hourly, once daily."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "One hour post dose (Peak) level should be between 3-5mg/L \u2013 if higher than 5mg/L then the dose should be reduced to 0.5mg/kg/12hrly."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Administer via Intravenous infusion in 50ml, 5% glucose or 0.9% sodium chloride over 20- 30 minutes."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "This is can also be administered as a slow intravenous infusion over 3-5minutes"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.1,
+                "text": "Pre-dose (trough) levels should be taken within 1hour prior to the fourth dose and should be less than 1mg/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.2,
+                "text": "Peak levels should be taken 1 hour after IV administration of the fourth dose and should be between 3-5mg/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "Take a single venous sample (specimen container: Vacutainer SST 367954 Gold Top) and send to the pathology department."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Dosing should continue in endocarditis whilst awaiting the level result, provided the renal function is stable."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "After the fourth dose, as long as renal function is stable and the dose does not change, repeat pre-dose (Trough) levels every 3 days and Peak levels ONCE weekly."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.6,
+                "text": "Daily levels are required if dose changes or renal function is not stable."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.1,
+                "text": "Renal toxicity"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor creatinine daily-seek advice if renal function remains unstable."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor for signs of renal toxicity including increase in creatinine or decrease in urine output/oliguria. Consider an alternative agent if creatinine is rising or the patient becomes oliguric."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.2,
+                "text": "Ototoxicity"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ototoxicity secondary to gentamicin is independent of drug concentration. It is suggested by any of the following: new tinnitus, dizziness, poor balance, hearing loss or oscillating vision."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Toxicity is associated with prolonged aminoglycoside use (usually >10days but may be >72hrs) and is secondary to drug accumulation within the inner ear. Multiple courses of gentamicin are also a risk factor for ototoxicity. Auditory and vestibular function should be monitored during treatment."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Stop treatment if ototoxicity is suspected and refer to microbiology for advice and alternative therapy and refer for ENT assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Gentamicin Dosing and Monitoring in Adult Patients/ MSEGL-21012/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        }
+    ]
+}

@@ -1,0 +1,2192 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21040 Data Security and Protection Toolkit Audit Policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "DATA QUALITY AUDITS - DATA SECURITY AND PROTECTION TOOLKIT"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEPO-21040"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Data Quality Team"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "14 April 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "13 April 2024"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Guidance: Data Security and Protection Toolkit"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "17"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Informatics"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Caroline Holmes, Deputy Director of Clinical Coding, Data Quality and Health Records"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Information Governance Steering Group (Chair's Action)"
+                    },
+                    {
+                        "text": "15 March 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Caroline Holmes, Deputy Director of Clinical Coding, Data Quality and Health Records"
+                    },
+                    {
+                        "text": "24 February 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "23 March 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "April 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-21040 Data Security and Protection Toolkit Audit Policy 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Eileen Hatley"
+                    },
+                    {
+                        "text": "Data Quality Manager \u2013 Broomfield"
+                    },
+                    {
+                        "text": "02 March 2021"
+                    },
+                    {
+                        "text": "Lauren Bell"
+                    },
+                    {
+                        "text": "Data Quality Analyst \u2013 Southend and Basildon"
+                    },
+                    {
+                        "text": "24 February 2021"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance"
+                    },
+                    {
+                        "text": "25 February 2021"
+                    },
+                    {
+                        "text": "Ian Harrison"
+                    },
+                    {
+                        "text": "Associate Director of Healthcare Analytics"
+                    },
+                    {
+                        "text": "02 March 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Health records policies or equivalent MSEPO-20225 Access to healthcare records policy (temporary policy during Covid19 Pandemic) MSBPO-18001 Information governance and management policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/ Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Caroline Holmes"
+                    },
+                    {
+                        "text": "New MSE policy: Supersedes the following documents: Basildon Hospital: IMPC00009 Data Quality Policy (incorporating IMPC0007 Completeness validity and accuracy of data procedure); Broomfield Hospital: 07021 Data Quality Audit Policy; Southend Hospital: IS26 (T2) Data Quality Audit Procedure"
+                    },
+                    {
+                        "text": "14 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Introduction ..........................................................................................................................   Scope .....................................................................................................................................   Definitions .............................................................................................................................   Roles and responsibilities within the Trust .........................................................................   Accuracy checks ...................................................................................................................   Method ...................................................................................................................................   Sample sizes..........................................................................................................................   Accuracy scoring ..................................................................................................................   Exclusions .............................................................................................................................   Discretionary data items .....................................................................................................    Equality impact assessment ..............................................................................................    Training and audits .............................................................................................................    References ...........................................................................................................................  Appendix 1: Admitted patient care data fields ..........................................................................  Appendix 2: Critical care data fields ..........................................................................................  Appendix 3: Outpatient care data fields ....................................................................................  Appendix 4 \u2013 Elective admissions list data fields ....................................................................  Appendix 5 \u2013 Admitted patient care key data items .................................................................  Appendix 6 \u2013 Critical care key data items .................................................................................  Appendix 7 \u2013 Outpatient key data items....................................................................................  Appendix 8 \u2013 Elective admissions key data items....................................................................  Appendix 9: Preliminary equality analysis ................................................................................"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.1. NHS Digital requires all providers of health care ensure they hold good quality data, and have mandated trusts to ensure procedures and processes are in place to provide assurance to themselves, as well as external user information, that their data is of high quality. Failure to ensure data is of sufficiently high quality may result in avoidable clinical, financial and legal risks being incurred by the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.2. Reliable information is fundamental for the Trust to conduct its business efficiently and effectively. This applies in all areas of activity including the delivery of care to service users, service management, performance management, corporate governance, internal and external accountability. In addition it supports the business planning process and communication."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.3. Data quality is a significant issue both locally and nationally. Data quality is fundamental to the Long Term Plan which requires consistent, efficient and timely data to underpin the digitally enabled NHS."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.4. Good quality information underpins sound decision making at every high level within the NHS and contributes to the service and improvements within the healthcare."
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.5. Trusts should ensure all staff appreciate and take responsibility for the quality of the data, taking close care and provide accurate information within a timely manner, both on computer systems and paper records. The Trust has an ethical duty to its staff and patients to ensure that data recorded in all records is timely, accurate and fit for the purpose for which it is intended."
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.6. NHS Digital expects trusts to undertake a regular audit cycle for accuracy checks on service user data, and that results of the audit be reported as part of the organisation data quality reporting to nominate committees and trust boards."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2.1. This document records the process and procedure that the Trust's Data Quality, Healthcare Analytics and Health Records staff will perform. This will provide assurance that national data quality standards are being met and evidenced in the Data Security and Protection Toolkit (DSPT) requirement."
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "2.2. The policy is intended to cover the data items entered onto Medway or Lorenzo (the Trusts Patient Administration Systems) that are submitted to Secondary Uses Service (SUS) and cover 4 data sets:"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Admitted patient care;"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Critical care minimum data set;"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Elective admission list;"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Outpatient data."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "type": "table",
+            "sequence_num": 24,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Data"
+                    },
+                    {
+                        "text": "Collection of facts about people, objects and events, usually collected as the result of experience, observation or experiment, or processes within a computer system."
+                    },
+                    {
+                        "text": "Information"
+                    },
+                    {
+                        "text": "Collection of related data arranged in an order that provides meaning, demands action or requires decisions to be made."
+                    },
+                    {
+                        "text": "DSPT"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit \u2013 replaces the previous Information Governance Toolkit and is an online self- assessment tool that enables organisations to measure and publish their performance against the National Data Guardian's ten data security standards."
+                    },
+                    {
+                        "text": "Data Quality"
+                    },
+                    {
+                        "text": "The measure of \u2018adequacy' of a record. High quality data is; accurate, up to date, comprehensive, free from duplication, valid, available when needed (timely) and easily read and understood."
+                    },
+                    {
+                        "text": "PAS"
+                    },
+                    {
+                        "text": "Patient Administration System - the main electronic system used by the Trust for patient demographics and clinical coding. This system feeds into the individual departmental systems."
+                    },
+                    {
+                        "text": "SUS"
+                    },
+                    {
+                        "text": "Secondary Uses Service \u2013 provides anonymous patient based data for purposes other than direct clinical care, such as healthcare planning, audit and national policy development."
+                    },
+                    {
+                        "text": "FCE"
+                    },
+                    {
+                        "text": "Finished Consultant Episode \u2013 an inpatient or day case episode where a patient has completed a period of care under a Consultant/Consultant Nurse or Midwife, and is either transferred to another healthcare professional or discharged."
+                    },
+                    {
+                        "text": "CCG"
+                    },
+                    {
+                        "text": "Clinical Commissioning Group \u2013 groups of GP practices responsible for purchasing healthcare for their residents/local population."
+                    },
+                    {
+                        "text": "SCR"
+                    },
+                    {
+                        "text": "Summary Care Record \u2013 central electronic record containing patient demographic details and summary information about important elements of medical history, such as medications and allergies."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Head of Information Governance \u2013 is responsible for coordinating and monitoring compliance of the Data Security and Protection Toolkit for the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Chief Executive \u2013 The Chief Executive as the accounting officer is responsible for the quality of data held within the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Senior Information Risk Owner (SIRO) \u2013 It falls under the Senior Information Risk Owner to take responsibility for the information risks, including data quality. This entails supporting the delivery of government performance targets and raising the profile of data quality."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Deputy Director of Clinical Coding, Data Quality and Health Records - is responsible for reporting the conclusions of these audits to the Information Governance Steering Group and completing action plans necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Data Quality Team \u2013 are accountable for undertaking the audits including evaluating the findings within authorised documentation and reporting the finding to the department leads and the Deputy Director of Clinical Coding, Health Records and Data Quality."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Health Records Staff \u2013 are responsible for providing the Data Quality team with the requested notes to complete this audit within the requested time."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Healthcare Analytics Team \u2013 will extract the required audit samples detailed in this document, and supply these to the Data Quality Team in line with the required timetable."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "All Managers \u2013 are responsible for supporting the implementation of this procedure, including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Organising data quality improvements identified through audit result reports;"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enabling staff to attend any data quality training required to meet training needs discovered as a result of this audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.9,
+                "text": "All Staff \u2013 must support the implementation of this procedure, including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Taking care when entering information into patient health records or Medway/Lorenzo;"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Action any identified data quality amendments/process changes as requested by their line managers;"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Attending any data quality training identified as a result of this audit."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Accuracy checks"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "The accuracy checking process will use the patients' health record (electronic or paper based) as the prime source to validate of electronic data accuracy. This will be done by comparing the key data item from the health record with the same data item extracted from the download that the Trust sends to the Secondary Uses Service (SUS)."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "For fundamental demographic fields the Summary Care Record (SCR) will be used as an additional check. Where there are data items not recorded in the health record, other Trust sources such as electronic clinical systems will be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Access to individual records is justified for data quality checking as part of information quality assurance, as it is regarded as part of the clinical audit process."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Method"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The Healthcare Analytics team will extract the sample data (as shown in Appendix 1 to 4) from the data submitted to SUS and supply the information to the Data Quality Team in a database. The database will include the ability for the accuracy checking team to re-key the information for the required data items."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "The Data Quality department will use the sample data to compare to it to information held in the patients' health record. The use of the terms \u201chealth record\u201d can be taken to mean any other source of confirmation, including electronic (e.g. nursing notes on electronic systems or diagnostics / A&E systems) and manual (e.g. TCI cards)."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "If physical Health Records are required, the Data Quality Team will liaise with the Health Records staff to obtain the required records. All health records will be managed in line with trust policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.4. Any errors identified will be recorded in the comments field in the database and will be verified by a second accuracy checker. The second accuracy checker will be a member of the Trusts Data Quality Team who will amend data held on Medway/Lorenzo as necessary. Any amendments required to case notes for demographic data items will be referred to the appropriate site Health Records Medical Manager to action."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "On completion of all the checks for accuracy on all the case notes, the auditor will track and return the notes to the Health Record Library."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Once the minimum sample size has been audited the Data Quality Manager is responsible for analysing the results and producing an audit report."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.6,
+                "text": "The Deputy Director of Clinical Coding, Data Quality and Health Records will develop an action plan as necessary. This action plan and the audit report will be presented to the Information Governance Steering Group for consideration."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.7,
+                "text": "In conjunction with the site based Data Quality Teams, the Deputy Director of Clinical Coding, Data Quality and Health Records will review the completed audits and;"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report the results to appropriate managers and Trust Committees."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify any localised process weaknesses."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recommend process changes required to prevent future reoccurrences."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Sample sizes"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "The minimum sample size for the audit is outlined in the \u2018Information Governance Toolkit  Version   Secondary  Uses  Assurance  Requirement  14.1-506  Key  Data Items List' and varies depending on the data set being audited. This guidance is carried forward to the DSPT from the Information Governance Toolkit and remains the current guidance for the data quality audit cycle."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "For 2020/21 the sample size for each data item is:"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.1 Admitted Patient Care"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The sample size must be 0.5% of the Trust's total annual Finished Consultant Episodes (FCE) and should be taken from the total FCEs for the previous financial year."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.2 Critical Care"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The sample size must be 5% of a trusts total annual Critical Care minimum dataset. The sample size is taken from the total of Critical Care for the previous financial year."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.3 Outpatient Data"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The sample size must be 0.2% of the total annual number of outpatient attendances submitted to SUS, and is taken from the previous financial year."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.2.4 Elective Admission List"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The sample size must be 5% of the planned end of year waiting list census number from the financial year. For the 2020/21 audit the incomplete waiting list as at the end of April 2020 was used at the Broomfield site was not reporting waiting list information to NHS Digital in March 2020."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "type": "table",
+            "sequence_num": 67,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Dataset"
+                    },
+                    {
+                        "text": "2019/20 Activity"
+                    },
+                    {
+                        "text": "Sample Criteria"
+                    },
+                    {
+                        "text": "Minimum Sample Size"
+                    },
+                    {
+                        "text": "Admitted Patient Care"
+                    },
+                    {
+                        "text": "368,771"
+                    },
+                    {
+                        "text": "0.5%"
+                    },
+                    {
+                        "text": "1,844"
+                    },
+                    {
+                        "text": "Critical Care"
+                    },
+                    {
+                        "text": "5,070"
+                    },
+                    {
+                        "text": "5%"
+                    },
+                    {
+                        "text": "253"
+                    },
+                    {
+                        "text": "Outpatients"
+                    },
+                    {
+                        "text": "1,341,978"
+                    },
+                    {
+                        "text": "0.2%"
+                    },
+                    {
+                        "text": "2,648"
+                    },
+                    {
+                        "text": "Elective Admission List"
+                    },
+                    {
+                        "text": "14,956"
+                    },
+                    {
+                        "text": "5%"
+                    },
+                    {
+                        "text": "748"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Accuracy scoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "If the data item in the database is the same as the field in the case notes an accuracy score ofis recorded."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 0.0,
+                "text": "If the field on the Lorenzo is not exactly the same as the field in the case-notes, an accuracy score ofis recorded."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "The suggested data items to be audited are in the Key Data Items List (see Appendices 5 to 8). Where the data item is not recorded in the patient's case notes"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "or it is not easily accessible on an electronic system the whole data item has been excluded from the audit (see section 9)."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.4,
+                "text": "Some records contain data items relating to events that occurred several years ago e.g. referral request received date for an outpatient episode could be several years old with no date stamp on the letter. A judgement will be made as to whether the record be excluded from the accuracy scoring. In general, a 3 year rule of thumb will be used with caution when assessing a record's appropriateness for inclusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Exclusions"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The SUS submission includes a number of specialties that are recorded on Lorenzo/Medway for waiting time monitoring purposes only i.e. diagnostics and interventional radiology. These specialties are excluded from the audit process as the information for billing, clinical audits and recording clinical information is held on other electronic systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.2,
+                "text": "NHS Number Status Indicator"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is not recorded within the patient case notes, so has therefore this field is excluded from the accuracy checks. The Trust undertakes regular batch tracing on NHS Numbers to ensure validity and accuracy of this data item on the hospitals PAS Systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.3,
+                "text": "Referrer Code"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Validating this data field is extremely time consuming as the referring GP is frequently not the GP the patient is registered with (i.e. locum or other member of the practice). The time spent validating this information is not in line with the need for the data item to be accurate."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.4,
+                "text": "Primary and Secondary Diagnosis"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Coding information is audited regularly by both internal and external organisation. Therefore these fields are excluded for the Data Quality audit."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.5,
+                "text": "Primary and Secondary Procedures"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Coding information is audited regularly by both internal and external organisation. Therefore these fields are excluded for the Data Quality audit."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.6,
+                "text": "Healthcare Resource Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is not recorded within patient case notes so has therefore this field is excluded from the accuracy checks."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.7,
+                "text": "Operation Status"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is not recorded within patient case notes so has therefore this field is excluded from the accuracy checks."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.8,
+                "text": "Intended Procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Coding information is audited regular by both internal and external organisations. Therefore these fields are excluded from the Data Quality audit."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.9,
+                "text": "Admission Offer Outcome"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is not recorded within the patient case notes so has therefore this field is excluded from the accuracy check."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Discretionary data items"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "The Trust will adopt the principle that the audit process is focussed on major discrepancies and errors. It is not concerned with minor differences of interpretation. For instance, if a check of the health record reveals that a service user was admitted as an emergency, then recording of an elective code in the data would definitely be inaccurate. If however, it is unclear in the notes as to the exact method of emergency admission (such as between GP and Bed Bureau), then the assessor may exercise some limited discretion."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Where the data item is not specifically recorded in the health record the accuracy checker has the option of using judgement. For example, some records, particularly for outpatients, may contain data items appertaining to events that occurred several years ago, such as Referral Request Received Date for an Outpatient Referral that could be several years old, with no date stamp on the referral letter. In each such case the checker will need to exercise judgement as to whether the record should be excluded from the audit and an alternative random record be selected."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals (refer to Appendix 9)."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Training and audits"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "The staff undertaking the audits are trained by experienced Data Quality staff prior to commencing the reviews. Any potential errors that arise during the audit are verified by a second member of the Data Quality Team. Given that this policy relates to an audit process there is no requirement for a policy audit to take place."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Audit Committee Terms of Reference"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Digital, Data Security and Protection Toolkit, (DSPT Toolkit) NHS Digital, Information Governance Toolkit Requirement 14.1 \u2013 506 (www.dsptoolkit.nhs.uk/help/11)"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Long Term Plan, https://www.longtermplan.nhs.uk/"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Risk Management Standards 2013-14, NHS Litigation Authority, March 2013, (NHSLA Standards 2013-14)"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Essential Standards of Quality and Safety, Care Quality Commission, March 2010, (CQC Essential Standards of Quality & Safety)"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Protection Act (2018), https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Admitted patient care data fields"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "type": "table",
+            "sequence_num": 107,
+            "data": {
+                "num_rows": 23,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Organisation Code"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "Ethnic Category"
+                    },
+                    {
+                        "text": "Code of Registered GP/Practice"
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Administrative Category (on admission)"
+                    },
+                    {
+                        "text": "Patient Classification"
+                    },
+                    {
+                        "text": "Start Date (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Admission Method (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Source of Admission (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Discharge Destination (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Discharge Method (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Discharge Date (hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Last Episode in Spell Indicator"
+                    },
+                    {
+                        "text": "Start Date (Episode)"
+                    },
+                    {
+                        "text": "End Date (Episode)"
+                    },
+                    {
+                        "text": "Decided to Admit Date"
+                    },
+                    {
+                        "text": "Intended Management"
+                    },
+                    {
+                        "text": "Consultant Code"
+                    },
+                    {
+                        "text": "Treatment Function Code"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Critical care data fields"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "type": "table",
+            "sequence_num": 109,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Organisational Code"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "Code of Registered GP/Practice"
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Augmented Care Period Number"
+                    },
+                    {
+                        "text": "Start Date (Augmented Care Period)"
+                    },
+                    {
+                        "text": "End Date (Augmented Care Period)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Outpatient care data fields"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "type": "table",
+            "sequence_num": 111,
+            "data": {
+                "num_rows": 17,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Organisational Code"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "Code of Registered GP/Practice"
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Administrative Category"
+                    },
+                    {
+                        "text": "Source of Referral for Outpatients"
+                    },
+                    {
+                        "text": "Referral Request Received Date"
+                    },
+                    {
+                        "text": "Attended or Did Not Attend"
+                    },
+                    {
+                        "text": "First Attendance"
+                    },
+                    {
+                        "text": "Outcome of Attendance"
+                    },
+                    {
+                        "text": "Attendance Date"
+                    },
+                    {
+                        "text": "Priority Type"
+                    },
+                    {
+                        "text": "Consultant Code"
+                    },
+                    {
+                        "text": "Treatment Function Code"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4 \u2013 Elective admissions list data fields"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "type": "table",
+            "sequence_num": 113,
+            "data": {
+                "num_rows": 20,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Organisation Code"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "NHS Number Status Indicator"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "PCT of Residence"
+                    },
+                    {
+                        "text": "Code of Registered GP/Practice"
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Administrative Category"
+                    },
+                    {
+                        "text": "Elective Admission Type"
+                    },
+                    {
+                        "text": "Priority Type (new patients)"
+                    },
+                    {
+                        "text": "Decided to admit date (for this provider)"
+                    },
+                    {
+                        "text": "Original Decided to admit date"
+                    },
+                    {
+                        "text": "Intended management"
+                    },
+                    {
+                        "text": "Last DNA or Patient Cancelled Date"
+                    },
+                    {
+                        "text": "Offered for Admission Date"
+                    },
+                    {
+                        "text": "Admission Offer Outcome"
+                    },
+                    {
+                        "text": "Consultant Code"
+                    },
+                    {
+                        "text": "Treatment Function Code"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5 \u2013 Admitted patient care key data items"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "type": "table",
+            "sequence_num": 115,
+            "data": {
+                "num_rows": 23,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Key Data Item - APC"
+                    },
+                    {
+                        "text": "Why it is a Key Data Item for Information Quality Assurance\u2026"
+                    },
+                    {
+                        "text": "Organisational Code"
+                    },
+                    {
+                        "text": "Identifies the organisation treating the patient, including where a provider is carrying out activity on behalf of another provider which is contracted for that activity"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "This is a number used to identify a patient uniquely within a Health Care Provider. Although it self not tested directly, it is used to enable linking of records and to facilitate accuracy checking, (where NHS No. may not be available)."
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "If incorrect, activity may be assigned to the wrong health record"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "If the Postcode of Usual Address is incorrect or missing, this may mean that important clinical letters may be delayed or misdirected. It will also affect epidemiology and allocation of resources."
+                    },
+                    {
+                        "text": "Code of GP Practice (Registered GMP)"
+                    },
+                    {
+                        "text": "Ensures that communication is sent to the correct GP Practice."
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Used in calculating age-related indicators. Also used in the tracing and verification of NHS Number."
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Used for epidemiology, and also used in the tracing and verification of NHS Number"
+                    },
+                    {
+                        "text": "Administrative Category (on admission)"
+                    },
+                    {
+                        "text": "Affects the derivation of Category of Patient on SUS."
+                    },
+                    {
+                        "text": "Patient Classification"
+                    },
+                    {
+                        "text": "Important for identifying types of admission and the hospital provider spell."
+                    },
+                    {
+                        "text": "Start Date (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "A key date for the calculation of waiting times (checked for all episodes in spell)"
+                    },
+                    {
+                        "text": "Admission Method (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Affects resource planning and the correct allocation of episode to the commissioner (checked for all episodes in spell)"
+                    },
+                    {
+                        "text": "Source of Admission (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Needed for service and healthcare planning (checked for all episodes in spell)"
+                    },
+                    {
+                        "text": "Discharge Destination (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Needed for service and healthcare planning and for liaison with other care organisations."
+                    },
+                    {
+                        "text": "Discharge Method (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Provides an indication of the outcome of care and is used for epidemiology"
+                    },
+                    {
+                        "text": "Discharge Date (Hospital Provider Spell)"
+                    },
+                    {
+                        "text": "Important for the calculation of hospital spell and for delayed discharges"
+                    },
+                    {
+                        "text": "Last episode in spell indicator"
+                    },
+                    {
+                        "text": "Important for the calculation and analysis of readmissions"
+                    },
+                    {
+                        "text": "Start Date (Episode)"
+                    },
+                    {
+                        "text": "Used to determine the length of an episode"
+                    },
+                    {
+                        "text": "End Date (Episode)"
+                    },
+                    {
+                        "text": "Used to determine the length of an episode"
+                    },
+                    {
+                        "text": "Decided to admit date"
+                    },
+                    {
+                        "text": "Used in calculation of waiting times (elective patients only)"
+                    },
+                    {
+                        "text": "Intended management"
+                    },
+                    {
+                        "text": "Can be compared with Patient Classification to determine whether the Intended Management was carried through (elective patients only)"
+                    },
+                    {
+                        "text": "Consultant Code"
+                    },
+                    {
+                        "text": "To be used for consultant specific analysis from SUS"
+                    },
+                    {
+                        "text": "Treatment Function Code"
+                    },
+                    {
+                        "text": "Affects clinical audit data and assignment of the patient to a healthcare agreement"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6 \u2013 Critical care key data items"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "type": "table",
+            "sequence_num": 117,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Key Data Item - APC"
+                    },
+                    {
+                        "text": "Why it is a Key Data Item for Information Quality Assurance\u2026"
+                    },
+                    {
+                        "text": "Organisational Code"
+                    },
+                    {
+                        "text": "Identifies the organisation treating the patient, including where a provider is carrying out activity on behalf of another provider which is contracted for that activity"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "This is a number used to identify a patient uniquely within a Health Care Provider. Although it self not tested directly, it is used to enable linking of records and to facilitate accuracy checking, (where NHS No. may not be available)."
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "If incorrect, activity may be assigned to the wrong health record"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "If the Postcode of Usual Address is incorrect or missing, this may mean that important clinical letters may be delayed or misdirected. It will also affect epidemiology and allocation of resources."
+                    },
+                    {
+                        "text": "Code of GP Practice (Registered GMP)"
+                    },
+                    {
+                        "text": "Ensures that communication is sent to the correct GP Practice."
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Used in calculating age-related indicators. Also used in the tracing and verification of NHS Number."
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Used for epidemiology, and also used in the tracing and verification of NHS Number"
+                    },
+                    {
+                        "text": "Critical Care Local Identifier"
+                    },
+                    {
+                        "text": "This is a unique local activity identifier used to identify the start of care activity within a critical care period"
+                    },
+                    {
+                        "text": "Critical Care Start Date"
+                    },
+                    {
+                        "text": "Will allow analysis of no. of bed days in critical care per patient"
+                    },
+                    {
+                        "text": "Critical Care Discharge Date"
+                    },
+                    {
+                        "text": "As above."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7 \u2013 Outpatient key data items"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "type": "table",
+            "sequence_num": 119,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Key Data Item - Outpatients"
+                    },
+                    {
+                        "text": "Why it is a Key Data Item for Information Quality Assurance\u2026"
+                    },
+                    {
+                        "text": "Organisational Code (local patient identifier)"
+                    },
+                    {
+                        "text": "Identifies the organisation treating the patient, including where a provider is carrying out activity on behalf of another provider which is contracted for that activity"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "This is a number used to identify a patient uniquely within a Health Care Provider. Although itself not tested directly, it is used to enable linking of records and to facilitate accuracy checking, (where NHS No. may not be available)."
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "If incorrect, activity may be assigned to the wrong health record"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "If the Postcode of Usual Address is incorrect or missing, this may mean that important clinical letters may be delayed or misdirected. It will also affect epidemiology and allocation of resources."
+                    },
+                    {
+                        "text": "Code of GP Practice (Registered GMP)"
+                    },
+                    {
+                        "text": "Ensures that communication is sent to the correct GP Practice."
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Used in calculating age-related indicators. Also used in the tracing and verification of NHS Number."
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Used for epidemiology, and also used in the tracing and verification of NHS Number"
+                    },
+                    {
+                        "text": "Administrative Category"
+                    },
+                    {
+                        "text": "Important for determining patients using private facilities of service"
+                    },
+                    {
+                        "text": "Source of Referral For Outpatients"
+                    },
+                    {
+                        "text": "Used to identify routes of referral to Outpatient services (e.g. from GP, other consultant, self referral etc.)"
+                    },
+                    {
+                        "text": "Referral Request Received Date"
+                    },
+                    {
+                        "text": "Important for calculating the waiting time for a first outpatient appointment"
+                    },
+                    {
+                        "text": "Attended or Did Not Attend"
+                    },
+                    {
+                        "text": "Used to identify DNA rates in order to take steps to reduce non-attendees"
+                    },
+                    {
+                        "text": "First Attendance"
+                    },
+                    {
+                        "text": "Required to understand new to follow-up ratios and affects resource allocation."
+                    },
+                    {
+                        "text": "Outcome of Attendance"
+                    },
+                    {
+                        "text": "Ensures that each outpatient episode is concluded. Used in modelling healthcare provision."
+                    },
+                    {
+                        "text": "Appointment Date"
+                    },
+                    {
+                        "text": "Referral Request Received Date, Attendance Date and last DNA or Patient Cancelled Date is used to derive OP waiting times."
+                    },
+                    {
+                        "text": "Priority Type"
+                    },
+                    {
+                        "text": "This is the priority of a request for services, indicating whether or not the request is clinically urgent or falls under the criteria for two weeks wait GP referrals for suspected cancer"
+                    },
+                    {
+                        "text": "Consultant Code"
+                    },
+                    {
+                        "text": "Used for Clinical Audit and resource allocation."
+                    },
+                    {
+                        "text": "Treatment Function Code"
+                    },
+                    {
+                        "text": "Affects Epidemiology and clinical audit."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 8 \u2013 Elective admissions key data items"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "type": "table",
+            "sequence_num": 121,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Key Data Item \u2013 Elective Admission List"
+                    },
+                    {
+                        "text": "Why it is a Key Data Item for Information Quality Assurance\u2026"
+                    },
+                    {
+                        "text": "Organisational Code (local patient identifier)"
+                    },
+                    {
+                        "text": "Identifies the organisation treating the patient, including where a provider is carrying out activity on behalf of another provider which is contracted for that activity"
+                    },
+                    {
+                        "text": "Local Patient Identifier"
+                    },
+                    {
+                        "text": "This is a number used to identify a patient uniquely within a Health Care Provider. Although it self not tested directly, it is used to enable linking of records and to facilitate accuracy checking, (where NHS No. may not be available)."
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": "If incorrect, activity may be assigned to the wrong health record"
+                    },
+                    {
+                        "text": "Postcode of Usual Address"
+                    },
+                    {
+                        "text": "If the Postcode of Usual Address is incorrect or missing, this may mean that important clinical letters may be delayed or misdirected. It will also affect epidemiology and allocation of resources."
+                    },
+                    {
+                        "text": "Code of GP Practice (Registered GMP)"
+                    },
+                    {
+                        "text": "Ensures that communication is sent to the correct GP Practice."
+                    },
+                    {
+                        "text": "Birth Date"
+                    },
+                    {
+                        "text": "Used in calculating age-related indicators. Also used in the tracing and verification of NHS Number."
+                    },
+                    {
+                        "text": "Sex"
+                    },
+                    {
+                        "text": "Used for epidemiology, and also used in the tracing and verification of NHS Number"
+                    },
+                    {
+                        "text": "Administrative Category"
+                    },
+                    {
+                        "text": "Affects the derivation of Category of Patient on SUS for admitted patients."
+                    },
+                    {
+                        "text": "Elective Admission Type"
+                    },
+                    {
+                        "text": "Classification of an elective waiting list entry, indicating whether or not a patient admitted from an elective waiting list was given a date, or approximate date of admission, when the decision to admit was made. Reporting requirements vary for different elective admission list classifications."
+                    },
+                    {
+                        "text": "Priority Type (new patients)"
+                    },
+                    {
+                        "text": "This is a priority of a request for services, indicating whether or not the request is clinically urgent or falls under the criteria for two week wait GP referrals for suspected cancer"
+                    },
+                    {
+                        "text": "Decided to admit date (for this provider)"
+                    },
+                    {
+                        "text": "Used in calculation of waiting times for elective patients"
+                    },
+                    {
+                        "text": "Original Decided to admit date"
+                    },
+                    {
+                        "text": "Used in calculation of waiting times for elective patients; important for reporting 18 week waiting times"
+                    },
+                    {
+                        "text": "Intended management"
+                    },
+                    {
+                        "text": "Can be compared with Patient Classification to determine whether the Intended Management was carried through"
+                    },
+                    {
+                        "text": "Last DNA or Patient Cancelled Date"
+                    },
+                    {
+                        "text": "Important for the waiting time history for a patient"
+                    },
+                    {
+                        "text": "Offered for Admission Date"
+                    },
+                    {
+                        "text": "Can be used to monitor good practice for admission offers to patients"
+                    },
+                    {
+                        "text": "Consultant Code"
+                    },
+                    {
+                        "text": "To be used for consultant specific analysis from SUS"
+                    },
+                    {
+                        "text": "Treatment Function Code"
+                    },
+                    {
+                        "text": "Affects clinical audit data and assignment of the patient to a healthcare agreement"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data quality audits - data security and protection toolkit / MSEPO-21040/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data quality audits - data security and protection toolkit / MSEPO-21040/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 9: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Data quality audits - data security and protection toolkit"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "type": "table",
+            "sequence_num": 127,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 128,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Single policy following merger"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "Single policy following merger"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients, clinicians and Data Quality Team"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No \u2013 process now easier and consistent for all hospital sites and ensures consistency in approach"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "See list on Pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 129,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Caroline Holmes"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Caroline Holmes, Deputy Director of Clinical Coding, Data Quality and Health Records"
+                    },
+                    {
+                        "text": "24 February 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        }
+    ]
+}

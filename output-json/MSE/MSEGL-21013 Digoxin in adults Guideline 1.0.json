@@ -1,0 +1,735 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21013"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "29/06/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "28/06/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group 28/05/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "29/06/2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Digoxin in adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Digoxin use is indicated for supraventricular arrhythmias, particularly atrial fibrillation and flutter to reduce ventricular rate and for chronic cardiac failure or cardiac failure associated with atrial fibrillation. It is also indicated when emergency parenteral digitalization is required in patients who have not been given cardiac glycosides within the preceding two weeks. 1-3, 5-6."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Digoxin is available in 62.5 microgram tablets, 125 microgram tablets, 250 microgram tablets, 50 microgram/ml elixir and 500 microgram/2ml ampoules.2,4,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "pH of injection: 6.7-7.31,4"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.1,
+                "text": "Oral Loading Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.1.1 This regimen is for patients who require a rapid loading dose, and have not been given cardiac glycosides within the preceding two weeks. Two doses can be given: the first dose of 500 micrograms and the second dose of 500micrograms 6 hours later after assessment of clinical response.2,3,5,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Total oral loading dose in micrograms"
+                    },
+                    {
+                        "text": "First dose"
+                    },
+                    {
+                        "text": "Second dose"
+                    },
+                    {
+                        "text": "500"
+                    },
+                    {
+                        "text": "500"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "3.1.2 In some situations higher loading doses may be considered, although the maximum dose of 1.5mg over 24 hours should not be exceeded. Loading doses are generally not required for patients with heart failure."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.2,
+                "text": "Intravenous Loading Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "3.2.1 IV loading dose is indicated for patients needing rapid parenteral digitalization, who have not been given cardiac glycosides within the preceding two weeks. The dose must be tailored individually according to age, ideal body weight and renal function. Suggested doses are intended only as an initial guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.2.2 Each dose should be administered by slow intravenous infusion via volumetric infusion pump or syringe pump with 50ml to 100ml of glucose 5% or sodium chloride 0.9% over two hours1,2,4,6 ."
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.2.3 Usual practice is to administer first 500micrograms dose and assess the patient for clinical response. If necessary, second 500micrograms dose can be administered 6 hours later."
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "type": "table",
+            "sequence_num": 15,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Total intravenous loading dose in micrograms"
+                    },
+                    {
+                        "text": "First dose"
+                    },
+                    {
+                        "text": "Second dose"
+                    },
+                    {
+                        "text": "500"
+                    },
+                    {
+                        "text": "500"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.3,
+                "text": "Intravenous loading dose in emergency situation1,4"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "3.3.1 In emergency situations each 1ml (250 microgram) of Digoxin injection should be diluted with at least 4ml of diluent and administered over 10-20 minutes, e.g. 2ml of Digoxin should be administered with at least 8ml of sodium chloride 0.9% or glucose 5% over 10-20 minutes."
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "3.3.2 Flush with sodium chloride 0.9% or glucose 5%."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.4,
+                "text": "Oral Maintenance Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "3.4.1 Usual dose range: In practice, most patients will be maintained on 125microgram to 250microgram digoxin daily.1,2,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.4.2 Reduce dose in elderly, cardiac and renal impairment.1,2,3,5 In patients with severe renal failure (GFR less than 10ml/min), reduce maintenance dose to 62.5microgram daily or on"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "alternate days, and consider monitoring levels.1,2,3,5"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.5,
+                "text": "Differences in bioavailability"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.5.1 Please note the bioavailability of oral digoxin and intravenous forms are not equivalent."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.5.2 If patients are switched from the oral to IV formulation of digoxin the dose should be reduced by approximately one third (rounded up as stated in the table below)1,2,4,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.5.3 When switching between formulations doses should be adjusted as stated in the table below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "type": "table",
+            "sequence_num": 27,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Approximate Equivalent Doses"
+                    },
+                    {
+                        "text": "Tablets and solution"
+                    },
+                    {
+                        "text": "Injection"
+                    },
+                    {
+                        "text": "62.5 microgram"
+                    },
+                    {
+                        "text": "40 microgram"
+                    },
+                    {
+                        "text": "125 microgram"
+                    },
+                    {
+                        "text": "80 microgram"
+                    },
+                    {
+                        "text": "187.5 microgram"
+                    },
+                    {
+                        "text": "120 microgram"
+                    },
+                    {
+                        "text": "250 miccrogram"
+                    },
+                    {
+                        "text": "160 microgram"
+                    },
+                    {
+                        "text": "375 microgram"
+                    },
+                    {
+                        "text": "240 microgram"
+                    },
+                    {
+                        "text": "500 microgram"
+                    },
+                    {
+                        "text": "320 microgram"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Compatibility is dependent on the concentrations of each drug solution meeting at the Y- site. Medicines should ideally be infused separately. Further information may be obtained from Injectable Medicines Guide, ward pharmacist or on call pharmacist out of hours."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Monitor heart rate."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Continuous ECG is recommended in patients receiving digoxin intravenously, or when it is given orally for prolonged period or in severe heart/renal disease.1,4"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Serum digoxin concentration: blood sample should be taken at least 6 hours after the last administered dose. Serum level may range from 0.8 to 2.0 microgram/L.1-3,5 Serum digoxin"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "concentration greater than 2microgram/L is commonly associated with digoxin toxicity.1-3  Monitoring of plasma-digoxin concentration is useful in individualising therapy during the early stages of treatment, for detecting poor patient compliance, for diagnosing toxicity and should be undertaken in patients with renal impairment.3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Monitor blood pressure with IV administration(rapid administration may cause hypertension).2,4"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "Monitor thyroid function, serum potassium, magnesium and calcium (hypokalaemia, hypomagnesaemia, hypercalcaemia may be associated with digoxin toxicity) before giving first loading dose and periodically afterwards 1,3,4,7"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "Monitor renal function (decrease dose in renal insufficiency) before giving first loading dose and periodically afterwards 1,4"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Amiodarone may decrease renal and non-renal clearance of digoxin, prolong its half-life and increase digoxin absorption. If Amiodarone is used concurrently with digoxin, the digoxin dose should be reduced by one-third to a half.1,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Medication causing hypokalaemia may increase sensitivity to digoxin. These include lithium salts, corticosteroids and loop, thiazide and thiazide-like diuretics. Caution should be taken in co-administration, and electrolytes and renal function should be monitored closely.2,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Calcium (especially rapid IV) may increase the effects of digoxin and cause serious arrhythmias in digitalised patients. Manufacturers advises to avoid IV calcium in combination with digoxin.2,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "Drugs affecting renal function such as ACE inhibitors, ARBs and NSAIDs may lead to renal impairment, affecting digoxin elimination and risking digoxin toxicity.2,3"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "Beta-blockers may increase the risk of bradycardia when used in combination with digoxin.2,3"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.6,
+                "text": "Other drugs which may increase the effects of digoxin include; flecainide, quinidine, macrolide antibiotics (e.g. erythromycin, clarithromycin), tetracyclines, gentamicin, trimethoprim, atorvastatin, ciclosporin, ritonavir or ritonavir-containing regimens, dronedarone, ranolazine and ticagrelor. Extra caution should be taken in co-administration with these medication, and serum digoxin levels should be monitored and used when titrating digoxin.2,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "List not exhaustive. For further details of drug interactions, please consult the BNF, the Injectable Drugs Guide, or contact the ward pharmacist (or on-call pharmacist if out-of- hours)."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hypersensitivity reaction;2,3"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Arrhythmias caused by cardiac glycoside intoxication; 2,3"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hypertrophic obstructive cardiomyopathy, unless there is concomitant atrial fibrillation and heart failure (use with caution).2,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supraventricular arrhythmias e.g. Wolff-Parkinson \u2013White syndrome (clinical decision)"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ventricular tachycardia or ventricular fibrillation. 2,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Intermittent complete heart block or second degree atrioventricular block, especially in patients with history of Stokes-Adams attacks. 2,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Side-effects are frequently due to the narrow margin between therapeutic and toxic doses and usually occur when the plasma level concentration exceeds 2microgram per litre."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "The examples are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hypersensitivity reaction e.g. rash2,3"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Visual disturbances such as blurred vision, yellow vision, photophobia3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiac disorders such as ventricular premature contraction, supraventricular or ventricular arrhythmias including sinus bradycardia, sinoatrial block and atrioventricular block3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Anorexia, nausea, vomiting, abdominal pain, diarrhoea, dizziness and oesinophillia,3,6"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "List not exhaustive"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "Toxicity occurs more frequently when serum digoxin concentrations exceed 2microgram/L, and typically presents as an extension of its side-effect profile, but more frequent and severe.2,3 For more information on treatment of digoxin toxicity, please consult ToxBase, or contact the ward pharmacist (or on-call pharmacist if out-of-hours)."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.4,
+                "text": "Factors affecting increasing digoxin sensitivity:"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Hypercalcaemia"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Hypokalaemia"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Hypomagnesaemia"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Hypoxia"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Advanced age"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Hypothyroidism"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Deteriorating renal function"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the presence of these factors the plasma-digoxin level may be within normal range, but due to"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "increased sensitivity the patient may exhibit signs of toxicity."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Digoxin in adults/ MSEGL-21013 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        }
+    ]
+}

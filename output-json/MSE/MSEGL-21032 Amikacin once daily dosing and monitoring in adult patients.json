@@ -1,0 +1,819 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21032"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "23/11/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "22/11/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group Chair action: A.Kabir"
+                    },
+                    {
+                        "text": "08/11/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "23/11/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Titi Odewumi; Principal Pharmacist Antimicrobials"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Amikacin once daily dosing and monitoring in adult patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Amikacin is indicated for short term treatment of serious or resistant infection. It is most commonly used for susceptible strains of gram-negative bacteria that are resistant to gentamicin, but can also be used for known or suspected staphylococcal infection. Amikacin exhibits a concentration dependent bactericidal activity, and a post\u2013antibacterial effect, hence the administration of ONCE daily dosing maximises the bactericidal effect, whilst the post-antibacterial effect prevents re-growth of bacteria."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Renal function must be assessed prior to, and daily during therapy. Dosing should be adjusted according to creatinine clearance. Amikacin is highly concentrated in the urine, hence patients should be well hydrated prior to and during therapy to minimise chemical irritation to the renal tubules. Amikacin affects auditory to a lesser degree than gentamicin."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Elderly patients may have reduced renal function which may not be evident with their serum creatinine. A creatinine clearance (CrCl) monitoring will be more useful in these patients. However CrCl may overestimate their renal function, consider 20% reduction of calculated CrCl in patients > 80years of age."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Exclusion Criteria"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.1,
+                "text": "Once daily is NOT appropriate in:"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pregnancy"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Endocarditis"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Burns > 20% of total body surface area"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Meningitis"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Creatinine clearance < 20ml/min"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Febrile neutropenia."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.2,
+                "text": "Only multiple dosing regimens are recommended for the above listed indications."
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Contra-Indications"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Patients with a history or signs of hearing loss or vestibular dysfunction."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "In severe visual impairment/blindness due to potential serioussequelae should ototoxicity occur."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Patients with Myasthenia gravis (neuromuscular blockage can occur)."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "Hypersensitivity to aminoglycosides or any of the additives."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Caution"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Use with caution in the elderly, impaired renal function and conditions that can pre- dispose the patient to ototoxicity, such as diabetes, otitis media and concurrent use of ototoxic drugs."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Avoid concurrent nephrotoxic and neurotoxic drugs."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Amikacin body weight calculations and dosing"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Table 1: Amikacin dosing and renal function calculations.  Starting dose:"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If creatinine clearance \u2265 50ml/min:"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "15mg/kg/day (Max dose 1.5grams/daily; Max cumulative dose per course of treatment 15grams;"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Keep to Max: 1gram/day if using as a \u03b2-lactam booster)."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dose is calculated using:"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Renal function calculations using Cockcroft and Gault equation:"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CrCl= (140-age) x weight(kg)xF"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serum Cr"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "F=1.23 for males & 1.04 for females"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CBW(kg) = IBW+0.4(Actual weight-IBW)"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IBW(kg) = R+2.3kg for every inch over 5ft"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "R=50 for males and 45.5 for females"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Cockcroft and Gault equation is not appropriate in the following conditions:"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Muscle wasting (patient's CrCl will be overestimated)"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oedematous patients (use IBW)"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ascites (use IBW)"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "AKI (this may represent a non-steady state serum creatinine(Scr) levels, thereby underestimating the"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "level of renal impairment) monitor urine output and rising Scr"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the elderly, CrCl may overestimate their renal function, consider 20% reduction of calculated CrCl in patients > 80years of age."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Administration of once daily infusion"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The daily dose should be given over 60mins in 100ml sodium chloride 0.9% or"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "glucose 5%. Amikacin should not be physically premixed with other drugs, but"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "should be administered separately according to the recommended dose and route. Flush line well before and after dose is administered."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring Levels \u2013 ONCE DAILY REGIMEN"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "The first pre-dose level should be done prior to the second dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Assays are performed between 0800-2000hrs, 7 days a week. Please ensure samples reach the laboratory in good time."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Take a pre-dose level at 18-24hours post previous dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Aim for a pre-dose (trough) level of <5mg/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.5,
+                "text": "If urgently required, Amikacin levels can be obtained through a call to the biochemistry laboratory after 4hrs of submitting a request."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.6,
+                "text": "Ensure the timings of the last dose and blood specimen are both indicated on the request form. The timing of blood specimen should also be marked on the sample bottle."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.7,
+                "text": "Once the blood specimen has been sent for a trough level, withhold further dosing; ensure the level result is obtained, and within the acceptable range before any further dose is administered."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Once the level results are back, follow the recommendations on Table"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.9,
+                "text": "Monitor renal function 2-3 times weekly, and urine output daily whilst patient is on Amikacin, especially if treatment duration is > 5days."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Risk of ototoxicity increases when duration is beyond 5 days."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.11,
+                "text": "Table 2 Amikacin levels"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "type": "table",
+            "sequence_num": 61,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Interpreting Amikacin Trough Levels."
+                    },
+                    {
+                        "text": "Trough Level in ONCE Daily dosing regimen"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "\u2264 5mg/L"
+                    },
+                    {
+                        "text": "Continue current regimen, and monitor trough every 3 or 4days, provided: Patient is responding clinically to treatment Renal function is stable Treatment is still required."
+                    },
+                    {
+                        "text": "\u02c3 5mg/L"
+                    },
+                    {
+                        "text": "Ensure the assay was taken at \u2265 18hrs post dose. If less than 18hours post dose, then it is not true trough. If the assay was done appropriately at the right time, then: Omit the next dose, and do a random assay after 10- 15hours of the previous assay Once the level is \u2264 5mg/L, and further dosing is clinically indicated, reduce the regimen by 2.5mg/kg/day and continue dosing"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Dosing and monitoring in renal impairment when creatinine"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "clearance <50ml/min"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Table 3 Dose in renal impairment"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "type": "table",
+            "sequence_num": 65,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Dosing in patients with renal impairment"
+                    },
+                    {
+                        "text": "In patients with renal impairment reflected by creatinine clearance less than 50 mL/min, administration of the above recommended ONCE daily dose of amikacin is not desirable since these patients will have protracted exposure to high trough concentrations. Below are the dosage adjustments in patients with impaired renal function. 20\u201350ml/min: 5\u20136 mg/kg every 12 hours 10\u201320ml/min: 3\u20134 mg/kg every 24 hours <10ml/min: 2 mg/kg every 24\u201348 hours CAV/VVHD (dialysed): 7.5mg/kg every 24 hours and monitor levels. HD ( dialysed): 5mg/kg after dialysis Monitor 24hrly regimen according to ONCE daily recommendations."
+                    },
+                    {
+                        "text": "For Twelve hourly (BD) regimens, trough level should be done at 10-12hrs post dose,"
+                    },
+                    {
+                        "text": "whilst 48hourly regimen should be monitored at 40-48hrs post dose."
+                    },
+                    {
+                        "text": "Assays are performed between 0800-2000hrs, 7 days a week. Please ensure samples reach the laboratory in good time."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Table 4 Interpreting trough levels in TWICE daily regimen"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "type": "table",
+            "sequence_num": 67,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Trough Level in TWICE DAILY (BD)"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "dosing Regimen"
+                    },
+                    {
+                        "text": "\u2264 10mg/L"
+                    },
+                    {
+                        "text": "Continue current regimen, and monitor trough every 3 or 4days, provided: Renal function is stable Treatment is still required."
+                    },
+                    {
+                        "text": "\u02c3 10mg/L"
+                    },
+                    {
+                        "text": "Ensure the level was done at \u2265 10hrs post dose. If less than 10hours post dose, then it is not a true trough. If the trough level was done appropriately at the right time, then: Omit the next dose, and do a random assay at \u22658hours of the previous assay Once the level is \u2264 10mg/L, and further dosing is clinically indicated, reduce the regimen by 2.5mg/kg/day and continue dosing"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "For Advice:"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consult microbiology/antimicrobial pharmacist team on your site. Or the Pharmacy team \u2013 via normal contact routes."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "BNF online www.bnf.org accessed 12.08.21."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Barza MB et al Single or multiple daily doses of aminoglycosides: a meta-analysis. BMJ 1996; 312:338-344."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Small F Commentary: Single daily dose of aminoglycosides is the preferred mode of administration. BMJ 1996;213:344"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nicolau DP et al. Experience with once daily aminoglycoside program administered to 2,184 adult patients. Antimicrob. Agents and Chemother. 1995;39(3): 650-655"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Summary of product characteristics for amikacin [online]. Accessed via www.medicines.org.uk accessed 10.08.2021."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Injectable Medicines Guide (MEDUSA) https://medusa.wales.nhs.uk/IVGuideDisplayNewFormat.asp accessed 10.08.2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Renal Drug Handbook. https://renaldrugdatabase.com accessed 10.08.2021."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Amikacin once daily dosing and monitoring in adult patients/ MSEGL-21032/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        }
+    ]
+}

@@ -1,0 +1,2324 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21129 Adult self-administration of medicines SAM policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "ADULT SELF-ADMINISTRATION OF MEDICINES (SAM) POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEPO-21129"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff involved in the administration of medicines to adult patients"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "28 July 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "27 July 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "SAM, self-administration, self-admin"
+                    },
+                    {
+                        "text": "Developed in response to: (National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "RPS/RCN (2019): Professional Guidance on the Administration of Medicines in Healthcare Settings NICE (2015) NG5 : Medicines Optimisation NICE (2009) CG46: Medicines Adherence"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Division 9: Pharmacy"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Katy Mason"
+                    },
+                    {
+                        "text": "Pharmacy Operations Manager \u2013 Broomfield site"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Medicines Assurance Group Allen in Lieu"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Evelyn Allen"
+                    },
+                    {
+                        "text": "Chief Pharmacist"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "27 July 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "August 21"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: (Must include Specialist Pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Carla Ewers"
+                    },
+                    {
+                        "text": "Ward Manager \u2013 Tiptree, Broomfield"
+                    },
+                    {
+                        "text": "07 July 2021"
+                    },
+                    {
+                        "text": "Tracey Grainger"
+                    },
+                    {
+                        "text": "Ward Manager \u2013 Bardfield, Broomfield"
+                    },
+                    {
+                        "text": "07 July 2021"
+                    },
+                    {
+                        "text": "Emma Sweetman and Tania Chapman"
+                    },
+                    {
+                        "text": "Medication Safety and Governance Manager \u2013 Southend"
+                    },
+                    {
+                        "text": "21 June 2021"
+                    },
+                    {
+                        "text": "Hannah Rawlings"
+                    },
+                    {
+                        "text": "Clinical Lead Pharmacy Technician - Basildon"
+                    },
+                    {
+                        "text": "21 June 2021"
+                    },
+                    {
+                        "text": "Richard Ketley"
+                    },
+                    {
+                        "text": "Principal Pharmacist Medication Safety \u2013 Medication Safety Officer"
+                    },
+                    {
+                        "text": "15 July 2021"
+                    },
+                    {
+                        "text": "Diane Sarkar"
+                    },
+                    {
+                        "text": "Chief Nursing Officer - MSE"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Dawn Patience"
+                    },
+                    {
+                        "text": "Director of Nursing \u2013 Basildon site / CG1"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Kelly McGovern"
+                    },
+                    {
+                        "text": "Director of Nursing \u2013 Broomfield site / CG2"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Yvonne Brierley"
+                    },
+                    {
+                        "text": "Interim Director of Nursing \u2013 Southend site / CG3"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Pam Stephens"
+                    },
+                    {
+                        "text": "Interim Deputy Director of Nursing \u2013 CG4"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Simon Worrall"
+                    },
+                    {
+                        "text": "Deputy Chief Pharmacist - MSE"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Fatemeh Leedham"
+                    },
+                    {
+                        "text": "Pharmacy Head of Department - Basildon"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Alison Felton"
+                    },
+                    {
+                        "text": "Pharmacy Head of Department - Broomfield"
+                    },
+                    {
+                        "text": "20 July 2021"
+                    },
+                    {
+                        "text": "Anna Man"
+                    },
+                    {
+                        "text": "Principal Clinical Pharmacist \u2013 Basildon"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Helen Ellis"
+                    },
+                    {
+                        "text": "Principal Clinical Pharmacist \u2013 Broomfield"
+                    },
+                    {
+                        "text": "19 July 2021"
+                    },
+                    {
+                        "text": "Paul Smith"
+                    },
+                    {
+                        "text": "Principal Clinical Pharmacist \u2013 Southend"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Nicola Gibson"
+                    },
+                    {
+                        "text": "Pharmacy Operations Manager \u2013 Southend"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    },
+                    {
+                        "text": "Nina Webb"
+                    },
+                    {
+                        "text": "Pharmacy Operations Manager \u2013 Basildon"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "MAG as per page 1"
+                    },
+                    {
+                        "text": "21 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Administration of Medicines PolicyMSEPO-19014 Policy for management of incidents MSEPO-20237 Controlled Drugs Policy MSEPO-20206-Policy for the Management of and Learning from Medication Error Incidents MSEPO-20205 Policy for Safe and Secure Storage of Medicines MSEPO-19014 Policy for Management of Incidents MSEPO-21103 Mental Capacity Act policy Policy for Parent Administration of Medication, or equivalentBasildon only: CP/PC/00091 Enabling Patients to Self-Administer their insulin during their hospital stay"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/ Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Katy Mason"
+                    },
+                    {
+                        "text": "28 July 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Purpose ........................................................................................................................ 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Roles and responsibilities within the Trust .................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "What does the SAM scheme involve? .......................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Storage and security requirements ............................................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Identification and assessment of patient eligibility for SAM .......................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Withdrawal of consent and daily re-assessment ......................................................... 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Process for self-administration ................................................................................... 11  Self-administration of controlled drugs ........................................................................ 12  Training ....................................................................................................................... 12  Monitoring and audit ................................................................................................... 13  Approval and implementation ..................................................................................... 13  Equality impact assessment ....................................................................................... 13  References ................................................................................................................. 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1: Adult self-administration of medicines (SAM) risk assessment and consent form ................................................................................................................................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 2: Self-administration (SAM) levels and daily assessment tool .......................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 3: Adult Self-administration of Medicines (SAM) whilst in hospital Patient Information Leaflet ............................................................................................................. 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 4: Preliminary equality analysis .......................................................................... 16"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Conventional administration of medicines is about control by Trust staff with the aim is minimise the risk of errors. However it is also recognised that this system is restrictive because it limits flexibility of the medicines administration process whilst in hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "When patients are admitted to hospital there is a tendency for their individual preferences to be ignored, resulting in a loss of independence. This can be compounded by the removal of patient responsibility for medicines administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "A self-administration of medicines (SAM) framework allows patients to take their medication in a safe and secure environment."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.4,
+                "text": "Benefits of patient self-administration of medicines during their hospital stay are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintains patient self-esteem, independence and responsibility for their health;"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients are encouraged to participate and learn about their medicines. This builds their confidence and understanding relating to medicines usage;"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provides greater opportunity for patients to ask questions about their medicines before discharge;"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Increased patient adherence with medication regimens as a result of this patient empowerment;"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enables patients to continue taking their own medications from home and according to their normal routine. This is especially beneficial to time-critical medicines (anti-Parkinson's, anti-diabetic, analgesic medication etc.);"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enables patients to adapt to new or changed medication to their previous regimens/routines;"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enhances post-operative oral analgesia management because painkillers can be taken when patient's most need them;"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Helps identify medication problems early in a patient's admission that may require more post-discharge support e.g:"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "Whilst the patient is under the care of the Trust, it is essential that appropriate assessment and monitoring of the patient's ability to self-administer occurs. This must include formal documentation using a consistent approach. Failure to do so can place the patient at risk of adverse events."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.6,
+                "text": "The approach taken by the Trust is to implement the best practice examples for self-administration of medicines published nationally. These are evidenced as successful tools and processes used elsewhere in NHS Trusts."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Purpose"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This document facilitates a holistic patient-centred approach to medication administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.2,
+                "text": "This policy applies to all clinical staff directly involved in the inpatient care of adults capable of consenting to self-administration of their medication."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.3,
+                "text": "Specific exclusion criteria are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Critical Care and High Dependency level bedded patients and units;"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All patients on paediatric units (parent supervised administration of medicines is covered by the Policy for Parent Administration of Medication, or equivalent);"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Wards without secure bedside lockers (with individual keys) \u2013 Refer to MSEPO- 20205 Policy for Safe and Secure Storage of Medicines;"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients under the influence of anaesthetics;"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with an altered state of consciousness;"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients unable to provide valid consent;"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients who are acutely / chronic confused \u2013 if in doubt please refer to MSEPO-21103 Mental Capacity Act policy ;"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with a potential to drug / alcohol abuse or self-harm (until risk assessed by registered nurse and pharmacist and discussed with patient);"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reason for admission is related to an exacerbation or mismanagement of their long term condition (until risk assessed by nurse and pharmacist and discussed with patient);"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "New medication (until risk assessed by nurse and pharmacist and discussed with patient);"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Changed medicines where the dosing is unstable (i.e. prescriber is titrating up or down a dose frequently);"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All STAT doses, intravenous and intramuscular injections;"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Controlled Drugs in most circumstances (see specific section below);"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any other reason that the patient is thought to be unsuitable by medical, nursing or pharmacy staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.4,
+                "text": "Outpatients, day attenders and visitors to the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "2.4.1 There may be some occasions when patients who are attending the Trust for an outpatient appointment, as a day attender, or visitor require a dose of their own regular medication whilst they are on the premises. Although this is outside of its scope, this policy recognises that these patients will remain responsible for the safe storage of their own medication and for taking it appropriately, and not the department nursing staff. Self-administration assessment (in line with this policy) is not required for these medications."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "2.4.2 If a patient has any questions about medication that they are due to take whilst they are visiting, they should speak to a nurse or doctor in the area they are attending; who should refer on appropriately, if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "type": "table",
+            "sequence_num": 58,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "CD"
+                    },
+                    {
+                        "text": "Controlled Drug \u2013 a medicine that is regulated by the Misuse of Drugs Act 1971 & the Misuse of Drugs Regulations 2001"
+                    },
+                    {
+                        "text": "Adherence / compliance"
+                    },
+                    {
+                        "text": "The extent to which a patient takes medicines as prescribed by a health professional"
+                    },
+                    {
+                        "text": "Medicine / Medicinal Product"
+                    },
+                    {
+                        "text": "Any substance administered for treating, preventing or diagnosing disease, for contraception, for inducing anaesthesia or modifying a normal physiological function. Medical gases are medicinal products. Nutritional supplements via the oral or enteral route are classed as foods. Parenteral nutrition is a medicine."
+                    },
+                    {
+                        "text": "PRN"
+                    },
+                    {
+                        "text": "\u2018pro re nata' latin for \u2018when required' in context of medicines."
+                    },
+                    {
+                        "text": "\u2018SAM' /Self-admin"
+                    },
+                    {
+                        "text": "Self-Administration: A patient is permitted following assessment to administer their own medication whilst an inpatient."
+                    },
+                    {
+                        "text": "WellSky ePMA"
+                    },
+                    {
+                        "text": "Electronic prescribing and medicines administration system used on main Trust hospital wards."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "MSE Patient Safety and Quality Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Receiving exception reports and taking action in response to issues raised from Medicines Assurance Group and/or department of pharmacy."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "MSE Medicines Assurance Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring the effective implementation, use and timely review of this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that monitoring arrangements are appropriately performed by the site Medicines Optimisation and Safety Groups (MOSG);"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where necessary, escalating concerns to the Chief Nurse and site Director of Nursing or Chief Medical Officer and site Medical Director/s as appropriate;"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Exception reporting to the MSE Patient Safety & Quality Group on developments, concerns and progress concerning self-administration of medicines."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Site Medicines Optimisation and Safety Group (MOSG)"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring this policy through incident reports;"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Escalating issues to site divisional governance groups and MAG as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Chief Executive"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As the Trust's accountable officer has overall responsibility for ensuring the Trust has robust, complete and up to date documents in place to govern and guide activities so that legal and national requirements are met."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Chief Nursing Officer"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is safe and effective implementation of this policy and maintained compliance in all areas of the organisation;"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring there are the necessary systems, processes, training and competency assessment (where appropriate) available for all staff they oversee;"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring sufficient resources are in place to implement this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring any escalated administration of medicines issues involving professions and staff they oversee are appropriately managed corporately;"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures medication errors are reported and investigated in a complete and timely"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Chief Medical Officer and site Medical Directors"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is safe and effective implementation of this policy and maintained compliance in all areas of the organisation/site;"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring any escalated self-administration of medicines issues involving professions they oversee are appropriately managed corporately."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Chief Medical Officer and site Medical Directors delegate this responsibility to the Divisional Clinical Directors and specialty Clinical Leads for delivery."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Site Director of Nursing / Deputy Directors of Nursing / Director of Midwifery"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is safe and effective implementation of this policy and maintained compliance in all areas they are responsible for;"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring there are the necessary systems, processes, training and competency assessment (where appropriate) available for all staff they oversee;"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring sufficient resources are in place to implement this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring any escalated self-administration of medicines issues involving professions and staff they oversee are appropriately managed corporately;"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures medication errors are reported and investigated in a complete and timely manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "Chief Pharmacist"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Setting the overall framework and policy standards for self-administration across the organisation, in line with regulatory and best practice guidance;"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring a monitoring process exists and functions for policy standard."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Chief Pharmacist delegates day-to-day implementation responsibilities to the Deputy Chief Pharmacist, and site pharmacy Heads of Department for delivery."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.9,
+                "text": "Prescriber (usually but not always a Doctor)"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Informing registered nurse/midwife if patient asks about self-administration;"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If patient self-administering, communicating any drug changes to nurse/midwife and patient AND documenting details of communication in medical records;"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Immediately informing nurse/midwife if a self-administering patient shows signs of being unsuitable to continue e.g. new onset confusion;"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring all medicines are prescribed on the Wellsky ePMA or Trust paper drug chart or (depending on site);"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all errors are appropriately reported in a timely manner. This is completed in accordance with Trust policies for incident management (MSEPO- 19014), and medication errors MSEPO-20206."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Registered Nurse / Midwife"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identifying potentially eligible patients for SAM and liaising with the admitting doctor to confirm this;"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Performing initial assessment (see appendix 1) on any patient requesting to self- administer;"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Endorsing drug chart with the designated self-administration code once confirmed that the correct dose of medication has been taken at the correct time by the patient;"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assess each self-administering patient daily (minimum) and document in patient medical record;"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all errors are appropriately reported in a timely manner. This is completed in accordance with Trust policies for incident management (MSEPO- 19014), and medication errors MSEPO-20206."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.11,
+                "text": "Registered Pharmacist/ Registered Pharmacy Technician"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring any education / practical administration issues are resolved;"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Risk assessing newly prescribed medicines with nursing staff;"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all errors are appropriately reported in a timely manner. This is completed in accordance with Trust policies for incident management (MSEPO- 19014), and medication errors MSEPO-20206."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "What does the SAM scheme involve?"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Identification of potentially eligible patients and a formalised documented risk assessment to confirm they meet the criteria for safe implementation (section 7)."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Provision of patient information (appendix 3) and confirmation that the patient understands their medicines and how to take them."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "A documented process for gaining written patient consent participating in the scheme (appendix 1)."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Assigning of an appropriate level of SAM for the specific patient in accordance with the risk assessment (appendix 2)."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Providing the patient access to their medication (as per assessment) and supply of any other items (e.g. sundries) to support SAM."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "A daily re-assessment (as a minimum) to confirm patient suitability for SAM (appendix 2)."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Storage and security requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Refer also to MSEPO-20205 Policy for Safe and Secure Storage of Medicines."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "All medication MUST be locked securely in a bedside medication locker."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Where the patient is assessed as suitable to have access to their own medicines (see below) they must only hold the individual locker key (or digital equivalent). This key must not be able to open any other locker."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.4,
+                "text": "Electronic bedside locker keys/mechanisms are acceptable on approval from pharmacy. These must have features to enable issue of an individual locker \u2018key' to the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.5,
+                "text": "All medication must be locked away except for GTN spray, reliever inhalers (salbutamol / terbutaline), nicotine inhalators or gum, large emollient creams requiring regular application and artificial saliva gels (e.g. bioextra\u00ae / oralbalance\u00ae) which can be kept with the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.6,
+                "text": "If an administration of a medicine is to be discontinued or withheld then the Registered Nurse/Midwife, Ward Pharmacist or Pharmacy Technician will remove the medicine from the patient's cabinet, or use the designated \u2018medicines not currently in use' bag (refer to Patient's own drugs section of the Administration of)"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Identification and assessment of patient eligibility for SAM"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The administering registered nurse or midwife must take note of all exclusions from the SAM scheme."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "It is the responsibility of the doctor or registered pharmacy staff to ensure it is clearly signposted to registered nurses/midwives any patients they have taken the decision to exclude from self-administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Patients may request themselves to administer some or all of their own medicines. This may be likely for patients with long-term conditions."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "7.3.1  For Basildon site only, if the patient is on insulin and wishes to self-administer then a different agreement form must be signed, see policy for Enabling Patients to Self-Administer their insulin during their hospital stay (CP/PC/00091)."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Alternatively registered nurses, midwives, or pharmacy staff can identify potentially suitable patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.5,
+                "text": "Complete Section A of appendix 1 (risk assessment). This is the initial patient assessment. Patients must only be considered for SAM if all criteria are safely met. Potential risks must be considered for the individual patient and whether they can be safely mitigated or not."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.6,
+                "text": "Mental capacity must be assessed in line with MSEPO-21103 Mental Capacity Act policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.7,
+                "text": "Patients must be given their own copy of the Adult Self-Administration of Medicines leaflet (copy of this is in appendix 3), to read and confirm understanding and their own responsibilities with respect to SAM."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.8,
+                "text": "Patients who have been self-medicating at home using special containers e.g. monitored dosage systems (MDS), special labels, or a medication aid, can continue to self-administer in hospital using the same container / labelling /aid as appropriate, provided this is assessed as safe. Pharmacy can support in this decision making."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.9,
+                "text": "Patient's taking warfarin, acenocoumarol or phenindione must be advised to check with the registered nurse to confirm their prescribed dose has not changed. This is because the therapeutic INR may be affected by different medicines they are taking whilst in hospital, requiring dose adjustment from the patient's \u2018normal' regimen."
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Finalise the risk assessment, documenting on appendix 1, deciding either:"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "The patient is suitable for SAM, and assigning the appropriate level of self- administration in accordance with appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Or, the patient is not eligible and informs the patient of the reasons for this."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.11,
+                "text": "Complete top part of Section B of appendix 1 (patient consent). The patient must sign this document which is retained in the patient health record."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.12,
+                "text": "Where the patient is suitable, complete the \u2018agreement' section of the patients copy of the Adult Self-Administration of Medicines leaflet (copy of this is in appendix 3). This must be retained by the patient. The agreement documented must match that of the completed risk assessment (appendix 1)."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.13,
+                "text": "Where the patient is suitable, the SAM level must be indicated on the drug chart:"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "WellSky ePMA: Record as a \u2018note to appear in charting' note titled \u2018Self- Administration';"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon site where paper charts used: designated section on page 16;"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broomfield site where paper charts used: bottom of page 2 (comments section)."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Withdrawal of consent and daily re-assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "A patient can withdraw their consent to self-administer at any time. Where a patient has expressed this, effort should be made to explore the reasons why and if these can be resolved safely or note."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Where withdrawal is confirmed complete second part of Section B of appendix 1 (withdrawal of consent)."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.3,
+                "text": "The patient's suitability to self-administer must be reviewed at least daily (or sooner if circumstances change). Re-assessment must be completed daily using appendix 2."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.4,
+                "text": "All changes in levels of SAM, or withdrawal from SAM must be documented in the patient health record, drug chart/ Wellsky ePMA updated. Staff involved in this decision must ensure that other staff involved in the patient's care are directly informed immediately."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.5,
+                "text": "The patient's Adult Self-Administration of Medicines leaflet (copy of this is in appendix 3) must be replaced and new agreement section completed for any changes. The old copy of the agreement must be voided (strikethrough) with date and words \u2018withdrawn' across it."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Process for self-administration"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "All medication must be prescribed by a doctor or non-medical prescriber on Trust paper drug chart or Wellsky ePMA (depending on site)."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "The registered nurse/midwife conducting the drug round must check with the patient that they have taken the correct medication & dose, by the correct route at the correct time."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.3,
+                "text": "Any medicines that have to be stored in the fridge will be given to the patient as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.4,
+                "text": "Patients self-injecting must be provided with a personal sharps bin during their inpatient admission, which should be stored in a locked cupboard (e.g. bedside cabinet)."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.5,
+                "text": "Any newly prescribed items, changes in dose, strength or frequency for which the patient does not have their own supply must be administered by the nurse/midwife from ward stock. It must be confirmed that the patient has not already taken a dose of the same medicine based on previous prescription. If this is the case, obtain advice from the doctor, and document the decision in the patient health record."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.6,
+                "text": "Any changes of drugs/doses made by the prescriber must be fully explained to the patient and the ward pharmacy team must be informed, to ensure medication is relabelled or supplied."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.7,
+                "text": "They must record that the patient has 'self-administered' for each medication:"
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For paper charts by entering the appropriate SAM code in the designated administration box."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Wellsky ePMA record as a nurse note titled \u2018SAM time and date'. Against the drug record a non-administration code of other should be selected."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.8,
+                "text": "At every drug round the registered nurse/midwife must review the entire drug chart (as per standard practice under Administration of Medicines Policy). Any medicines that have been discontinued, or where any change has occurred must be referred to pharmacy. Pharmacy will either relabel the supply or provide a new supply as appropriate. This ensures the patient only has access to medicines and labelled directions as currently prescribed."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.9,
+                "text": "PODs must be managed in accordance with Administration of Medicines Policy, including consent for removal."
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Nursing/midwifery staff must continue monitoring and recording patient's observations in line with standard Trust practice."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.11,
+                "text": "Ward-based registered pharmacy staff can be contacted to support and advise on implementation of this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Self-administration of controlled drugs"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Due to the security and reconciliation issues, self-administration of CDs should only be allowed in exceptional circumstances."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Where it is felt appropriate to permit self-administration of CDs a patient-specific risk assessment of issues must be carried out and agreed by the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust Controlled Drugs Accountable Officer (Chief Pharmacist) (or if unavailable the delegated deputy e.g. Deputy Chief Pharmacist, site Pharmacy Head of Department)"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The consultant overseeing care of the patient"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The matron and ward manager responsible for the clinical area."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "The final decision must be documented in the patient health record."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Training"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "All new medical, nursing and pharmacy staff are made aware of the policy through the induction process."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Line managers are responsible for ensuring that new staff are made aware at induction."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Staff must not enact self-administration without reading this entire policy and all assessments. If there are any aspects which are not understood they must inform their line manager and the pharmacy team for support, if applicable."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "type": "table",
+            "sequence_num": 176,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitorin g Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Non- compliance with assessment"
+                    },
+                    {
+                        "text": "Incident reports"
+                    },
+                    {
+                        "text": "Division"
+                    },
+                    {
+                        "text": "Ad-hoc"
+                    },
+                    {
+                        "text": "site Medicines Optimisation & Safety Group Medicines Assurance Group"
+                    },
+                    {
+                        "text": "Divisional governance groups Patient Safety & Quality Group"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "All policies, procedures and guidelines will be approved by Medicines Assurance Group, which is the specialist group with the authority to approve local medication documents. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "It is the author's responsibility to inform all prescribers, nursing and pharmacy of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "meets the needs of all individuals. (Refer to appendix 4)"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Specialist Pharmacy Service (SPS) (2020). Self-Administration of Medicines \u2013 Brief Guidance and examples from practice [online] available at https://www.sps.nhs.uk/wp-content/uploads/2020/04/SPS-Self-Administration-of- Medicines-brief-guidance-v1.pdf  (accessed 07/07/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE (2015). NG5: Medicines optimisation: the safe and effective use of medicines to enable the best possible outcomes. London"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE (2009). CG76: Medicines Adherence. London"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Royal Pharmaceutical Society (RPS) (2018). Safe and Secure Handling of Medicines [online] available at: https://www.rpharms.com/Portals/0/RPS%20document%20library/Open%20access/ Professional%20standards/SSHM%20and%20Admin/Admin%20of%20Meds%20pr of%20guidance.pdf?ver=2019-01-23-145026-567 (accessed 07/07/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Royal Pharmaceutical Society and Royal College of Nursing (RPS/RCN) (2019). Professional Guidance on the Administration of Medicines in Healthcare Settings [online] available at https://www.rpharms.com/Portals/0/RPS%20document%20library/Open%20access/ Professional%20standards/SSHM%20and%20Admin/Admin%20of%20Meds%20pr of%20guidance.pdf?ver=2019-01-23-145026-567 (accessed 05/07/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Wessex Academic Health Science Network (2017). Self-Administration of Insulin in Hospital -A guide to support trusts through the implementation process [online] available at https://wessexahsn.org.uk/img/projects/Self%20Administration%20of%20Insulin%2 0in%20Hospital%20A%20guide%20to%20Implementation.pdf (accessed 07/07/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Adult self-administration of medicines (SAM) risk assessment and consent form"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Click here to open Adult self-administration of medicines (SAM) risk assessment and consent form"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Self-administration (SAM) levels and daily assessment tool"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Click here to open Self-administration (SAM) levels and daily assessment tool"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Adult Self-administration of Medicines (SAM) whilst in hospital Patient Information Leaflet"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Click here to open MSEPIL015 Adult Self-administration of Medicines (SAM) whilst in hospital"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adult Self-Administration of Medicines (SAM) Policy/ MSEPO-21129 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adult Self-Administration of Medicines (SAM) Policy/ MSEPO-21129 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix4: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Policy for self-administration of medicines (adults): (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "type": "table",
+            "sequence_num": 201,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2612 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 202,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Harmonised for MSE-wide use"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "For consistency in assessment and alignment to best practice shared nationally where shown successful risk assessment use."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients and staff from a clearer process and documentation"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No, risk assessment covers all aspects to ensure patient safety is protected"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 203,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Katy Mason"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Pharmacy Operations Manager \u2013 Broomfield site"
+                    },
+                    {
+                        "text": "15 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        }
+    ]
+}

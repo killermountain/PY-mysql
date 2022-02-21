@@ -1,0 +1,2821 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "BRING YOUR OWN DEVICE (BYOD) POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSBPO-18005"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (target staff)"
+                    },
+                    {
+                        "text": "All Trust Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th06 September 2018"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th05 September 2021"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "IG Toolkit General Data Protection Regulation (GDPR) Best Practice"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "Regulation 12 \u2013 Safe care and treatment Regulation 15 \u2013 Premises and Equipment Regulation 17 \u2013 Good governance"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Kate Thompson"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "MEHT BTUH SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Digital Services Review by Subject Matter Experts"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "4th May 2018"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Alan Tuckwood Head of Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "17th May 2018"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "MSB Digital Services Performance and Accountability Group Joint Document Management Group (JDMG)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "17th May 2018 19 June 2018 th"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "Date: September 2018"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MSBPO-18005 Bring Your Own Device (BYOD) Policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "MSB Group, Head of Information Governance,"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Daniel Oliver"
+                    },
+                    {
+                        "text": "MSB Group, Cyber Security Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Adam Osborne"
+                    },
+                    {
+                        "text": "SHUFT, IT 3rd Line Team Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Matt Poxon"
+                    },
+                    {
+                        "text": "SHUFT, IT Communications Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Steve Whittle"
+                    },
+                    {
+                        "text": "BTUH, Head of IT Operations"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Perry Reynolds"
+                    },
+                    {
+                        "text": "BTUH, Head of IT Infrastructure"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Sam Howlett"
+                    },
+                    {
+                        "text": "BTUH, Deputy IT Operations Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Nicky Shaw"
+                    },
+                    {
+                        "text": "BTUH, IT 1st Line Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Barry Stannard"
+                    },
+                    {
+                        "text": "MEHT, IT Operations Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    },
+                    {
+                        "text": "Jon Clark"
+                    },
+                    {
+                        "text": "MEHT, IT Infrastructure Manager"
+                    },
+                    {
+                        "text": "4 May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSB Group"
+                    },
+                    {
+                        "text": "Email Policy Information Technology (Cyber) Security Policy User Access & Acceptable Usage of IT Policy"
+                    },
+                    {
+                        "text": "Mid Essex Hopsital NHS Trust"
+                    },
+                    {
+                        "text": "04029 - Disciplinary Policy 07011 - Confidentiality & Data Protection Policy 07012 - Information Governance Policy 07014 - Freedom of Information Policy 08088 - Acceptable Use of IT Policy 09023 - IT Anti-Virus & Malware Policy 09034 - IT Systems Monitoring Policy 09036 - Password Policy 13017 - ICT Security Policy"
+                    },
+                    {
+                        "text": "Southend University Hospital NHS Foundation Trust"
+                    },
+                    {
+                        "text": "IS01 - Information Security Policy IS09 - Data Protection and Code of Confidentiality Policy IS21 - Access Control Policy IS30 - IT Security Policy IS37 - Mobile Devices Policy IC016 - Infection Control Strategy HS07 - Manual Handling Policy Procedure RM10 - Incident and Serious Incident Policy PP06 - Disciplinary Guidance Notes"
+                    },
+                    {
+                        "text": "Basildon and Thurrock University Hospitals NHS Foundation Trust"
+                    },
+                    {
+                        "text": "Procedure of Transmitting Information and Use of Portable Media/Devices Storage of Electronic Personnel Files Health Records Policy Information Governance Policy Information Governance Strategy Incident Reporting Policy and Procedure Procedures for Applying and Authorisation of Portable/Teleworking Devices Mobile Working/Teleworking Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Kate Thompson"
+                    },
+                    {
+                        "text": "Initial draft created to replace the following policy: SUFHT, IS43 - Bring Your Own Device Policy"
+                    },
+                    {
+                        "text": "06/08/2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Index"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction ........................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology ............................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles & Responsibilities ...................................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements ............................................................................................ 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements ....................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit ............................................................................................. 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References .......................................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA) ..................................................................... 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment (EIA) .................................................................... 13 Appendix 1: Approved Mobile Devices for BYOD Access ........................................ 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Appendix 2: BYOD Approved Local Applications Summary ......................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Appendix 3, Quality Impact Assessment .......................................................... 19"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Appendix 4, Equality Impact Assessment (EIA)............................................... 20"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Bring Your Own Device (BYOD) is the mechanism of allowing Trust employees to bring personally owned IT devices (such as laptops, tablets and smart phones) to the Trust, connect these devices to the Trust IT network, and use these devices to access Trust information and applications. This definition also covers the issuing of Trust mobile devices such as tablet devices where they support the business need."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The use of BYOD presents a number of benefits by making the access to the information and applications required to deliver patient care in a more flexible manner without the need for a Trust provided desktop or laptop device. This means patient care can be delivered directly to the patient bedside with patient information updated in real time. It also presents potential cost savings to the Trust at a time when the demand for IT delivered services are rising yet the funds available for more Trust IT devices is falling."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This policy applies to employees, contractors, business consultants, temporaries, and other workers, including all personnel affiliated with third parties of Mid Essex Hospital NHS Trust, Southend University Hospital NHS Foundation Trust, and Basildon and Thurrock University Hospitals NHS Foundation Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The remainder of this document will define how users can apply for and, following approval, can gain access to Trust infrastructure and system as appropriate for their role. It will also set out the conditions of use and the expectation of staffs' conduct whilst connected/accessing Trust systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Allowing BYOD devices' connection to the Trust IT network could represent a significant risk to Trust information if not implemented and managed correctly. This policy aims to outline processes to mitigate the following risks areas:"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Exposure of Trust data"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Password exposure"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Application compatibility issues."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Network bandwidth overuse"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Virus infections"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "This policy defines how personally owned devices are connected to Trust infrastructure and used whilst undertaking Trust business."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "It applies to all users who have been granted access to Trust IT computer systems and encompasses access, or attempted access, to Trust systems and infrastructure including OWA Webmail and NHSMail."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.6,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Set out who may legitimately request BYOD access."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Set out how BYOD access is granted."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Define what BYOD devices may connect and how such connection is secured."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Define the approved applications and information"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Set out the general rules for BYOD access and set out users responsibilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "type": "table",
+            "sequence_num": 42,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "The \u201cTrust\u201d"
+                    },
+                    {
+                        "text": "This should be in reference to the individual Trust that the employee is employed by. Trusts refereed to include Mid Essex Hopsital NHS Trust, Southend University Hospital NHS Foundation Trust, and Basildon and Thurrock University Hospitals NHS Foundation Trust."
+                    },
+                    {
+                        "text": "BYOD Device"
+                    },
+                    {
+                        "text": "A consumer orientated mobile device that maybe either the personal property of a member of staff, or Trust issued to meet a specific business need."
+                    },
+                    {
+                        "text": "MDM"
+                    },
+                    {
+                        "text": "Mobile Device Management. An IT solution that controls mobile devices to enforce settings and policies to adhere to a corporate security policy. It also has the ability to administer remedial tasks such as remotely wiping the device in case of being lost or stolen."
+                    },
+                    {
+                        "text": "PII/PID/PCD"
+                    },
+                    {
+                        "text": "Person Identifiable Information / Person Identifiable Data / Personal Confidential Data. One or more pieces of information that relate to an individual, who can be identified from those pieces of information or identified by combining those pieces of information with other information that is likely to be available. The individuals concerned may be patients, staff, contractors or members of the public."
+                    },
+                    {
+                        "text": "Vicarious Liability"
+                    },
+                    {
+                        "text": "Vicarious liability is a form of secondary liability where a person or organisation is liable for the acts of another. An employer can be legally responsible for the actions or omissions of their employees in the course of their employment. The employer is legally responsible unless it can be shown that 'reasonable steps' have been made to reduce this liability."
+                    },
+                    {
+                        "text": "Intellectual Property (IP)"
+                    },
+                    {
+                        "text": "Any product of someone's intellect that has commercial value, especially copyrighted material, patents, and trademarks."
+                    },
+                    {
+                        "text": "Outlook Web Access (OWA)"
+                    },
+                    {
+                        "text": "Outlook Web Access \u2013 a means of accessing the Trust E-mail system from the Internet remotely (i.e. not on Trust premises and not the computer network)"
+                    },
+                    {
+                        "text": "Intellectual Property (IP)"
+                    },
+                    {
+                        "text": "Any product of someone's intellect that has commercial value, especially copyrighted material, patents, and trademarks."
+                    },
+                    {
+                        "text": "Citrix XenApp"
+                    },
+                    {
+                        "text": "A technology used to enable to run applications without having them installed on the local device. Instead the"
+                    },
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "client is installed within a secure data centre and all application processing happens within the data centre with only screen refreshes, key presses and mouse movements being transmitted to the local devices (via a Citrix XenApp client)."
+                    },
+                    {
+                        "text": "Citrix Secure Gateway (CSG)"
+                    },
+                    {
+                        "text": "A mechanism that allows applications to be securely delivered from a Citrix XenApp infrastructure. The CSG encrypts the traffic transmitted between the application running in the data centre and local device. This is used when accessing resources from an unsecure network such as the internet."
+                    },
+                    {
+                        "text": "Information Technology Service Management (ITSM)"
+                    },
+                    {
+                        "text": "Current software used to manage the Service Desk."
+                    },
+                    {
+                        "text": "802.1x"
+                    },
+                    {
+                        "text": "An Institute of Electrical and Electronics Engineers Standard for network access control that acts as an authentication method for devices wishing to attach to a wireless network."
+                    },
+                    {
+                        "text": "Outlook Web Access (OWA)"
+                    },
+                    {
+                        "text": "Outlook Web Access \u2013 a means of accessing the Trust E-mail system remotely via a secure website."
+                    },
+                    {
+                        "text": "Portable Appliance Testing"
+                    },
+                    {
+                        "text": "A process by which electrical appliances are routinely checked for safety as required by Health and Safety regulations."
+                    },
+                    {
+                        "text": "Dynamic Host Configuration Protocol (DHCP)"
+                    },
+                    {
+                        "text": "Allows an IT device to be assigned a network address so it can access authorised IT services."
+                    },
+                    {
+                        "text": "Domain Naming System (DNS)"
+                    },
+                    {
+                        "text": "Allows an IT device to convert a friendly web address (such as www.southend.nhs.uk) to an internet address used to make the connection."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles & Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Role & Responsibilities within the Trust (Committees)"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.1 Digital Services Governance Group \u2013 to review policies and recommend for group approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.2 Information Governance Group \u2013 to review any instances of non-compliance to stated policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.1.3 Joint Document Management Group \u2013 to ratify polices"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Role & Responsibilities of Individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.1 Senior Information Risk Officer (SIRO) \u2013 Joint Executive Group (JEG) appointed Chief Information Officer responsible for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serious information risk management issues are brought to the Board for decision as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A lead or manager is in place to organise and enforce the Group's approach to information risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written advice is provided to the Accountable Officer and appropriate Trust Boards regarding the information risk management content of the annual report and Statement of Internal Control (SIC)."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2 Caldicott Guardian \u2013 Board appointed Site Director for each Trust is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protecting the confidentiality of PCD processed by the Trust, ensuring that all sites satisfy the highest practical standards for handling PCD."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as the \u201cconscience\u201d of the Trust, by actively supporting work to enable use and sharing of PCD where this is appropriate and advising on lawful and ethical solutions."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Championing confidentiality and information sharing requirements and issues at Board level and, where appropriate, at a range of levels within the Trust's overall governance framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.3 Head of Digital Services, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for development and updating of Digital Services Policies."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.4 Head of Information Governance, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for information governance."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.5 Line Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for ensuring that staff are aware of this policy that they adhere to it and for managing issues which arise when staff fail to comply."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.6 Trust Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for implementing and complying with the policy within the areas of their responsibility or control."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Requesting Access to Connect User Owned Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 All Trust staff, including associates and approved third parties, wishing to connect a personal device to Trust services must have a Service Request raised through the IT Self-Service Portal by the line manager or suitable Trust representative, detailing the business reason for access and the device they wish to connect."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 Each access request will be reviewed to ensure there is a satisfactory business requirement and that the BYOD device access is being requested from an approved source."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 If authorisation is approved the user will be supplied details on how to connect the BYOD device to Trust services. This information is for the user only and must not be shared or used to connect non-authorised BYOD devices. Any additional BYOD devices the user wishes to connect must be authorised via an additional access request."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.4 The user must configure an appropriate access password on the BYOD device to protect it from unauthorised access. As a security measure against device loss or theft BYOD devices must be set to require the password to be re-entered if the device is unused for a minimum of 10 minutes. The BYOD device must also be configured to wipe itself after an defined number of failed password attempts."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.5 It is a condition of the use of IT and BYOD access provided by the Trust, that the user agrees to be bound by the relevant Policies and Regulations."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "BYOD Access & Usage"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 To facilitate the connection of a BYOD device to the IT network a dedicated wireless network has been created. Authentication on this network is provided by 802.1x network access control. Interaction between this dedicated BYOD wireless network and the main Trust IT network is strictly controlled."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 Access to connect a personal IT device to the Trust BYOD wireless network is controlled differently at each site:"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At Southend site an MDM solution (currently supplied by Sophos) is utilised. After the user is authorised to use a personal device by the IT Service Desk they are given access to enrol their device to the MDM."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At Basildon and Mid Essex staff may connect their BYOD devices to the Trusts segregated network (BTUH_Mob and Staff-Wifi respectively) utilising their Active Directory Credentials."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.3 At Southend the enrolment process will automatically configure the device to connect to the Trust BYOD WiFi network as well as checking for particular security settings such as encrypted storage. If these policies are not met at either time of enrolment or any time in the future the device will be automatically removed from the Trust network."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.4 If the BYOD device is lost or stolen the user must advise IT immediately. IT can action a number of things to ensure the device can no longer access the Trust network; this includes removing the Wi-Fi settings from the device using the MDM, remotely wiping the device or disabling the user account associated with the device."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.5 Users must not have their devices configured to cache passwords on the BYOD device. This means when logging into a system (such as e-mail) they must not check any boxes to remember the password. This will prevent this information being put at risk if the BYOD device is lost or stolen."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.6 Users must not use the applications installed on their BYOD device in such a way that it could have a negative impact on the Trust business. This includes playing games etc., unless it is during the users own time (e.g. scheduled breaks)."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.7 Users must not take screenshots of the displayed information when using Trust applications on their BYOD device."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.8 The Trust IT Service Desk will provide support for the access and usage of Trust applications but will not provide support for the BYOD device itself."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.9 If the BYOD device is broken or lost it is down the user to ensure there are appropriate measures in place to ensure their work is not disrupted in such a way that could adversely affect Trust business."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.10 When the BYOD device is used while sitting down it will be subject to the same conditions as the current Trust desktop screen (DSE) assessment. If the BYOD device is used when walking around it will be subject to the same conditions as the current Trust manual handling policies. Users should be familiar with both sets of information."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.11 If a user sustains an injury, to themselves or others, through the use of the BYOD device the Trust will not be held liable."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.12 Users must ensure that they use appropriate hand washing actions after using the BYOD device and that the device is not used in areas where infection control might be compromised in line with the Trusts infection control strategy."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Accessing Trust Applications"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1 Access to the Trust e-mail system will also be provided so that users can view Trust e-mail without having to launch Microsoft Outlook from Citrix e.g."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Outlook Web Access (https://connect.southend.nhs.uk, https://connect.btuh.nhs.uk, https://owa.meht.nhs.uk)"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Native e-mail applications \u2013 these will only be able available on devices that meet the device encryption requirements, see associated policies for further information, and by approval of a Service Request for Push Mail through the IT Self-Service Portal."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.2 Internet access will be available via a dedicated web filtering appliance linked to the Trust N3 internet connection. The appliance will provide the filtering of inappropriate internet sites and downloads (in line with current User Access & Acceptable Usage of IT Policy) and bandwidth management to ensure there is minimal impact on current Trust data traffic."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "5.3.3 Any requests for other Trust systems to be made available to BYOD devices on the BYOD wireless network at Southend (e.g. a web page for a patient system) will be reviewed on a case by case basis to ensure that the delivery method is secure and compatible. A list of applications that are approved will be maintained in the Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 It is particularly important that an application (app) on any mobile device is not used for Trust business without first considering information governance legislation, and Trust policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.5 Some clinical applications, especially those which advise clinical decisions can be considered as \u2018clinical devices' and must be more stringently considered and agreed through information governance and the Medical Equipment Service departments at each site."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.6 Under no circumstance should PII, PID or PCD be transmitted using an app on a personal mobile device. All transfers of information must comply with existing registered information sharing agreements (ISA)."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.7 Non-compliance could result in disciplinary action in line with the Trust disciplinary policy, substantial financial penalties and legal action against the Trust and individuals concerned. Screen saver time out and password protection policies are applied to all systems which connect to the Trust network."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Approved Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "5.4.1  Only approved devices may connect to the BYOD wireless network; the approved BYOD device list is based on operating system version (both mobile and desktop) and can be found in Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Security Measures"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1 To ensure Trust data is still secured when accessed from a BYOD device attached to the Trusts solutions, a number of measures have been put in place."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.2 The BYOD wireless network is logically segregated from the main Trust IT network via firewalls and port control."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "5.5.3 The only services allowed to access the main Trust IT network are detailed in Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.4 Access to connect a BYOD device to the BYOD wireless network is controlled at Southend by an MDM solution and Active Directory (AD) authentication, whilst current Basildon and Mid Essex employ Active Directory (AD) authentication. This means that the device has been stringently reviewed and constantly monitored for security compliance as well as the user must already have a Trust IT access account and any unauthorised users who try to connect will not be able to do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.5 Any additional applications that will be made available via the BYOD wireless network will be assessed for information governance risk and appropriate measures put in place."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Obligations of staff and line managers on termination of employment"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1  When the user leaves the Trust it is the responsibility of the user or their line manager to inform IT so the BYOD access can be revoked. This is necessary to ensure the personal device is no longer able to access the BYOD wireless network."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "No specific training requirements have been identified however staff are expected to ensure that they keep up to date regarding IG and IT/Cyber security update emails and messages published in staff circulars."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "In addition to the legal liabilities outlined above, staff who breach any of the terms of this policy may be subject to disciplinary action."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Access by BYOD device to Trust infrastructure will be monitored as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "type": "table",
+            "sequence_num": 112,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Responsibility for monitoring"
+                    },
+                    {
+                        "text": "Frequency of monitoring"
+                    },
+                    {
+                        "text": "Findings/ monitoring report recipients"
+                    },
+                    {
+                        "text": "Responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Network Monitoring"
+                    },
+                    {
+                        "text": "Real-time automated monitoring systems"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Real-time"
+                    },
+                    {
+                        "text": "Network Team"
+                    },
+                    {
+                        "text": "Group Head of Digital Services"
+                    },
+                    {
+                        "text": "Wireless Network Monitoring"
+                    },
+                    {
+                        "text": "Automated monitoring systems"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Real-time"
+                    },
+                    {
+                        "text": "Network Team"
+                    },
+                    {
+                        "text": "Group Head of Digital Services"
+                    },
+                    {
+                        "text": "End-user Access Controls"
+                    },
+                    {
+                        "text": "Network and system access control utilities"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Real-time"
+                    },
+                    {
+                        "text": "Network Team"
+                    },
+                    {
+                        "text": "Group Head of Digital Services"
+                    },
+                    {
+                        "text": "Internet Acceptable use"
+                    },
+                    {
+                        "text": "Internet content filtering software"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Automated 24/7 monitoring"
+                    },
+                    {
+                        "text": "Network Team"
+                    },
+                    {
+                        "text": "Group Head of Digital Services &/or Line Managers as appropriate"
+                    },
+                    {
+                        "text": "Mobile Security"
+                    },
+                    {
+                        "text": "MDM console"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Automated 24/7 monitoring"
+                    },
+                    {
+                        "text": "Desktop Engineers & Network Team"
+                    },
+                    {
+                        "text": "Group Head of Digital Services"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "The following legislation will also apply to this policy (due to continual changes in legislation this list is not exhaustive):"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Protection Act 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Human Rights Act 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regulation of Investigatory Powers Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Telecommunications Regulations 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection from Harassment Act 1997"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Defamation Act 1996"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Disability Discrimination Act (DDA) 2005"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Equality Act 2010"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Copyright, Designs and Patents Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Obscene Publications Act 1959"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection of Children Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Criminal Justice Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Computer Misuse Act 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Health Records 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Medical Reports Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ISO / IEC 27001:2005 Section A.10.8.4"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Freedom of Information Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy has been reviewed and quality assessed, see appendix 3"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "10 Equality Impact Assessment (EIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "This policy has been reviewed and there is no impact noted based on the content of this document, see appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "type": "image",
+            "sequence_num": 136,
+            "data": {
+                "url": "MSBPO-18005 Bring Your Own Device (BYOD) Policy 1.0.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "EIA assessment - BYOD Policy Apr2018."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Approved Mobile Devices for BYOD Access"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "1) Trust issued devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust may issue devices that can be used for access on the BYOD wireless network. This device will be specific to the business units' requirements and be in line with the approved personal mobile device list below."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2) Approved personal mobile devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following is the list of personal mobile devices currently authorised for access to the Trust BYOD wireless network."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The devices must be used in line with the guidelines in the BYOD policy including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The mobile operating system (OS) must be uncompromised at the OS level (iOS jail breaking, Android rooting)."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The desktop OS must be fully security patched."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The OS and any additional storage must be encrypted."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The  desktop  OS  must  have  anti-virus  (AV)  software  installed  and  updated regularly."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "type": "table",
+            "sequence_num": 148,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Manufacturer"
+                    },
+                    {
+                        "text": "OS Version"
+                    },
+                    {
+                        "text": "OS Type"
+                    },
+                    {
+                        "text": "Date Approved"
+                    },
+                    {
+                        "text": "Apple"
+                    },
+                    {
+                        "text": "iOS 9.0 or later"
+                    },
+                    {
+                        "text": "Mobile"
+                    },
+                    {
+                        "text": "16/01/2018"
+                    },
+                    {
+                        "text": "Google"
+                    },
+                    {
+                        "text": "Android 4.2 or later"
+                    },
+                    {
+                        "text": "Mobile"
+                    },
+                    {
+                        "text": "16/01/2018"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document Title: Bring Your Own Device (BYOD) Policy / Register no: MSBPO-18005 / version: 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "11 Appendix 2: BYOD Approved Local Applications Summary"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "type": "image",
+            "sequence_num": 152,
+            "data": {
+                "url": "MSBPO-18005 Bring Your Own Device (BYOD) Policy 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "1) Mid Essex"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "type": "table",
+            "sequence_num": 154,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "Trust Email"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Active Sync"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "IT 3rd Line"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "Access is only provided once line manager has authorised"
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "Emails"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "Yes"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 155,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "Exchange"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "OWA"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "IT 3rd Line"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "Access is provided once line manager has authorised."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 156,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "Employee On Line"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Local device web browser"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "Sue Blunsten"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "System is in the cloud all staff have access."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 157,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "VMWare Horizon"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Local device web browser"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "IT 3rd Line"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "Access is provided once line manager has authorised. Provides access to trust systems via a secure \u201cbubble\u201d."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2) Southend"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "type": "table",
+            "sequence_num": 160,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "C4C"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Local device web browser"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "Allison Herve"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "Mark.Lambourne@pmsnet.com 01608 647100"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "At the current time the users will be using the iPads to browse to the web site that has been installed on your own server (so there is no internet access). The only data that is displayed on the device by our web pages is site information (the functional areas in the property, and the rooms in those areas), however this information is NOT stored anywhere on the device (it is just displayed within the pages themselves). The users will then mark off any elements within the selected room that are found to be not clean (i.e., the locker is dirty, the window is smeared, etc.) and these results are then saved back up to the server with nothing being saved/left on the device. For your information though, we are in the process of creating an application that WILL store the above data (what elements were found to be not clean in which rooms/areas) on the mobile device (this has not been completed yet and so Allison and her colleagues do not have it). We do not think though that this is critical or sensitive information. In short, we do not believe that any sensitive (or critical) information is held on the mobile device in relation to carrying out C4C audits (now or in the future)."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "NA"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 161,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "CAFM"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Local device web browser"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "Nicky Kitchener"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "Justin.Wiggill@cafmexplorer.com 01293 560056"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "Anyone using the devices will need to logon using a username and password before accessing any data. The only way I could see that the data would be compromised is if the users save there username and password when initially logging on to the application."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "User Password"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No - Users are advised not to cache passwords in this policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 162,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "NerveCentre"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Local device web browser"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "Jackie Hawes"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "Nervecentre Software <support@nervecentresoftware.com>"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "We store the username of the user after login, and we cache the static elements of web pages. We do not store patient data."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "Username"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 163,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "NerveCentre"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "iOS Application"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "Jackie Hawes"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "Nervecentre Software <support@nervecentresoftware.com>"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "On the device, the only thing that that we store on the phone is the user ID of the last user that logged in (and this is shown on the start screen, so anybody can see it) There is also a small database but this only holds sequence numbers for comet updates (i.e. communicating with the Nervecentre server) and the UDID/APN ID (used for communicating with Apple Push Notification service). There is no patient identifiable data stored on the device"
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "User ID & sequence nos"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "3) Basildon"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "type": "table",
+            "sequence_num": 165,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "Exchange"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "Active Sync"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "IT 3rd Line"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "Access is provided after IG approval and licences purchased. Access is controlled by Active Directory."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "Emails"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "Yes"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "System"
+                    },
+                    {
+                        "text": "Exchange"
+                    },
+                    {
+                        "text": "Approved Access Method"
+                    },
+                    {
+                        "text": "OWA"
+                    },
+                    {
+                        "text": "System Manager"
+                    },
+                    {
+                        "text": "IT 3rd Line"
+                    },
+                    {
+                        "text": "Supplier Contact"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "Supplier Statement"
+                    },
+                    {
+                        "text": "Access is provided after IG approval and licences purchased. Access is controlled by Active Directory."
+                    },
+                    {
+                        "text": "Data Stored Locally?"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "Data Type"
+                    },
+                    {
+                        "text": "Emails"
+                    },
+                    {
+                        "text": "Contains PII?"
+                    },
+                    {
+                        "text": "Yes"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Appendix 3, Quality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed:"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Digital Services Bring Your Own Device (BYOD) Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "type": "table",
+            "sequence_num": 171,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1.0 Benefits"
+                    },
+                    {
+                        "text": "1.1. What evidence has been used to develop this proposal (e.g. NICE, NCEPOD, audit, patient or staff surveys?)"
+                    },
+                    {
+                        "text": "IG Toolkit General Data Protection Regulation (GDPR) Best Practice"
+                    },
+                    {
+                        "text": "1.2. What changes does this proposal make to the care pathway?"
+                    },
+                    {
+                        "text": "Supports the robust delivery of IT services and systems"
+                    },
+                    {
+                        "text": "1.3. Describe the positive impact on: Patient safety Clinical effectiveness Patient experience"
+                    },
+                    {
+                        "text": "Ensures that systems are delivered and accessed on appropriately authorised staff devices Enables improved staff access to systems and data increasing efficiency N/A"
+                    },
+                    {
+                        "text": "1.4. What current or new clinical outcome measures will monitor these benefits?"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "2.0 Impact Assessment"
+                    },
+                    {
+                        "text": "2.1. Describe how the impact of the change has been considered in relation to: Infection Prevention and Control Safeguarding vulnerable adults/ children Current quality indicators Quality Account priorities Patients/ carers/ members of the public Promoting self-care for people with long-term conditions Tackling health inequalities"
+                    },
+                    {
+                        "text": "Supports compliance to IG Toolkit, General Data Protection Regulation (GDPR) and Best Practice standards"
+                    },
+                    {
+                        "text": "2.2. How will you monitor the impact of this proposal? (Provide details of how this will be done, by whom, and when)"
+                    },
+                    {
+                        "text": "Trigger points early warning indicators"
+                    },
+                    {
+                        "text": "Escalate to ?"
+                    },
+                    {
+                        "text": "When ?"
+                    },
+                    {
+                        "text": "Responsible person"
+                    },
+                    {
+                        "text": "Staff not engaging with the defined policy"
+                    },
+                    {
+                        "text": "Digital Services and/or Information Governance Meetings"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Persons who identified non- compliance to defined policy"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Appendix 4, Equality Impact Assessment (EIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed:"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Digital Services Bring Your Own Device (BYOD) Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "type": "table",
+            "sequence_num": 175,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Equality or human rights concern."
+                    },
+                    {
+                        "text": "Does this item have any differential impact on the equality groups listed? Brief description of impact."
+                    },
+                    {
+                        "text": "How is this impact being addressed?"
+                    },
+                    {
+                        "text": "Gender"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Race and ethnicity"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Disability"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Religion, faith and belief"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sexual orientation"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transgender people"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Social class"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Carers"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Date of assessment:  25/04/2018 Names of Assessor (s)   Kate Thompson"
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        }
+    ]
+}

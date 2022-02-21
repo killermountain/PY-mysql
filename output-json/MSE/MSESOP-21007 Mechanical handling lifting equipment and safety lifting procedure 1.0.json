@@ -1,0 +1,2388 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-21007 Mechanical handling lifting equipment and safety lifting procedure 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "MECHANICAL HANDLING, LIFTING EQUIPMENT, ACCESSORIES AND SAFE LIFTING PROCEDURE"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-21007"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "16 June 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "15 June 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "LOLER, Lifting, Contractors, Equipment Accessories, Danger Tags,"
+                    },
+                    {
+                        "text": "Developed in response to: (National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Lifting Operations and Lifting Equipment Regulations 1998"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12, 17"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Estates and Facilities"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Phil Robson"
+                    },
+                    {
+                        "text": "EFM Site Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Health and Safety Management Group (Chairs action)"
+                    },
+                    {
+                        "text": "11 June 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "John Henry"
+                    },
+                    {
+                        "text": "Senior Director of Estates and Facilities"
+                    },
+                    {
+                        "text": "11 June 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "15 June 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-21007 Mechanical handling lifting equipment and safety lifting procedure 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: (Must include Specialist Pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Greg Niccol"
+                    },
+                    {
+                        "text": "Head of Compliance"
+                    },
+                    {
+                        "text": "28 May 2021"
+                    },
+                    {
+                        "text": "John Allen"
+                    },
+                    {
+                        "text": "Hospital Engineer"
+                    },
+                    {
+                        "text": "28 May 2021"
+                    },
+                    {
+                        "text": "Bob Hocking"
+                    },
+                    {
+                        "text": "Electrical Supervisor"
+                    },
+                    {
+                        "text": "28 May 2021"
+                    },
+                    {
+                        "text": "Paul Major"
+                    },
+                    {
+                        "text": "Maintenance Manager"
+                    },
+                    {
+                        "text": "28 May 2021"
+                    },
+                    {
+                        "text": "Paul Lander"
+                    },
+                    {
+                        "text": "Maintenance Engineer"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "Sam Wallace"
+                    },
+                    {
+                        "text": "Maintenance Manager"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "Gary Bardsley"
+                    },
+                    {
+                        "text": "Site Manager"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "Phil Hope"
+                    },
+                    {
+                        "text": "H&S Manager"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "David Needs"
+                    },
+                    {
+                        "text": "H&S advisor"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "Phil Robson"
+                    },
+                    {
+                        "text": "Site Manager"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "Steve Taylor"
+                    },
+                    {
+                        "text": "Electrical supervisor"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    },
+                    {
+                        "text": "Bill Hurst"
+                    },
+                    {
+                        "text": "Maintenance Manager"
+                    },
+                    {
+                        "text": "24 March 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Committee if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Health and Safety Management Group"
+                    },
+                    {
+                        "text": "28 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSEPO-20209 Health and safety policy MSEPO-20201 Personal protective equipment policy MSEPO-21014 Control of contractors policy/procedure MSEPO-21096 Control of lifts policy MSEPO-21094 Linen policy MSEPO-19015 Procedure report management of incidents and serious incidents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Phil Robson"
+                    },
+                    {
+                        "text": "16 June 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................. 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and Responsibilities within the Trust............................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Lifting Equipment ....................................................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements ............................................................................................. 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit ................................................................................................ 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and Implementation ................................................................................. 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality Impact Assessment ................................................................................... 14 10 References ................................................................................................................ 14 Appendix 1: Example Lifting Register ........................................................................... 15 Appendix 2: Danger Tags ................................................................................................ 16 Appendix 3: Preliminary Equality Analysis ................................................................... 17"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "1.1. This policy Trust's commitment under the Health & Safety at Work Act 1974, the Management of Health and Safety at Work Regulations 1998, the Lifting Operations and Lifting Equipment Regulations 1998 (LOLER) and the Provision and Use of Work Equipment Regulations 1998 (PUWER) for safeguarding health and safety in the workplace."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.2. Lifting equipment includes any equipment used at work for lifting or lowering loads, including attachments used for anchoring, fixing or supporting it. The Regulations cover a wide range of equipment including, cranes, forklift trucks, lifts, hoists, mobile elevating work platforms, and vehicle inspection platform hoists. The definition also includes lifting accessories such as chains, block and tackle, slings, eyebolts, hoists etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "1.3. Passenger and goods lifts arrangements are covered specifically within MSEPO- 21096 Control of lifts policy and will excluded from this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To detail the requirements for possession and use of lifting equipment and lifting accessories;"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure all relevant staff area aware of who is responsible for what in regards to lifting equipment, accessories and safe lifting techniques;"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To detail the safe system of work for lifting."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Staff"
+                    },
+                    {
+                        "text": "Direct employees of Mid and South Essex NHS Foundation Trust"
+                    },
+                    {
+                        "text": "HTM"
+                    },
+                    {
+                        "text": "Health Technical Memorandums"
+                    },
+                    {
+                        "text": "EFM"
+                    },
+                    {
+                        "text": "Estates & Facilities Management Directorate"
+                    },
+                    {
+                        "text": "PPE"
+                    },
+                    {
+                        "text": "Personal Protective Equipment"
+                    },
+                    {
+                        "text": "LOLER"
+                    },
+                    {
+                        "text": "Lifting Operations and Lifting Equipment Regulations 1998"
+                    },
+                    {
+                        "text": "MEWPS"
+                    },
+                    {
+                        "text": "Mobile elevating work platforms"
+                    },
+                    {
+                        "text": "PUWER"
+                    },
+                    {
+                        "text": "Provision and Use of Work Equipment Regulations 1998"
+                    },
+                    {
+                        "text": "CP"
+                    },
+                    {
+                        "text": "Competent Person"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Health and Safety Management Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To receive audit reports against this procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure shortfalls highlighted in the audits are being addressed in a timely manner"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Chief Executive is responsible for safety of services provided by the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Senior Director of Estates and Facilities has the ultimate responsibility for the implementation of this procedure to ensure a robust process of lifting equipment, accessories and safe lifting operations"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Site Managers/ Project Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the case of contractors under their responsibility, to ensure adherence to this procedure and others relating to safe working practices."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure contractors maintain a record of all lifting equipment and lifting accessories used in project work and make readily available for audit purposes upon request. This record is to include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the provision of appropriate lifting equipment and accessories in relation to the load"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Purchase or hire of new lifting equipment and accessories where necessary"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure staff are competent and trained in the tasks required of them"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Estates and Facilities Supervisors and Team Leaders"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that this procedure is implemented within their area of responsibility"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure compliance in regards to equipment and lifting techniques where required (will act as Competent Person on occasion)"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Address shortfalls highlighted by Estates and Facilities Maintenance Operatives"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the case of contractors under their responsibility to ensure they adhere to this procedure and others relating to safe working practices."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure lifting equipment register is updated and reviewed and made available to relevant insurance inspection body upon request."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Issue of Danger Tags for all damaged items and evidence of actions taken, placed on the Lifting Register"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Individual marking of lifting equipment and accessories with unique identification numbers, safe working loads and inspection dates"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "records of inspection of all lifting equipment and lifting accessories at regular intervals:"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Health and Safety Advisors"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will provide tool box talks to those involved with lifting operations and ensure attendance registers are provided to the person responsible for training"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assist with producing risk assessments for Competent Persons where required"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To give up to date health and safety guidance"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure danger tags are always available"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Audit the day to day function of this procedure to ensure compliance is achieved"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review all non-patient Health and Safety incidents arising from Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and Use of Mechanical Handling and Lifting Equipment Contractors and present investigation findings to the Health and Safety Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Competent Persons"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure adherence to this procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Advise their manager of any shortfalls"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will undertake training for lifting operations and equipment by a suitable method"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Be responsible for their own danger tags"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Complete pre-use checks on all lifting equipment and accessories"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Using lifting equipment in a manner in which they have been trained"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all lifting equipment is returned to safe storage area"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To only use the lifting equipment for the manner in which it was intended (Safe Working Load)"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contractors"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that their employees are aware of, and comply with this procedure and other procedures or policies which are relevant to them and the works they are to undertake"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that there are risk and methods statements in place for any lifting operations"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Medical Lifting Equipment- Responsibilities of Medical Equipment Management Service (MEMS) and or Clinical staff / users"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Ensure that:"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All hoists and slings are used and maintained in accordance with the manufacturer's instructions"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All sling and hoist combinations are compatible and appropriate for the patient and that risk assessments are repeated if the equipment combination or the patient's condition changes"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All hoists and slings are visually inspected before use and are removed from service if defects are found"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical staff to check service dates before use"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MEMS Medical Equipment training coordinator will provide training of usage of specialist patient lifting equipment."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MEMS will maintain asset registers of medical equipment and hold service records"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MEMS Service desk can be contacted for repair of faulty equipment or arrange for specialist external repair (equipment) service to be undertaken."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All slings are cleaned in accordance with the manufacturer's instructions"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All hoists and slings (accessories) are inspected by a competent person every month as outlined in the Lifting Operations and Lifting Equipment Regulations (LOLER)"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Linen Service manager and team"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Launder reusable patient slings in accordance with manufacturer's instructions"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "All Employees"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Fulfil their legal duty under the Health and Safety at Work etc. Act1974."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Be aware of Management of Health and Safety at Work regulations (MHSW) 1999"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report unsafe conditions and unsafe act to their line manager and complete an incident form as appropriate"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Lifting equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "General considerations to meet LOLER requirements The lifting equipment should be:"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sufficiently strong, stable and suitable for the proposed use. Similarly, the load and anything attached (e.g. timber pallets, lifting points) must be suitable."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Positioned or installed to prevent the risk of injury, e.g. from the equipment or the load falling or striking people."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Visibly marked with any appropriate information to be taken into account for its safe use, e.g. safe working loads. Accessories, eg slings, clamps etc. should be similarly marked."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Risk Assessment of Lifting Operations - the Management of Health & Safety at Work Regulations require a risk assessment to be carried out to identify the nature and level of risks associated with a lifting operation. Such a risk assessment will assist in selection of the most appropriate lifting equipment for the lifting operation, and should be carried out by a competent risk assessor in accordance with the Risk Management Strategy, and will need to consider;"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The type of load being lifted, the load weight, shape, size, stability (could the load shift?), start/end positions and the environment;"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The risk of a load falling or striking a person or object and the consequences;"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The risk of the lifting equipment striking a person or some other object and the consequences"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The risk of the lifting equipment failing or falling over while in use and the consequences;"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "See the Trust Policy for a suitable risk assessment form and methodology/guidelines"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Pre-use checks of lifting equipment - although lifting equipment is thoroughly examined for defects at prescribed intervals, the user of any lifting equipment shall carry out pre-use checks, to ensure that the equipment appears to be in good order. It is the responsibility of the CP to inspect the lifting equipment / lifting accessories."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following are points that need to be inspected:"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Signs of Physical Damage"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deformation"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cut or loose braiding"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Loose/ missing parts"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Presence of identification labels/tags"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Validity of inspection date"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Presence of dangers tags"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any apparent defect must be reported immediately to their Maintenance manager or responsible person, and the equipment danger tagged and put out of use."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Note that new equipment should be CE marked and be supplied with a Declaration of Conformity and instructions in English."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Examination and Inspection (Legislative requirements)"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In order to verify that lifting equipment and accessories remain safe for use, and to detect and remedy any deterioration in good time, thorough examinations are required throughout the lifetime of the lifting equipment, including examinations:"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Before use for the first time - unless the equipment has an EC Declaration of Conformity less than one year old and the equipment was not assembled on site. If it was assembled on site, it must be examined by a competent person to ensure that the assembly (eg a platform lift installed in a building) was completed correctly and safely"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "after assembly and before use at each location - for equipment that requires assembly or installation before use, eg tower cranes."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "regularly, while in service - Most lifting equipment will be subject to wear and tear and so will need regular in-service examination. Unless there is an 'examination scheme' specifying other intervals, thorough examinations should be conducted:"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Safe Use of Lifting Equipment and Accessories"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CP will conduct all manual lifting operations in line with their manual handling training and in accordance with the risk and methods statement. Working areas will be cordoned off with barriers to prevent others from entering into the area. Lifting equipment and lifting accessories will not be overloaded or used in a way as they were not designed to be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CP will ensure themselves and others do not stand under suspended loads."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CP will wear the correct PPE i.e. gloves, hard hat and protective footwear as minimum and as directed or advised via risk and method statements of H&S advisors."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "EFM Maintenance Engineers are not permitted to lend lifting equipment or lifting accessories to untrained personnel or external contractors."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Danger Tagging"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any damage to lifting equipment or lifting accessories will require the competent person (CP) to danger tag the item and take it out of use."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Danger tags are available from EFM H&S Advisors. Danger tags are required to be dated, signed and printed and attached to the lifting attachment or in the case of lifting equipment, a location which is visible to potential users. (Refer to Appendix 2)"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Danger tags may only be removed by the CP or EFM H&S advisor in their absence."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "New / Hired Lifting Equipment and Accessories"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.7.1 New Lifting Equipment & Accessories"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When new lifting equipment or lifting accessories are purchased, they must be accompanied by a certificate of conformance. This will give details including the year  of  manufacture,  safe  working load  and  unique  identification  number.  This Certificate must be received by the EFM H&S advisor and stored in the Lifting Register."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regularity of inspection:"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "type": "image",
+            "sequence_num": 127,
+            "data": {
+                "url": "MSESOP-21007 Mechanical handling lifting equipment and safety lifting procedure 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "Trust Manager responsible for equipment will arrange for the thorough examination to be carried out by a competent body (usually a specialist insurance contractor), at regular intervals (either at least every 6 months or  months depending on whether the  lifting  equipment  is  for  lifting  people  or  not);  or  in  accordance  with  an examination scheme drawn up by a competent person."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Accessories for lifting must be thoroughly examined either at least every 6 months or in accordance with an examination scheme."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All documentation will be filed within the relevant filing system depending on site."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.7.2 Hired Lifting Equipment & Accessories"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In some cases it is required that lifting equipment or lifting accessories are hired from external companies. It must be ensured by the person(s) hiring the equipment that it is accompanied by a valid certificate of thorough examination. Evidence must be placed on the lifting register (separate register for hired equipment)."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Storage"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A dedicated storage location will be given for all lifting equipment and lifting accessories to ensure that those that are not trained to use it do not have access."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is the responsibility of the CP to ensure the lifting equipment and accessory is returned to the dedicated location after use."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Contractors Lifting Equipment & Accessories"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Some works carried out by contractors employed by the Trust will require the use of their own lifting equipment and lifting accessories. These will be controlled and removed at the end of works by the Contractor."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Spot checks should be undertaken, from time to time, by the Maintenance manager or Responsible person to assure lifting equipment in use by contractors has working limits clearly marked, have been subject to timely inspection, and are in good order."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "EFM Lifting Equipment Register"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Details of all respective lifting equipment and lifting accessories will be kept on file by EFM Maintenance and MEMS. All lifting equipment will be tested annually and lifting accessories bi-annually. Operatives should take ownership of items that are used for lifting, if any faults or damage is detected during testing then items must be immediately taken out of use, danger tagged and the details placed on the lifting register or reported to the MEMS helpdesk (for medical equipment)"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.11,
+                "text": "Medical Equipment & Accessories considerations"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Slings must be laundered/washed by methods not in accordance with the manufacturer's instructions. Failure to do so can produce weaknesses in the slings and their mounting systems, leading to subsequent failure in use."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Single-use slings are not manufactured to be laundered and reused. Patients being lifted in these slings could be put at increased risk"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MEMS will arrange for / advise thorough inspection of medical equipment to include component parts to include i.e. Hoist electric actuator electric actuator had exceeded its manufacturer's cyclic design life. The hoist was kept in service following the inspection without the actuator being changed, which subsequently failed in use"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.12,
+                "text": "General lifting operation rules"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No person shall operate lifting appliances, without the prior approval of the authorising personnel."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Only staff or contractors who satisfy the authorising Responsible Person(s) that they are competent and fit shall be allowed to work with lifting appliances/gear."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where work requires entry into any plant/compressor room, a second person will always be present and the procedure for \"entry into confined spaces\" may be invoked."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When the work task is complete, the tools and safety equipment will be cleaned in situ if appropriate, then stored in a safe, dry location."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Areas immediately surrounding the work place will be tidied and thoroughly cleaned if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When specialist contractors are called to a site the Authorising Responsible Person must ensure they are aware of Trust/Estates procedures including safe systems of work."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The safe working load (SWL) must be plainly marked on all appliances and lifting gear and this load must NOT be exceeded."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Manufacturers recommendations on the use of lifting appliances in high winds e.g. Estates use of Mobile Elevating Work Platforms (MEWP's \u2013 \u2018Cherry Pickers'), must be noted and the machine shall not be operated in excess of these limits."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hard standing to be used for the location of lifting appliances must be levelled out and be of sufficient strength. Levels must be constantly checked to ensure that there are no signs of subsidence etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Special precautions may be necessary to ensure that persons working from lifting appliances (particularly platforms \u2013 MEWP's) are not in danger from overhead cables or similar obstructions. When working from \u2018Cherry Pickers' operatives must wear a safety harness and must be clipped on."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Diversionary routes may be required on Trust premises to re-route other vehicles away from the area occupied by the lifting appliance."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the work area is in a public place then protective barriers shall be erected to ensure that members of the general public are not put at risk."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operatives must ensure that all persons are kept clear of the lifting area."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Controls must always be operated smoothly, since shock loading may result in overloading the appliance thus affecting its stability."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No person under the age of 18 years shall be permitted to operate a lifting appliance"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.13,
+                "text": "Records"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The Maintenance manager shall keep suitable records to demonstrate compliance with LOLER and PUWER, including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "type": "table",
+            "sequence_num": 163,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Management Procedures"
+                    },
+                    {
+                        "text": "A copy of the current Policy and Procedure for Safe Management and Use of Mechanical Handling and Lifting Equipment A copy of the letter of appointment from the Senior Director of Estates to the Responsible Person (LOLER) Details of the arrangements made for provision of a Competent Person inspection service for lifting equipment Records of any relevant staff training on LOLER;"
+                    },
+                    {
+                        "text": "Servicing and Repair"
+                    },
+                    {
+                        "text": "A copy of the schedule for PPM Details of arrangements for servicing and repair of lifts, lifting equipment and other equipment covered under PUWER Copies of any Permit to Work issued"
+                    },
+                    {
+                        "text": "Inspection Records"
+                    },
+                    {
+                        "text": "For each item, copies of any available Declarations of Conformity, test certificates, etc.; For each system/item, copies of all previous inspection reports by the Competent Person. Where defects have been remedied, reports shall be endorsed, initialed and dated to confirm that the remedial action is completed;"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Competency \u2013 Training"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.1 EFM Maintenance Operatives required undertaking lifting operations will be trained via an accredited trainer (or the equipment supplier for specialist equipment) in safe lifting techniques, to enable them to be a Competent Person (CP)."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.2 Training for clinical staff using equipment will be carried out by the manual handling team."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.3 All training documentation will be held in the operators personnel file and details of training recorded on the site based training system. Refresher training will be conducted at an interval of not greater than 3 years."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "type": "table",
+            "sequence_num": 171,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitorin g report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Adherence to legislative requirements"
+                    },
+                    {
+                        "text": "Inspections"
+                    },
+                    {
+                        "text": "Competent body"
+                    },
+                    {
+                        "text": "6 monthly for lifting accessories and lifts, 12 months for other"
+                    },
+                    {
+                        "text": "EFM Board"
+                    },
+                    {
+                        "text": "EFM Board"
+                    },
+                    {
+                        "text": "Adherence to legislative requirements"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Authorising Engineer"
+                    },
+                    {
+                        "text": "Yearly"
+                    },
+                    {
+                        "text": "EFM Board"
+                    },
+                    {
+                        "text": "EFM Board"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All policies, procedures and guidelines will be approved by the Health and Safety Management Group which is the specialist group with the authority to approve local policies and procedures. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "It is the author's responsibility to inform the Health and Safety Management Group of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Safety at Work etc Act 1974"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provision and Use of Work Equipment Regulations Management of Health & Safety at Work Regulation 1999 Lifting Operations and Lifting Equipment Regulations 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Example lifting register"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "type": "table",
+            "sequence_num": 182,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Lifting Item Number"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Date received"
+                    },
+                    {
+                        "text": "Calibration/Replacement due date"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Danger tags"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "type": "image",
+            "sequence_num": 184,
+            "data": {
+                "url": "MSESOP-21007 Mechanical handling lifting equipment and safety lifting procedure 1.0.004.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mechanical handling, lifting equipment, accessories and safe lifting procedure / MSESOP-21007 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mechanical handling, lifting equipment, accessories and safe lifting procedure / MSESOP-21007 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Mechanical handling, lifting equipment, accessories and safe lifting procedure / MSESOP-21007 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "type": "table",
+            "sequence_num": 190,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 191,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "site based policies into 1 MSE version"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To align all documents under the MSE structure"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "All staff"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "no"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "EFM board members/ Health and Safety Management group. Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 192,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Hayley Beare"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "BSI Lead"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        }
+    ]
+}

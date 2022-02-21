@@ -1,0 +1,1658 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-21016 Privacy impact assessment procedure 2.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document title:"
+                    },
+                    {
+                        "text": "DATA PRIVACY IMPACT ASSESSMENT PROCEDURE"
+                    },
+                    {
+                        "text": "Document reference/register no:"
+                    },
+                    {
+                        "text": "MSESOP-21016"
+                    },
+                    {
+                        "text": "Version number:"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Staff"
+                    },
+                    {
+                        "text": "Ratification issue date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "22 December 2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "21 December 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "DPIA, data privacy impact assessment"
+                    },
+                    {
+                        "text": "Developed in response to: (National guidance/recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit. General Data Protection Regulation (GDPR). Best Practice. BS ISO/IEC 27002:2005 Information technology \u2013 security techniques \u2013 Code of practice for information security management"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "17"
+                    },
+                    {
+                        "text": "Care group/division:"
+                    },
+                    {
+                        "text": "Digital Services"
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Author/contact: (asset administrator)"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance (IG) (MSE)"
+                    },
+                    {
+                        "text": "Hospital sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval group/ committee(s):"
+                    },
+                    {
+                        "text": "Information Governance and Cyber Security Steering Group (IG and CSSG)"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Professionally approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Martin Callingham"
+                    },
+                    {
+                        "text": "Senior Information Risk Owner and Chief Information Officer"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Ratification group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "21 December 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and clinical directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "January 2021"
+                    },
+                    {
+                        "text": "Distribution method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Privacy impact assessment procedure/MSESOP-21016/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted with: (Must include specialist pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Angela Bridges"
+                    },
+                    {
+                        "text": "Site Information Governance Manager, Southend"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Site Information Governance Manager, Mid Essex"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust documents (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSEPO-21163 Information lifecycle management policy MSEPO-21164 Information governance and management policy MSBPO-18005 Bring your own device (BYOD) Policy MSBPO-18006 Information technology (Cyber) security policy MSBPO-18007 Email Policy MSBPO-18014 DS Password Policy MSBPO-18015 DS User access and acceptable usage of it policy MSEPRO-19005 EFM Freedom of information request procedure MSEPO-19013 MSE IG staff handbook MSBPO-19023 Change management policy (digital services) MSEPO-20212 Data quality policy MSEPO-20222 Disciplinary policy MSEPO-20225 Access to healthcare records policy MSEPO-21064 Use of social media policy MSEPO-20424 Risk management strategy MSEPO-21092 Risk management policy and procedure MSEPO-20243 Freedom of information policy MSEPO-19013 Staff information governance handbook MSEPO-21233 Policy and procedure for access and use of patient identifiable data for secondary use Information governance strategy or equivalent"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document review history:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Initial draft created to replace the following policies: Basildon: IM/PC/00022 Data Protection Compliance of New Processes, Hardware and Software. Southend: N/A: No evidence of similar policy. MEHT: 09032 Introduction of New Technologies"
+                    },
+                    {
+                        "text": "12 September 2018"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Removed appendix 1; contents page updated"
+                    },
+                    {
+                        "text": "03 August 2020"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Document title amended to include the word \u2018Data'. Removal of pre-merger site details and replaced with merged site details throughout the document. Amendment of PIA (Privacy Impact Assessment to DPIA (Data Privacy Impact Assessment) throughout the document. \u2018Related Trust Policies' updated with relevant policies. Section 5.1.6 \u2013 added text to inform reader to contact IG team with respect to high risk processes."
+                    },
+                    {
+                        "text": "24 December 2020"
+                    },
+                    {
+                        "text": "1.3"
+                    },
+                    {
+                        "text": "Matthew Barker"
+                    },
+                    {
+                        "text": "Amendments to related policies section."
+                    },
+                    {
+                        "text": "12 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 7,
+            "data": {
+                "url": "MSESOP-21016 Privacy impact assessment procedure 2.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Information added relating to pseudonymised data."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Minor amendments made throughout document, in line with policy review requirements."
+                    },
+                    {
+                        "text": "01 October 2021"
+                    },
+                    {
+                        "text": "2.0"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Document migrated to new template following review"
+                    },
+                    {
+                        "text": "22 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Policy requirements ...................................................................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Training requirements ................................................................................................. 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Monitoring and audit ................................................................................................... 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Approval and implementation ..................................................................................... 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Preliminary Equality Analysis ...................................................................................... 13  References ................................................................................................................. 13 Appendix 1: Preliminary equality analysis .......................................................................... 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Mid and South Essex NHS Foundation Trust (the Trust) handles the Personal and Special Category Data of patients and staff in the course of providing a healthcare service. Handling Personal/Special Category Data in a confidential manner that complies with legal requirements and the expectations of the public are a fundamental part of the Trust Information Governance Framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "A key part of ensuring that risks to the privacy of Personal/Special Category Data is assessed in a timely and structured manner is the use of a Data Privacy Impact Assessment (DPIA). A DPIA is a risk assessment tool that must be used at the start of all projects to identify and manage privacy concerns."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.3,
+                "text": "All NHS organisations have to demonstrate the use of such a structured privacy risk assessment tool as a mandatory requirement in the European Union General Data Protection Regulation/UK Data Protection legislation. In addition, the Information Commissioner's Office has laid down detailed instructions on how DPIAs should be used by Public Bodies."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "This document sets out the required procedure to undertake a Privacy Impact Assessment. It is recommended that specialist advice (i.e. that of the Trust Head of Information Governance, Site Information Governance Manager and relevant Digital Services personnel) be obtained at the appropriate points during the process."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "A Data Privacy Impact Assessment is a process that will assist an organisation to ensure that privacy concerns and safeguards are addressed and built in as a project or plan develops. This document covers conducting Data Privacy Impact Assessments for new projects and also includes modifications to existing systems (information assets)."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The scope of this document is to outline the approach and methodology for Data Privacy Impact Assessments for new and existing systems and processes. The DPIA template can be obtained from the Information Governance Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "The Government's Data Handling Review report contains a number of recommendations that are mandatory to the wider public sector. Part of the solution to reducing risk lies in ongoing culture change to ensure that information risk management is high on the agenda and the process of Data Privacy Impact Assessment is advocated as a means of achieving this."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "This DPIA guidance is effectively applicable to any member of staff who is responsible for project managing a new \u201cproject\u201d or \u201cplan\u201d to modify any system (information asset)."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "This is an important aspect of the role of Information Asset Owners. This document is also of benefit to those involved in the proposed change to the organisation's processes and systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.6,
+                "text": "This procedure applies to all staff, contractors and partner organisations working on behalf of the Trust that introduce new projects processes or systems that are likely to involve a new use or change the way in which Personal/Special Category Data is handled."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.7,
+                "text": "All new projects, processes and systems (including software and hardware) must comply with confidentiality, privacy and data protection requirements \u2013 \u201cPrivacy by Design\u201d, therefore before new processes or systems are introduced, they must be tested against these requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.8,
+                "text": "Compliance with confidentiality and data protection must be taken into account and there must also be a comprehensive consideration of potential impacts on information quality at the design phase of any new process or information assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.9,
+                "text": "Some of the considerations that must be taken into account are whether a new (or modified) project /process or information asset:"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has been developed AFTER obtaining the necessary consents from those whose Personal or Special Category Data is being used."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Affect the quality of personal information already collected, whether adversely or positively."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Allows Personal or Special Category Data to be checked for relevancy, accuracy and validity."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Incorporate a procedure to ensure that Personal or Special Category Data is disposed of through archiving or destruction when it is no longer required in line with Department of Health (Information Governance Alliance) retention and destruction guidelines (Records Management Code of Practice)."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Have an adequate level of security to ensure that Personal or Special Category Data is protected from unlawful or unauthorised access and from accidental loss, destruction, breaches of confidentiality or damage."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enable data retrieval to support business continuity in the event of emergencies or disasters."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enable the timely location and retrieval of Personal or Special Category Data to meet subject access requests."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Alter the way in which the organisation records or monitors and reports information from a key organisational system."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "type": "table",
+            "sequence_num": 43,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Data Privacy Impact Assessment"
+                    },
+                    {
+                        "text": "A risk technique advocated by the Information Commissioner's Office and mandated by the European Union General Data Protection Regulation to enable organisations to address privacy concerns and ensure appropriate safeguards are addressed and built in as projects or plans to develop existing information assets."
+                    },
+                    {
+                        "text": "Projects / plans to"
+                    },
+                    {
+                        "text": "Data Privacy Impact Assessments are required when new"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 44,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "develop"
+                    },
+                    {
+                        "text": "projects occur (for example introduction of a new electronic patient record) or where plans are proposed to develop an existing information asset. These can be both paper and electronic."
+                    },
+                    {
+                        "text": "Special Categories of Personal Data (Previously known as \u2018Sensitive data')"
+                    },
+                    {
+                        "text": "Under the General Data Protection Regulation this is Racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation."
+                    },
+                    {
+                        "text": "Personal data"
+                    },
+                    {
+                        "text": "Any information relating to an identified or identifiable natural person (\u2018data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person"
+                    },
+                    {
+                        "text": "Pseudonymised Data"
+                    },
+                    {
+                        "text": "Pseudonymisation takes the most identifying fields within a database and replaces them with artificial identifiers, or pseudonyms. For example, a name is replaced with a unique number. The purpose is to render the data record less identifying and therefore reduce concerns with data sharing and data retention. Note: Personal data that has been pseudonymised can fall within the scope of the GDPR depending on how difficult it is to attribute the pseudonym to a specific individual"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Senior Information Risk Owner (SIRO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Senior Information Risk Officer (SIRO) \u2013 Board appointed Chief Information Officer is responsible for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serious information risk management issues are brought to the Board for decision as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A lead or manager is in place to organise and enforce the Trust's approach to information risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written advice is provided to the Accountable Officer and appropriate Trust Boards regarding the information risk management content of the annual report and Statement of Internal Control (SIC)."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Information Asset Owners"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Asset Owners (IAO) are senior individuals involved in running the relevant business. Their roles include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Taking ownership of their local asset control, risk assessment and management processes for the information assets they own. This includes the identification, review and prioritisation of perceived risks and oversight of actions to mitigate those risks."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that staff and relevant others are aware of and comply with expected information governance and data protection working practices for the effective use of information assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As a result, they are able to understand and address risks to the information assets they \u2018own' and to provide assurance to the SIRO on the security, confidentiality, integrity and use of the assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Information Asset Administrators"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Asset Administrators (IAA) support the IAO by ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintenance of details and risk assessments relating to their nominated Information Assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring compliance with Data Protection Legislation \u2013 data sharing agreements within the local area."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recognising new information handling requirements (e.g. a new type of information arises) and that the IAO is consulted over appropriate procedures \u2013 e.g. completing/updating data flow mapping."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring information handling procedures are fit for purpose and are properly applied."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recognising potential or actual security incidents and consulting with the IAO."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "These roles would normally be undertaken by an operational member of staff who is responsible for one or more information assets reporting to their IAO, who is often the \u201cSystem Manager\u201d."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Head of Information Governance/Site Information Governance Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Head of Information Governance/Site Information Governance Manager will provide specialist advice as and when required for all aspects of Information Governance in relation to the project or change management process, including assistance with completion of the Data Privacy Impact Assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The Information Governance team will also be responsible for reviewing completed Data Privacy Impact Assessments prior to obtaining approval from the SIRO."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Digital Services"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Digital Services will be responsible for overseeing the Change Management Process involving any Information Technology aspects."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "General Staff Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff employed by the Trust must follow the requirements of this and related policies, particularly those relating to Information Governance. All health professionals must also meet their own professional codes of conduct in relation to confidentiality. Breaches of confidentiality, security alerts and so on relating to an information system should be assessed using this Data Privacy Impact Assessment process to provide assurance that information risk is being managed."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "When should a data privacy impact assessment be undertaken?"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Data Privacy Impact Assessments must be completed at an early stage of the project or planned modification to an existing process or information asset."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "A key aim is to ensure that full compliance with the checklists will be achieved as business processes and rules are specified during the course of the project."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "The appointed Information Asset Owner/Project Lead is responsible for ensuring that this is carried out with support and guidance from other individuals as relevant, i.e. Head of Information Governance/Site IG Manager and/or Digital Services Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "All Data Privacy Impact Assessments that require completion should be notified to the Head of Information Governance in order that the correct level and expertise/support can be provided to the process. The Head of Information Governance will ensure that the information system is recorded on the Trust's Information Asset Register, along with an allocated Information Asset Owner (also determined from the DPIA)."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "As a result of a completed Data Privacy Impact Assessment an action plan must be devised and written up for initial approval, subsequent auditing and monitoring by the Information Governance and Cyber Security Steering Group. This ensures that information risks are recorded with mitigation put in place and an annual review will also ensure on-going compliance with confidentiality, data protection and security."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.7,
+                "text": "If you identify a high risk when completing the Data Privacy Impact Assessment and you cannot mitigate that risk, the Information Commissioner's Office must be consulted before starting the processing. You will need to contact the Information Governance Team who will liaise with the Information Commissioner's Office in respect of high risk DPIAs."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Data privacy impact assessment process"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.9,
+                "text": "A non-exhaustive list of projects that would require a Data Privacy Impact Assessment includes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A new IT system for storing and accessing Personal or Special Category Data."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A data sharing initiative where multiple organisations seek to link sets of Personal or Special Category Data."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A proposal to identify people in a particular group or demographic and initiate a course of action."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Using existing Personal or Special Category Data for a new, unexpected or more intrusive purpose."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A new surveillance system, especially one which monitors members of the public, or the application of new technology to an existing system, for example adding number plate recognition capabilities to existing CCTV."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A new database which consolidates information held by separate parts of an organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Legislation, policy or strategies which will impact on privacy through the collection of use of information, or through surveillance or other monitoring."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use of data that appears to be pseudonymised or anonymised, but could be identifiable if combined with other information. Pseudonymisation is \u2018\u2026the process of distinguishing individuals in a dataset by using a unique identifier which does not reveal their \u2018real world' identity', and anonymisation \u2018the process of rendering data into a form which does not identify individuals and where identification is not likely to take place'. Note pseudonymised or anonymised must be used where possible and in accordance with Trust Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Answering a set of screening questions within \u201cStage 1 \u2013 Data Privacy Impact Assessment (DPIA) Initial Screening Questions\u201d document will identify whether there is any potential impact on privacy. A positive answer to any of the questions confirms that a full DPIA is required (Data Privacy Impact Assessment (Stage 2) document)."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.11,
+                "text": "If so, the Project Manager or Board (however these are defined, depending on the size of the project) must proactively consider how project management activity can address privacy issues. These must also be discussed with all appropriate stakeholders."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.12,
+                "text": "DPIAs must be conducted by someone who is introducing a new or significantly changed project, procurement, business case or departmental/team initiative that involves Personal or Special Category Data. The responsibility for carrying out the DPIA must be formally recorded and assigned by the Project Board / appropriately senior Manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.13,
+                "text": "The selection must be allocated to a member of the project team, with a strong understanding of the project or process itself."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.14,
+                "text": "Privacy implications must be considered at each phase of the life-cycle of a project. This may result in several DPIAs being completed or updated. It is for the Project Manager or Board to ensure this is effectively managed."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.15,
+                "text": "Not all DPIAs will relate to changes that require the production of a business case. Where a business case will be required by the Trust the approved DPIA (or nil return) should be appended to the case in line with the business case process."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.16,
+                "text": "When a DPIA is completed it must first be reviewed by the appropriate Project Board, and then be submitted to the Information Governance Team by email for triage."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.17,
+                "text": "For patient-based DPIAs, the IG Team will make a recommendation to the Caldicott Guardian, who acts as the Trust's conscience with regard to use of patient information and has ultimate sign-off for the processes using their information. For similar non-patient based DPIAs, such as (but not limited to) Human Resources, the sign-off will be undertaken by the Trust SIRO. The recommendations will be either approved or declined."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.18,
+                "text": "Once approved by the IG Team DPIA Panel and passed to the Caldicott Guardian / SIRO (as applicable), who will approve or decline it."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.19,
+                "text": "This process will continue cyclically until such time as the IG Team and Caldicott Guardian / SIRO (as applicable) are in agreement with the project's proposals."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "DPIAs must be retained by the Project Board / appropriate Senior Manager and form part of official Project Documentation where applicable."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.21,
+                "text": "The outcomes of a DPIA include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The identification of the project's privacy impacts."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appreciation of those impacts from the perspectives of all stakeholders."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "An understanding of the acceptability of the project and its features by the organisations and people that will be affected by it."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identification and assessment of less privacy-invasive alternatives."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identification of ways in which negative impacts on privacy can be avoided."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identification of ways to lessen negative impacts on privacy."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where negative impacts on privacy are unavoidable, clarity as to the business need that justifies them."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Documentation of the outcomes."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.22,
+                "text": "Compliance with the DPIA requirement is monitored by the IG Team, which regularly reviews incidents reported on the Trust incident management application to establish if they have been caused in whole or part by DPIAs not being appropriately completed. To ensure projects appropriate complete DPIAs, there will be IG membership / attendance / review of minutes at the Trust's various Digital Services groups."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Fundamental to the success of delivering a robust IG agenda across the Trust is the development of an IG-aware culture. Training is provided to all staff to promote this ethos. NHS Digital mandates that 95% of all staff must be trained."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "In addition to formal IG training, a layered approach to awareness is employed, acknowledging a broader understanding of training to encapsulate awareness raising. Some roles, such as SIRO, Caldicott Guardian, and IAOs are required to undertake regular training to remain current in their role."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The Information Governance Function will review all completed Data Privacy Impact Assessments using the process outlined in this document. Recommendations for improvement will be communicated to the Project Lead/Information Asset Owner and placed on the Risk Register if appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Regular reports relating to Data Privacy Impact Assessments will be presented at the Information Governance and Cyber Security Steering Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "The Trust will be requested to document compliance and provide assurance through the NHS Digital Data Security and Protection Toolkit assessment on an annual basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "type": "table",
+            "sequence_num": 118,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Data Privacy Impact Assessments"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Information Governance and Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Information Governance and Cyber Security Steering Group"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All policies, procedures and guidelines will be approved by the Information Governance and Cyber Security Steering Group (IG and CSSG), which is the specialist group with the authority to approve local policies and guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "It is the author's responsibility to inform the Information Governance and Cyber Security Steering Group (IG and CSSG) of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Commissioner Website: A Guide to Data Protection: Privacy by Design General Data Protection Regulation"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Protection Act 2018"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data privacy impact assessment procedure / MSESOP-21016 / 0.02"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data privacy impact assessment procedure / MSESOP-21016 / 0.02"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix1: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Data privacy impact assessment procedure / MSESOP-21016 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "type": "table",
+            "sequence_num": 133,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 134,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Amendments made following review of document"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To ensure the document contains current information"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "All staff by being made aware of the current DPIA requirements"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No this is of benefit to all staff wishing to introduce new or amend existing applications and/or business procedures."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 135,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "07 October 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        }
+    ]
+}

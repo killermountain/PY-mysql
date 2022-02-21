@@ -1,0 +1,1254 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21021"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "6.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "20/09/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "19/09/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group Chair approval: Dr Kabir"
+                    },
+                    {
+                        "text": "15/09/2020"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group \u2013 chairs action"
+                    },
+                    {
+                        "text": "20/09/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Anna Man, Principal pharmacist, Basildon"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Interleukin-6 inhibitors (Tocilizumab and Sarilumab) in COVID-19 initiation, supply and required monitoring in adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 2
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "General Information"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Tocilizumab and Sarilumab are both humanised monoclonal antibodies against the interleukin- 6 (IL-6) receptor. Previous commissioning policies recommended tocilizumab for severe or critical COVID-19, and Sarilumab for critical COVID-19. Updated policy now recommend that equal consideration is given to either drug for severe and critical COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Eligibility criteria"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients must meet all the eligibility criteria and none of the exclusion criteria. Hospitalised patients are eligible to be considered for tocilizumab or sarilumab if:"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "COVID-19 infection is confirmed by microbiological testing or where a multidisciplinary team has a high level of confidence that the clinical and/or radiological features suggest that COVID-19 is the most likely diagnosis;"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "AND"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They have not already been treated during this episode with tocilizumab or sarilumab;"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "AND"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Receiving dexamethasone or an equivalent corticosteroid unless contraindicated;"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "AND either"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Hypoxaemia with evidence of inflammation but not yet critically ill requiring respiratory support* defined as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "C-reactive protein level of at least 75mg/L; AND"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "an oxygen saturation of <92% on room air OR requirement for supplemental oxygen;"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Or"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the early stages of critical illness requiring respiratory support (if an IL-6-inhibitor has not been already administered for COVID-19) defined as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Within 48hours** of commencement of respiratory support (high-flow nasal oxygen, continuous positive airway pressure (CPAP) or non-invasive ventilation, or invasive mechanical ventilation), regardless of C-reactive protein level."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "* In the context of the COVID-19 pandemic, treatment of patients critically unwell with COVID-19 can be in the following (critical care equivalent) settings: designated intensive care unit (ICU); surge ICU; or other hospital settings delivering an equivalent level of respiratory care (such as respiratory ward, infectious disease ward). At MSE this is currently the Acute Respiratory Care Units."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "**Treatment should be started as early as possible"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.1,
+                "text": "Eligibility criteria notes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The decision to initiate treatment with tocilizumab or sarilumab should be made by the receiving consultant and with the support from multi-disciplinary colleagues in cases of uncertainty."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients are expected to be on a corticosteroid as the current standard of care, except where there is a strong contraindication against its use."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Exclusion criteria and cautions"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tocilizumab should not be administered in the following circumstances:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Known hypersensitivity to tocilizumab"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Sarilumab should not be administered in the following circumstances:"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Known hypersensitivity to sarilumab"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "A baseline platelet count of less than 150 x /L"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Exercise caution with IL-6 Inhibitors in the following circumstances:"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Co-existing infection*** that might be worsened by IL-6 inhibitor therapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A baseline alanine aminotransferase (ALT) or aspartate aminotransferase (AST) more than 5 times the upper limit of normal"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A pre-existing condition or treatment resulting in ongoing immunosuppression"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Caution is also necessary when prescribing IL-6 inhibitors to patients with neutropaenia or thrombocytopaenia. Please note that C-reactive protein (CRP) levels may be depressed for some time after treatment with tocilizumab and sarilumab."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to the Summary of Product Characteristics (SmPC) for tocilizumab and sarilumab for special warnings and precautions for use, although some may not be relevant for use in the acute setting, as the licensed indications address long-term use."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "***Any active, severe infection other than COVID-19; caution is advised when considering the use of tocilizumab or sarilumab in patients with a history of recurring or chronic infections or with underlying conditions which may predispose patients to infections."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Pregnancy and women of childbearing potential"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Tocilizumab and sarilumab should not be used during pregnancy unless clinically necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The SmPC for tocilizumab currently states that: \u201cWomen of childbearing potential must use effective contraception during and up to 3 months after treatment. There are no adequate data from the use of tocilizumab in pregnant women. A study in animals has shown an increased risk of spontaneous abortion/embryo-foetal death at a high dose. The potential riskfor humans is unknown. RoActemra should not be used during pregnancy unless clearly necessary.\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "The SmPC for sarilumab currently states that: \u201cWomen of childbearing potential should use effective contraception during and up to 3 months after treatment. There are no or limited amount of data from the use of sarilumab in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to reproductive toxicity. Kevzara should not be used during pregnancy unless the clinical condition of the woman requires treatment with sarilumab.\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "The SmPC for tocilizumab and sarilumab should be consulted if further information is required."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "For women who are breast-feeding, the SmPCs for both tocilizumab and sarilumab state: \u201cIt is unknown whether tocilizumab/sarilumab is excreted in human breast milk. The excretion of tocilizumab/sarilumab in milk has not been studied in animals. A decision on whether to discontinue breast-feeding or to discontinue IL-6 inhibitor therapy should be made taking into account the benefit of breast-feeding to the child and the benefit of therapy to the woman.\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Dosage regimen and Administration"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Tocilizumab"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recommended dose of tocilizumab is 8mg/kg to be administered as an intravenous infusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The total dose should not exceed 800mg."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A single dose is to be administered. A second dose should not be considered, given the uncertainty over evidence of additional benefit as well as the need to maximise available supply."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tocilizumab should not be infused concomitantly in the same IV line with other medications."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to Medusa Injectable medicines guide https://medusa.wales.nhs.uk/ for information on administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Sarilumab"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recommended dose of sarilumab is 400mg to be administered as a once-only intravenous infusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sarilumab is available as a 200mg pre-filled syringe."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For a 400mg dose two 200mg pre-filled syringes should be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Requires the use of a 0.2micron filter for administration. Pharmacy will issue this with the drug."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do not use Baxter Viaflex\u00ae infusion bags to prepare the infusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sarilumab should not be infused concomitantly in the same IV line with other medications."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to Medusa Injectable medicines guide https://medusa.wales.nhs.uk/ for information on administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Responsibility for the prescriber"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Off-Label prescribing"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Neither tocilizumab nor sarilumab are licensed for use in COVID-19. They are used off-label for this indication."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Further information on the prescribing of unlicensed/off label medicines can be found below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prescribing unlicensed medicines - GMC (gmc-uk.org)"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSBPO-18017 Unlicensed Medicines Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Initiation process by the prescriber:"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Blueteq form is part of the requirement in line with the Interim Clinical Commissioning Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pharmacy will complete the electronic blueteq form on receipt of completed form (appendix 1) from the prescriber."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Complete the relevant form in appendix 1 and either email to pharmacy (see separate email addresses in appendix 1) or hand to the ward pharmacist. This is so pharmacy can complete a blueteq form on your behalf. This step must be completed prior to pharmacy supplying the drug."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient will only qualify to receive the drug if the answer to all the questions is YES. If the answer to any question is no, the patient is not eligible to receive tocilizumab / sarilumab under the Interim Clinical Commissioning Policy and pharmacy will be unable to provide the drug."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prescribe tocilizumab / sarilumab on patients drug chart as per dosage regimen."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Treatment with IL-6 inhibitors can lower the ability of the immune system to fight infections. This could increase the risk of getting a new infection or make any infection the patient contracts worse. It also causes prolonged depression of CRP levels, making CRP a less reliable marker of active infection. All handovers of clinical care (including between hospitals if patients are transferred, between levels of care and clinical teams within hospitals, and between hospitals and primary care) must explicitly mention that an IL-6 inhibitor has been given and the date of administration. Clinicians must ensure the GP is aware the patient has received an IL-6 inhibitor and provide information to the patient to such effect."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Nursing and pharmacist responsibility for unused vials/prefilled syringes"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nursing staff are responsible for ensuring that the product is stored correctly whilst in use and for unused vials/prefilled syringes."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nursing staff to inform ward pharmacist of any unused vials/ prefilled syringes."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ward pharmacist to return unused vials/prefilled syringes to the pharmacy maintaining the appropriate temperature chain, return and update the allocated Controlled Drug register in pharmacy, ensuring that you enter the Batch Number (this process is only applicable to the pharmacy department for the tracking purposes \u2013 neither drug is a CD)."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Responsibility for the pharmacy department"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Procurement team:"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide regular updates on the stock position to the regional procurement pharmacy lead."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Keep track of site usage for all indications:"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Off-label COVID"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Non-COVID"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "High cost drug pharmacist and team"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To complete the blueteq form in line with the email information/appendix 1 supplied by the prescriber."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update the local tracking spreadsheet for all patients who have had blueteq form and funding approval"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "Pharmacists ordering the drug from dispensary"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinically screen the prescription."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the patient has not previously received a dose (e.g. via cross-referencing with blueteq record and prescriptions, Prescription Tracking system or/and dispensing record)"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Funding screening"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ordering appropriate number of vials/syringes."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Endorse the order requisition and prescription with \u201cFunding available\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If requesting sarilumab, to request 0.2micron filter to be dispensed with the product."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deliver all blueteq paperwork (i.e. appendix 1) to the Pharmacy High Cost Drug Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Endorse on the drug chart (at Basildon use the Noticeboard section) the date that the patient received the drug. This information should be transferred to any new drug charts upon rewriting."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.4,
+                "text": "Dispensing process"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the requisition/prescription is endorsed with \u201cfunding available\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dispense as per prescription."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If dispensing sarilumab, to dispense 0.2micron filter with the product."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Sarilumab, check if the product is the \u2018non-commercialised' product i.e. carton with basic labelling and does not contain a patient information leaflet. For these batches supply printed instructions provided to the dispensary."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Make record of dispensing in CD register (this process is only applicable to the pharmacy department for the tracking purposes \u2013 neither drug is a CD)."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.5,
+                "text": "Checking process"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check in line with normal checking procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the requisition/prescription is endorsed with \u201cfunding available\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.6,
+                "text": "Discharge screening pharmacist"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IL-6 inhibitors are immunosuppresants which can cause prolonged depression of C- Reactive Protein (CRP) levels, making CRP a less reliable marker of active infection."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All handovers of clinical care (including between hospitals if patients are transferred, between levels of care and clinical teams within hospitals, and between hospitals and primary care) should explicitly mention that an IL-6 inhibitor has been given and the date of administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Clinical Outcome reporting by prescriber"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospitals managing COVID-19 patients are strongly encouraged to submit data through the ISARIC 4C Clinical Characterisation Protocol (CCP) case report forms (CRFs), as coordinated by the COVID-19 Clinical Information Network (CO-CIN) (https://isaric4c.net/protocols/)."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "10 Adverse events and safety reporting requirements by prescriber"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "These medicines do not yet have a licence (marketing authorisation) for use in COVID-19 and therefore it is vital that any serious suspected adverse reactions are reported directly to the MHRA via the new dedicated COVID-19 Yellow Card reporting site at: https://coronavirus-yellowcard.mhra.gov.uk/."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "11 Monitoring requirement"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to the Summary of Product Characteristics and Exclusion criteria in section 3 of this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Co-administration"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Corticosteroids"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Administration of systemic dexamethasone or hydrocortisone is recommended in the management of patients with severe or critical COVID-19. Corticosteroids are not suggested in non-severe COVID-19 disease. IL-6 inhibitors should not be regarded as an alternative to corticosteroids."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "No interaction is expected between tocilizumab or sarilumab with either dexamethasone or hydrocortisone. For further information please visit the University of Liverpool COVID- 19 Drug Interactions website (https://www.covid19-druginteractions.org/checker)."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Remdesivir"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Refer to separate guidelines on the use of remdesivir in hospitalised patients with COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No interaction is expected between tocilizumab or sarilumab with remdesivir. For further information please visit the University of Liverpool COVID-19 Drug Interactions website (https://www.covid19-druginteractions.org/checker)."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Blueteq forms for Tocilizumab and Sarilumab"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Form to be completed by prescriber and returned to the following email address: For Basildon patients:    btu-tr.PharmacyHomeCare@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Mid-Essex patients:   mse.homecaremeht@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Southend patients:   mse.pharmacists.soh@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Please ensure all sections are fully complete to avoid delay in patient receiving their treatment. Patient related information and eligibility criteria:"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "type": "table",
+            "sequence_num": 123,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Tick which drug applied for: Tocilizumab \uf06f or Sarilumab \uf06f"
+                    },
+                    {
+                        "text": "First name"
+                    },
+                    {
+                        "text": "Surname"
+                    },
+                    {
+                        "text": "Hospital no"
+                    },
+                    {
+                        "text": "DoB"
+                    },
+                    {
+                        "text": "NHS no"
+                    },
+                    {
+                        "text": "Treatment start date"
+                    },
+                    {
+                        "text": "GP practice address and practice code"
+                    },
+                    {
+                        "text": "Consultant name"
+                    },
+                    {
+                        "text": "Supporting consultant name"
+                    },
+                    {
+                        "text": "I confirm that the patient is an adult with SARS-CoV-2 infection** In the absence of a confirmed virological diagnosis, tocilizumab/sarilumab should only be used when a multidisciplinary team have a high level of confidence that the clinical and radiological features suggest that COVID-19 is the most likely diagnosis."
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": "I confirm the patient has yet to receive treatment with an IL-6 inhibitor on this admission for COVID-19."
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": "I confirm that for female patients, I have checked the pregnancy status and where relevant I have referred to the information in SmPC."
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": "I confirm intravenous tocilizumab/sarilumab has been prescribed** as the patient is an adult who is hospitalised and receiving dexamethasone or an equivalent corticosteroid (unless contra-indicated) *** and: Option 1: Has a C-reactive protein level of at least 75mg/L; AND an oxygen saturation of <92% on room air OR requirement for supplemental oxygen OR Option 2: The patient Is within 48 hours**** of commencement of respiratory support (high-flow nasal oxygen, continuous positive airway pressure (CPAP) or non-invasive ventilation, or invasive mechanical ventilation) **The decision to initiate treatment with tocilizumab/sarilumab should be made by the receiving"
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 124,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "consultant and with the support from multi-disciplinary colleagues in cases of uncertainty ***Patients are expected to be on a corticosteroid as the current standard of care, except where there is a strong contraindication against its use. Patients may be commenced on both a corticosteroid and tocilizumab/sarilumab simultaneously if deemed clinically appropriate. ****The principle is to treat patients as early as possible in their critical illness Please select which option applies: Option 1 \uf06f Option 2 \uf06f"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "I confirm the patient will receive tocilizumab/sarilumab according to the Interim Clinical Commissioning Policy Position Statement: IL-6 inhibitors (tocilizumab or sarilumab) for hospitalised patients with COVID-19 pneumonia (adults)***** and does not meet any of the exclusion criteria ***** As part of the interim clinical policy hospitals are strongly encouraged to submit data through the ISARIC 4C Clinical Characterisation Protocol (CCP) case report forms (CRFs), as coordinated by the COVID-19 Clinical Information Network (CO-CIN)"
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": "For Tocilizumab, I confirm the patient will receive one infusion of 8mg/kg (max 800mg) OR For Sarilumab, I confirm the patient will receive one infusion of 400mg"
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": "I confirm that the patients GP will be informed that they have received tocilizumab/sarilumab OR the patient is not currently registered with a GP and will be counselled accordingly on discharge."
+                    },
+                    {
+                        "text": "Yes/No"
+                    },
+                    {
+                        "text": "Prescriber Name and Signature:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "TOCCV1_ver6.0 Interim Clinical Commissioning Policy: Tocilizumab for hospitalised patients with COVID-19 (adults)"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "SARCV1_ver5.0 Interim Position Statement: Sarilumab for critically ill patients with COVID-19 (adults)"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "12 References"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Interleukin-6 inhibitors (Tocilizumab and Sarilumab) in COVID-19 initiation, supply and required monitoring in adults /6.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Dermatitis Pathway (IAD)"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MSECCP -21003 IAD pathway 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Patients at risk: patients with urinary and/or faecal incontinence; patients with loose stool/frequent loose stool episodes."
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Intact skinImplement structured skin care regime. Protect intact at-risk skin from bodily fluids."
+                    },
+                    {
+                        "text": "Mild IADImplement structured skin care regime. The skin may appear excoriated (i.e. show signs of chafing or wearing-off)."
+                    },
+                    {
+                        "text": "Moderate IADImplement structured skin care regime. Look: for signs of redness/skin loss."
+                    },
+                    {
+                        "text": "SevereImplement structured skin care regime. Look: for signs of infection, redness/ green-tinge to exudate or offensive odour."
+                    },
+                    {
+                        "text": "Protect the skin"
+                    },
+                    {
+                        "text": "Treat/Protect the skin"
+                    },
+                    {
+                        "text": "Treat/Protect the skin"
+                    },
+                    {
+                        "text": "Treat/Protect the skin"
+                    },
+                    {
+                        "text": "CleanseSenset skin cleansing foam at least daily and/or after incontinence.Wipe with dry washcloths (waternot required)."
+                    },
+                    {
+                        "text": "CleanseSenset skin cleansing foam at least twice daily and/or after incontinence. Wipe with dry washcloths (water not required)."
+                    },
+                    {
+                        "text": "CleanseSenset Skin Cleansing foam at least twice daily and/or after incontinence. Wipe with dry washcloths (water not required)."
+                    },
+                    {
+                        "text": "CleanseSenset Skin Cleansing foam at least twice daily and/or after incontinence. Wipe with dry washcloths (water not required)."
+                    },
+                    {
+                        "text": "Protect Apply MediHoney Barrier Creamfi. Apply at least daily."
+                    },
+                    {
+                        "text": "Protect/treatApply Cavilon No sting Barrier Film daily. Allow to dry. If no improvement after 72 hours discontinue use and apply Proshield Plus."
+                    },
+                    {
+                        "text": "Protect/treatApply Flaminal forte at least daily to the affected area and if required cover with an appropriate secondary dressing."
+                    },
+                    {
+                        "text": "Protect/treat if infection present apply Flaminal forte at least daily to the affected area and if required cover with an appropriate secondary dressing. Monitor and refer to Tissue Viability if no improvement within 3-5 days."
+                    },
+                    {
+                        "text": "Remember always use your clinical judgement when following this pathway. If you have any concerns liaise with your tissue viability team via electronic referral or Southend site extn 8916 / 6513 bleep 1127; Broomfield site bleep 2517 extn 5824; Basildon site extn 4708; Bleep 6185"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Dermatitis Pathway (IAD)"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "type": "image",
+            "sequence_num": 6,
+            "data": {
+                "url": "MSECCP -21003 IAD pathway 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Inspect skin at least twice daily including under/between skin folds. Inspect more frequently if skin is damaged / IAD present. Manage incontinence provide continence products (pull up/wrap around) ensure proper fit. Avoid incontinence sheets."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Position/secure catheter and/or faecal management systems correctly to prevent device related pressure damage."
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure they are not kinked."
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Reposition or encourage/support at least every two hours"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Monitor for signs of infection: white scaling of the skin (suggesting fungal infection) or satellite lesions (pustules surrounding the lesion, fungal infection); slough/green appearance in the wound bed (suggesting bacterial infection with Pseudomonas aeruginosa); excessive or purulent exudate (pus) or shiny appearing wound bed."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Document skin care regime used and outcome of skin inspections in the patients records and care plan."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "type": "table",
+            "sequence_num": 13,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Location"
+                    },
+                    {
+                        "text": "Neocrosis"
+                    },
+                    {
+                        "text": "Shape"
+                    },
+                    {
+                        "text": "Edges"
+                    },
+                    {
+                        "text": "Depth"
+                    },
+                    {
+                        "text": "Colour"
+                    },
+                    {
+                        "text": "IAD"
+                    },
+                    {
+                        "text": "Moisture caused by urinary or faecal incontinence must be present. Most commonly present in the natal cleft."
+                    },
+                    {
+                        "text": "No necrosis present."
+                    },
+                    {
+                        "text": "Diffuse differential areas/ spots, kissing ulcer (copy lesions). Linear in the natal cleft."
+                    },
+                    {
+                        "text": "Diffuse and irregular edges."
+                    },
+                    {
+                        "text": "Superficial but depth and extent of the lesion can increase if infection is present."
+                    },
+                    {
+                        "text": "If redness is not uniformly distributed, the skin damage is most likely due to IAD."
+                    },
+                    {
+                        "text": "PU"
+                    },
+                    {
+                        "text": "Usually over a bony prominence or under medical or non medical device."
+                    },
+                    {
+                        "text": "Necrosis may be present depending on the pressure ulcer category. A black scab on a bony prominence is most likely to be pressure damage."
+                    },
+                    {
+                        "text": "Circular wound, regular shape. The possibility of friction injury has to be excluded."
+                    },
+                    {
+                        "text": "Distinct edges."
+                    },
+                    {
+                        "text": "Depth can vary depending on category and anatomical location."
+                    },
+                    {
+                        "text": "Most likely a pressure ulcer if non-blanching erythema present. In darker skin tones the skin may be paler or darker than usual or purple."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 14,
+            "data": {
+                "url": "MSECCP -21003 IAD pathway 1.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Incontinence Associated"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "type": "image",
+            "sequence_num": 16,
+            "data": {
+                "url": "MSECCP -21003 IAD pathway 1.0.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Page  of  Asset number: MSECCP-21003/Version: 1/Date published: August 2021 Date/Review date: August 2024"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        }
+    ]
+}

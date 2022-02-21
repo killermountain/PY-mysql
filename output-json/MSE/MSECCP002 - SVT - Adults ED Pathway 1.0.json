@@ -1,0 +1,958 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "Supraventricular Tachycardia - Adults"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSECCP002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Pathway"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Emergency Care Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "2 December 2019"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "1 December 2022"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations (i.e. NICE; RCOG) National guidance Best practice Specific citations referenced on each pathway"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Emergency Medicine"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Lamuren, Consultant Emergency Medicine Willis, Consultant Emergency Medicine Aziz, Consultant Emergency Medicine"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "MEHT BTUH SUHFT"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "See pg 2"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Emergency Care Steering Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "17 September 2019"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Clinical Director, Emergency Care"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "17 September 2019"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "22 October 2019"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Com- munication of minutes from Document Rat- ification Group)"
+                    },
+                    {
+                        "text": "Date: December"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Emergency Medicine Consultant Group"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "17 September 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 4,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "New Document"
+                    },
+                    {
+                        "text": "2 December 2019"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Causes & Triggers"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Usually none found but consider:"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acute illness: infection, hyperthyroidism, PE, hypovolaemia Cardiac: abnormalities of conduction system, ischaemic heart disease, pericarditis / myocarditis, alcohol, mitral valve disease, post cardiac surgery"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Drugs: B2 agonists, antiarrhythmics, digoxin toxicity, tricyclics, lithium, cocaine, MDMA, amphetamines \u2013 see toxbase"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Metabolic: high or low K or Ca, hypoxia, high CO2, acidosis, high or low temp"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Anti-arrhythmics \u2013 cautions & contra-indications: B-blockers and Ca channel blockers should not be used together Adenosine: acute bronchospasm, dipyridamole, carbamazepine Amiodarone: Sino-atrial block and conduction disturbances, severe hypotension, thyroid disease, CCF, pregnancy & breast-feeding. B-blockers: acute bronchospasm, uncontrolled heart failure, sick sinus syndrome, AV block,"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ca channel blockers: heart failure, hypotension, sick sinus"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "syndrome, heart block, AF with WPW, VT, pregnancy & breast-feeding"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "SVT Adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "type": "image",
+            "sequence_num": 15,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Classification of SVT"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "type": "image",
+            "sequence_num": 17,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.006.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "SVT usually produces a regular narrow complex tachycardia. P waves may not be visible, but if seen may give a clue as to the origin of the SVT:"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "AVNRT (AV nodal re-entry tachycardia): Accessory pathway within AV node. May see pseudo R in V1, or pseudo S in II, III, aVF. RP shorter than PR"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "AVRT (AV re-entry tachycardia): Accessory pathway outside AV node (WPW). May see delta wave on resting ECG. Retrograde P waves may be seen in the ST segment. RP shorter than PR."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Junctional tachycardia: Retrograde P waves before, during or after QRS. P usually inverted in II, III, aVF and upright in aVR, V1"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Atrial tachycardia: Trigger within the atria but outside SA node, AV node or accessory pathway. P waves abnormal morphology."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Summary of Treatment Response"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "type": "image",
+            "sequence_num": 24,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Cardioversion achieved by vagal manoeuvres, adenosine or DC shock. Rate control achieved with B blockers or verapamil  If broad complex \u2013"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "exit pathway, follow AVNRT and AVRT may cardiovert with vagal manoeuvres, adenosine, verapamil or DC shock. B blockers will slow rate  ALS protocol"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Junctional and atrial tachycardia will not cardiovert with vagal or adenosine, but usually respond to DC shock. Atrial tachycardias respond better to B- blockers than Ca blockers"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Investigations: FBC & VBG (all), HCG, TFT (if first presentation) & CXR (only if clinically indicated); additional tests if condition requires Are there signs of shock or acute pulmonary oedema?"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "type": "image",
+            "sequence_num": 29,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caution: compromise due to SVT is rare if structurally normal heart. Consider underlying cause and treat as appropriate e.g. sepsis"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Yes"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CAUTION"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Vagal Manoeuvres  WPW with AF  Synchronised DC Cardioversion \u2013 X 3"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Do not use AV node  Senior Dr to review"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "MVaodlsialvfieda Vae.g.ls balvlowa M intano oesyuvringrees  blocking drugs  Procedural sedation (RSI not essential) Carotid sinus massage  Synchronised DC shock:"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "100-150J biphasic based on your defibrillator SENCIORonsi AdDer:VIC  E  (consider low energy in frail, elderly)"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Arrhythmia terminated?  DC shock (first line)"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Amiodarone"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "No  Flecainide  Arrhythmia terminated?"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Adenosine  Yes  No"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "6 mg iv rapid bolus followed by 20 mL rapid 0.9%"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "saline flush If unsuccessful, repeat with 12 mg then"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "12mg Discuss with Med SpR -Cardiologist Cardiology SpR in CCT Basildon"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Arrhythmia terminated?  bleep"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider:"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No  IV Magnesium 2g"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overdrive pacing"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Chemical cardioversion"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Discuss with ED Senior / Medical SpR"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider:"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Giving with iv calcium chloride 300 mg (3 mL of 10%) or calcium  Admit under Medics if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "gluconate 1 g (10 mL of 10%) slow iv  If patient is suitable for discharge"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "push 2 minutes before verapamil can offset hypotension in patients  Follow up: Refer to Arrhythmia Clinic \u2013 if available, or SDEC or GP with borderline BP  Follow Local Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Lead Authors:"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "type": "image",
+            "sequence_num": 56,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.010.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "E Lamuren C Willis"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A Aziz"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consultants Emergency Medicine"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Co Author / Collaborators:"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "type": "image",
+            "sequence_num": 61,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "References:"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "type": "image",
+            "sequence_num": 63,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.012.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Shaker H; Jahanian F; Fathi M; Zare M"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Eur Heart J. 1997; 18 Suppl C:C50-3 (ISSN: 0195-668X) Campbell RW"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "L\u00e9vy S; Ricard P"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "SVT Adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "type": "image",
+            "sequence_num": 68,
+            "data": {
+                "url": "MSECCP002 - SVT - Adults ED Pathway 1.0.005.png"
+            }
+        }
+    ]
+}

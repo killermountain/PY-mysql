@@ -1,0 +1,532 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21017"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "13/07/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "12/07/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group Chair Action"
+                    },
+                    {
+                        "text": "29/06/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "13/07/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Alice Noble \u2013 Senior Pharmacist"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Paracetamol dosing in high-risk adult patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Paracetamol is commonly prescribed and considered \u2018safe'. However consideration needs to be made for patients who are at high risk of suffering adverse events. This is to minimise the risk of severe hepatic damage due to paracetamol toxicity."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.2,
+                "text": "Paracetamol dosing (based on weight and risk factors)"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document accurate weight on drug chart for all patients, where possible before dosing."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Some patients are considered high risk for toxicity with paracetamol. Dose reduction is required for patients with one or more of the following risk factors (see tables below):"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Low body weight: less than 50kg"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Renal impairment: CrCl less than or equal to 30ml/min"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hepatic impairment"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Chronic alcoholism"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dehydration"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Receiving chronic enzyme inducers e.g. rifampicin, phenytoin"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Risk factors for glutathione depletion e.g. HIV, cystic fibrosis"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Chronic malnutrition"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IV paracetamol is contra-indicated in severe hepatocellular insufficiency"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1: Dosing for ORAL and RECTAL products containing paracetamol"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "type": "table",
+            "sequence_num": 18,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Weight & Risk Factors for toxicity"
+                    },
+                    {
+                        "text": "Dose per administration"
+                    },
+                    {
+                        "text": "Maximum daily dose"
+                    },
+                    {
+                        "text": "33kg-40kg regardless of risk factors"
+                    },
+                    {
+                        "text": "500mg up to four times a day (dose interval 4-6 hourly)"
+                    },
+                    {
+                        "text": "60mg/kg up to 2g in 24 hours"
+                    },
+                    {
+                        "text": "41kg-49kg with additional risk factors"
+                    },
+                    {
+                        "text": "500mg-750mg up to four times a day (dose interval 4-6 hourly)"
+                    },
+                    {
+                        "text": "Maximum of 3g in 24 hours"
+                    },
+                    {
+                        "text": "41-49kg without additional risk factors"
+                    },
+                    {
+                        "text": "500mg-1g up to four times a day (dose interval 4-6 hourly) (use the lowest dose which manages pain adequately)"
+                    },
+                    {
+                        "text": "Maximum 4g in 24 hours"
+                    },
+                    {
+                        "text": "50kg and over with risk factors"
+                    },
+                    {
+                        "text": "500mg-1g up to 4- 8 hourly (depending on dose)"
+                    },
+                    {
+                        "text": "Maximum of 3g in 24 hours"
+                    },
+                    {
+                        "text": "50kg and over without risk factors"
+                    },
+                    {
+                        "text": "1g four times a day (dose interval 4-6 hourly)"
+                    },
+                    {
+                        "text": "Up to 4g in 24 hours"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Paracetamol dosing in high risk adult patients/ MSEGL-21017/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 2: Dosing for intravenous paracetamol 10mg/ml"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "type": "table",
+            "sequence_num": 22,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Patient group"
+                    },
+                    {
+                        "text": "Dose"
+                    },
+                    {
+                        "text": "Interval"
+                    },
+                    {
+                        "text": "Maximum daily dose"
+                    },
+                    {
+                        "text": "Adults 33kg-50kg regardless of risk"
+                    },
+                    {
+                        "text": "15mg/kg up to four times a day (dose banded as per table 3 below)"
+                    },
+                    {
+                        "text": "4 \u2013 6 hours (6-hourly if CrCl<10ml/min)"
+                    },
+                    {
+                        "text": "60mg/kg up to 3g (divided into 3 or 4 doses)"
+                    },
+                    {
+                        "text": "factors for toxicity"
+                    },
+                    {
+                        "text": "Adults over 50kg without risk factors for"
+                    },
+                    {
+                        "text": "1g up to four times a day"
+                    },
+                    {
+                        "text": "4 \u2013 6 hours"
+                    },
+                    {
+                        "text": "4g (divided into 4 doses)"
+                    },
+                    {
+                        "text": "toxicity"
+                    },
+                    {
+                        "text": "Adults over 50kg with risk factors of"
+                    },
+                    {
+                        "text": "1g every 8 hours"
+                    },
+                    {
+                        "text": "8 hours"
+                    },
+                    {
+                        "text": "3g (divided into 3 doses)"
+                    },
+                    {
+                        "text": "toxicity"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 3: Dosing of intravenous paracetamol depending on body weight"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dose banding is not mandatory, though the Trust utilises this for prescribing aid within WellSky ePMA (ePrescribing)."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "type": "table",
+            "sequence_num": 25,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Weight (kg)"
+                    },
+                    {
+                        "text": "Dose (mg) 15mg/kg"
+                    },
+                    {
+                        "text": "Volume (ml)"
+                    },
+                    {
+                        "text": "30 \u2013 34"
+                    },
+                    {
+                        "text": "500mg"
+                    },
+                    {
+                        "text": "50"
+                    },
+                    {
+                        "text": "35 \u2013 39"
+                    },
+                    {
+                        "text": "550mg"
+                    },
+                    {
+                        "text": "55"
+                    },
+                    {
+                        "text": "40 \u2013 44"
+                    },
+                    {
+                        "text": "650mg"
+                    },
+                    {
+                        "text": "65"
+                    },
+                    {
+                        "text": "45 \u2013 50"
+                    },
+                    {
+                        "text": "700mg"
+                    },
+                    {
+                        "text": "70"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Check for and discontinue multiple paracetamol prescriptions e.g. PRN and regular or brand names (Tylex, Solpadol etc.)."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "IV paracetamol is for short term use only: switch to oral/rectal/nasogastric routes ASAP. Soluble oral paracetamol is available."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.3,
+                "text": "For paper drug chart: Prescribe ONLY one route of paracetamol per prescription. Never prescribe IV/PO because doses may not be interchangeable."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.4,
+                "text": "For WellSky ePMA: Always prescribe paracetamol under \u2018protocol' and select the correct one based on patient factors (see tables above)."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "For doses under 1g: remove any excess dose from the vial before administration to avoid inadvertent infusion of the whole vial."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Does not require further dilution \u2013 infuse over 15 minutes."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Where glass vial is stocked\u2013 risk of air embolism towards end of the infusion. Give through a pump if given via a central venous catheter."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "References:"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        }
+    ]
+}

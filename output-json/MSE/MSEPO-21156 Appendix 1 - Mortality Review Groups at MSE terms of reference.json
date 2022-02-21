@@ -1,0 +1,576 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Mortality Review Groups at MSE TERMS OF REFERENCE (September 2021)"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MSEPO-21156 Appendix 1 - Mortality Review Groups at MSE terms of reference.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "MEMBERSHIP: MSE Mortality Review Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSE Mortality Lead (chair)"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSE Chief Medical Officer"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Associate Director \u2013 Quality Improvement"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Associate Director \u2013 Patient Safety"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Safety Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Clinical Coding and Data Quality"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Information Services or nominated deputy"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCG Mortality Lead / GP"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCG Chief Nurse or deputy"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Legal Services"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As invited by the chair:"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sepsis lead"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Palliative Care Team/End of Life representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "End-of-life team representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "LD Specialist Practitioner"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deteriorating patient group representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "External partners \u2013 e.g. software development, consultancy"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "MEMBERSHIP: Care Group Mortality Review Groups"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Care Group Lead for Mortality (Chair)"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSE Mortality Lead"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Care Group Deputy Directors of Nursing or their representatives (usually Associate Chief Nurses)"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Care Group Medical Directors or their representatives (usually Divisional Mortality Leads) Divisional/Departmental Mortality Leads"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Lead Medical Examiners"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Lead Medical Examiners Officers"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Junior Doctor Representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sepsis lead"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As invited by the chair:"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Palliative Care Team/End of Life representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "End-of-life team representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "LD Specialist Practitioner"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deteriorating patient group representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Informatics Team representation"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "External partners \u2013 e.g. software development, consultancy"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "PURPOSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of the MSE Trust and Care Group Mortality Review Groups is to support the Trust Board in providing assurance that mortality is proactively monitored, reviewed, reported and where necessary investigated to ensure appropriate lessons are learned and actions implemented to improve outcomes"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They act as the principal source of advice and expertise on mortality, via the Patient Safety and Quality Group, to the Trust Board. The Mortality Review Groups will provide updates on the status of any areas of concern and actions plans arising to the Patient Safety and Quality Group as part of the Trust Assurance Framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "The MSE MRG meeting will be quorate if 6 members of the group are present, one to be the chair (or delegated chair) or MSE Chief Medical Officer."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "The Group is accountable to the MSE Quality Governance Committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "General"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 To develop and oversee implementation of the process for effective mortality review to drive continuous improvement in service delivery."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Specific duties"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 To ensure policies and procedures are in place to support effective targeted mortality review meeting the requirements of national guidance. This will include but not be restricted to deaths in patients with mental health disorders, patients with Learning Disabilities, stillbirths and patients undergoing elective surgery."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 To ensure policies and procedures are in place to support effective review of in-hospital deaths and escalation of concerns identified by Medical Examiners or raised by bereaved families / patient representatives."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.3 To encourage proactive review of mortality in all clinical areas on a regular basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.4 To ensure policies and procedures are in place for Divisional teams systematically to review a proportion of all deaths, including all nationally- and locally-mandated deaths."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.5 To monitor nationally reported mortality outcomes such as SHMI and HSMR, and ensure that improvement plans are in place to implement national recommendations where mortality is reported to be an outlier."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.6 To identify case specific mortality trigger groups for review by divisions in the next month through analysis of mortality data and alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.7 To identify causes of avoidable mortality and escalate to the MSE Quality Governance Group for development and implementation of action plans."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.8 To maintain links with HM Coroner to ensure findings from Coronial investigations are made available to the MRG."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.9 To ensure effective education and training provision is established and requirements and lessons learned are communicated across the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The MSE mortality review group meetings will be held monthly."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The divisions are sub-groups of the MSE Mortality Review Group, which in turn reports to the Quality Governance Committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following reports will be provided to each care group meeting:"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Each Division will provide a report on mortality;"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Medical Examiners will provide a report;"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A report on those incidents and complaints reported that relate to patient death will be provided to each meeting."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The following reports will be provided to each MSE meeting:"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Each Care Group will provide a summary report on mortality, including quality improvement proposals, mortality alerts, and details of areas of concern and review."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Services will provide a report on mortality;"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Governance will provide a report on mortality for closed Serious Incident investigations that involved a Patient death where outcomes and learning will be shared with the Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Legal services will provide a report on activity related to patient deaths."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "The MSE Mortality Review Group will report quarterly to the Quality and Governance Committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The MSE Mortality Review Group will provide quarterly updates to the Mid Essex commissioner via Clinical Quality Review Group meetings."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "The group will review performance against the Terms of reference on an on-going basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "A full review will take place on an annual basis in accordance with the Risk Management Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Revised September 2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "type": "image",
+            "sequence_num": 70,
+            "data": {
+                "url": "MSEPO-21156 Appendix 1 - Mortality Review Groups at MSE terms of reference.001.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,4179 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "INFORMATION TECHNOLOGY (CYBER) SECURITY POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSBPO-18006"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Trust Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "th6 September 2018"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "th5 September 2021"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "IG Toolkit General Data Protection Regulation (GDPR) Best Practice BS ISO/IEC 27002:2005 Information Technology \u2013 Security Techniques \u2013 Code of Practice for Information Security Management"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "Regulation 12 \u2013 Safe care and treatment Regulation 15 \u2013 Premises and Equipment Regulation 17 \u2013 Good governance"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Kate Thompson"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "MEHT BTUH SUH"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Digital Services Review by Subject Matter Experts"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "10th May 2018"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Alan Tuckwood Head of Digital Services, MSB Group"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "10th May 2018"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Digital Services Performance & Accountability Group Joint Document Management Group (JDMG)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "17th May 2018 19 June 2018 th"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "Date: September 2018"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MSBPO-18006 Information Technology (Cyber) Security Policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "MSB Group, Head of Information Governance"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Daniel Oliver"
+                    },
+                    {
+                        "text": "MSB Group, Cyber Security Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Nick Butler"
+                    },
+                    {
+                        "text": "SUHFT, Programme Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Lissa Bullard"
+                    },
+                    {
+                        "text": "SHUFT, IT Services Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Matt Poxon"
+                    },
+                    {
+                        "text": "SHUFT, IT Communications Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Adam Osborne"
+                    },
+                    {
+                        "text": "SHUFT, 3rd Line Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Steve Whittle"
+                    },
+                    {
+                        "text": "BTUH, Head of IT Operations"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Perry Reynolds"
+                    },
+                    {
+                        "text": "BTUH, Head of IT Infrastructure"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Sam Howlett"
+                    },
+                    {
+                        "text": "BTUH, Deputy IT Operations Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Francesca Zicchi"
+                    },
+                    {
+                        "text": "BTUH, Programme Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Richard Bowyer"
+                    },
+                    {
+                        "text": "BTUH, Application Development Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Barry Stannard"
+                    },
+                    {
+                        "text": "MEHT, IT Operations Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Jon Clark"
+                    },
+                    {
+                        "text": "MEHT, IT Infrastructure Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Andrew Smith"
+                    },
+                    {
+                        "text": "MEHT, Network Manager"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    },
+                    {
+                        "text": "Kyle Anderson"
+                    },
+                    {
+                        "text": "MEHT, Network Engineer"
+                    },
+                    {
+                        "text": "17 May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Mid Essex Hopsital NHS Trust"
+                    },
+                    {
+                        "text": "04029 - Disciplinary Policy 07011 - Confidentiality & Data Protection Policy 07012 - Information Governance Policy 07014 - Freedom of Information Policy 07025 - Counter Fraud & Bribery Policy 08088 - Acceptable Use of IT Policy 09034 - IT Systems Monitoring Policy 09036 - Password Policy 10022 - Social Media Personal Use by Staff Policy"
+                    },
+                    {
+                        "text": "Southend University Hospital NHS Foundation Trust"
+                    },
+                    {
+                        "text": "IS01 - Information Security Policy IS07 - Email Acceptable Usage Policy IS09 - Data Protection and Code of Confidentiality Policy IS21 - Access Control Policy. IS37 - Mobile Device Policy IS38 - Registration Authority (RA) Policy IS39 - Internet Acceptable Usage Policy IS40 - IT Asset Management Policy IS41 - Psuedonomisation/De-identification Policy IS43 - Bring Your Own Device Policy RM10 - Incident and Serious Incident Policy PP06 - Disciplinary Policy and Procedure CM77 - Anti-Fraud and Anti-Bribery Policy CM97 Social Media and Website Acceptable Usage Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Basildon and Thurrock University Hospitals NHS Foundation Trust"
+                    },
+                    {
+                        "text": "Policy for Consent to Examination or Treatment. Procedure of Transmitting Information and Use of Portable Media/Devices Storage of Electronic Personnel Files Health Records Policy Information Governance Policy Information Governance Strategy Disaster Recovery Policy Incident Reporting Policy and Procedure Whistleblowing Policy Anti-Fraud and Corruption Policy Conduct and Capability Policy Business Continuity Plans Registration Authority Procedures and Processes IT Environmental Security Policy IT Change Management Policy Procedures for Applying and Authorisation of Portable/Teleworking Devices Mobile Working/Teleworking Policy Pseudonymisation Policy and Procedures Policy for the Management of Incidents and Serious Incidents requiring investigation Waste Management Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "0.01"
+                    },
+                    {
+                        "text": "Kate Thompson"
+                    },
+                    {
+                        "text": "Initial draft created to replace the following policies: MEHT 13017 ICT Security Policy 09023 IT Anti-Virus & Malware Policy Information Security Reporting 09019 Policy SUFHT IS30 Information Technology (Cyber) Security Policy IS01 Information Security Policy BTUH IM/PO/00008 Information Security Policy"
+                    },
+                    {
+                        "text": "6th September 2018"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents  Page"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction .................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope .............................................................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology ........................................................................ 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Responsibilities ............................................................................................. 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements ................................................................................... 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements ................................................................................ 21"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit ...................................................................................... 21"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References ................................................................................................... 22"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA) .............................................................. 23"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment (EIA) ............................................................. 23 Appendix 1, Quality Impact Assessment ............................................................. 24 Appendix 2, Equality Impact Assessment (EIA) .................................................. 25"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The Trust recognises its responsibilities for the provision of IT security in regards to hardware, software and information/data systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The aim of this policy is to inform all staff of the technical security measures that the IT Department will employ in protecting the Trust from potential threats and misuse of Trust owned assets and to ensure staffs are aware of their managerial and operational responsibilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "Data and access to information systems will be restricted to those who require access to undertake their role and who have been granted explicit authority to view and change information via Trust approved hardware to where it is required."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Any unauthorised access to information that has not been expressly permitted will be a breach of this policy and subject to disciplinary or legal proceedings."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "This policy has been written in conjunction with BS ISO/IEC 27002:2005 Information Technology \u2013 Security Techniques \u2013 Code of Practice for Information Security Management to define the parameters for authorised access to the Trust's computer information systems and infrastructure either onsite or accessed remotely over the internet or N3 network.."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This policy applies to employees, contractors, business consultants, temporaries, and other workers, including all personnel affiliated with third parties of Mid Essex Hopsital NHS Trust, Southend University Hospital NHS Foundation Trust, and Basildon and Thurrock University Hospitals NHS Foundation Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "This policy applies to all Trust devices and systems which includes but is not limited to: desktop computers, laptop computers, applications, file and proxy servers and any PC based clinical and medical equipment where connected to Trust IT infrastructure."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "This policy applies to all authorised users of the Trust's computer network (including all permanent and temporary employees of the Trust, agency staff, agents, subcontractors, consultants, and third party vendors)."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "The purpose of this policy is to inform all staff of the technical security measures that the IT Department will employ in protecting the Trust from potential threats and misuse of Trust owned assets and to ensure staffs are aware of their managerial and operational responsibilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "This document will outline the measures that the IT Department will implement in support of the following principals;"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust's information systems are properly assessed for security;"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confidentiality, Integrity and availability are maintained;"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff are aware of their responsibility, roles and accountability; and"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procedures to detect and resolve security breaches are in place"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.6,
+                "text": "This policy is designed to meet the requirements of the Cabinet Office, Department of Health, Audit Commission, Care Quality Commission and the NHS. Wherever possible the Trust will endeavour to implement recommendations for the protection of such data"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and other information."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions and Terminology"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "type": "table",
+            "sequence_num": 38,
+            "data": {
+                "num_rows": 24,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "The \u201cTrust\u201d"
+                    },
+                    {
+                        "text": "This should be in reference to the individual Trust that the employee is employed by. Trusts refereed to include Mid Essex Hospital NHS Trust, Southend University Hospital NHS Foundation Trust, and Basildon and Thurrock University Hospitals NHS Foundation Trust."
+                    },
+                    {
+                        "text": "Access Control"
+                    },
+                    {
+                        "text": "Access to assets"
+                    },
+                    {
+                        "text": "Accountability"
+                    },
+                    {
+                        "text": "Responsibility for an decisions and actions of an entity"
+                    },
+                    {
+                        "text": "Active Directory"
+                    },
+                    {
+                        "text": "Identification system used to validate a user on the Trust network and provide the access they have been authorised to receive"
+                    },
+                    {
+                        "text": "Asset"
+                    },
+                    {
+                        "text": "Anything that has a value to the Trust"
+                    },
+                    {
+                        "text": "Attack"
+                    },
+                    {
+                        "text": "Defined as an attempt to destroy, expose, alter, disable, steal or gain unauthorized access to or make unauthorised use of an asset"
+                    },
+                    {
+                        "text": "Authentication"
+                    },
+                    {
+                        "text": "A security mechanism to assure the identity of a user"
+                    },
+                    {
+                        "text": "Authorised user"
+                    },
+                    {
+                        "text": "A person who has valid access control and authentication"
+                    },
+                    {
+                        "text": "Availability"
+                    },
+                    {
+                        "text": "An asset being accessible and usable with valid authentication"
+                    },
+                    {
+                        "text": "Business continuity"
+                    },
+                    {
+                        "text": "Action of processes and procedures that ensure continued business operations usually associate to risk"
+                    },
+                    {
+                        "text": "CAG"
+                    },
+                    {
+                        "text": "Citrix Access Gateway. This is the method by which a VPN is created between a remote network and the Trust internal network using encryption and tunnelling protocols."
+                    },
+                    {
+                        "text": "CMDB"
+                    },
+                    {
+                        "text": "Configuration Management Data Base \u2013 an IT asset register"
+                    },
+                    {
+                        "text": "Confidentiality"
+                    },
+                    {
+                        "text": "Information not shared or disclosed to authorised users"
+                    },
+                    {
+                        "text": "Cyber Security"
+                    },
+                    {
+                        "text": "Cyber security is a term used to describe technologies, processes and controls that are implemented to protect systems, networks and data from cyber-attacks."
+                    },
+                    {
+                        "text": "HVAC"
+                    },
+                    {
+                        "text": "Heating, Ventilation and Air Conditioning"
+                    },
+                    {
+                        "text": "Information Asset"
+                    },
+                    {
+                        "text": "Data or knowledge that has value to the Trust"
+                    },
+                    {
+                        "text": "Information Asset Administrator (IAA)"
+                    },
+                    {
+                        "text": "Information Asset Administrator - operational managers responsible for maintaining the integrity of one or more information assets, managing information risks locally."
+                    },
+                    {
+                        "text": "Information Asset Owner (IAO)"
+                    },
+                    {
+                        "text": "Senior Manager who is responsible for managing information assets to comply with statutory obligations such as FOI, GDPR etc."
+                    },
+                    {
+                        "text": "Information Asset Register (IAR)"
+                    },
+                    {
+                        "text": "The Trust's IAR is a register of information assets, containing key information e.g. what type of information the asset contains and the responsible IAO and IAA"
+                    },
+                    {
+                        "text": "ICO"
+                    },
+                    {
+                        "text": "Information Commissioner's Office \u2013 previously the Data Protection Registrar. This is the Office that enforces the principles of the General Data Protection Regulation"
+                    },
+                    {
+                        "text": "Information Security"
+                    },
+                    {
+                        "text": "Protecting the confidentiality, loss, accidental disclosure of Information Asset(s) from unauthorised person(s)/ organisations(s)"
+                    },
+                    {
+                        "text": "Information Security Event/Incident"
+                    },
+                    {
+                        "text": "One or more unwanted or unexpected information security issues that result in the probability of compromising business operations and Information Security"
+                    },
+                    {
+                        "text": "Information"
+                    },
+                    {
+                        "text": "Protection of the accuracy and completeness of an Information"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 39,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "integrity"
+                    },
+                    {
+                        "text": "Asset"
+                    },
+                    {
+                        "text": "ITIL"
+                    },
+                    {
+                        "text": "Information Technology Infrastructure Library v3 \u2013 industry standard for IT Service Management. Originally developed by the UK Office of Government Commerce (OGC)"
+                    },
+                    {
+                        "text": "Malicious code"
+                    },
+                    {
+                        "text": "A virus, worm, Trojan Horse, email bomb etc., (this list is not exhaustive)"
+                    },
+                    {
+                        "text": "Mobile device"
+                    },
+                    {
+                        "text": "An asset such as a mobile phone, a smartphone, Blackberry, iPhone, iPad, iPod, (this list is not exhaustive). See Section 7 \u2013 Associated Documents for a list of approved mobile devices"
+                    },
+                    {
+                        "text": "PCD"
+                    },
+                    {
+                        "text": "Personal Confidential Data."
+                    },
+                    {
+                        "text": "PID"
+                    },
+                    {
+                        "text": "Patient Identifiable Data"
+                    },
+                    {
+                        "text": "PII"
+                    },
+                    {
+                        "text": "Patient Identifiable Information"
+                    },
+                    {
+                        "text": "Removable media"
+                    },
+                    {
+                        "text": "An asset such as an external hard disk, CD-ROM, DVD, USB flash drive etc. (this list is not exhaustive)"
+                    },
+                    {
+                        "text": "Risk"
+                    },
+                    {
+                        "text": "The effect of uncertainty on objectives, whether positive or negative"
+                    },
+                    {
+                        "text": "Risk assessment"
+                    },
+                    {
+                        "text": "Evaluation of a risk/threat and determining the severity of business impact if the evaluated risk occurs partially or in full"
+                    },
+                    {
+                        "text": "Risk management"
+                    },
+                    {
+                        "text": "Processes designed to co-ordinate ways in which an organisation handles risk established by undertaking a risk assessment"
+                    },
+                    {
+                        "text": "SSL"
+                    },
+                    {
+                        "text": "Secure Socket Layer \u2013 encrypted link between two computers on the internet"
+                    },
+                    {
+                        "text": "SSO"
+                    },
+                    {
+                        "text": "Single Sign On. A security system providing network and specific system access through a single access."
+                    },
+                    {
+                        "text": "Threat"
+                    },
+                    {
+                        "text": "Cause or potential cause of an unwanted incident that may exploit a vulnerability and may cause harm to an organisation or person(s)"
+                    },
+                    {
+                        "text": "Virus signature files/definitions"
+                    },
+                    {
+                        "text": "Small files that update the anti-virus software to recognise newly discovered viruses"
+                    },
+                    {
+                        "text": "VPN"
+                    },
+                    {
+                        "text": "Virtual Private Network. Creates an extension of the Trust network over encrypted and tunnelling protocols end to end."
+                    },
+                    {
+                        "text": "Vulnerability"
+                    },
+                    {
+                        "text": "Weakness of one or more assets that can be exploited by a threat."
+                    },
+                    {
+                        "text": "WEEE"
+                    },
+                    {
+                        "text": "Waste Electronic and Electrical Equipment Regulations 2006 \u2013 guidelines to cover the safe and environmentally friendly way of disposing of electrical and electronic equipment"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Role & Responsibilities within the Trust (Committees)"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.1 Digital Services Governance Group \u2013 to review policies and recommend for group approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.2 Information Governance Group \u2013 to review any instances of non-compliance to stated policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.1.3 Joint Document Management Group \u2013 to ratify polices"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Role & Responsibilities of Individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.1 The Chief Executive as the Trust's Accountable Officer has ultimate responsibility for compliance with legal requirements and achievement of standards of best practice and will ensure:"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate delegation of risk management and confidentiality management functions to a Director or equivalent;"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adequate resources to support effective information governance;"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Submission of the annual Data Security and Protection Toolkit compliance self- assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.2 Senior Information Risk Officer (SIRO) \u2013 Joint Executive Group (JEG) appointed Chief Information Officer responsible for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serious information risk management issues are brought to the Board for decision as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A lead or manager is in place to organise and enforce the Group's approach to information risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written advice is provided to the Accountable Officer and appropriate Trust Boards regarding the information risk management content of the annual report and Statement of Internal Control (SIC)."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.3 Caldicott Guardian \u2013 Board appointed Site Director is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protecting the confidentiality of PCD processed by the Trust, ensuring that all sites satisfy the highest practical standards for handling PCD."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as the \u201cconscience\u201d of the Trust, by actively supporting work to enable use and sharing of PCD where this is appropriate and advising on lawful and ethical solutions."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Championing confidentiality and information sharing requirements and issues at Board level and, where appropriate, at a range of levels within the Trust's overall governance framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.4 Clinical Directors (CD's) / Associate Clinical Directors (ACDs) and Head Nurses \u2013 as senior leaders at each Trust they have responsibility for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as Information Asset Owners (IAO) for systems within their local area of management."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Compliance with the requirements of this policy within their local area of management."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring staff within their management remit undertake mandatory information governance and other relevant training."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing the reporting of breaches of this policy resulting in information security or health and safety incidents on Trust incident reporting system."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing the investigation of reported breaches of this policy, making sure lessons learned are shared and appropriate changes in practice are implemented."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.5 Director of Human Resources - has responsibility for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "That all staff contracts include appropriate clauses to maintain confidentiality."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "That the Trust's training programme (induction and statutory) includes the appropriate information governance training and that all staff undergo this training."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There are robust leavers' procedures in place to enable the removal of system access rights in a timely manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Disciplinary procedures are conducted, which may be invoked should breaches in"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "information security arise"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.6 Head of Digital Services, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for development and updating of IT Security Policies and management of IT Infrastructure."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.7 Head of Information Governance, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for information governance across the MSB Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.8 Cyber Security Officer, MSB Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational responsibility for cyber security across the MSB Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.9 Registration Authority (RA) Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all aspects of registration services and operations are performed in accordance with national policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oversee that all services and operations conform to Trust policies and procedures where these specify additional safeguards over and above national requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appoint RA agents and make sure all are adequately trained to carry out duties."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure effective controls are in place relating to the issue and maintenance of Smart Cards."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Notify the Caldicott Guardian and SIRO of any potential risks associated with the management and use of Smart Cards."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report incidents via the Trust's risk management / incident reporting process."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing that all Trust appointed RA sponsors are trained in their responsibilities including, where appropriate, unlocking Smart Cards and issuing fall back cards."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.10 Line Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for ensuring that staff are aware of this policy that they adhere to it and for managing issues which arise when staff fail to comply."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all current and future staff are instructed in their security responsibilities;"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all their staff using information systems/media are trained in their use;"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that no unauthorised staff are allowed to access any of the Trust's information system as such access could compromise data integrity;"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determining which individuals are to be given authority to access specific information systems. The level of access to specific systems should be on a job function need, independent of status;"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Implementing procedures to minimise the Trust's exposure to fraud/theft/disruption of its systems or equipment, such as segregation of duties/dual control/staff rotation in critical/susceptible areas;"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring all staff sign confidentially (non-disclosure) undertaking as part of their contract;"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that the relevant IAA's/user system managers are advised immediately about staff changes affecting computer access (e.g. job function changes/leaving department or organisation) so that passwords may be withdrawn/deleted."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.11 Trust Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for implementing and complying with the policy within the areas of their responsibility or control."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for being aware of what threats might be targeted via E-mail or other methods i.e. phone calls, social engineering etc. and reporting any suspicious activity to the IT Service Desk."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.12 Information Asset Owners (IAO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Usually the Clinical Directorate Director (CD) or Associate Clinical Directorate Director (ACD) who are responsible for;"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify and document the scope and importance of all information assets they own. This will include identifying all information necessary in order to respond to incidents or recover from a disaster affecting the information asset."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Take ownership of their local asset control, risk assessment and management processes for the information assets they own. This includes the identification, review and prioritisation of perceived risks and oversight of actions to mitigate those risks."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide support to the SIRO to maintain their awareness of the risks to all information assets that are owned by the Trust and report those risks as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that staff and relevant others are aware of and comply with expected information governance and data protection working practices for the effective use of information assets:"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Promote local induction and ensure that all new starters, before they access any information system are given instruction in information governance requirements as part of their induction programme."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that staffs are aware of the Data Custodian/IAO for their area and the contact details for the information governance team."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all staff know the Trust policy and procedure for reporting information security incidents."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that the Trust's requirements for information incident identification, reporting, management and response apply to the information assets they own; including completion of data flow mapping when required."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To supervise and delegate tasks to the IAA."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.2.13 Information Asset Administrators (IAA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The IAA is an operational member of staff with a high level of working knowledge of the business functions of the area and use of the information assets, usually department heads, system super-users or system managers. The IAA's primary role is to support the IAO to fulfil their responsibilities. Detailed responsibilities will be in agreement with the IAO, but are likely to include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintenance of details and risk assessments relating to their nominated Information Assets"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring compliance with Data Protection Act \u2013 data sharing agreements within the local area"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring information handling procedures are fit for purpose and are properly applied."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under the direction of their IAO, ensuring that personal information is not unlawfully exploited"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recognising new information handling requirements (e.g. a new type of information arises) and that the IAO is consulted over appropriate procedures \u2013 e.g. completing/updating data flow mapping."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recognising potential or actual security incidents and consulting with the IAO"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting to the IAO on current state of local information handling"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that local information handling constraints (e.g. limits on who can have access to the assets) are applied, referring any difficulties to the IAO."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Act as a first port of call for local staff seeking advice on handling information."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under the direction of IAO, ensuring that information is securely destroyed at the"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "end of the approved retention period."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Policy Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Physical and Environmental Security"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 Diverse Server room locations"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In order to mitigate impact to services due to environmental factors, at Mid Essex services are maintained across 2 server rooms in geographically diverse locations. A majority of Trust systems are maintained and managed in a Virtual environment which allows them to be transferred between server room locations with minimal interruption to end user services."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At Basildon in order to minimise disruption due to environmental issues or hardware failure services are maintained between a primary data centre and a secondary location where limited services are replicated."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 Security Perimeter and Access Points"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The physical and environmental security of IT infrastructure rooms, including server rooms and hub rooms, will be ensured with a closed security perimeter and identity card-controlled access points and any other security measures (e.g. Locks, etc.) deemed necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to restricted areas will be available to only personnel approved and authorised by the Digital Services site teams."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 Supporting Utilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid Essex site"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Estates and Facilities Department have overall responsibility for all power and lighting utilities to the main computer room together with generator backups."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Main power is supplied to each site with backup generators and a UPS as the last line of defence for the main data centres and communication hubs located throughout the hospital site."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All Telecommunications systems, bleeps/mobiles/pagers, external voice and data communication links are supported by the Network and Communications Team of the IT Department. The Outpatients & Front of House team are responsible for managing the Switchboard service."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon & Southend sites"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Estates and Facilities Department have overall responsibility for all plant, power and lighting utilities to the Trusts main data centre, together with generator backups."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Telecommunications systems and external voice and data communication links are supported by the Network and Communications Team of the IT Department. The Estates and Facilities Department are responsible for the Switchboard."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.4 Video Surveillance"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Video Surveillance is installed in server room locations to enable the IT Department to monitor the status of and access to these areas. The continual feed of camera images are transmitted over the Trust network and recorded to allow real-time and retrospective monitoring to take place."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.5 Heating, Ventilation and Air Conditioning (HVAC)"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electronic equipment generates a great deal of heat and is especially sensitive to moisture and overheating. To ensure that equipment remains in good condition and operational HVAC equipment is installed to ensure that the temperature and moisture content remains constant."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The HVAC systems at Southend & Basildon are maintained by the Estates and Facilities Department."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The HVAC systems at Mid Essex in the hub rooms are managed by the Estates and Facilities Department whilst the systems in place for the server rooms are maintained via a third party support contract which is managed by the site server team."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the event of HVAC failure the temperatures in these areas can quickly rise to critical levels causing damage IT equipment. Environmental monitoring is in place in all server and hub room locations at Mid Essex and Basildon; this enables continual monitoring of environmental conditions, which issues email alerts to staff when environmental thresholds are exceeded."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.6 Fire suppression"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To protect against fire, at all sites fire suppression systems are installed that is activated when fire is detected; upon activation the air conditioning system is automatically disengaged so that the suppression is more efficient. This service is maintained by the Estates and Facilities Department."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.7 Uninterruptable Power Supply (UPS)"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "An uninterruptable power supply solution is installed at both Southend & Basildon to maintain the level of power to the primary computer room, and secondary location at Basildon, to allow for a controlled shutdown of IT systems. The shutdown process is prioritised to allow for maximum business continuity subject to system inter-dependencies. The UPS is maintained by the Estates and Facilities Department."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At Mid Essex there is a room UPS solution installed in the main server room, and rack mounted UPS's in the other server locations. In the event of a total power failure where the controlled shutdown of IT systems is required, systems will be prioritised to allow for maximum business continuity subject to system inter- dependencies. The UPS solutions are maintained and managed by the site server team."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Operating Systems and Software patches"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 All operating system patches and updates will be pushed out to all servers, laptops and PC's in line with local standard operating procedure, unless instructed otherwise by a third party supplier."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 Please see standard operating procedure for server patching for further information."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Network"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1 The hospital network including Wi-Fi services is provided solely for the use of Trust staff and authorised third parties (excluding those specifically designated, designed and approved for public Wi-Fi services). Members of the public are not permitted to access the Trust network or the internet via any attached terminal or PC."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.2 Local departmental connections to external networks are not permitted unless expressly authorised by the IT Department."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.3 There are separate, and segregated, Wi-Fi solution provided specifically for patients and visitors to each of the Trusts."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Cabling Security"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.1 Structured cabling is an essential business continuity tool permitting IT communications systems connectivity internally and externally. The specification employed by the Trust complies with ISO 11801, EIA/TIA T568B, and IEEE 802.3ab."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.2 In vulnerable locations cabling should be armoured to ensure that cabling cannot be interfered with, cut, rerouted or interfered with in any way."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.3 In public areas all efforts will be made to ensure that any unused ports are secured either by physical security measures, or unpatching them from the network."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Firewalls"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1 The Trust internal network is protected by industry and enterprise standard firewalls. Under no circumstances will any non-firewalled connections to the Trust internal network be allowed."
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.2 Any changes or additions to Firewall rules will be reviewed and approved, in accordance with the local change control process, prior to implementation."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.3 In order to ensure that robust security measures in place, there are separate firewall solutions in place on both the N3, and external internet connections into the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.4 The Trust undertakes annual penetration tests to confirm the integrity of the security features employed to protect the network from external threats."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Wireless Network Security"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1 All wireless networking technology implemented on Trust sites must be authorised by the Trust IT Department who will ensure compliance with existing infrastructure."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.2 Wireless Access Points are connected via individual switched Ethernet ports to help prevent the propagation of unnecessary data onto the wireless network from the wired network."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.3 Virtual Local Area Networks (VLANS) are used to ensure that network activity is managed and segregated appropriately across the Trust networks."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.4 Excluding public Wi-Fi solutions, wireless transmissions will be encrypted using IEEE 802.11 standards."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "Remote Access"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1 The Trust will provide secure remote access facilities to allow access to the internal network for remote clinics, other healthcare providers, home workers and external organisations."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.2 Please see Remote Access policy for more information."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Managing User Privileges"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 Password Management and Access to Systems;"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In order to protect the integrity of the highly sensitive information that staff may access, all new systems will have a method of authentication, preferably linked to their Active Directory account (network logon). See Access Control Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where departmental IT systems require additional user names and passwords to the basic user login they will where possible comply with the aforementioned standard. Where systems are unable to comply a close approximation will be implemented."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "User account administration including password administration is undertaken by the Trust IT Service Desk and nominated IAAs/system managers in accordance with formal procedures. Password resets procedures include a formal user identification process."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2 Smartcards"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust will implement and manage Smartcard authentication as directed by NHS Information Governance regulators and the Registration Authority."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Backup and Archiving"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.1 Data stored on centrally hosted Trust IT systems is regularly backed up and/or archived using an enterprise level backup solution; all systems must have a fully documented backup regime."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.2 Data restore test procedures are undertaken and documented regularly to ensure the effectiveness of the backup systems utilised."
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.3 Archives of backup data are stored remotely from systems to minimise risk of data loss in the event of a major incident. See Backup Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Virus and Malware Prevention"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.1 Computer viruses and malware are both potentially malicious programming code designed to cause intentional damage or action that can infect corporate networks, servers and computers. They can be transmitted by a carefully constructed email, attachment, macro, hyperlink (URL), web page, downloadable files and other media such as USB flash drives and are intended to cause unexpected disruption and sometimes data loss, lost staff productivity and damaged reputation."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.2 Malicious software is a constantly evolving threat, consequently each Trust has implemented anti-virus solutions on its servers and PCs to ensure that the organisation is protected from such threats that can be disguised as something else and be un-noticed by the user."
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.3 Fast and efficient detection and prevention of viruses is essential and the system is configured to regularly update networked PCs. Where a device is not connected to the network or was not switched when the virus signature files were uploaded, the device will update when it is switched on and is detected on the network."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.4 A centrally managed anti-virus product for the protection of all Workstations and Laptops from malicious attacks will be used. The minimum requirements for the administration and update are as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The anti-virus product shall be operated in real time on all client computers \u2013 except where real time scanning has a detrimental effect on the operation of systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The anti-virus library definitions shall be updated at least once per day"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Anti-virus scans are in operation on all user controlled workstations and laptops"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No one is authorised to stop anti-virus definition updates and anti-virus scans except for domain administrators"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.5 A centrally managed anti-virus product for the protection of all servers from malicious attacks will be used. The minimum requirements for the administration and update are as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The anti-virus product shall be operated in real time on all servers \u2013 except where real time scanning has a detrimental effect on the operation of systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The anti-virus library definitions shall be updated at least once per day"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Anti-virus scans are in operation on all servers"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No one is authorised to stop anti-virus definition updates and anti-virus scans except for domain administrators"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.6 In addition to having the standard anti-virus application, the email infrastructure will include an additional scanner which will be used to analyse all email for viruses and/or malware. This scanner will analyse all email as it enters the Trust and scan all email before it leaves the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.7 To increase mail security, an anti-spam server will be utilised. This reduces the threat to the mail server of being intruded upon, and can significantly reduce the load on the mail server. Updates to the rule set will be delivered automatically."
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.8 Under no circumstance are users permitted to add, disable, pause or remove anti- virus software from their computer. Additionally it is prohibited to either intend to create and/or distribute any malicious code on the Trust network (e.g. Viruses, worms, Trojan horses, email bombs)."
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.9 Any user who suspects that their computer has been infected by malicious code should contact the IT Service Desk immediately so that the machine can be quarantined to prevent accidental distribution of the code."
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.10 Staff should not attempt to remove the virus themselves since evidence of it could prove helpful in future prevention and detection."
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.11,
+                "text": "Removable Media Controls"
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.1 All laptops, mobile devices, and removable media will be protected by industry strength cryptographic encryption technologies. This will ensure business, sensitive or PII/PID information remains secure, confidential and integrity assured."
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.2 See Mobile Devices & Remote Access Policy for further information."
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.12,
+                "text": "Secure Email"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.1 The Trust has implemented a secure email system to guard against the sending of external email containing confidential, sensitive PII and PID in an unencrypted format."
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.2 At Basildon and Southend, where email is suspected of containing such data, the email is not sent and the sender is notified. Occasionally innocent emails sent do not contain PII or PID and are intercepted in error. Where this occurs, the sender should call the IT Service Desk and explain the situation and make arrangements for the information to be sent on their behalf."
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.3 Where a member of staff or manager is regularly required and authorised to send this type of information they can apply for access to the secure email facility; this allows confidential email to be sent to a recipient in an encrypted format. Therefore any illegal interception by a third party monitoring the internet traffic will be unable to read the contents of the message."
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.4 If the user is sending an email that is confidential they should choose to send it securely."
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.5 This type of data can be sent securely between NHS organisations authorized to use the NHSmail service (NHS.Net to NHS.Net account transmission). Although this is not the primary email system for use within the Trust it is available to users when appropriate to their job function. Further information can be provided by the IT Service Desk."
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.13,
+                "text": "Home and Mobile Working"
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.1 The Trust will provide secure remote access facilities to allow access to the Trust systems for approved home and mobile workers."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.2 Under no circumstances should confidential or sensitive data be saved to a mobile device or uploaded to unauthorised internet/cloud based storage."
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.3 Where N3 access is unavailable, secure remote access will be provided with appropriate login credentials."
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.4 Levels of access will be the same as that permitted when onsite provided that the system has been made available for access remotely. See also Mobile Devices & Remote Access Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.5 Staffs wishing to use their own mobile device are referred to the Bring Your Own Device (BYOD) Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.14,
+                "text": "Social Media"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.1 Each Trust has a corporate approach to the use of social media which addresses the use of social media by the Trust for business purposes but also the behaviours expected of staff who identify as working for the Trust when using social media. Please also see related Trust Policies section for Trust media policies and the User Access and Acceptable Usage of IT Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.15,
+                "text": "Internet Access"
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.1 The following measures are designed to manage, monitor and control staff usage of the Trust's Internet facility:"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The internet facility will be used for legitimate purpose only."
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff access to use the Internet for personal use, excluding business purposes, will be permitted where usage is not excessive or deemed unreasonable during work time/contracted hours."
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to the Internet will be provided through a secure gateway on the network. No other unauthorised access points will be permitted under any circumstances e.g. via the use of modems or other communication devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The IT department will routinely monitor and may audit Internet access by individual users. PCs will be audited randomly by the Trust who reserve the right to inspect any files, images or software downloaded by users. Any concerns regarding inappropriate use will be forwarded to the departmental manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring software is used to deny access to certain sites including those that increase the risk of the Trust's network being infected by virus"
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Executables (e.g. programs, macros) must not be downloaded from the Internet unless otherwise authorised by the IT department"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust Internet facility will not be used for the importation, handling, storage or retrieval of sexually explicit images, misappropriation or theft of material or intellectual property rights"
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Downloaded material must only be used in such a way that it is consistent with its licensing and copyright arrangements."
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.2 Failure to comply with the requirements may result in disciplinary action being taken against that employee. Inappropriate Internet use may also be reported to Internal Audit, as required by the Trust's Counter Fraud and Corruption Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.3 There are certain websites categories that the Trust has blocked access to, these include, but are not limited to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Gambling, Intolerance & Hate"
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Criminal Activity"
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Violence, including Weapons"
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Illegal Drugs"
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Digital hacking, Spyware, Proxies & Translators"
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alcohol & Tobacco"
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adult/Sexually Explicit"
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tasteless & Offensive"
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Intimate Apparel & Swimwear"
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Web-Based E-mail, Chat, Streaming Media & Hosting Sites"
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Personals & Dating"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Games, Advertisements & Pop-ups."
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.4 There are some exceptions regarding blocked websites and applications for access must in the first instance be supported to staffs line manager and then referred to the IT Service desk for review and appropriate approval:"
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There must be a legitimate purpose for your request"
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Each application will be assessed on an individual basis"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.16,
+                "text": "Cyber Threats"
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.1 Malicious attacks from the internet are increasing and have made the news headlines on a number of occasions in the last twelve months. There are two broad types of attack: un-targeted attacks and targeted."
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.2 Un-targeted attacks are indiscriminately aimed to impact as many devices, services or users as possible. There is not a specific victim in mind. Examples include;"
+            },
+            "type": "ListItem",
+            "sequence_num": 248
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Phishing \u2013 emails to large numbers of people;"
+            },
+            "type": "ListItem",
+            "sequence_num": 249
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Smishing \u2013 SMS messages;"
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Water-holing \u2013 fake websites or compromising legitimate sites;"
+            },
+            "type": "ListItem",
+            "sequence_num": 251
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ransomware \u2013 malicious code with intent to extort."
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.3 Targeted attacks are directed at a specific organisation or individual and examples include;"
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Spear-phishing - email type frauds;"
+            },
+            "type": "ListItem",
+            "sequence_num": 254
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Smishing \u2013 SMS messages;"
+            },
+            "type": "ListItem",
+            "sequence_num": 255
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Denial of service attacks."
+            },
+            "type": "ListItem",
+            "sequence_num": 256
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.4 The Trust reserves the right to review their security arrangements and policies on usage of Trust IT equipment and software for non-business purposes in response to the changing threat landscape."
+            },
+            "type": "ListItem",
+            "sequence_num": 257
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.5 Staff should report anything unusual or suspicious to the IT Service Desk and not open or respond in any way to suspect emails or follow unfamiliar/untrusted URLs at any time."
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.17,
+                "text": "\u2018Social Engineering' Attacks"
+            },
+            "type": "ListItem",
+            "sequence_num": 259
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.1 Social engineering is a phrase relating to attacks on an organisation's security by exploiting people (staff) instead of electronic of physical weaknesses. Such attacks can be:"
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "External telephone calls from someone claiming to be from another NHS organisation or someone claiming to be a patient or a member of their family (Vishing);"
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Telephone calls asking if a certain doctor or staff member works in your department."
+            },
+            "type": "ListItem",
+            "sequence_num": 262
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Unusual Email messages looking as if they were sent from someone in the Trust (a colleague or the IT Department) asking you to visit a website, run a programme or click on a link."
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.17.2 Before giving out any information over the telephone or acting on any suspicious email, always check the source. For instance:"
+            },
+            "type": "ListItem",
+            "sequence_num": 264
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Offer to phone a patient or NHS organisation back using their registered telephone number"
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Call the IT Department or (alleged originator) of any suspicious email"
+            },
+            "type": "ListItem",
+            "sequence_num": 266
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.18,
+                "text": "Fraud"
+            },
+            "type": "ListItem",
+            "sequence_num": 267
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.1 The site lead for each Trusts IT function will contact the Local Counter Fraud Specialist (LCFS) immediately in all cases where there is suspicion that IT is being used for fraudulent purposes. This includes inappropriate internet/intranet, e-mail, telephone and mobile application use. Human Resources will be informed if there is a suspicion that an employee is involved."
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.18.2 When an employee suspects that there has been fraud or bribery, they must inform the Local Counter Fraud Specialist or the Director of Finance immediately."
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.19,
+                "text": "Acceptable Usage Policies"
+            },
+            "type": "ListItem",
+            "sequence_num": 270
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.19.1 The Trusts have a User Access & Acceptable Usage of IT Policy which outlines the expectations of staffs conduct, and details the standards that Trust staff are expected to adhere to. Data traffic and access to websites is actively monitored, and where breaches of policy are detected through misuse or abuse, action will be taken in line with appropriate Group and/or Trust policies i.e. disciplinary."
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Abuse of Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 272
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.20.1 The security measures and mechanisms employed by the Trust are designed to protect the core business systems used and the data held within those systems. Any member of staff that contravenes this policy, or related policies, will be subject to disciplinary proceedings, verbal or written warning and potential termination of employment. Any failure to comply could result in possible criminal/civil sanctions being investigated/applied."
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.20.2 The Trust is obliged that any breach of Data Protection has to be reported to the ICO and other relevant authorities, it is therefore important that all staff are aware that their actions can have serious consequences if this policy is breached."
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.21,
+                "text": "Information Asset Register (IAR)"
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.21.1 The Trust maintains an Information Asset Register for all electronic and manual systems (including written records). This identifies the overall Information Asset Owner, Information Asset Administrator/System Manager, and Risk Assessor (if different). These people must be consulted with following an IT security issue that impacts on a system that they have overall responsibility for."
+            },
+            "type": "ListItem",
+            "sequence_num": 276
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.22,
+                "text": "Business Continuity"
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.22.1 Business Continuity Plans are maintained by Operational areas for all critical Trust IT systems. Plans for new IT systems are developed as part of the implementation/commissioning process."
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.23,
+                "text": "IT Asset Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 279
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.23.1 IT Asset Management is dealt with under the IT Procurement and Assessment Management policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.24,
+                "text": "Physical Securing of Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 281
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.24.1 Where equipment is located in a vulnerable location, physical security measures should be implemented as appropriate to ensure its continued unhindered operation."
+            },
+            "type": "ListItem",
+            "sequence_num": 282
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.25,
+                "text": "Secure Equipment Disposal (WEEE)"
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.25.1 There are specific guidelines specified in the Waste Electronic and Electrical Equipment Regulations 2006 that sets out how such equipment is to be disposed of in a secure (i.e. disk shredding), safe and in an environmentally friendly way."
+            },
+            "type": "ListItem",
+            "sequence_num": 284
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.25.2 All equipment that is to be disposed of will be updated on the CMDB to accurately reflect its commission status in accordance with the Trusts asset disposal process."
+            },
+            "type": "ListItem",
+            "sequence_num": 285
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.26,
+                "text": "Risk Management"
+            },
+            "type": "ListItem",
+            "sequence_num": 286
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.1 By definition, patient data is highly confidential, sensitive and covered by GDPR and/or relevant Data Protection legislation, as overseen and governed by the Information Commissioner's Office (ICO). There are serious penalties for careless or irresponsible loss of data that will have severe implications on Trust finances."
+            },
+            "type": "ListItem",
+            "sequence_num": 287
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.2 All new IT systems will be risk assessed before go live as part of the formal commissioning procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.3 Risk assessments are reviewed annually by Information Asset Owners and Information Asset Administrators and Trust IT Management."
+            },
+            "type": "ListItem",
+            "sequence_num": 289
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.4 All information and/or cyber security breaches, or potential breaches, must be reported on the Trust central incident system."
+            },
+            "type": "ListItem",
+            "sequence_num": 290
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.5 Information security events will be investigated by the appropriate nominated handler with the assistance of the Information Governance and/or Digital Services Teams to establish their cause, impacts and lessons learned."
+            },
+            "type": "ListItem",
+            "sequence_num": 291
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.6 The Information Governance forums will receive regular reports on information governance incidents reported and lessons learned disseminated via the Trust's staff communications."
+            },
+            "type": "ListItem",
+            "sequence_num": 292
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.26.7 When data has been created and/or stored and/or transmitted and/or used on any of the Trust's systems or networks, to enforce this policy, the Trust may:"
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor the content of any electronic data and/or voicemail messages and/or other files and/or transmissions"
+            },
+            "type": "ListItem",
+            "sequence_num": 294
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access and/or disclose the content of business and/or private messages and/or files to managers within the Trust for appropriate action to be taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.27,
+                "text": "Incident Reporting"
+            },
+            "type": "ListItem",
+            "sequence_num": 296
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.27.1 It is the responsibility of all Trust and Group employees to identify security incidents, suspected security weaknesses or near misses, security threats to services or systems through appropriate management channels by raising this on the Trust central incident system."
+            },
+            "type": "ListItem",
+            "sequence_num": 297
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.27.2 Following an incident being reported on the Trust central incident system, a decision will be made as to whether the incident should be classified as a Serious Incident (SI). If the incident is a potential SI, the Information Governance Manager will complete the Information Governance Toolkit Risk Event form that will define whether the Incident is either:"
+            },
+            "type": "ListItem",
+            "sequence_num": 298
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Level 0 \u2013 a learning opportunity"
+            },
+            "type": "ListItem",
+            "sequence_num": 299
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Level 1 - a Local Serious Incident, reportable to the CCG"
+            },
+            "type": "ListItem",
+            "sequence_num": 300
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Level 2 - an automatic referral to the DH and the Information Commissioner"
+            },
+            "type": "ListItem",
+            "sequence_num": 301
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.27.3 Reporting incidents allows the organisation to relate to similar occurrences and highlights any areas of vulnerability, identifying where greater awareness is needed, or procedures / protocols that require reviewing."
+            },
+            "type": "ListItem",
+            "sequence_num": 302
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.27.4 Examples of IT Security Incidents would be:"
+            },
+            "type": "ListItem",
+            "sequence_num": 303
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff member using another user's login id"
+            },
+            "type": "ListItem",
+            "sequence_num": 304
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Unauthorised disclosure of information"
+            },
+            "type": "ListItem",
+            "sequence_num": 305
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Leaving confidential / sensitive files so as to be accessible to unauthorised users"
+            },
+            "type": "ListItem",
+            "sequence_num": 306
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Theft of IT equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 307
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Breach of IT network infrastructure, including Wi-Fi"
+            },
+            "type": "ListItem",
+            "sequence_num": 308
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Accessing a person's record inappropriately e.g. staff viewing their own health record or that of family members, neighbours, friend etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 309
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Writing passwords down and leaving them on display"
+            },
+            "type": "ListItem",
+            "sequence_num": 310
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Actual or suspected virus/malware attack"
+            },
+            "type": "ListItem",
+            "sequence_num": 311
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Social Engineered attacks e.g. phone calls to elicit information by deception"
+            },
+            "type": "ListItem",
+            "sequence_num": 312
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.27.5 It is important that security incident reports give as much detail as possible. Including a description of activities leading up to the security incident, information about circumstances prevailing at the time, how the incident came about, how the security incident was detected."
+            },
+            "type": "ListItem",
+            "sequence_num": 313
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 314
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Staff are required to complete IG training as part of their annual mandatory training obligations"
+            },
+            "type": "ListItem",
+            "sequence_num": 315
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Between annual training requirements staff are to ensure that they keep up to date regarding IT or Cyber security update emails and messages published in staff circulars."
+            },
+            "type": "ListItem",
+            "sequence_num": 316
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring & Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 317
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "In addition to the legal liabilities outlined above, staff who breach any of the terms of this policy may be subject to disciplinary action."
+            },
+            "type": "ListItem",
+            "sequence_num": 318
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Compliance to this policy will be monitored as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 319
+        },
+        {
+            "type": "table",
+            "sequence_num": 320,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Responsibility for monitoring"
+                    },
+                    {
+                        "text": "Frequency of monitoring"
+                    },
+                    {
+                        "text": "Findings/ monitoring report recipients"
+                    },
+                    {
+                        "text": "Responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Security Perimeter and Access Points"
+                    },
+                    {
+                        "text": "Cotag Access ExGuard"
+                    },
+                    {
+                        "text": "Estates and Facilities."
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Estates and Facilities Security staff."
+                    },
+                    {
+                        "text": "Director of Estates and Facilities"
+                    },
+                    {
+                        "text": "Supporting Utilities"
+                    },
+                    {
+                        "text": "Automated monitoring systems"
+                    },
+                    {
+                        "text": "Estates and Facilities. IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Estates and Facilities staff. IT."
+                    },
+                    {
+                        "text": "Director of Estates and Facilities Head of IT"
+                    },
+                    {
+                        "text": "HVAC"
+                    },
+                    {
+                        "text": "Automated monitoring systems"
+                    },
+                    {
+                        "text": "Estates and Facilities."
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Estates and Facilities staff."
+                    },
+                    {
+                        "text": "Director of Estates and Facilities"
+                    },
+                    {
+                        "text": "Fire suppression"
+                    },
+                    {
+                        "text": "Automated monitoring systems"
+                    },
+                    {
+                        "text": "Estates and Facilities."
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Estates and Facilities staff."
+                    },
+                    {
+                        "text": "Director of Estates and Facilities"
+                    },
+                    {
+                        "text": "UPS"
+                    },
+                    {
+                        "text": "Automated monitoring systems"
+                    },
+                    {
+                        "text": "Estates and Facilities Site Server team"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Estates and Facilities Site Server team"
+                    },
+                    {
+                        "text": "Director of Estates and Facilities Infrastructure Lead"
+                    },
+                    {
+                        "text": "Video Surveillance of data centres"
+                    },
+                    {
+                        "text": "Live view and recordings"
+                    },
+                    {
+                        "text": "Site Server team"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Site Server team"
+                    },
+                    {
+                        "text": "Infrastructure Lead"
+                    },
+                    {
+                        "text": "WEEE"
+                    },
+                    {
+                        "text": "Disposal procedure"
+                    },
+                    {
+                        "text": "Estates and Facilities. IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "Estates and Facilities staff. IT"
+                    },
+                    {
+                        "text": "Director of Estates and Facilities Head of IT"
+                    },
+                    {
+                        "text": "Network security"
+                    },
+                    {
+                        "text": "Automated monitoring and targeted monitoring systems."
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Network perimeters"
+                    },
+                    {
+                        "text": "Firewalls. Annual independent penetration tests. Automated and targeted monitoring systems."
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going. Annual."
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Wireless Networks"
+                    },
+                    {
+                        "text": "Automated monitoring systems."
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Remote Access"
+                    },
+                    {
+                        "text": "Two factor remote access systems"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 321,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Aspect being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Responsibility for monitoring"
+                    },
+                    {
+                        "text": "Frequency of monitoring"
+                    },
+                    {
+                        "text": "Findings/ monitoring report recipients"
+                    },
+                    {
+                        "text": "Responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Process Audit"
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Information Governance Committee"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Access Controls"
+                    },
+                    {
+                        "text": "Network and system access control utilities"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Process Audit"
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Information Governance Committee"
+                    },
+                    {
+                        "text": "Data backup and archiving"
+                    },
+                    {
+                        "text": "Enterprise Data Storage System"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Malware Prevention"
+                    },
+                    {
+                        "text": "Automated monitoring and treatment systems"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Removable Media Controls"
+                    },
+                    {
+                        "text": "Encryption systems"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Secure Email system"
+                    },
+                    {
+                        "text": "PII transmission"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "On-going."
+                    },
+                    {
+                        "text": "IT."
+                    },
+                    {
+                        "text": "Head of IT"
+                    },
+                    {
+                        "text": "Internet Acceptable use"
+                    },
+                    {
+                        "text": "Internet content filtering software"
+                    },
+                    {
+                        "text": "IT"
+                    },
+                    {
+                        "text": "Automated"
+                    },
+                    {
+                        "text": "IT 3rd Line"
+                    },
+                    {
+                        "text": "Head of IT"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 322
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "The following legislation will also apply to this Email Usage policy (due to continual changes in legislation this list is not exhaustive):"
+            },
+            "type": "ListItem",
+            "sequence_num": 323
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Health Records 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 324
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access to Medical Reports Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 325
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Bribery Act 2010"
+            },
+            "type": "ListItem",
+            "sequence_num": 326
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Computer Misuse Act 1990"
+            },
+            "type": "ListItem",
+            "sequence_num": 327
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Copyright, Designs and Patents Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 328
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Criminal Justice Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 329
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Crime and Disorder Act 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 330
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Protection (Processing of Sensitive Personal Data) Order 2000."
+            },
+            "type": "ListItem",
+            "sequence_num": 331
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Defamation Act 1996"
+            },
+            "type": "ListItem",
+            "sequence_num": 332
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Disability Discrimination Act (DDA) 2005"
+            },
+            "type": "ListItem",
+            "sequence_num": 333
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Equality Act 2010"
+            },
+            "type": "ListItem",
+            "sequence_num": 334
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electronic Communications Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 335
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Fraud Act 2006"
+            },
+            "type": "ListItem",
+            "sequence_num": 336
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Freedom of Information Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 337
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The General Data Protection Regulation (GDPR)"
+            },
+            "type": "ListItem",
+            "sequence_num": 338
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health & Social Care Act 2001"
+            },
+            "type": "ListItem",
+            "sequence_num": 339
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Safety at Work Act 1974"
+            },
+            "type": "ListItem",
+            "sequence_num": 340
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Human Rights Act 1998"
+            },
+            "type": "ListItem",
+            "sequence_num": 341
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Obscene Publications Act 1959"
+            },
+            "type": "ListItem",
+            "sequence_num": 342
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection from Harassment Act 1997"
+            },
+            "type": "ListItem",
+            "sequence_num": 343
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protection of Children Act 1988"
+            },
+            "type": "ListItem",
+            "sequence_num": 344
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Public Records Act 1958/1967"
+            },
+            "type": "ListItem",
+            "sequence_num": 345
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regulation of Investigatory Powers Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 346
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Telecommunications Regulations 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 347
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Waste Electronic and Electrical Equipment Regulations Act 2006"
+            },
+            "type": "ListItem",
+            "sequence_num": 348
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Quality Impact Assessment (QIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 349
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "This policy has been reviewed and quality assessed, see appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 350
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "10 Equality Impact Assessment (EIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 351
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy has been reviewed and there is no impact noted based on the content of this document, see appendix 2."
+            },
+            "type": "ListItem",
+            "sequence_num": 352
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1, Quality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 353
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed: Information Technology (Cyber) Security Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 354
+        },
+        {
+            "type": "table",
+            "sequence_num": 355,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1.0 Benefits"
+                    },
+                    {
+                        "text": "1.1. What evidence has been used to develop this proposal (e.g. NICE, NCEPOD, audit, patient or staff surveys?)"
+                    },
+                    {
+                        "text": "IG Toolkit General Data Protection Regulation (GDPR) Best Practice BS ISO/IEC 27002:2005 Information Technology \u2013 Security Techniques \u2013 Code of Practice for Information Security Management"
+                    },
+                    {
+                        "text": "1.2. What changes does this proposal make to the care pathway?"
+                    },
+                    {
+                        "text": "Supports the robust delivery of IT services and systems"
+                    },
+                    {
+                        "text": "1.3. Describe the positive impact on: Patient safety Clinical effectiveness Patient experience"
+                    },
+                    {
+                        "text": "Ensures that Trust infrastructure and systems are suitably protected against risk of cyber security attacks Mitigates against interruption of staff access to systems and data resulting from malicious attack N/A"
+                    },
+                    {
+                        "text": "1.4. What current or new clinical outcome measures will monitor these benefits?"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "2.0 Impact Assessment"
+                    },
+                    {
+                        "text": "2.1. Describe how the impact of the change has been considered in relation to: Infection Prevention and Control Safeguarding vulnerable adults/ children Current quality indicators Quality Account priorities Patients/ carers/ members of the public Promoting self-care for people with long-term conditions Tackling health inequalities"
+                    },
+                    {
+                        "text": "Supports compliance to IG Toolkit, General Data Protection Regulation (GDPR) and Best Practice and ISO standards"
+                    },
+                    {
+                        "text": "2.2. How will you monitor the impact of this proposal? (Provide details of how this will be done, by whom, and when)"
+                    },
+                    {
+                        "text": "Trigger points early warning indicators"
+                    },
+                    {
+                        "text": "Escalate to ?"
+                    },
+                    {
+                        "text": "When ?"
+                    },
+                    {
+                        "text": "Responsible person"
+                    },
+                    {
+                        "text": "Staff not engaging with the defined policy"
+                    },
+                    {
+                        "text": "Digital Services and/or Information Governance Meetings"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Persons who identified non- compliance to defined policy"
+                    },
+                    {
+                        "text": "Regular monitoring reports made available for review"
+                    },
+                    {
+                        "text": "Cyber security & Outage review meeting and/or Digital Services Governance Meetings"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Cyber Security Officer"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2, Equality Impact Assessment (EIA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 356
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed: Information Technology (Cyber) Security Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 357
+        },
+        {
+            "type": "table",
+            "sequence_num": 358,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Equality or human rights concern."
+                    },
+                    {
+                        "text": "Does this item have any differential impact on the equality groups listed? Brief description of impact."
+                    },
+                    {
+                        "text": "How is this impact being addressed?"
+                    },
+                    {
+                        "text": "Gender"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Race and ethnicity"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Disability"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Religion, faith and belief"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sexual orientation"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transgender people"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Social class"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Carers"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Date of assessment:  25/04/2018 Names of Assessor (s)  Kate Thompson"
+            },
+            "type": "ListItem",
+            "sequence_num": 359
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document Title: Information Technology (Cyber) Security Policy / Register no: MSBPO-18006 / version: 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 360
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 361
+        }
+    ]
+}

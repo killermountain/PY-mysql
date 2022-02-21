@@ -1,0 +1,1762 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "INFORMATION LIFECYCLE MANAGEMENT POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSBPO-18002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.5"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Trust Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "06 September 2018"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "05 September 2021 extended to 31 January 2022"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit General Data Protection Regulation (GDPR) Best Practice BS ISO/IEC 27002:2005 Information Technology \u2013 Security Techniques \u2013 Code of Practice for Information Security Management"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "Regulation 12 \u2013 Safe care and treatment Regulation 15 \u2013 Premises and Equipment Regulation 17 \u2013 Good governance"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Digital Services"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Head of Information Governance"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "n/a"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Martin Callingham, Senior Information Risk Owner and Chief Information Officer"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "May 2018"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group (JDMG)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "19 June 2018"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "Date: September 2018"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "Trust Intranet/ Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With:"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance MSE"
+                    },
+                    {
+                        "text": "09 May 2018"
+                    },
+                    {
+                        "text": "Angela Bridges"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "11 May 2018"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "10 May 2018"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSE Policies"
+                    },
+                    {
+                        "text": "MSBPO-18001 Information Governance and Management Policy MSBPO-18002 Information Lifecycle Management Policy MSBPO-18003 Overarching Information Sharing Protocol MSBPO-18004 Privacy Impact Assessment Procedure Policy MSBPO-18005 Bring Your Own Device (BYOD) Policy MSBPO-18006 Information Technology (Cyber) Security Policy MSBPO-18007 Email Policy MSBPO-18014 DS Password Policy MSBPO-18015 DS User Access & Acceptable Usage of IT Policy MSEPRO-19005 EFM Freedom of Information Request Procedure MSEPO-19006 Estates and Facilities Management for Document Control MSEPO-19010 Child Safeguarding Policy MSEPO-19013 MSE IG Staff Handbook MSEPO-19014 Policy for Management of Incidents MSEPO-19015 Procedure Report Management of Incidents and Serious Incidents MSBPO-19016 Being Open & Duty of Candour Policy MSBPO-19023 Change Management Policy (Digital Services) MSEPO-19024 Data Subject Access Request (Data Disclosure) Policy MSEPO-20207 Data Opt-out Policy MSEPO-20212 Data Quality Policy MSEPO-20222 Disciplinary Policy MSEPO-20225 Access to Healthcare Records Policy MSEPO-20238 Anti Fraud and Anti Bribery Policy MSEPO-20243 MSE Freedom of Information Policy MSEPO-21064 Use of social media policy Information Governance Strategy"
+                    },
+                    {
+                        "text": "Site Policies: Broomfield"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Site Policies: Southend"
+                    },
+                    {
+                        "text": "CM56 Audit Procedure For Record Keeping & Documentation In Patient Clinical Records"
+                    },
+                    {
+                        "text": "Site Policies: Basildon"
+                    },
+                    {
+                        "text": "IM/PO/00023 Patient Identifiable Data for Secondary Use - Policies and Procedures"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Document Review History:"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/ Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "New Joint MSB document The policy replaces: SUFHT CM38 [T1] - POL - Corporate Records Management Policy (Information Lifecycle Policy); BTUH Information Lifecycle Management Policy; MEHT Archiving Policy 4.1WD (04087); Records Management Strategy (04084)"
+                    },
+                    {
+                        "text": "01/09/2018"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "MSBPO 18002 to reference 05103, 11024 and 04086 & to replace 04084 Records Management Strategy"
+                    },
+                    {
+                        "text": "16 November 2018"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Angela Bridges"
+                    },
+                    {
+                        "text": "Added Appendix 2 Corporate Records Retention and Disposal Schedule (NHS England & NHS Improvement 2019)"
+                    },
+                    {
+                        "text": "18 June 2020"
+                    },
+                    {
+                        "text": "1.3"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Removal of pre-merger site details and replaced with merged site details throughout the document. \u2018Related Trust Policies' updated with relevant policies."
+                    },
+                    {
+                        "text": "24 December 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "Matthew Barker Angela Bridges Goolam Ramjane"
+                    },
+                    {
+                        "text": "Amendments to related policies section. Amended references to NHS retention schedule document throughout policy. Removed appendix 1 (previous appendix 2 is now appendix 1)"
+                    },
+                    {
+                        "text": "16 August 2021"
+                    },
+                    {
+                        "text": "1.5"
+                    },
+                    {
+                        "text": "Sarah Wellings"
+                    },
+                    {
+                        "text": "Extension granted due to legal undertakings priority"
+                    },
+                    {
+                        "text": "16 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CONTENTS"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Lifecycle Management is the policies, processes, practices, services and tools used by an organisation to manage its information through every phase of its existence, from creation to destruction. Records Management forms part of the Trust's Information Lifecycle Management and is the process by which the organisation manages all the aspects of records whether internally or externally generated and in any format or media type, from their creation, all the way through to their lifecycle to their eventual disposal."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Records Management: NHS Code of Practice has been published by the Department of Health as a guide to the required standards of practice in the management of records for those who work within or under contract to NHS organisations in England. It is based on current legal requirements and professional best practice."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Records within the NHS can be held in paper or electronic form. All NHS organisations will have a duty to ensure that their record systems, policies and procedures comply with the requirements of the Care Record Guarantee."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust's records are our corporate memory, providing evidence of actions and decisions and representing a vital asset to support daily functions and operations. Records support policy formation and managerial decision making, protect the interests of the Trust and the rights of patients, staff and members of the public. They support consistency, continuity, efficiency and productivity and help deliver services in uniform and equitable ways. They are a valuable resource because of the information they contain and support the delivery of high quality evidence based healthcare. Information has most value when it is accurate, up to date and accessible when needed."
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy applies to Mid and South Essex NHS Foundation Trust. It covers all non-clinical, person identifiable or confidential and corporate information irrespective of the media on which they are held."
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy applies to all employees (permanent, seconded, contractors, management and clinical trainees, apprentices, temporary staff and volunteers) of the Trust. Third Parties with whom the Trust may agree information sharing protocols will be governed by the associated information sharing agreements and will be made aware of this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Records Management is a discipline which utilises an administrative system to direct and control the creation, version control, distribution, filing, retention, storage and disposal of records, in a way that is administratively and legally sound, whilst at the same time serving the operational needs of the Trust and preserving an appropriate historical record. The key components of records management are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record creation;"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record keeping;"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record maintenance (including tracking of record movements);"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access and disclosure;"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Closure and transfer;"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appraisal;"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The term Records Lifecycle describes the life of a record from its creation / receipt through the period of its \u2018active' use, then into a period of \u2018inactive' retention (such as closed files which may still be referred to occasionally) and finally either confidential disposal or archival preservation. In this policy, Records are defined as \u2018recorded information, in any form, created or received and maintained by the Trust in the transaction of their business or conduct of affairs and kept as evidence of such activity'."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information is a corporate asset. The Trust's records are important sources of administrative, evidential and historical information. They are vital to the Trust to support their current and future operations (including meeting the requirements of Freedom of Information legislation), for the purpose of accountability and for an awareness and understanding of their history and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Corporate Records:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Records (other than health records) that are of, or relating to, an organisation's business activities covering all the functions, processes, activities and transactions of the organisation and of its employees."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Chief Information Officer & Senior Information Risk Owner (SIRO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Senior Information Risk Officer (SIRO) \u2013 Board appointed Chief Information Officer responsible for ensuring:"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serious information risk management issues are brought to the Board for decision as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A lead or manager is in place to organise and enforce the Trust's approach to information risk management."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written advice is provided to the Accountable Officer and appropriate Trust Boards regarding the information risk management content of the annual report and Statement of Internal Control (SIC)."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caldicott Guardian"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Caldicott Guardian \u2013 Board appointed Site Director is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protecting the confidentiality of PCD processed by the Trust, ensuring that all sites satisfy the highest practical standards for handling PCD."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting as the \u201cconscience\u201d of the Trust, by actively supporting work to enable use and sharing of PCD where this is appropriate and advising on lawful and ethical solutions."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Championing confidentiality and information sharing requirements and issues at Board level and, where appropriate, at a range of levels within the Trust's overall governance framework."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Trust Head of Information Governance and Information Governance Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust Head of Information Governance and Information Governance Managers will act as subject matter experts with regards to the lifecycle/retention of corporate documents and provide advice and guidance to staff members."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "All Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All Managers will be responsible for implementing this policy within their area of jurisdiction and also ensure compliance to the retention periods outlined in the Records Management Code of Practice for Health and Social Care 2021."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "All Employees"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under the Public Records Act every member of staff is responsible for the records they create, receive and use in the course of their duties. Staff should ensure that they comply with this policy at all times and report any breaches through the appropriate incident reporting channels. Irrespective of its format, all staff must ensure that the following principles are applied to all records created:"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A consistent definition should be adopted to the creation, use, storage, retrieval, archiving, and disposal of records."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff should ensure records are stored within a filing structure that reflects the Trust's business functions. Records must not be retained, disseminated or duplicated unnecessarily."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff should ensure that records are disposed of by the authorised member of staff and this must be done in accordance with the Records Management Retention and Disposal Schedules."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff should keep complete and accurate information of all records, activities and transactions and ensure records are captured and managed within the appropriate information and records management systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff should ensure e-mail is only used a source transmission and not for storage."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff MUST not store information in individual filing systems or on hard drive (that is \u201cmy documents\u201d or \u201cdesktop\u201d)."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Asset Owners (IAOs)"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Usually the Clinical Directorate Director (CD), Associate Clinical Directorate Director (ACD), Director of Operations, Assistant Director of Operations, or General Manager who are responsible for;"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identifying and documenting the scope and importance of all information assets they own. This will include identifying all information necessary in order to respond to incidents or recover from a disaster affecting the information asset."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Taking ownership of their local asset control, risk assessment and management processes for the information assets they own. This includes the identification, review and prioritisation of perceived risks and oversight of actions to mitigate those risks."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that staff and relevant others are aware of and comply with expected information governance and data protection working practices for the effective use of information assets:"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Asset Administrators (IAAs)"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Asset Owners can appoint an Information Asset Administrator (IAAs) to support in the management of records with their department / directorate."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Asset Administrators are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all staff within their directorate / department are fully aware of their responsibilities and legal obligations for records management in compliance with policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Conducting regular audits of records management functions"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting policy breaches using the organisation incident reporting mechanism"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that effective and relevant file management systems are in place for information held within their directorate/department."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "THE SIX PHASES OF THE INFORMATION LIFECYCLE The Information Lifecycle covers 6 different phases:"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Creation"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Naming"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Filing Structure"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Filing/organisation"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tracking and tracing"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Retention/disposal"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Creation"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record creation is one of the most important processes in records management and all staff within the organisation should aim to create good records that can be used in an effective manner."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is important that records are kept in context and the best way to achieve this is to \u201cfile\u201d or \u201cclassify\u201d them. Records cannot be tracked or used efficiently if they are not classified or have been classified inappropriately."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Records captured or filed in a corporate filing system must be regarded as authentic or reliable. A common format for the creation of records will ensure that those responsible for record retrieval are able to locate records more easily"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When staff create corporate records a common format should always be used that as a minimum includes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The difference between a document and a record"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The referencing to be applied to any new records"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The version control standards to be followed"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The agreed naming conventions in use within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where an original record should be filed"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure quality and continuity of operational services, all records should be kept accurate and up to date. All Trust staff responsible for recording information in both paper and electronic format must ensure they fully understand their responsibilities as set out in this policy and remember that records may be used in a court of law."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Naming"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All staff must ensure that naming conventions:"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Give a unique name to each record"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Give a meaningful name which closely reflects the records content"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Locate the most specific information at the beginning of the name and the most general at the end"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a similarly structured and worded name to all records which are linked e.g. an earlier and a later version"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Filing Structure"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A clear and logical filing structure that aids the retrieval of records must be used"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The filing structure for electronic records should reflect the way in which paper records are filed to ensure consistency"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If this is not possible the names allocated to files and folders should allow \u201cintuitive filing\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Filing of the primary corporate record to local drives on PC's is not allowed and should be filed on the network within a shared folder that is appropriately access controlled"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Final versions of appropriate documents will be circulated or placed onto the local Intranet or Internet to ensure that all staff can have access to the approved versions of policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Documents must be given a review date when appropriate. The relevant responsible person or committee for any updates and reviews must also be identified when relevant."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Filing/Organisation"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A referencing system that meets the needs of the Trust must be used"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Several types of systems may be used e.g. alphanumeric, alphabetical, numeric, keyword etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In some circumstances it may be more feasible to give a unique reference to the file or folder in which the record is kept and identify the record by reference to date and format"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under no circumstances should personal confidential information be left out in the open e.g. on a desk or on a computer screen when not at a desk or any place visible to the public e.g. when in the car. Where rooms containing records are left unattended, they must be locked (see Information Security Policy)."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Tracking and Tracing"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The movement of records is the point at which information is at the greatest risk of being lost or inappropriately accessed"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In this circumstance, staff may have a requirement to hold personal confidential information outside of NHS premises. This should only be done if the service has been given Caldicott approval for this process and there is no alternative way of working. This should be discussed with the responsible line manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Department of Health has directed that there should be no transfers of unencrypted personal confidential data held in electronic format across the NHS. This is the default position to ensure that patient and staff personal data are protected. Any data stored on a PC or other removable device in a non-secure area or on a portable device such as a laptop, PDA or mobile phone should also be encrypted to the recommended NHS standard (See Information Security Policy)."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tracking and tracing procedures that are implemented must enable the movement and location of records to be controlled. This provides an auditable trail of record transactions"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tracking mechanisms to be used include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The item reference number of identifier"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A description of the item e.g. title"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The person, position or operational area/team who may have possession of the item"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The date and time of movement that took place"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Systems that may be used in order to monitor the physical movement of records include electronic document management systems and tracking or tracer cards."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Regular records audits should take place."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "Retention/Disposal"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Records must be secure from unauthorised or inadvertent alteration or erasure. Access and disclosure must be properly controlled and audit trails should track all use and changes. Records must be held in a robust format, which remains readable for as long as records are required;"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust is adopting the retention/disposal procedure and the retention schedules detailed within the NHSx Records Management Code of Practice 2021, which is available here:"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHSX_Records_Management_CoP_V7.pdf"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and the Corporate Records Retention and Disposal Schedule (NHS England & NHS Improvement 2019), which is available here:"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "https://www.england.nhs.uk/publication/corporate-records-retention-disposal-schedule- guidance/"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Records selected for archival preservation that are no longer in use by the Trust are to be transferred as soon as possible to an archival institution e.g. a Place of Deposit"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Non-active records should be transferred no later than 30 years from creation of the record as required by the Public Records Act 1958"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A record of the destruction of the records, showing their reference, description and date of destruction will be maintained and preserved so that the Trust can accurately identify which of those records have been destroyed and are no longer available"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Fundamental to the success of delivering a robust IG agenda across the Trust is the development of an IG-aware culture. Training is provided to all staff to promote this ethos. In practical terms, this means 95% of all staff must be trained on an annual basis, as per the requirements of the Data Security and Protection Toolkit assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In addition to formal IG training, a layered approach to awareness is employed, acknowledging a broader understanding of training to encapsulate awareness raising. Some roles, such as SIRO, Caldicott Guardian, and IAOs are required to undertake regular training to remain current in their role."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All managers are responsible for regular monitoring of the quality of records and documentation and should periodically undertake quality control checks to ensure that the standards as detailed in this policy are maintained in relation to the requirements of the General Data Protection Regulation/UK Data Protection Legislation and the NHSx Records Management Code of Practice for Health and Social Care 2021."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHSx Records Management Code of Practice for Health and Social Care 2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Public Records Act 1958"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "General Data Protection Regulation"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "UK Data Protection Act 2018"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Freedom of Information Act 2000"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Common Law Duty of Confidence"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record Management available from http://www.nationalarchives.gov.uk/recordsmanagement"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS For the Record"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title of document being impact-assessed: Information Lifecycle Management Policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "type": "table",
+            "sequence_num": 130,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "1.0 Benefits"
+                    },
+                    {
+                        "text": "1.1. What evidence has been used to develop this proposal (e.g. NICE, NCEPOD, audit, patient or staff surveys?)"
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit (National Data Security Standards) General Data Protection Regulation (GDPR) Best Practice \u2013 NHSx Records Management Code of Practice for Health and Social Care 2021 \uf0b7 \uf0b7"
+                    },
+                    {
+                        "text": "1.2. What changes does this proposal make to the care pathway?"
+                    },
+                    {
+                        "text": "Supports the robust delivery of Information Governance to protect Trust services, systems and data within its control"
+                    },
+                    {
+                        "text": "1.3. Describe the positive impact on: Patient safety Clinical effectiveness Patient experience"
+                    },
+                    {
+                        "text": "Ensures that Trust IG systems and processes are suitably robust to protect against the risk of data loss or misuse Ensure compliance with GDPR requirements in relation to retention/destruction when documents have passed their specified retention period. Able to demonstrate that robust processes are in place to ensure that safety of personal and clinical data"
+                    },
+                    {
+                        "text": "1.4. What current or new clinical outcome measures will monitor these benefits?"
+                    },
+                    {
+                        "text": "N/A"
+                    },
+                    {
+                        "text": "2.0 Impact Assessment"
+                    },
+                    {
+                        "text": "2.1. Describe how the impact of the change has been considered in relation to: Infection Prevention and Control Safeguarding vulnerable adults/ children Current quality indicators Quality Account priorities Patients/ carers/ members of the public Promoting self-care for people with long-term conditions Tackling health inequalities"
+                    },
+                    {
+                        "text": "Supports compliance with NHS Data Security and Protection Toolkit, General Data Protection Regulation (GDPR) and Best Practice: NHSx Code of Practice for Health and Social Care 2021"
+                    },
+                    {
+                        "text": "2.2. How will you monitor the impact of this proposal? (Provide details of how this will be done, by whom, and when)"
+                    },
+                    {
+                        "text": "Trigger points early warning indicators"
+                    },
+                    {
+                        "text": "Escalate to?"
+                    },
+                    {
+                        "text": "When?"
+                    },
+                    {
+                        "text": "Responsible person"
+                    },
+                    {
+                        "text": "Staff not engaging with the defined policy"
+                    },
+                    {
+                        "text": "Information Governance lead for further investigation"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Persons who identified non- compliance to defined policy"
+                    },
+                    {
+                        "text": "Regular monitoring reports made available for review"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "Immediately"
+                    },
+                    {
+                        "text": "Head of Information Governance/ Information Governance Manager"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 131,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Equality or human rights concern. (see guidance notes below)"
+                    },
+                    {
+                        "text": "Does this item have any differential impact on the equality groups listed? Brief description of impact."
+                    },
+                    {
+                        "text": "How is this impact being addressed?"
+                    },
+                    {
+                        "text": "Gender"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Race and ethnicity"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Disability"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Religion, faith and belief"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sexual orientation"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Age"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transgender people"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Social class"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Carers"
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date of assessment:  09/05/2018"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Names of Assessor (s) Matt Barker, Head of Information Governance MSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Lifecycle Management Policy / MSBPO-18002 / 1.5"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "APPENDIX 1: Corporate Records Retention and Disposal Schedule (NHS England & NHS Improvement 2019)"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "type": "image",
+            "sequence_num": 137,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.003.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 138,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.004.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 139,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Lifecycle Management Policy / MSBPO-18002 / 1.3"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "type": "image",
+            "sequence_num": 141,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.009.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 142,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.010.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Lifecycle Management Policy / MSBPO-18002 / 1.3"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "type": "image",
+            "sequence_num": 144,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.012.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 145,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.013.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 146,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.015.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 147,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.016.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 148,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.018.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 149,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.021.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 150,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.023.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 151,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.024.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 152,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.026.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 153,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.027.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 154,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.029.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 155,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.030.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 156,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.032.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 157,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.033.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 158,
+            "data": {
+                "url": "MSBPO-18002 Information lifecycle management policy 1.5.035.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Lifecycle Management Policy / MSBPO-18002 / 1.3"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 29.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        }
+    ]
+}

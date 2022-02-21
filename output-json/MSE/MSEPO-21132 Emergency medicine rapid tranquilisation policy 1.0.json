@@ -1,0 +1,4090 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "EMERGENCY CONTROL OF THE ACUTELY BEHAVIOURAL DISTURBED/ EXCITED DELIRIUM PATIENT: RAPID TRANQUILISATION IN THE EMERGENCY DEPARTMENT"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEPO-21132"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All healthcare professionals working in the MSE Trust"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "06 August 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "05 August 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Emergency, Tranquilisation, Acute Behavioural Disturbance, Chemical Restraint"
+                    },
+                    {
+                        "text": "Developed in response to: (National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "NICE NG10; Royal College of Emergency Medicine"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "9, 11"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Medicine and Emergency Care, Care Group 2, Division 3"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Dr James Klewe"
+                    },
+                    {
+                        "text": "ED Consultant, MSE Mental Health Lead"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "MSE Emergency Care Mental Health Working Group"
+                    },
+                    {
+                        "text": "05 May 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr E Lamuren"
+                    },
+                    {
+                        "text": "MSE Chair of Emergency Medicine Clinical Director Medicine and Emergency Care"
+                    },
+                    {
+                        "text": "11 May 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "27 July 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "August 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 17,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: (Must include Specialist Pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Maria Richards"
+                    },
+                    {
+                        "text": "Principal Pharmacist ED"
+                    },
+                    {
+                        "text": "22 April 2020"
+                    },
+                    {
+                        "text": "Paula Woods"
+                    },
+                    {
+                        "text": "Matron EM"
+                    },
+                    {
+                        "text": "23 April 2020"
+                    },
+                    {
+                        "text": "Dr A Hieatt"
+                    },
+                    {
+                        "text": "Consultant in EM"
+                    },
+                    {
+                        "text": "23 April 2020"
+                    },
+                    {
+                        "text": "Jo Francis"
+                    },
+                    {
+                        "text": "ADO, Emergency Village"
+                    },
+                    {
+                        "text": "23 April 2020"
+                    },
+                    {
+                        "text": "Jeff Lloyd"
+                    },
+                    {
+                        "text": "Mental Health Co-ordinator"
+                    },
+                    {
+                        "text": "10 May 2020"
+                    },
+                    {
+                        "text": "Dr M Sweeting"
+                    },
+                    {
+                        "text": "Divisional Director Medicine & Emergency Care"
+                    },
+                    {
+                        "text": "10 May 2020"
+                    },
+                    {
+                        "text": "Clive Gibson"
+                    },
+                    {
+                        "text": "Trust Safeguarding Lead"
+                    },
+                    {
+                        "text": "10 May 2020"
+                    },
+                    {
+                        "text": "Dr M Tehan"
+                    },
+                    {
+                        "text": "Consultant in EM"
+                    },
+                    {
+                        "text": "23 April 2020"
+                    },
+                    {
+                        "text": "Jenny Frost"
+                    },
+                    {
+                        "text": "ADoN Southend ED"
+                    },
+                    {
+                        "text": "11 May 2021"
+                    },
+                    {
+                        "text": "Amira Chaudry"
+                    },
+                    {
+                        "text": "Pharmacist ED"
+                    },
+                    {
+                        "text": "22 April 2020"
+                    },
+                    {
+                        "text": "Dr C Mukherjee"
+                    },
+                    {
+                        "text": "Consultant in Elderly Care Medicine"
+                    },
+                    {
+                        "text": "05 February 2020"
+                    },
+                    {
+                        "text": "Suzanne Hoare"
+                    },
+                    {
+                        "text": "Matron EM"
+                    },
+                    {
+                        "text": "23 April 2020"
+                    },
+                    {
+                        "text": "Kevin Beaton"
+                    },
+                    {
+                        "text": "Medical Director"
+                    },
+                    {
+                        "text": "10 May 2020"
+                    },
+                    {
+                        "text": "Anthony Schirn"
+                    },
+                    {
+                        "text": "ADoN Basildon ED"
+                    },
+                    {
+                        "text": "11 May 2021"
+                    },
+                    {
+                        "text": "Sandra Morton-Nance"
+                    },
+                    {
+                        "text": "LD Nurse Specialist"
+                    },
+                    {
+                        "text": "11 May 2021"
+                    },
+                    {
+                        "text": "Antoine Azzi"
+                    },
+                    {
+                        "text": "Clinical Lead, Southend Emergency Department"
+                    },
+                    {
+                        "text": "11 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "MSE Emergency Medicine Document Review Group"
+                    },
+                    {
+                        "text": "05 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) Reducing the need for restrictive interventions or equivalent Safe Conscious Sedation for Emergency Procedures in ED or equivalent Management of Pain Sedation and Delirium on Adult Patients in the General Critical Care Unit at Broomfield Hospital or equivalent Use of oral ketamine and midazolam for conscious sedation in the burn patient or equivalent MSEPO-21117 Deprivation of Liberty Safeguards Policy and Procedure"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Dr James Klewe"
+                    },
+                    {
+                        "text": "New MSE wide policy which replaces the following at Broomfield Hospital: 20015 Emergency Control of the Acutely Behavioural Disturbed Patient - Rapid Tranquilisation"
+                    },
+                    {
+                        "text": "6 August 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Guide to using the policy ........................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Introduction ................................................................................................................. 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Purpose ....................................................................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Scope ........................................................................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Definitions ................................................................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Role and responsibilities within the Trust ................................................................ 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Acute behavioural disturbance (ABD)....................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Physical symptoms and signs typical of ABD ......................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Differential Diagnoses of ABD ................................................................................... 9 10 When to assess capacity ........................................................................................... 9 11 Risk assessment....................................................................................................... 10 12 Physical restraint ...................................................................................................... 10 13 Monitoring and observations................................................................................... 11 14 Duties/responsibilities ............................................................................................. 12 15 Planning RT ............................................................................................................... 13 16 Actions ...................................................................................................................... 13 17 Prescribing and administration of RT ..................................................................... 14 18 Specific medication .................................................................................................. 14 19 Monitoring the patient after RT................................................................................ 16 20 Post incident review ................................................................................................. 16 21 Risks associated with RT. ........................................................................................ 17 22 Management of possible complications of RT ....................................................... 18 23 Aftercare .................................................................................................................... 19 24 Training requirements .............................................................................................. 19 25 Monitoring and audit ................................................................................................ 20 26 Approval and implementation ................................................................................. 2127 Equality impact assessment .................................................................................... 21 28 References ................................................................................................................ 22 Appendix A - Clinical frailty score .................................................................................. 24"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B - Algorithm for Rapid Tranquilisation (RT) for adults WITHOUT learning disabilities with CFS >5 in older adults ......................................................................... 26"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C - Rapid tranquilisation (RT) in adults with disturbed or psychotic behaviour with CFS \u22645 .................................................................................................... 27"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix D - Drugs and dosages to use in adults. ...................................................... 29"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix E - Special circumstances algorithm for Rapid Tranquilisation (RT) of adults WITH learning disabilities and delirium.............................................................. 30"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix F - Preliminary equality analysis ................................................................... 31"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Guide to using the policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Please ensure that the correct algorithm is used for the clinical situation you are facing."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "There are 3 different processes as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Appendices C+E are the Primary Pathway to follow for the ED patient needing RT)"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C with E: Algorithm for Rapid Tranquilisation (RT) for ADULTS WITHOUT learning disabilities (16+) for Psychosis or Acute Behavioural Disturbance (ABD.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix F: Special Circumstances Algorithm for RT of ADULTS WITH Learning Disabilities and delirium."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B: RT for FRAIL ADULTS WITHOUT learning disabilities (CFS >5.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "In the Emergency Department, rapid tranquilisation is a pharmaceutical intervention (commonly by parenteral route) required to prevent violence or aggression and thus to facilitate the immediate control of a patient with acute behavioural disturbance."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "RT is undertaken primarily for the patient's safety and that of the staff managing them. Adverse outcomes, including patient death, have been reported relating to prolonged and prone patient restraint, leading to asphyxia, loss of airway and sudden cardiac arrest."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Patients who are agitated due to excited delirium or dementia on the ward may also need a type of rapid tranquilisation to facilitate their medical treatment whilst ensuring their safety. This is different to Emergency Department rapid tranquilisation due to levels of risk, co-morbidities, poly pharmacy and differing timescales in which to act to achieve control."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "Commonly, patients on the wards with acute confusional state are managed with primary or secondary interventions (see policy 15005.) If these interventions fail, then a form of chemical restraint is often necessary. This is often administered orally. However, these patients are not without risk when being chemically subdued."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "An understanding of the legalities surrounding capacity and consent, along with the pharmacology of the drugs to be administered are fundamental to ensuring safe chemical restraint."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.6,
+                "text": "There are safety considerations, for both the patient and the staff, to be followed during the methods of chemical restraint."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.7,
+                "text": "The severity of the disturbed behaviour and associated risk to the service user or to other people and the apparent imminence of that risk often determine the strategies"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "that are employed in a situation. Where the risk is assessed as both severe and imminent, RT may be employed."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.8,
+                "text": "These guidelines are for use when a patient is acutely and severely \u2018disturbed', that is, physically aggressive, or threatening to become so, a danger to him or herself, staff, visitors, other patients. Also, when a patient is exhibiting behaviour disruptive to the functioning of the ward, inhibiting the appropriate expected care to other patients whilst suffering with a presumed medical or psychiatric cause."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.9,
+                "text": "Although not the overt intention, it is recognised that in attempting to calm/ lightly tranquilise the person, chemical restraint can and may lead to prolonged and excessively deep sedation/ anaesthesia. THIS MUST BE ANTICIPATED ON EVERY OCCASION."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Rapid Tranquilisation is NOT Procedural Sedation and the two should not be considered interchangeable."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.11,
+                "text": "Consent is generally required for treatment. If the patient is not competent to give or refuse consent, act on your judgement of what is in the patient's best interest."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.12,
+                "text": "A diagnosis for the behavioural disturbance must be made and the underlying cause treated. Consider drugs (including illicit substances), alcohol, hypoglycaemia, infection, metabolic disturbance, acute neurological disease (including trauma, infections, vascular and space -occupying lesions), pain, urinary retention, constipation."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.13,
+                "text": "If possible, urgently get a third-party history of previous psychiatric problems, substance abuse and/ or previous cognitive function (use the phone; relatives, GP.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.14,
+                "text": "Sedation must have therapeutic intent, e.g., to prevent harm to the patient, other patients, staff or visitors; to permit the administration of other definitive treatment in the patient's best interest; or to relieve distressing symptoms like psychosis, fear or severe anxiety. If there is doubt, consult a senior colleague or a psychiatrist. A section of the Mental Health Act (1983) may need to be applied, but do not allow this to delay treatment which is immediately necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.15,
+                "text": "Some conflict situations may be managed best by acceding to the patients demands (e.g., to be allowed to leave hospital.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.16,
+                "text": "A Mental Capacity Assessment (MCA) should be fully completed prior to undertaking chemical restraint of a patient in the emergency setting if the situation allows. Always treat the patient first in an emergency, however if time allows complete the MCA. Never complete an MCA after chemically restraining the patient. You and the patient will be unable to complete the assessment accurately. Make a full and concise retrospective entry in the patient's notes. Remember Who, What, Where & When (who was involved, what happened, where this incident took place, and detail the timing of the incident). Do not complete an MCA after a chemical restraint incident has occurred."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Purpose"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "This document covers the third intervention in minimising the restraint of patients after the first and second have failed (refer to policy 15005 Restrictive Interventions Policy) with the acutely disturbed, psychotic or excited delirious patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "Primarily dealing with the medications and dose adjustments needed for each specific group of patients requiring safe RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "This policy focuses on the logistics and practicalities of chemical restraint, predominantly RT in the emergency setting."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "The purpose of this policy is to ensure the safe and effective use of RT to maintain the health and safety of both patients and staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "To understand the implications and necessary precautions which must be undertaken for Rapid Tranquilisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.6,
+                "text": "To explain the monitoring and observations needed whilst undertaking RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.7,
+                "text": "To clarify the necessary documentation that must be completed in the event of RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "This policy applies to all patients over the age of 16 that may attend the ED."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "All staff involved in the management of patients with acutely disturbed behaviour, delirium and dementia."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "To focus on the procedures and logistics of administering the right drug via the right route to the right patient at the time of disturbance."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "To ensure the necessary monitoring and observations needed prior to and during any chemical restraint of patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Clarifying the governance surrounding chemical restraint in an emergency and the mandatory aspects of reporting such incidents."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.6,
+                "text": "Recognising the different approaches needed for patients with LD/SEN."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.7,
+                "text": "Predominantly for use in the ED but can be undertaken on the wards."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.8,
+                "text": "This document is for general guidance only, rigid adherence may always not be appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.9,
+                "text": "Seek more senior advice, at any stage, if in doubt."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "type": "table",
+            "sequence_num": 67,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "RT"
+                    },
+                    {
+                        "text": "Rapid Tranquilisation"
+                    },
+                    {
+                        "text": "ED"
+                    },
+                    {
+                        "text": "Emergency Department"
+                    },
+                    {
+                        "text": "ABD"
+                    },
+                    {
+                        "text": "Acute Behavioural Disturbance"
+                    },
+                    {
+                        "text": "ADON"
+                    },
+                    {
+                        "text": "Associate Director of Nursing"
+                    },
+                    {
+                        "text": "CFS"
+                    },
+                    {
+                        "text": "Clinical Frailty Score"
+                    },
+                    {
+                        "text": "NMS"
+                    },
+                    {
+                        "text": "Neuroleptic Malignant Syndrome- a syndrome of elevated temperature related to certain drug types"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "Intramuscular"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "Intravenous"
+                    },
+                    {
+                        "text": "SEN"
+                    },
+                    {
+                        "text": "Special Educational Needs"
+                    },
+                    {
+                        "text": "LD"
+                    },
+                    {
+                        "text": "Learning Disabilities"
+                    },
+                    {
+                        "text": "MCA"
+                    },
+                    {
+                        "text": "Mental Capacity Assessment"
+                    },
+                    {
+                        "text": "DOLS"
+                    },
+                    {
+                        "text": "Deprivation of Liberty"
+                    },
+                    {
+                        "text": "DRAG"
+                    },
+                    {
+                        "text": "Document Ratification Group"
+                    },
+                    {
+                        "text": "SEN"
+                    },
+                    {
+                        "text": "Special Educational Needs"
+                    },
+                    {
+                        "text": "EPUT"
+                    },
+                    {
+                        "text": "Essex Partnership University Trust"
+                    },
+                    {
+                        "text": "MH"
+                    },
+                    {
+                        "text": "Mental Health"
+                    },
+                    {
+                        "text": "MSEFT"
+                    },
+                    {
+                        "text": "Mid and South Essex Foundation Trust"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Committee responsibilities (i.e. Medicines Committees"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSEFT, under the direction of the Board and Executive team , under the maintains responsibility for all patient care under its provision."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Individual responsibilities (i.e. Chief Executive)"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The MSE Mental Health Lead will maintain oversight and responsibility for all aspects of care provision under MSEFT, reporting to the Senior Leadership team."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Clinical Leads for MSE will productively engage with EPUT to facilitate and maintain excellent patient care."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Local responsibility lies at each site for ensuring this policy is followed, under the guidance of the Mental Health Governance facilitators and Clinical Leads."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review of restraints will occur at each site, with the aim of developing an MSE wide Restraint review Panel. This will be overseen by the MSE MH Lead."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Acute behavioural disturbance (ABD)"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "ABD, or as it is also known \u2018Excited Delirium,' is the presentation of features of \u201cacute delirium\u201d and hyper-adrenergic autonomic dysfunction and must be considered a medical emergency. Its presentation is associated with sudden death in approximately 10% of cases."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "It describes the sudden onset of aggressive and violent behaviour and autonomic dysfunction, typically in the setting of acute on chronic drug abuse or serious mental illness."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Patients have signs of hyper-adrenergic autonomic dysfunction such as significant tachycardia, marked metabolic acidosis and hyperthermia and these are associated with multi organ failure and death."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Physical symptoms and signs typical of ABD"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Extremely aggressive/violent behaviour."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Excessive strength/continued struggle despite restraint."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Insensitive to pain."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acute psychosis with fear of impending doom."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Constant physical activity without fatigue."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hot to touch/profusely sweating/inappropriate state of undress."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hyperthermia."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tachypnoea."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tachycardia."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Differential diagnoses of ABD"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heat Stroke."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Neuroleptic Malignant Syndrome."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serotonin Syndrome."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Thyroid Storm."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sepsis."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Substance intoxication / withdrawal."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hypoxia."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hypoglycaemia."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head Injury / Seizures."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Akathisia."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "When to assess capacity"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "It is an essential legislative requirement to carry out a MCA when a person's capacity is in doubt and any serious decision needs to be made on their behalf (examples of such may include any invasive procedures, any procedure which requires a local or general anaesthetic, change of accommodation and any decision not to continue active treatment)."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "The starting assumption must be that the person has the capacity to make the specific decision."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.3,
+                "text": "There must be reasonable evidence that a person may lack capacity to make a specific decision before proceeding to a mental capacity assessment. This might be that the person's behaviour or circumstances cause doubt as to whether the person has capacity, that the person has been previously diagnosed with an impairment of the brain/mind or that the person has lacked the capacity to make other decisions in their life."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.4,
+                "text": "Where possible the capacity assessment should only take place when the person is in the \u2018best state possible' to make a decision. This may mean delaying the decision until a more appropriate time in non-urgent situations. It is the responsibility of the professional to ensure all possible steps are taken to assist the person to make the decision."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.5,
+                "text": "In an emergency, the professional is still required to make a judgement that the person lacks capacity and make a best interest decision. In these circumstances it is acceptable for the professional making the decision to evidence this retrospectively within the patient's medical notes including why this could not be formally assessed."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Risk assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "If there is an immediate risk of harm to patient, staff or other patients in the department then tannoy for the ED security team or call security for more back up."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "RT or restraint should be used only if the patient poses a significant risk of harm to themselves or others."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Staff should rapidly assess the environment and remove items that might be used as weapons/ missiles."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "Risk assessment for any ligatures in the room, considering the risk of self- strangulation."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.5,
+                "text": "Consider searching the patient for weapons. Speak to the Senior Security Officer regarding this."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.6,
+                "text": "Physical restraint may be needed to enable RT and should be in keeping with NICE guideline CG25."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Physical restraint"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "Verbal calming and de-escalation techniques should be used as the first line intervention in attempting to manage individuals displaying ABD."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "Physical restraint to facilitate their initial management may be inevitable. This should be kept to a minimum using a level of force that is justifiable, within reason and proportional to the individual case and rapidly followed by RT with close monitoring of vital signs."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.3,
+                "text": "Physical or manual restraint should be viewed as an intervention of almost last resort prior to providing definitive chemical restraint/ rapid tranquilisation; prolonged physical restraint must be avoided."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.4,
+                "text": "Physical restraint has been associated with injuries to patients as well been a contributing factor in patient deaths. Keeping the patient in a prone position MUST be avoided."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.5,
+                "text": "It should further be remembered that significant physiological derangements (acidosis, electrolyte abnormalities, cardiac arrhythmias etc.) can occur due to the underlying condition (e.g. excited delirium) or as a result of resisting restraint and may be exacerbated by comorbidities (e.g. cardiac disease) or medication / illicit substances."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.6,
+                "text": "If a patient is being restrained in the Emergency Department, even if the police are providing this intervention, ultimate responsibility for the patient's safety and well- being rests with the doctors and nurses of the emergency department."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Monitoring and observations"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "In ABD, patients may not be co-operative enough to manage a set of observations."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "Prior to medication administration, an eyeball assessment by a senior clinician must be undertaken."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.3,
+                "text": "Monitoring must be to hand and observations undertaken once the pharmacological intervention has been administered and is having an effect."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.4,
+                "text": "Observations must be continued regularly throughout the obtunded phase."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.5,
+                "text": "All observations must be recorded."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.6,
+                "text": "Observations include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor pulse blood pressure temperature and respiratory rate every 3- 5 minutes for the first hour then hourly until there are no further concerns."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use fluid monitoring sheet to ensure adequate hydration."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check U&Es if clinically appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review and record the episode with the patient within 72 hours if appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record an ECG."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Duties/responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "A decision to administer RT should be discussed with an ED consultant or registrar at night. The nurse in charge of the area should be aware of the decision and allocate appropriate staff. The clinician prescribing drugs for RT should document the reasons RT is needed."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.2,
+                "text": "To ensure all appropriate de-escalation techniques have been considered and attempted prior to the use of RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.3,
+                "text": "A patient may be restrained to prevent harm to others under Common Law. Consider calling the Police."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.4,
+                "text": "Police can use a section 136 of the Mental Health Act (Police power of arrest of a person in need of care and control) in the ED as it is a public place but not on a ward."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.5,
+                "text": "Doctor must ensure:"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient's prescription is individualised, not routine, includes details of what medication to use for RT, in what dose range and with what frequency."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Minimum time between doses and the maximum dose to be administered in a specified period must be stated."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider medication already prescribed and"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "possible interactions."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient should be monitored for effects and side effects and reviewed appropriately."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.6,
+                "text": "Nurse in charge of unit at time of RT to ensure:"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The RT is indicated, having exhausted other strategies to calm the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The prescription is followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient has the appropriate physical observations completed."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Written records including care plans are maintained."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.7,
+                "text": "For all ward patients pharmacist must ensure:"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical screening of pre-written prescription of RT medication."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prescriptions are checked for potential adverse interactions."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.8,
+                "text": "Education and training to nursing and medical staff regarding the safe prescribing, correct administration and suitable monitoring for RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Planning RT"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "Consider what other medications/ alcohol the patient may have had in the last 12-24 hours and adjust dosages accordingly."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "Consider whether agitation is due to a behavioural disturbance or psychosis."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.3,
+                "text": "Offer oral doses of sedative first."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.4,
+                "text": "Ensure as much dignity and privacy as possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.5,
+                "text": "Staff safety is paramount."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Actions"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "First Line:"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use non-drug measures first."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remain calm and do not get angry."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Avoid direct confrontation and provocation."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Find out what is worrying the patient and how they want to resolve it."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Offer to help."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reassure patient that he or she is not going to be harmed."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If necessary, use physical restraint (the minimum practicable for the minimum length of time)."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "16.1.1 Call Security to assist with restraint if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.2,
+                "text": "Second Line:"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This may be appropriate on a ward or with a frail elderly mildly agitated patient needing a CT scan."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Offer oral medication, Haloperidol 2.5mg, or Lorazepam 0.5-1mg (crush tablets and dissolve in a small volume of water);"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Halve doses if elderly and frail."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The lorazepam we have can be dissolved under the tongue."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.3,
+                "text": "Third Line (RT): This is RT in the ED."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If rapid, parenteral, sedation with drugs is required."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use your clinical judgement to decide what category of patient you are dealing with."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Get the patient safely restrained"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "AIM- to chemically get control of the patient to release the physical restraint and prevent injury to the patient and Staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "FIRST- GIVE IM Dose of a Medication per protocol. Ensure appropriate dosing. SECOND- repeat IM after appropriate time INCREASING the DOSE."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once under control, place IV access and transfer to monitored safe space. Further medications can be given IV now."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Prescribing and administration of RT"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "Checks must be made to establish if there are any advance directives in place in the event of requiring RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.2,
+                "text": "As far as possible, oral medication should be offered before parenteral."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.3,
+                "text": "Oral and intramuscular medication should be prescribed."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.4,
+                "text": "The indication and order of use should also be recorded on the drug chart and in the medical notes."
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.5,
+                "text": "Enough time should be allowed for clinical response between doses of medication for RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.6,
+                "text": "RT medications should never be mixed in the same syringes."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.7,
+                "text": "For algorithms of drug choice, dose and frequency see the Appendices."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.8,
+                "text": "The prescribing Doctor should be present for RT in the ED."
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.9,
+                "text": "The patient may need to be moved to resus following initial effects of dosing depending on the clinical situation and what is safest for the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "As a minimum, the resus trolley should be to hand during the administration of RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Specific medication"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Phenothiazines"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "The use of phenothiazines (haloperidol in the context of this guidance) is contraindicated in patients with Parkinson's because of their broad- spectrum antagonism of dopamine receptors."
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.2,
+                "text": "The therapeutic dilemma is further compounded by the potential for agents used in the treatment of Parkinson's (Levodopa and more notably dopamine agonists) to cause worsening confusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.3,
+                "text": "Capacity can be lost temporarily for psychological reasons, including severe anxiety. An adult who does not have capacity to consent can be given medical treatment in an emergency, in their best interests."
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Benzodiazepines in general."
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.4,
+                "text": "The dose may need to be adjusted according to the initial response."
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.5,
+                "text": "For IM use, Lorazepam should be diluted with an equal volume of water for injection or 0.9% Sodium Chloride (Normal Saline), immediately before injection."
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.6,
+                "text": "Combinations of benzodiazepines and antipsychotics have an additive effect allowing smaller doses of each to be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.7,
+                "text": "Never mix ANY drugs in the same syringe. All drugs MUST be given in separate injections."
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "Flumazenil is available in the ED for patients with respiratory depression caused by benzodiazepines. Give if respiratory rate is < 10 breaths/minute (200micrograms IV over  seconds, then 100micrograms at 60 second intervals, if required, maximum dose 1mg). an infusion may be required if drowsiness occurs after the injection (100-400 microgram/ hour)."
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Midazolam"
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.9,
+                "text": "There is a need for ED to potentially keep the 5mg/5ml ampoules for use in sedation as recommendation is for 1mg/ml solution to be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "Available as 5mg in a 5ml ampoule. Dilute with an equal volume of 0.9% Sodium Chloride (Normal Saline) for IV use to make a solution of 1mg/ml."
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.11,
+                "text": "Generally, doses are given in 0.5-1mg to a maximum dose of 7.5mg."
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.12,
+                "text": "A trust decision was to keep the 10mg/2ml ampoules in most wards as this is what is nearly always used (in syringe drivers). A recent NPSA alert recommends that not more than one strength is kept in general wards without risk assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procyclidine"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.0,
+                "text": "This injection must be available for acute dystonia. Administer 5-10mg, the dose is usually effective in 5-10 minutes but may need  minutes for relief. Repeat, if necessary, after 30 minutes. Maximum dose 20mg in  hours."
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.14,
+                "text": "Avoid phenothiazines or other antipsychotics in acute alcohol withdrawal. There are separate guidelines for non-emergency alcohol withdrawal and detoxification. Oral CHLORDIAZEPOXIDE is the drug of first choice."
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.15,
+                "text": "Use small doses for smaller adults. Required dose of neuroleptic depends on age, body build, physical frailty, co-morbid diagnoses, severity of management problem, previous exposure/response to neuroleptics, and skill of nurses."
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.16,
+                "text": "Patients with dementia, especially Lewy body dementia, are particularly prone to side -effects. If antipsychotics are given at all, the lowest doses deemed to be clinically purposeful should be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Monitoring the patient after RT"
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "Observations should be carried out every  minutes for the first hour after ORAL medications."
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.2,
+                "text": "If IV/IM Medication has been given, the patient should be monitored in resus or a major's area, depending on the judgement of the Senior Doctor, for continuous monitoring including O2 sats and end tidal CO2."
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Post incident review"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.1,
+                "text": "Any incident requiring RT (or physical intervention) must be recorded due to national recording of adverse interventions, via the Datix system."
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.2,
+                "text": "All appropriate staff should be trained to ensure that they are aware of how to correctly record any incident using the appropriate documentation."
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.3,
+                "text": "A post incident review should take place as soon as possible and at least within 72 hours of an incident ending for ward-based RT."
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.4,
+                "text": "Wherever possible a person not directly involved in the incident should lead the review which should address:"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "What happened during the incident?"
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any trigger factors."
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Each person's role in the incident."
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Their feeling at the time of the incident, at the review and how they may feel in the future."
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "What can be done to address their concern?"
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Service users should be given the opportunity to document their own account of the intervention."
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This should be filed in their medical notes. Effectiveness of medications."
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Interventions will be reviewed at the Restraint Panel Harm review meeting."
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "Risks associated with RT"
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "The use of RT is a high-risk practice which must be well managed in order to avoid unnecessary harm. The risks associated with RT have been identified as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Over-sedation causing loss of consciousness."
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Over-sedation causing loss of alertness."
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Loss of airway."
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiovascular collapse."
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory depression."
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Interaction with medication (prescribed or illicit including alcohol)."
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Damage to the therapeutic relationship."
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Underlying coincidental physical disorders."
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.2,
+                "text": "The specific risks associated with the different classes of medication that are used in RT should be taken into consideration along with the specific properties of individual drugs."
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.3,
+                "text": "When combinations are used, risks may be compounded."
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.4,
+                "text": "Staff must be aware of the following risks when prescribing /administering:"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "type": "table",
+            "sequence_num": 242,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Drug Class"
+                    },
+                    {
+                        "text": "Possible Adverse Effect"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Benzodiazepines"
+                    },
+                    {
+                        "text": "Loss of consciousness Respiratory depression or arrests Cardiovascular collapse Paradoxical increases in aggression"
+                    },
+                    {
+                        "text": "Antipsychotics"
+                    },
+                    {
+                        "text": "Loss of consciousness Cardiovascular and respiratory complications and collapse Seizures Subjective experience of restlessness (akathisia) Acute muscular rigidity (dystonia) Involuntary movements (dyskinesia) Neuroleptic malignant syndrome Excessive sedation"
+                    },
+                    {
+                        "text": "Antihistamines"
+                    },
+                    {
+                        "text": "Excessive sedation Painful injection Additional anti-muscarinic effects. Hypotension Arrhythmias"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.5,
+                "text": "Extra care should be taken when implementing RT in the following circumstances:"
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The presence of congenital cardiac conduction abnormality;"
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The concurrent prescription or use of other medication that lengthens QT intervals on ECG both directly and indirectly;"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The presence of certain disorders all found in ABD, affecting metabolism, such as, stress and extreme emotions, and extreme physical exertion (hypokalaemia, dehydration)."
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Management of possible complications of RT"
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "type": "table",
+            "sequence_num": 248,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Problem"
+                    },
+                    {
+                        "text": "Remedial Measures"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Irregular/ slow pulse <60/minute"
+                    },
+                    {
+                        "text": "Attach defibrillator. Call for help"
+                    },
+                    {
+                        "text": "Fall in blood pressure or <50mmHG diastolic"
+                    },
+                    {
+                        "text": "Lie patient flat. Raise legs if possible"
+                    },
+                    {
+                        "text": "Acute Dystonia (including oculogyric crisis)"
+                    },
+                    {
+                        "text": "Give procyclidine 5-10mg IM (or IV) Review antipsychotic medication"
+                    },
+                    {
+                        "text": "Reduced Respiratory Rate <10/ minute O Sats <95 2"
+                    },
+                    {
+                        "text": "Give Flumazenil if benzodiazepine-induced and RR falls below 10/min 200 micrograms, dose to be administered over 15 seconds, then 100 micrograms every 1 minute if require; usual dose 300-600 micrograms; Maximum 1mg per course. Monitor until RR returns to baseline level. Very rarely seizures may occur after flumazenil particularly after long term treatment with benzodiazepine. If induced by other agent patient will require mechanical ventilation \u2013 arrange transfer to ITU immediately."
+                    },
+                    {
+                        "text": "Increase in Temperature >38\u00b0C"
+                    },
+                    {
+                        "text": "Consider Neuroleptic Malignant Syndrome (NMS) Fever, usually above 38\u00b0C sometime hyperpyrexia over 40\u00b0C Muscle rigidity Alteration in consciousness Autonomic disturbances: tachycardia, changes in BP, urinary incontinence Raised creatinine kinase levels \u2013 check immediately. Risk factors Previous NMS or cerebral compromise Catatonia, agitation over-activity, dehydration RT, IM therapy, high potency neuroleptics STOP ANTIPSYCHOTIC IMMEDIATELY NMS can be fatal"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "Aftercare"
+            },
+            "type": "ListItem",
+            "sequence_num": 249
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.1,
+                "text": "Nurse in a light and quiet room, separate from other patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.2,
+                "text": "Nursing observation should be appropriate to the level of sedation."
+            },
+            "type": "ListItem",
+            "sequence_num": 251
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.3,
+                "text": "Nurse in the recovery position and continue to observe respiratory rate and oxygen saturation."
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.4,
+                "text": "Once awake, offer glasses and hearing aid, if worn."
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.5,
+                "text": "Record the treatment given, and the basis of the decisions taken, in the medical notes."
+            },
+            "type": "ListItem",
+            "sequence_num": 254
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.6,
+                "text": "Consider the need for starting or increasing regular oral medication."
+            },
+            "type": "ListItem",
+            "sequence_num": 255
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.7,
+                "text": "Be wary, however, of regular sedation without a good explanation of what is going on medically."
+            },
+            "type": "ListItem",
+            "sequence_num": 256
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 23.8,
+                "text": "Review all sedative drugs daily."
+            },
+            "type": "ListItem",
+            "sequence_num": 257
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 24.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.1,
+                "text": "The Trust has developed Guidelines for RT which includes prescribing advice, physical health monitoring and management of problems which may arise. To maintain competency in this area, all staff involved in RT\u2013 registered nurses, mental health practitioners and medical staff must receive training on the guidelines."
+            },
+            "type": "ListItem",
+            "sequence_num": 259
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.2,
+                "text": "All staff involved in administering or prescribing RT or monitoring service - users to whom parenteral RT has been administered, should receive ongoing competency training to a minimum of Intermediate Life Support \u2013 see medical emergencies and resuscitation policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.3,
+                "text": "All staff involved in an incident requiring the use of RT (or physical intervention) should be aware of the potential for damage to the service user/professional relationship and should ensure that everything possible is done to avoid any negative impact."
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.4,
+                "text": "All staff involved in RT need to be aware of the legal framework that authorises this intervention. The intervention should be in line with the guidance contained within the current Mental Health Act code of practice (and the Mental Capacity Act), and any departure from that guidance should be clearly recorded and justified as being in the best interests of the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 262
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 24.5,
+                "text": "Staff who fail to attend relevant medicines management training will be managed in accordance with the Education and Development Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 264
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "type": "table",
+            "sequence_num": 266,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Policy compliance"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Governance Lead"
+                    },
+                    {
+                        "text": "3 months"
+                    },
+                    {
+                        "text": "Restraint Panel"
+                    },
+                    {
+                        "text": "Mental Health Lead"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.2,
+                "text": "The effectiveness of the policy will be monitored through annual review of randomly selected case notes of patients identified as acute behavioural disturbances to assess compliance with policy. Focus will be on appropriate use of medication, MCA and DoLs."
+            },
+            "type": "ListItem",
+            "sequence_num": 267
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.3,
+                "text": "Audit findings and actions will be reported to the Adult Safeguarding and Patient Safety Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.4,
+                "text": "Additional review will be undertaken during the reviews of the Restraint Panel Review meeting."
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 270
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.1,
+                "text": "All policies, procedures and guidelines will be approved by the Emergency Medicine Document Review Group, which is the specialist group with the authority to approve local guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 26.2,
+                "text": "It is the author's responsibility to inform all relevant staff of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 272
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 27.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix H)"
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 28.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 276
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE NG10 \u2013 Violence and aggression: short-term management in mental health, health and community settings May 2015"
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE guideline NG10 Violence and aggression: short-term management in mental health, health and community settings. http://www.nice.org.uk/guidance/ng10"
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Royal College of Emergency Medicine: Guidelines for the Management of Excited Delirium / Acute Behavioural Disturbance (ABD) May 2016"
+            },
+            "type": "ListItem",
+            "sequence_num": 279
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "RCEM Guideline for the management of Acute Behavioural Disturbance / Excited Delirium http://www.rcem.ac.uk/Shop- Floor/Clinical%20Guidelines/College%20Guidelines/"
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "With thanks to Surrey and Borders Partnership NHS Foundation Trust - Rapid Tranquilisation Policy. November 2015; version 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 281
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Maudsley Prescribing Guidelines in Psychiatry, 11th Edition. D Taylor, C Paton, S Kapur. Wiley Blackwell 2012"
+            },
+            "type": "ListItem",
+            "sequence_num": 282
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Violence: The short-term management of disturbed/violent behaviour in in- patient psychiatric settings and emergency departments. NICE Guideline 2005"
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Rapid tranquillisation in mental health settings: promethazine hydrochloride. Evidence summary: unlicensed or off-label medicine NICE March 2014 https://www.england.nhs.uk/wp-content/uploads/2015/12/psa-vital-signs- restrictive- interventions-031115.pdf (last accessed 21/7/2019)"
+            },
+            "type": "ListItem",
+            "sequence_num": 284
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Faculty of Forensic and Legal Medicine. Acute behavioural disturbance: guidelines on management in police custody. January 2016"
+            },
+            "type": "ListItem",
+            "sequence_num": 285
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "American College of Emergency Physicians White Paper Report on Excited Delirium Syndrome September 2009"
+            },
+            "type": "ListItem",
+            "sequence_num": 286
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 228.0,
+                "text": "Gill JR. The syndrome of excited delirium. Forensic Sci Med Pathol 2014; 10: 223-"
+            },
+            "type": "ListItem",
+            "sequence_num": 287
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Vilke GM, Bozeman WP, Dawes DM et al. Excited Delirium Syndrome (EXDS); Treatment Options and Considerations. Journal of Forensic and Legal Medicine 2012; 19:117-121."
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Vilke GM, Payne-James J, Karch SB. \u201cExcited delirium (ExDS): Redefining an old diagnosis. Journal of Forensic and Legal Medicine 2012; 19:7-11"
+            },
+            "type": "ListItem",
+            "sequence_num": 289
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hick JL, Smith S, Lynch MT. Metabolic acidosis in restraint-associated cardiac arrest: a case series. Academic Emergency Medicine 1999; 6(3): 239-243. Vilke GM, DEBard ML, Chan TC et al. Excited Delirium Syndrome (EXDS): Defining based on a review of the literature. Journal of Emergency Medicine 2012; 43(5): 897-905."
+            },
+            "type": "ListItem",
+            "sequence_num": 290
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "European Resuscitation Council Guidelines for Resuscitation 6th Edition January 2011."
+            },
+            "type": "ListItem",
+            "sequence_num": 291
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "http://www.rcem.ac.uk/Shop- Floor/Clinical%20Guidelines/College%20Guidelines/"
+            },
+            "type": "ListItem",
+            "sequence_num": 292
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Guidelines for the management of acute behavioural disturbance in in- patient wards including rapid tranquilisation. CPFT Feb 2011"
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Evidence for Promethazine in RT from NICE. https://www.nice.org.uk/advice/esuom28/chapter/Key-points-from-the- evidence"
+            },
+            "type": "ListItem",
+            "sequence_num": 294
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix A: Clinical frailty score"
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "type": "table",
+            "sequence_num": 296,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Residence"
+                    },
+                    {
+                        "text": "\u25a1 Own Home \u25a1 Sheltered Housing \u25a1 Extra Care Housing \u25a1 Residential Home \u25a1 Nursing Home \u25a1 With Family"
+                    },
+                    {
+                        "text": "Domestic ADLs (Gardening, heavy Housework, Shopping)"
+                    },
+                    {
+                        "text": "\u25a1 Independent \u25a1 Cleaner / gardener etc. \u25a1 Help from family / friends \u25a1 Carers (If carers, how many per day)"
+                    },
+                    {
+                        "text": "Personal ADLs (washing, dressing & toileting)"
+                    },
+                    {
+                        "text": "\u25a1 Independent \u25a1 Help from family / friends \u25a1 Carers (If carers, how many per day)"
+                    },
+                    {
+                        "text": "Mobility (Specify Aid if used)"
+                    },
+                    {
+                        "text": "\u25a1 Walks independently inside & outside \u25a1 Walks Independently indoors \u25a1 Walks with assistance (1 or 2) \u25a1 Transfers only \u25a1 Hoist / bedbound"
+                    },
+                    {
+                        "text": "Cognitive Impairment"
+                    },
+                    {
+                        "text": "\u25a1 Formal Dementia Diagnosis \u25a1 Memory problems / History of confusion \u25a1 New Confusion \u25a1 No cognitive impairment"
+                    },
+                    {
+                        "text": "Palliative Care Plan"
+                    },
+                    {
+                        "text": "\u25a1 YES \u25a1 NO \u25a1 DNACPR"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "FRAILTY IDENTIFICATION GUIDE"
+            },
+            "type": "ListItem",
+            "sequence_num": 297
+        },
+        {
+            "type": "image",
+            "sequence_num": 298,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.003.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix B: Algorithm for rapid tranquilisation (RT) for adults WITHOUT learning disabilities with CFS >5 in older adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 299
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix C: Rapid tranquilisation (RT) in adults with disturbed or psychotic behaviour with CFS \u22645"
+            },
+            "type": "ListItem",
+            "sequence_num": 300
+        },
+        {
+            "type": "image",
+            "sequence_num": 301,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.004.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "ASSESS RISK to patient and staff, call security if at significant RISK"
+            },
+            "type": "ListItem",
+            "sequence_num": 302
+        },
+        {
+            "type": "image",
+            "sequence_num": 303,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Move patient to a"
+            },
+            "type": "ListItem",
+            "sequence_num": 304
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "quieter environment NON-DRUG INTERVENTIONS TO techniques minimise physical"
+            },
+            "type": "ListItem",
+            "sequence_num": 305
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Consider involving  restraint."
+            },
+            "type": "ListItem",
+            "sequence_num": 306
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "family / friends"
+            },
+            "type": "ListItem",
+            "sequence_num": 307
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Offer oral medication."
+            },
+            "type": "ListItem",
+            "sequence_num": 308
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Lorazepam 1-2mg po OR Haloperidol 2-10mg po + Promethazine 25-50mg po"
+            },
+            "type": "ListItem",
+            "sequence_num": 309
+        },
+        {
+            "type": "image",
+            "sequence_num": 310,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.006.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Procyclidine"
+            },
+            "type": "ListItem",
+            "sequence_num": 311
+        },
+        {
+            "type": "image",
+            "sequence_num": 312,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5mg IM should  Choose Haloperidol be available in  If unsuccessful or oral medications refused + Promethazine if ED if giving  takes"
+            },
+            "type": "ListItem",
+            "sequence_num": 313
+        },
+        {
+            "type": "image",
+            "sequence_num": 314,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "haloperidol.  benzodiazepines"
+            },
+            "type": "ListItem",
+            "sequence_num": 315
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "currently or has history of illicit drug"
+            },
+            "type": "ListItem",
+            "sequence_num": 316
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "MOVE to I.M. use. Choose a"
+            },
+            "type": "ListItem",
+            "sequence_num": 317
+        },
+        {
+            "type": "image",
+            "sequence_num": 318,
+            "data": {
+                "url": "MSEPO-21132 Emergency medicine rapid tranquilisation policy 1.0.016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "benzodiazepine if  Lorazepam 2-4mg IM or  OR Haloperidol 2.5-5mg IM cardiovascular disease  Midazolam 2.5-5 mg IM"
+            },
+            "type": "ListItem",
+            "sequence_num": 319
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "or mixed OD (as risk of"
+            },
+            "type": "ListItem",
+            "sequence_num": 320
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "\u2191QT)"
+            },
+            "type": "ListItem",
+            "sequence_num": 321
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "ADD if NEEDED+"
+            },
+            "type": "ListItem",
+            "sequence_num": 322
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Ketamine 2-4mg/kg ONLY IF  Promethazine 25-50mg IM OR Lorazepam 1-2mg IM"
+            },
+            "type": "ListItem",
+            "sequence_num": 323
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "FAMILIAR WITH DRUG"
+            },
+            "type": "ListItem",
+            "sequence_num": 324
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If I.M. unsuccessful or IV RT felt to be preferable"
+            },
+            "type": "ListItem",
+            "sequence_num": 325
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Move patient to monitored space if possible AND ensure airway equipment available."
+            },
+            "type": "ListItem",
+            "sequence_num": 326
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Use ONE option ONLY"
+            },
+            "type": "ListItem",
+            "sequence_num": 327
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Lorazepam 1-2mg I.V. or  Promethazine25-50mg I.V"
+            },
+            "type": "ListItem",
+            "sequence_num": 328
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Midazolam 0.5-1mg"
+            },
+            "type": "ListItem",
+            "sequence_num": 329
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Haloperidol 2.5mg-5mg I.V."
+            },
+            "type": "ListItem",
+            "sequence_num": 330
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Process for rapid tranquilisation (RT) for ADULTS WITHOUT learning disabilities (16+) for psychosis or acute behavioural disturbance (ABD.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 331
+        },
+        {
+            "type": "table",
+            "sequence_num": 332,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Before administering drugs for rapid tranquilisation: Consider individual risk factors.\uf020 Ensure first- and second-line interventions have failed and are documented.\uf020 Offer or consider oral medications.\uf020 Ensure MCA completed for RT\uf020"
+                    },
+                    {
+                        "text": "UNKNOWN OR NEUROLEPTIC NA\u00cfVE"
+                    },
+                    {
+                        "text": "KNOWN AND CONFIRMED HISTORY OF"
+                    },
+                    {
+                        "text": "PATIENT Consider physical health, drug use"
+                    },
+                    {
+                        "text": "ANTIPSYCHOTIC USE"
+                    },
+                    {
+                        "text": "and presentation"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ". Continue non-drug approaches"
+                    },
+                    {
+                        "text": "Continue non-drug approaches"
+                    },
+                    {
+                        "text": "FIRST Line: IM Medication"
+                    },
+                    {
+                        "text": "FIRST Line: IM Medication"
+                    },
+                    {
+                        "text": "Lorazepam \u2013 Wait 30 minutes for response. Repeat if partial response. If NO response: Haloperidol with either promethazine OR lorazepam e.g. Haloperidol 5mg with lorazepam 2mg (only in patients with no suspected cardiac disease) Or Ketamine IM"
+                    },
+                    {
+                        "text": "NO cardiac disease \u2013 confirmed by ECG. haloperidol with either promethazine OR lorazepam OR ketamine Wait 30 minutes for response."
+                    },
+                    {
+                        "text": "Unknown or confirmed cardiac disease. lorazepam OR ketamine Wait 30 minutes for response. OR olanzapine (unlicensed) If NO response: lorazepam OR olanzapine OR ketamine (Leave >2 hours between lorazepam IM and olanzapine IM)."
+                    },
+                    {
+                        "text": "First Line- IM DOSES"
+                    },
+                    {
+                        "text": "IM Medication Dosing:"
+                    },
+                    {
+                        "text": "Olanzapine 5-10mg (Max 20mg/24hours) Ketamine 2-4mg/kg Promethazine 25-100mg (Max 100mg/24hours)"
+                    },
+                    {
+                        "text": "Lorazepam 2-4mg (Max 4mg/24hours) Haloperidol 2.5-5mg (Max 12mg/24hours)"
+                    },
+                    {
+                        "text": "Monitoring"
+                    },
+                    {
+                        "text": "IM tranquilisation: monitor every 3- 5 minutes for minimum 30 minutes. IV tranquilisation: continuous monitoring and observation in Resus or Majors"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix D: Drugs and dosages to use in adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 333
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "(ONLY for excited delirium/ acute behavioural disturbance)"
+            },
+            "type": "ListItem",
+            "sequence_num": 334
+        },
+        {
+            "type": "table",
+            "sequence_num": 335,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Medication"
+                    },
+                    {
+                        "text": "Route"
+                    },
+                    {
+                        "text": "Typical Dose (mg)"
+                    },
+                    {
+                        "text": "Onset (min)"
+                    },
+                    {
+                        "text": "Duration (min)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Midazolam"
+                    },
+                    {
+                        "text": "I/N"
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "3-5"
+                    },
+                    {
+                        "text": "30-60"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "10-15"
+                    },
+                    {
+                        "text": "120-360"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "2-5"
+                    },
+                    {
+                        "text": "1-5"
+                    },
+                    {
+                        "text": "30-60"
+                    },
+                    {
+                        "text": "Lorazepam"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "15-30"
+                    },
+                    {
+                        "text": "60-120"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "2-4"
+                    },
+                    {
+                        "text": "2-5"
+                    },
+                    {
+                        "text": "60-120"
+                    },
+                    {
+                        "text": "Diazepam"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "15-30"
+                    },
+                    {
+                        "text": "15-60"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "5-10"
+                    },
+                    {
+                        "text": "2-5"
+                    },
+                    {
+                        "text": "15-60"
+                    },
+                    {
+                        "text": "Haloperidol"
+                    },
+                    {
+                        "text": "PO"
+                    },
+                    {
+                        "text": "2-10"
+                    },
+                    {
+                        "text": "15-30"
+                    },
+                    {
+                        "text": "180-360"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "2.5-5"
+                    },
+                    {
+                        "text": "15-30"
+                    },
+                    {
+                        "text": "180-360"
+                    },
+                    {
+                        "text": "IV unlicensed"
+                    },
+                    {
+                        "text": "2.5-5"
+                    },
+                    {
+                        "text": "5-10"
+                    },
+                    {
+                        "text": "180-360"
+                    },
+                    {
+                        "text": "Promethazine"
+                    },
+                    {
+                        "text": "PO"
+                    },
+                    {
+                        "text": "25-50"
+                    },
+                    {
+                        "text": "30-60"
+                    },
+                    {
+                        "text": "360+"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "25-100"
+                    },
+                    {
+                        "text": "30-60"
+                    },
+                    {
+                        "text": "360+"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "25-100"
+                    },
+                    {
+                        "text": "5-10"
+                    },
+                    {
+                        "text": "240-360"
+                    },
+                    {
+                        "text": "Olanzapine"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "15-45"
+                    },
+                    {
+                        "text": "120-240"
+                    },
+                    {
+                        "text": "IV (Unlicensed)"
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Ketamine"
+                    },
+                    {
+                        "text": "IM"
+                    },
+                    {
+                        "text": "2-4mg/kg"
+                    },
+                    {
+                        "text": "3-5"
+                    },
+                    {
+                        "text": "60-90"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "1-2mg/kg"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "20-30"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix E: Special circumstances algorithm for rapid tranquilisation (RT) of Adults WITH Learning disabilities and delirium"
+            },
+            "type": "ListItem",
+            "sequence_num": 336
+        },
+        {
+            "type": "table",
+            "sequence_num": 337,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Before administering drugs for rapid tranquilisation: Consult any advance decisions/ statements.\uf020 Agree suitable therapeutic goal.\uf020 Note previous medicines/ response and total medicines in the last 24 hours (including regular)\uf020 Consider individual risk factors.\uf020 Ensure first- and second-line interventions have failed and are documented.\uf020 Contact the Safeguarding Team/ LD CNS\uf020"
+                    },
+                    {
+                        "text": "UNKNOWN OR NEUROLEPTIC NA\u00cfVE"
+                    },
+                    {
+                        "text": "KNOWN AND CONFIRMED HISTORY OF"
+                    },
+                    {
+                        "text": "PATIENT Consider physical health, drug"
+                    },
+                    {
+                        "text": "ANTIPSYCHOTIC USE"
+                    },
+                    {
+                        "text": "use and presentation"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "FIRST LINE: ORAL Medication lorazepam OR promethazine"
+                    },
+                    {
+                        "text": "First LINE: ORAL Medication lorazepam AND/ OR haloperidol OR olanzapine"
+                    },
+                    {
+                        "text": "Allow at least 1 hour for response to oral. Continue non-drug approaches. If unsuccessful or patient refuses."
+                    },
+                    {
+                        "text": "Allow at least 1 hour for response to oral. Continue non-drug approaches. If unsuccessful or patient refuses."
+                    },
+                    {
+                        "text": "Second Line: IM Medication"
+                    },
+                    {
+                        "text": "Second Line: IM Medication"
+                    },
+                    {
+                        "text": "Lorazepam \u2013 Wait 30 minutes for response. Repeat if partial response If NO response: Haloperidol with either promethazine OR lorazepam (only in patients with no cardiac disease \u2013 confirmed by ECG)"
+                    },
+                    {
+                        "text": "NO cardiac disease \u2013 confirmed by ECG Haloperidol with either promethazine OR lorazepam Wait 30 minutes for response. Repeat if partial response. If NO response: Lorazepam (if not already used) OR Olanzapine"
+                    },
+                    {
+                        "text": "Unknown or confirmed cardiac disease Lorazepam Wait 30 minutes for response. OR olanzapine (unlicensed) Repeat if partial response. If NO response: lorazepam OR olanzapine (Leave >2 hours between lorazepam IM and olanzapine IM)."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency control of the acutely behavioural disturbed/excited delirium patient:"
+            },
+            "type": "ListItem",
+            "sequence_num": 338
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "rapid tranquilisation / MSEPO-21132 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 339
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 33.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 340
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Emergency control of the acutely behavioural disturbed/excited delirium patient:"
+            },
+            "type": "ListItem",
+            "sequence_num": 341
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "rapid tranquilisation / MSEPO-21132 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 342
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix F: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 343
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Emergency control of the acutely behavioural disturbed/ excited delirium patient: rapid tranquilisation (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 344
+        },
+        {
+            "type": "table",
+            "sequence_num": 345,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 346,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "New MSE policy; full review"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "3-year review, now agreed by all 3 site Clinical Leads for EM as MSE policy"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patient and clinicians"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 347,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Dr James Klewe"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Consultant in Emergency Medicine"
+                    },
+                    {
+                        "text": "16 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 31.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 348
+        }
+    ]
+}

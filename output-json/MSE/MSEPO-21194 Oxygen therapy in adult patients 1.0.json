@@ -1,0 +1,3580 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document title:"
+                    },
+                    {
+                        "text": "MANAGEMENT AND ADMINISTRATION OF OXYGEN THERAPY IN ADULT PATIENTS POLICY AND PROCEDURE"
+                    },
+                    {
+                        "text": "Document reference/register no:"
+                    },
+                    {
+                        "text": "MSEPO-21194"
+                    },
+                    {
+                        "text": "Version number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All adult clinical areas with the exception of ITU/HDU areas"
+                    },
+                    {
+                        "text": "Ratification issue date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "23 November 2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "22 November 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Oxygen, therapy, adult patients"
+                    },
+                    {
+                        "text": "Developed in response to: (National guidance/recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations British Thoracic Society (BTS)"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "9, 12, 15"
+                    },
+                    {
+                        "text": "Care group/division:"
+                    },
+                    {
+                        "text": "Care Group 1"
+                    },
+                    {
+                        "text": "Division 1"
+                    },
+                    {
+                        "text": "Author/contact: (asset administrator)"
+                    },
+                    {
+                        "text": "Joanne Peacock"
+                    },
+                    {
+                        "text": "Lead Respiratory Clinical Nurse Specialist"
+                    },
+                    {
+                        "text": "Hospital sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval group/ committee(s):"
+                    },
+                    {
+                        "text": "MSE Respiratory Medicine Divisional Governance Medical Gas Management Group"
+                    },
+                    {
+                        "text": "16 November 2021"
+                    },
+                    {
+                        "text": "Professionally approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Jennifer Marshall"
+                    },
+                    {
+                        "text": "Deputy Director of Nursing \u2013 Specialist Medicine"
+                    },
+                    {
+                        "text": "16 November 2021"
+                    },
+                    {
+                        "text": "Ratification group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "23 November 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and clinical directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "November 2021"
+                    },
+                    {
+                        "text": "Distribution method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted with: (Must include specialist pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Kirsten Wadsworth, Keith Hattotuwa, Steve Jenkins, Duncan Powrie, Johnson Samuel, Bernard Yung, Dipak Mukherjee, Kanwar Pannu, Marcus Pittman, Abigail Moore, Malcom Lawson, Niranjan Setty, Dora Amran, Sohail Ansari, Joyce Chew, Sharjeela Tariq, Yasser Ahmed"
+                    },
+                    {
+                        "text": "Respiratory Consultants"
+                    },
+                    {
+                        "text": "05 November 2021"
+                    },
+                    {
+                        "text": "Alice Ncube, Ousman Jallow, Megan Kipps, Nadine Clapham, Subimol Manimaladevasia"
+                    },
+                    {
+                        "text": "Respiratory Nurse Specialists"
+                    },
+                    {
+                        "text": "05 November 2021"
+                    },
+                    {
+                        "text": "Amrit Kandola (Basildon)"
+                    },
+                    {
+                        "text": "Respiratory Pharmacists"
+                    },
+                    {
+                        "text": "05 November 2021"
+                    },
+                    {
+                        "text": "Jenny Gates (Southend), Kimberliegh Hughes (Southend)"
+                    },
+                    {
+                        "text": "Respiratory Specialist Physiotherapists"
+                    },
+                    {
+                        "text": "05 November 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Medical Gases Management Group"
+                    },
+                    {
+                        "text": "16 November 2021"
+                    },
+                    {
+                        "text": "Medicine Divisional Governance"
+                    },
+                    {
+                        "text": "16 November 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust documents (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Transfer policy or equivalent Policy for the recognition and management of deteriorating adult patients use of the national early warning score (NEWS) system or equivalent Optiflow policy or equivalent"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document review history:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Joanne Peacock"
+                    },
+                    {
+                        "text": "23 November 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Oxygen policy; Basildon Hospital: CPPO00033 Oxygen therapy in adult patients - policy and procedure for management and administration."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 7,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Identifying appropriate target saturations ...................................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Exclusions: ................................................................................................................. 12"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Indications .................................................................................................................. 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Contra-indications ....................................................................................................... 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "Cautions ..................................................................................................................... 14  Other precautions/ hazards/ complications of oxygen therapy: .................................. 15  Transfer and transportation of patients receiving oxygen ........................................... 17  Peri-operative and immediately post operatively ........................................................ 18  Nebulised therapy and oxygen ................................................................................... 18  Weaning of oxygen ..................................................................................................... 19  Summary of oxygen administration protocol (and weaning protocol) ......................... 20  Humidification ............................................................................................................. 23  Health and safety issues are covered in the annexes ................................................. 23  Discharge of patients with oxygen therapy ................................................................. 23  Training requirements ................................................................................................. 23  Monitoring and audit ................................................................................................... 24  Approval and implementation ..................................................................................... 24  Preliminary equality analysis ...................................................................................... 24  References ................................................................................................................. 25 Appendix 1: Table 1 critical illness requiring high levels of supplemental oxygen ............. 26"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 2: Table 2 Serious illnesses requiring moderate levels of supplemental oxygen if the patient is hypoxaemic .................................................................................................. 27Appendix 3: Table 3 COPD and other conditions requiring controlled or low-dose oxygen28"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 4: Table 4 Conditions for which patients should be monitored closely but oxygen therapy is not required unless the patient is hypoxaemic................................................... 29"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 5: Chart 1 Oxygen prescription for acutely hypoxaemic patients ....................... 30"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 6: Illustration of Oxygen prescribing in the East of England Adult Drug Chart For Basildon and Broomfield .................................................................................................... 31"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 7: Administering acute oxygen therapy .............................................................. 33 Appendix 8: Equipment used in the delivery of oxygen ..................................................... 35 Appendix 9: Flow chart for oxygen administration on general wards ................................. 46 Appendix 10: Monitoring of patients See local hospital policy and NEWS system ............. 47 Appendix 11: Health and safety ......................................................................................... 48 Appendix 12: Preliminary equality analysis ........................................................................ 49"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Who should read this document?"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is a Trust wide policy to guide the safe and effective prescribing and administration of oxygen in Adults. Therefore all clinical staff involved with the prescribing and /or administration of oxygen therapy must read this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Key Messages"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The aim of this policy is to ensure that:"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All patients who require supplementary oxygen therapy receive therapy that is appropriate to their clinical condition and in line with national guidance (British Thoracic Society [BTS] Guideline 2017):"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Best practice is to prescribe a target range for all hospital patients at the time of admission so that appropriate oxygen therapy can be started in the event of unexpected clinical deterioration with hypoxemia and also to ensure that the oximetry section of the early warning score (NEWS) can be scored appropriately."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen will be prescribed according to a target saturation range. The system of prescribing target saturation aims to achieve a specified outcome, rather than specifying the oxygen delivery method alone."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinicians must bear in mind that supplemental oxygen is given to improve oxygenation but it does not treat the underlying causes of hypoxaemia and must be diagnosed and treated as a matter of urgency."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recommend aiming to achieve normal or near normal oxygen saturation for all acutely ill patients apart from those at risk of hypercapnic respiratory failure or those receiving terminal palliative care."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen is a treatment for hypoxaemia, not breathlessness. Oxygen has not been proven to have any consistent effect on the sensation breathlessness in non-hypoxaemic patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In Critical illness such as Cardiac arrest, resuscitation, sepsis, major trauma, drowning, anaphylaxis, major pulmonary hemorrhage, status epilectcus, major head injury and carbon monoxide poisoning the initial oxygen therapy is a reserviour mask at 15L/min pending the availability of reliable oximetry readings. (See Appendix A)"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Those who administer oxygen therapy will monitor the patient and keep within the target saturation range."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen should be discontinued once the patient can maintain saturations within or above the target range breathing air, but the prescription for a target range should be left in place in case of further deterioration and to guide NEWS."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This policy will ensure that all adult patients who require oxygen are given the correct amount of oxygen using the most appropriate equipment. The administration of supplemental oxygen is an essential element of appropriate management for a wide range of clinical conditions; however oxygen is a drug and therefore requires prescribing in all but emergency situations. Failure to administer oxygen appropriately can result in serious harm to the patient. The safe implementation of oxygen therapy with appropriate monitoring is an integral component of the Healthcare Professional's role."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The guideline is based on the British Thoracic Society (BTS) Guideline for oxygen use in adults in healthcare and emergency settings 2017"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "All references are to 2017 BTS Guideline which replaces the 2008 Guideline."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "type": "table",
+            "sequence_num": 42,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Term"
+                    },
+                    {
+                        "text": "Definition"
+                    },
+                    {
+                        "text": "Arterial blood gas (ABG)"
+                    },
+                    {
+                        "text": "Is a blood test to measure the acidity, or pH and the levels of oxygen and carbon dioxide. The blood is taken from the artery and is performed by a ABG competent health care professional."
+                    },
+                    {
+                        "text": "CO2"
+                    },
+                    {
+                        "text": "Carbon dioxide"
+                    },
+                    {
+                        "text": "Hypoxaemia"
+                    },
+                    {
+                        "text": "Lower than normal arterial blood oxygen level."
+                    },
+                    {
+                        "text": "Non - Hypoxaemia"
+                    },
+                    {
+                        "text": "Normal levels of arterial blood oxygen level."
+                    },
+                    {
+                        "text": "National Early Warning Score (NEWS)"
+                    },
+                    {
+                        "text": "Is a tool developed by the Royal College of Physicians which improves the detection and response to clinical deterioration in adult patient's."
+                    },
+                    {
+                        "text": "National Early Warning Score 2 (NEWS2)"
+                    },
+                    {
+                        "text": "Is the updated tool developed by the Royal College of Physicians with updated changes including to the oxygen saturations target ranges."
+                    },
+                    {
+                        "text": "Hypercapnic respiratory failure"
+                    },
+                    {
+                        "text": "Occurs when alveolar ventilation is insufficient to excrete the carbon dioxide being produced."
+                    },
+                    {
+                        "text": "Cellular hypoxia"
+                    },
+                    {
+                        "text": "When tissues of the body do not receive sufficient oxygen supply."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 43,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Pneumothorax"
+                    },
+                    {
+                        "text": "When the air gets into the space between the outside of the lung and the inside of your chest wall (ribcage)"
+                    },
+                    {
+                        "text": "Ischaemia"
+                    },
+                    {
+                        "text": "Is the restriction in blood supply to tissues, causing a shortage of oxygen that is needed for cellular metabolism to keep tissue alive."
+                    },
+                    {
+                        "text": "Patient group directive (PGD)"
+                    },
+                    {
+                        "text": "Provides a legal framework that allows some registered health care professionals to supply and / or administer specified medicines to a pre-defined group of patients."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Chief Executive:"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Chief Executive as the Accountable Officer has overall responsibility for the quality and safety of services provided by the Trust. In this respect, he/she is responsible for ensuring that the infrastructure required to support the delivery and implementation of this document is available. He/she will delegate the full implementation of this document to a relevant Executive Director in this case the Medical Director."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Director of Nursing / Medical Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Director of Nursing and the Medical Director will be corporately responsible for the implementation of this document. This includes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The identification of when the document is reviewed and updated and the time frame for the process to be undertaken;"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The identification of the responsible group to have monitoring reports sent to;"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that the Trust provides / supports the training required for staff to take consent and that there is appropriate competency framework to support this."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Director of Operations:"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Director of Operations is responsible for ensuring that there are systems and processes in place to communicate and implement this document in the clinical areas."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Divisional Clinical Directors / Divisional General Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical Directors and General Managers are responsible for the implementation of this document at Directorate level. This includes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identifying training needs for staff undertaking delegated consent."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that the monitoring and auditing of training on consent are completed and reported, that the results are appropriately actioned and reported."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Deputy Directors of Nursing / Associate Deputy Director of Nursing:"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The DDoN's and ADoN's are responsible for ensuring that the policy is disseminated throughout the Division and that the required monitoring and audit are undertaken, with the resources provided to support this."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.6,
+                "text": "Head of Therapies:"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Head of Therapies (HoT) is responsible for ensuring that this document is fully implemented at department level. This will include making sure all relevant and necessary training is given and received, that the introduction of the document is monitored and therefore assessing the impact this is having on service delivery. In addition, the HoT is responsible for ensuring that the required monitoring and audit are undertaken within the Therapy CSU and reported through the relevant governance system."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.7,
+                "text": "Lead Nurses:"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Lead Nurses are responsible for ensuring that all nursing staff (including Nurse Specialists, Practitioners/Advisors) within the Clinical Service Unit complies with the contents of this document and for taking action when this is not the case. The Lead Nurse will make sure that all necessary training is provided."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.8,
+                "text": "Medical Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Consultant holds ultimate responsibility for ensuring that all members of the medical team follow the details contained within this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.9,
+                "text": "Senior Sisters/Nursing Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Senior Sister/nurse in charge is accountable for the safe care and management of patient on the ward. They are therefore responsible for ensuring that all staff within the ward complies with this document and for implementing a system to provide assurance that this is the case."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Registered Nursing Staff/Registered Healthcare Professionals/Clinical Support Workers must be trained to undertake the procedure and comply with this document with relevant competencies completed."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Practice Education Facilitator / Practice development team are responsible for supporting staff with learning needs around oxygen therapy."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "People and Organisational Development Team is responsible for provision of Trust training programmes and maintaining the electronic staff record of training"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Identifying appropriate target saturations"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Guidance on identifying appropriate saturations for patients is provided for the medical staff and other prescribers in Appendices a-e (table 1-4 and figure 1 in the guideline)."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In summary oxygen should be prescribed to achieve a target saturation range of:"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "94-98% for most acutely unwell patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "88-92% for those at risk of hypercapnic respiratory failure."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "92% - 96% for patients with confirmed or suspected COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Respiratory consultants / Respiratory SpR's and Respiratory trained non \u2013 Medical prescribers within the Trust can change patients target saturations out of BTS recommended guidelines depending on patients' clinical condition and safety."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Prescribing oxygen \u2013 all adult in patients should have a target range"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Prescriptions for oxygen for in-patients may only be written by a registered medical practitioner, a pre-registration doctor in training, or appropriate non-medical prescriber (East of England Adult Inpatient Drug Chart page 7 / E prescription appendix (f)). It is best practice to prescribe a target range for all patients on admission so that appropriate oxygen therapy can be started in the event of unexpected clinical deterioration with hypoxaemia and also to ensure that the oximetry section of the NEWS score can be scored appropriately. (BTS 2017)"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "Clinicians should assess the clinical status of the patient prior to prescribing oxygen and the patient's condition should be reassessed at every drug round by the nursing staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The clinician must:"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tick (if using paper prescription) the target saturation range on the drug chart and alter oxygen saturation target on electronic observations."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document reasons if oxygen is NOT prescribed according to BTS guidelines: e.g. end of life care."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that adjustments to prescriptions are clearly documented and signed on the drug chart."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "It is a Registered Nurse's /Registered Healthcare Professionals responsibility to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Start oxygen and ensure target is achieved quickly."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Titrate oxygen and keep in range."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sign the drug chart every drug round."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document starting flow rate, and / or % and device."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor observations for a minimum of 4 hourly."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Wean off if clinically stable within target range on two consecutive occasions, maintain oxygen within target minimum."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure codes are written and initialled on the drug chart / electronic chart."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review patient and consider medical review if increasing oxygen requirements if patient deteriorates or saturations drop >3% of target range."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "Body of Policy/Guideline"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any patient in the hospital could develop an illness or complication leading to the development of hypoxaemia (low blood oxygen level). For this reason, it is MSE policy that all patients should have a target saturation range established on admission to hospital so that all healthcare staff will be aware of the patient's needs should they develop hypoxaemia due to acute illness. Oxygen can be prescribed conveniently at the time of admission to hospital. This allows the efficient prescription of oxygen at the same time as thromboprophylaxis (VTE) risk assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.7,
+                "text": "Administering oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once the target saturation has been identified and prescribed, guidance regarding the most appropriate delivery system to reach and maintain the prescribed saturation is provided for those administering oxygen in Appendix (h)."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.8,
+                "text": "Monitoring and recording oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient's oxygen saturation and oxygen delivery system should be recorded in the electronic observations section alongside other physiological variables (see local site policy)"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All patients on oxygen therapy should have regular pulse oximetry measurements. The frequency of oximetry measurements will depend on the condition being treated and the stability of the patient. Critically ill patients should have their oxygen saturations monitored continuously and recorded as per policy for the recognition and management of deteriorating adult patient's use of the NEWS, whereas patients with a stable condition will need less frequent monitoring."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen therapy should be increased if the saturation is below the desired range and decreased if the saturation is above the desired range and eventually discontinued as the patient recovers."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any sudden fall in oxygen saturation should lead to an evaluation of the patient and in most cases, measuring of blood gases. Deteriorating oxygen saturation (fall of \u2265 3%) or increasing breathlessness in a patient with previously stable chronic hypoxaemia will warrant arterial blood gases."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients on oxygen should have their saturations recorded minimum 4 hourly in line with the Trust's minimum observation policy (see local policy)."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients should be monitored accurately for signs of improvement or deterioration. Healthcare professionals should also monitor skin colour for peripheral cyanosis and respiratory rate."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NEWS 2 has a dedicated section (SpO2 Scale 2) for use in patients with hypercapnic respiratory failure (usually due to COPD) who have clinically recommended oxygen saturation of 88\u201392%;"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a patient has an NEWS score because of the saturations are below the target range, the nurse should increase the concentration and /or flow of oxygen and discuss the patient with a doctor and monitor the saturation on the new higher dose of oxygen."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a patient has elevated NEWS purely because of being on oxygen with saturation above target range but is otherwise clinically stable, the nurse should reduce the concentration or flow of oxygen and repeat the NEWS measurement after about 5 minutes. It is not necessary to call a doctor to assess the patient just to reduce the oxygen saturation into the desired range if there are no clinical concerns."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.9,
+                "text": "Saturation probe placement"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is sometimes possible to obtain an oximetry signal from the earlobe if the circulation in the fingers is poor using appropriate earlobe probe. Unexpected low or high oxygen saturations contribute to the Trusts, Early Warning System. If an oximeter probe intended for the finger is attached to the ear (or vice versa), or a probe intended for an adult is attached to a baby or a child (or vice versa), it can produce a reading up to 50% lower or 30% higher than the real value. The clinical implication of an inaccurately high reading, especially as part of NEWS2, is that staff may be falsely reassured about a patient's condition, when in reality the patient is deteriorating, or may make an inappropriate intervention when in fact a patient is stable or improving. (Patient Safety Alert, Dec 2018)"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Emergency situations"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In an emergency situation an oxygen prescription is not required. Oxygen should be given to the patient immediately without a formal prescription or drug order but documented later in the patient's record."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "All critically ill patients should be given oxygen  l/m reservoir mask whilst awaiting immediate medical review. Patients with Chronic Obstructive Pulmonary Disease (COPD) and other risk factors for hypercapnia who develop critical illness should have the same initial target saturations as other critically ill patients pending the results of urgent arterial blood gas results after which these patients may need controlled oxygen therapy or supported ventilation if there is severe hypoxaemia and/or hypercapnia with respiratory acidosis."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All patients who have had a cardiac or respiratory arrest should have 15L oxygen via reservoir mask provided along with basic/advanced life support until return of spontaneous circulation and reliable oximeter readings are achieved. (See Resuscitation Council UK Guideline 2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A subsequent written record must be made of what oxygen therapy has been given to every patient alongside the recording of all other emergency treatment."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any qualified nurse/ health professional can commence oxygen therapy in an emergency situation as indicated in the trust policy on recognition and management of deteriorating adult patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Exclusions:"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients admitted to specialist areas with a specialised oxygen prescribing policy such as Critical Care and Theatres."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients receiving oxygen as part of palliative care or patients on the end of life care pathway (in which case, the prescriber should indicate that target saturation is not required)."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients admitted for Long Term Oxygen Therapy assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Specialist areas"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy is for general use within general wards and departments. Where specific clinical guidelines are required for oxygen administration within specialist areas, they must be approved via the appropriate clinical governance forum. They should reflect wherever possible the principles within this policy. Patients transferring from specialist areas must be transferred with a prescription for their oxygen therapy utilising target saturation, if the clinical indication is ongoing. If a patient transfers from an area not utilising the target saturation system, their oxygen should be administered as per the transferring area's prescription until the patient is reviewed and transferred over to the target saturation scheme, which should occur as soon as possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Indications"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "The rationale for oxygen therapy is prevention of cellular hypoxia, caused by hypoxaemia (low PaO2), and thus prevention of potentially irreversible damage to vital organs."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Therefore the most common reasons for oxygen therapy to be initiated are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acute hypoxaemia (for example pneumonia, Covid-19, shock, asthma, heart failure, pulmonary embolus, sepsis)."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ischaemia (for example myocardial infarction, but only if associated with hypoxaemia (abnormally high blood oxygen levels may be harmful to patients with ischaemic heart disease and stroke)."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Abnormalities in quality or type of haemoglobin (for example acute GI blood loss or carbon monoxide poisoning)."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Other indications include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pneumothorax \u2013 Oxygen may increase the rate of resolution of pneumothorax in patients for whom a chest drain is not indicated."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Post-operative state (general anaesthesia can lead to decrease in functional residual capacity with in the lungs (especially following thoracic or abdominal surgery) resulting in hypoxaemia (Ferguson 1999). However, it is preferable to specify target saturation and only administer oxygen if the patient is hypoxemic."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Contra-indications"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "There are no absolute contraindications to oxygen therapy if indications are judged to be present. The goal of oxygen therapy is to achieve adequate tissue oxygenation using the lowest possible FiO2. Supplemental oxygen should be administered with caution in patients suffering from parquet poisoning (British National Formulary, 2005) and with acid inhalation or previous bleomycin lung injury."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Cautions"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Oxygen administration and carbon dioxide retention (Type 2 Respiratory Failure)"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In patients with chronic carbon dioxide retention, oxygen administration may cause further increases in carbon dioxide and respiratory acidosis. This may occur in patients with COPD, neuromuscular disorders, morbid obesity or musculoskeletal disorders. There are several factors which lead to the rise in CO2 with oxygen therapy in patients with hypercapnic respiratory failure and details are in the BTS guideline."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "Oxygen alert cards"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a patient has an oxygen alert card, initial oxygen therapy should be based on the guidance on the card until the results of blood gases are available. Patients with COPD with previous episodes of hypercapnic respiratory failure and other patients at risk of hypercapnic respiratory failure will be given an oxygen alert card and a 24% or 28% Venturi mask and a copy of this protocol. They are not for daily use."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Broomfield Hospital - provide information leaflets regarding CO2 retention and a CO2 retainer alert card."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Southend Hospital - the respiratory CNS team will identify these patients and alert the East of England Ambulance Service and place an alert note on MEDWAY and SystmOne records."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon Hospital - the respiratory ward staff or CNS team will provide a medi alert bracelet, oxygen card, mask, venturi's and tubing."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Other precautions/ hazards/ complications of oxygen therapy:"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Drying of nasal and pharyngeal mucosa - can use a water based gel such as K-Y Jelly or normal saline nasal drops. DO NOT USE ANYTHING WHICH CONTAINS VASELINE."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen toxicity \u2013 from breathing in increased partial pressure of oxygen. Can cause damage to organs in the body such as the central nervous system, the lungs and eyes."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Absorption atelectasis \u2013 When oxygen replaces nitrogen in the lungs the oxygen may be absorbed into the blood, reducing the volume in the lung causing alveolar collapse."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Skin irritation \u2013 From the pressure caused from the nasal prongs resting on the skin or being too tight on the patients' skin. Potentially causing pressure sores / skin breakdown."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Fire hazard - Oxygen itself does not burn \u2013 but most materials will burn very vigorously when in the presence of oxygen."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "Oxygen tubing, oxygen wall outlets and flow meters."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen tubing is needed to connect flow meters and regulators to the patient delivery device. It is important to ensure that all tubing is connected correctly at both ends. The National Patient Safety Agency has reported frequent adverse events related to oxygen use, including four reports of instances where an oxygen mask was connected in error to a compressed air outlet instead of an oxygen outlet."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Compressed air outlets are often used to drive nebulisers in hospitals because they are quieter than electrical compressors. However, the flow meter looks very similar to an oxygen flow meter and is often mounted beside an oxygen flow meter so it is very important to ensure that air flow meters are clearly labelled. Air flow meters are never required in an emergency and should be removed from wall sockets or covered by a designated \u2018\u2018hood'' when not in use, an example is shown below. There have also been cases where twin oxygen outlets were in use and the wrong one had been turned on or off. For example, one patient tried to turn off the oxygen flow after finishing a nebulised treatment but accidentally turned off the oxygen flow to a neighbouring patient with serious consequences. It is recommended that patients should not be allowed to adjust oxygen flow:"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basildon and Southend Hospitals - Air flow meters should be removed from the wall sockets or covered with a designated air outlet cover when not in use. Special care should be taken if twin oxygen outlets are in use. Broomfield Hospital \u2013 These are frequently used to give patients nebulisers."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Gas specific connectors are used to attach equipment to the terminal units along with colour coded hoses to maintain identity of gases. It would be prudent to also colour code the plastic tubing that connects to the flow meters to maintain continuity and further ensure gas identity to patient equipment."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is already in use for pendant hoses where they are colour coded for their gases i.e. white \u2013 oxygen, black \u2013 medical air, yellow \u2013 vacuum, - blue \u2013 nitrous oxide, blue/white \u2013 Entonox. Currently the tubing in use is clear."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The use of twin oxygen flow meters are discouraged and should only be used if strictly necessary as they cause unnecessary strain on the terminal"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "unit which can cause leaks, which is also compounded by hanging masks and tubing on them."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "type": "image",
+            "sequence_num": 155,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.003.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 156,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "Flow meters"
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The maximum flow rate of 15litrs/min must ensure the ball does NOT go higher than halfway above 15litr/min line."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the ball is above the 15litr/min line \u2013 flows of above 45litrs/min may be delivered which may affect the hospital 02 delivery system"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "type": "image",
+            "sequence_num": 160,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.005.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Transfer and transportation of patients receiving oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Patients who are transferred from one area to another must have clear documentation of their ongoing oxygen requirements and documentation of their oxygen saturations. Staff must ensure that adequate oxygen is provided during transfers and whilst patients are in diagnostic departments. Oxygen saturation should be monitored continuously by registered healthcare professionals for seriously ill patients who require escorted transfers."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Patients who are medically unstable and those requiring high dose oxygen therapy (Reservoir mask, Venturi mask above 28% or Humidified oxygen above 28% or nasal mask above 4 l/min) whilst being transferred from one area to another should be accompanied by a registered healthcare professional. HCA/Porters may transfer stable patients with low Early Warning Score (\u22644) who are on low doses of oxygen (\u22644L). It is the responsibility of the nurse to ensure that patients are assessed and safe for transfer including the level of escort required for the safe transfer ( see transfer policy for further advice)."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Clear instructions must be provided for personnel involved in the transfer of the patient, which must include delivery device and flow rate."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "Staff must ensure there are adequate numbers of oxygen cylinders are that they are full when they leave the department/ward."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.5,
+                "text": "If a patient transfers from an area not utilising the target saturation system (see specialist areas above) their oxygen should be administered as per the transferring areas prescription until the patient is reviewed and transferred over to the target saturation scheme, which should occur as soon as possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.6,
+                "text": "Patients on Patient Controlled Analgesia (PCA) on 2 litres of oxygen should be accompanied by a qualified nurse or Associate practitioner."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Peri-operative and immediately post operatively"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "The usual procedure for prescribing oxygen therapy in these areas should be adhered to, utilising the target saturation. If a patient is transferred back to the ward on oxygen therapy and is not on the target saturation system, the need for ongoing oxygen therapy should be reviewed as soon as possible. If oxygen therapy is to be continued, it should be prescribed using the target saturation scheme unless there is an alternative time-limited instruction which is part of the Trust's Post-Operative care policy for selected patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Nebulised therapy and oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "When nebulised therapy is administered to patients at risk of hypercapnic respiratory failure (see section 8.0), it should be driven by compressed air. If necessary, supplementary oxygen should be given concurrently by nasal prongs at 1-4 litres per minute to maintain an oxygen saturation of 88-92% or other specified target range."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.2,
+                "text": "All patients requiring 35% or greater oxygen therapy should have their nebulised therapy by oxygen at a flow rate of >6 litres/minute."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Nebulised therapy and oxygen flow chart"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "type": "image",
+            "sequence_num": 174,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.006.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Weaning of oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Oxygen should be reduced in stable patients with oxygen saturations within their target range. Oxygen should be discontinued once the patient can maintain within or above their target oxygen range."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.2,
+                "text": "The latest research shows that when a patient is on oxygen unless otherwise stated by the prescriber that oxygen should be weaned when oxygen saturations are above 96% when on oxygen. Siemieniuk et al (2018) reports that saturations above the level 96% is likely causes a small but important increased risk of death without plausible benefit."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Summary of oxygen administration protocol (and weaning"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "protocol)"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "type": "table",
+            "sequence_num": 180,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "All patients requiring oxygen therapy will have a prescription for oxygen therapy recorded on the drug chart. N.B exceptions- see emergency situations"
+                    },
+                    {
+                        "text": "Oxygen should be regarded as a drug and should be prescribed. BTS National guidelines (2017). British National Formulary (2016)."
+                    },
+                    {
+                        "text": "The prescription will incorporate a target saturation that will be identified by the clinician prescribing the oxygen in accordance with the Trust's oxygen guideline"
+                    },
+                    {
+                        "text": "Certain groups of patients require different target ranges for their oxygen saturation, see Tables 1- 4. Certain groups of patients are at risk of hypercapnia, particularly patients with COPD."
+                    },
+                    {
+                        "text": "The prescription will incorporate an initial starting dose (i.e. delivery device and flow rate)"
+                    },
+                    {
+                        "text": "To provide the nurses/registered healthcare professionals with guidance for the appropriate starting point for the oxygen delivery system and flow rate"
+                    },
+                    {
+                        "text": "The drug chart should be signed and all adjustment clearly documented and signed."
+                    },
+                    {
+                        "text": "The clinical observations chart should be reviewed at every drug round and the drug chart should be signed to indicate that the patients are within target, or appropriate action has been taken if not, or else indicate that the patient is breathing air."
+                    },
+                    {
+                        "text": "Once oxygen is in situ the nurse/registered healthcare professionals will monitor observations in line with trust policy. All patients should have their oxygen saturation observed for at least five minutes after starting oxygen therapy. If a patient is receiving intermittent therapy they must be monitored"
+                    },
+                    {
+                        "text": "To identify if oxygen therapy is maintaining the target saturation or if an increase or decrease in oxygen therapy is required"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 181,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "at least 8 hourly."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "The oxygen delivery device and oxygen flow rate should be recorded alongside the oxygen saturation on the bedside observation chart."
+                    },
+                    {
+                        "text": "To provide an accurate record and allow trends in oxygen therapy and saturation levels to be identified."
+                    },
+                    {
+                        "text": "Oxygen saturations must always be interpreted alongside the patient's clinical status incorporating the NEWS"
+                    },
+                    {
+                        "text": "To identify early signs of clinical deterioration, e.g. elevated respiratory rate"
+                    },
+                    {
+                        "text": "If the patient falls outside of the target saturation range, the oxygen therapy will be adjusted accordingly The saturation should be monitored continuously for at least 5 minutes after any increase or decrease in oxygen dose to ensure that the patient achieves the desired saturation range."
+                    },
+                    {
+                        "text": "To maintain the saturation in the desired range."
+                    },
+                    {
+                        "text": "Saturation higher than target specified or >96% for an extended period of time."
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "Step down oxygen therapy as per guidance for delivery"
+                    },
+                    {
+                        "text": "The patient will require weaning down from current oxygen delivery system. See Appendix (i) A systemic review published in the BMJ (2018) found that saturations above this level likely cause a small but important increased risk of death without plausible benefit."
+                    },
+                    {
+                        "text": "Consider discontinuation of oxygen therapy"
+                    },
+                    {
+                        "text": "The patients clinical condition may have improved negating the need for supplementary oxygen"
+                    },
+                    {
+                        "text": "Saturation lower than target specified"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "Check all elements of oxygen delivery system for faults or"
+                    },
+                    {
+                        "text": "In most instances a fall in oxygen saturation is due to deterioration of the patient however"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 182,
+            "data": {
+                "num_rows": 11,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "errors."
+                    },
+                    {
+                        "text": "equipment faults should be checked for."
+                    },
+                    {
+                        "text": "Step up oxygen therapy as per protocols in appendix (i). Any sudden fall in oxygen saturation should lead to clinical evaluation and in most cases measurement of blood gases (ABGs)."
+                    },
+                    {
+                        "text": "To assess the patients response to oxygen increase, and ensure that PaCO has not risen to 2an unacceptable level, or pH dropped to an unacceptable level and to screen for the cause of deteriorating oxygen level (e.g. pneumonia, heart failure etc.)"
+                    },
+                    {
+                        "text": "Monitor News score and respiratory rate for further clinical signs of deterioration"
+                    },
+                    {
+                        "text": "Patient safety"
+                    },
+                    {
+                        "text": "Saturation within target specified"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "Continue with oxygen therapy, and monitor patient to identify appropriate time for stepping down therapy, once clinical condition allows"
+                    },
+                    {
+                        "text": "Patient safety"
+                    },
+                    {
+                        "text": "A change in delivery device (without an increase in O 2 therapy) does not require review by the medical team."
+                    },
+                    {
+                        "text": "(The change may be made in stable patients due to patient preference or comfort)."
+                    },
+                    {
+                        "text": "Oxygen delivery methods"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Rationale"
+                    },
+                    {
+                        "text": "The Trusts recommended that specified delivery devices should be utilised to ensure a standardised approach to oxygen delivery, see Appendix (h)"
+                    },
+                    {
+                        "text": "Previous audits have demonstrated wide variations in delivery devices across clinical areas, potentially increasing the risk of adverse incidents"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Humidification"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "Humidification may be required for some patient groups, especially \u201cneck-breathing patients\u201d and those who have difficulty in clearing airway secretions or mucus. This is a decision taken by competent physiotherapist / Critical Care Outreach team/ Respiratory specialist (Medical / Nursing)."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Health and safety issues are covered in the annexes"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 17.1,
+                "text": "Venting of oxygen cylinders MUST NOT be done (to empty oxygen cylinders)."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Porters must remove the cylinders which are not completely empty when requested by nursing staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CD oxygen cylinders should be changed when the gauge is in the red zone."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Discharge of patients with oxygen therapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 18.1,
+                "text": "Recommendations for prescription to be advised by the Respiratory Consultants and Respiratory Nurse Specialists as clinically indicated."
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 19.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.1,
+                "text": "All nurses, nursing assistants and other healthcare professionals involved in prescribing or administrating oxygen should be taught on the oxygen policy. Teaching aides are available on  https://www.brit-thoracic.org.uk/standards-of- care/guidelines/bts-guideline-for-emergency-oxygen-use-in-adult-patients/"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.2,
+                "text": "A record of all those who have been taught will be kept by the ward managers / line managers."
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 19.3,
+                "text": "All doctors should be taught about the oxygen policy and records kept by both the doctor for their portfolio and to be reviewed by their supervisor / lead. Teaching aides are available on the BTS website."
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 20.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 20.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "type": "table",
+            "sequence_num": 197,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "The use of oxygen prescribed and administered at the Trust"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Respiratory Medicine"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Respiratory Audit and Clinical Governance Group"
+                    },
+                    {
+                        "text": "Respiratory Audit and Clinical Governance Group"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 21.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.1,
+                "text": "All policies, procedures and guidelines will be approved by the Respiratory Audit and Clinical Governance Group, which is the specialist group with the authority to approve local respiratory guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 21.2,
+                "text": "It is the author's responsibility to inform the Respiratory Audit and Clinical Governance Group of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 22.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals. (Refer to appendix 12)"
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Royal College of Physicians. National Early Warning Score (NEWS) 2: Standardising the assessment of acute-illness severity in the NHS. Updated report of a working party. London: RCP, 2017."
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen therapy: when to start and when to stop. The BMJ (2018) No, 8174, 363;169-210"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BTS Guideline for oxygen use in adults in healthcare and emergency settings, O'Driscoll BR et al Thorax 2017; 72: Suppl 1 i1-i89"
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient safety alert (Dec 2018) Risk of harm from inappropriate placement of pulse oximeter probes. NHS/PSA/W/2018/009"
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "O'Driscoll BR,Howard LS, Earis J, et al (2017) BTS guideline for oxygen use in adults in healthcare and emergency settings. Thorax 72:i7 \u2013 i90 https://www.brit- thoracic.org.uk/standards-of-care/guidelines/bts-guideline-for-emergency-oxygen- use-in-adult-patients/"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Summary of prescription, administration and discontinuation of oxygen therapy. Available on BTS website: https://www.brit-thoracic.org.uk/standards-of- care/guidelines/bts-guideline-for-emergency-oxygen-use-in-adult-patients/"
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Siemieniuk, R.A.C, Chu, D.K., Ha-Yeon Kim, L., Guell-Rous, M.R., Alhazzani, W., Soccal. P.M., Karanicolas, P.J., Farhoumand, P.D., Siemieniuk, J.L.K., Satia, Irusen, E.M.., Refatt, M.M., KMikita,J.S., Smith,M., Cohen, D.N., Vandvik.P., Agoritsas, T., Lytvyn, L., and Guyayy, G.H (2018) Oxygen therapy for acutely ill medical patients: a clinical practice guideline. BMJ 2018;363:k4169 https://www.bmj.com/content/363/bmj.k4169"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Table 1 critical illness requiring high levels of supplemental oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "type": "image",
+            "sequence_num": 212,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.007.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "O'Driscoll BR, et al. Thorax 2017;72:i1\u2013i90. doi:10.1136/thoraxjnl-2016-209729"
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Table 2 Serious illnesses requiring moderate levels of supplemental oxygen if the patient is hypoxaemic"
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "type": "image",
+            "sequence_num": 215,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.008.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "O'Driscoll BR, et al. Thorax 2017;72:i1\u2013i90. doi:10.1136/thoraxjnl-2016-20972"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Table 3 COPD and other conditions requiring controlled or low-dose oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "type": "image",
+            "sequence_num": 218,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.009.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "O'Driscoll BR, et al. Thorax 2017;72:i1\u2013i90. doi:10.1136/thoraxjnl-2016-209729"
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Table 4 Conditions for which patients should be monitored closely but oxygen therapy is not required unless the patient is hypoxaemic"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "type": "image",
+            "sequence_num": 221,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.010.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "O'Driscoll BR, et al. Thorax 2017;72:i1\u2013i90. doi:10.1136/thoraxjnl-2016-209729"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5: Chart 1 Oxygen prescription for acutely hypoxaemic patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "type": "image",
+            "sequence_num": 224,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.011.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6: Illustration of Oxygen prescribing in the East of England Adult Drug Chart For Basildon and Broomfield"
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Drug chart \u2013 page 7)"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "type": "image",
+            "sequence_num": 227,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.012.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen prescribing on e-prescribing"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "type": "image",
+            "sequence_num": 229,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Example of electronic nurse signature (below)"
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "type": "image",
+            "sequence_num": 231,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.014.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7: Administering acute oxygen therapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "type": "table",
+            "sequence_num": 233,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "Ensure patency of airway"
+                    },
+                    {
+                        "text": "To promote effective oxygenation"
+                    },
+                    {
+                        "text": "The type of delivery system used will depend on the needs and comfort of the patient. It is the nurses' role to assess the patient and use the prescribed system."
+                    },
+                    {
+                        "text": "To provide accurate oxygen delivery. Most stable patients prefer nasal cannulae to masks."
+                    },
+                    {
+                        "text": "Ensure oxygen is prescribed In some situations a protocol may be in place to allow designated nurses to administer oxygen. In these cases the doctor must review the patient's condition within the stated time and prescribe oxygen accordingly."
+                    },
+                    {
+                        "text": "To ensure a complete record is maintained and expedite patient treatment. The exception to this action would be during an emergency situation where the resuscitation guideline should be followed."
+                    },
+                    {
+                        "text": "Ensure that the oxygen dose is clearly indicated. If nasal cannula or reservoir masks are being used check that the flow rate is clearly indicated."
+                    },
+                    {
+                        "text": "In accordance with the administration of medicines policy."
+                    },
+                    {
+                        "text": "Inform patient and or relative/ carer of the combustibility of oxygen."
+                    },
+                    {
+                        "text": "Oxygen supports combustion therefore there is always a danger of fire when oxygen is being used."
+                    },
+                    {
+                        "text": "Show and explain the oxygen delivery system to the patient. Give the patient the information sheet about oxygen."
+                    },
+                    {
+                        "text": "To obtain consent and cooperation."
+                    },
+                    {
+                        "text": "Assemble the oxygen delivery system carefully as shown in Appendix (h)."
+                    },
+                    {
+                        "text": "To ensure oxygen is given as prescribed."
+                    },
+                    {
+                        "text": "Attach oxygen delivery system to oxygen source."
+                    },
+                    {
+                        "text": "To ensure oxygen supply is ready"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 234,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "Attach oxygen delivery system to patient"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "For oxygen to be administered to patient."
+                    },
+                    {
+                        "text": "according to manufacturer's instructions."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Turn on oxygen flow in accordance with"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "To administer correct amount of oxygen."
+                    },
+                    {
+                        "text": "prescription and manufacturers instruction."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Ensure patient has either a drink or"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "To prevent drying of the oral mucosa"
+                    },
+                    {
+                        "text": "mouthwash within reach."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Clean oxygen mask as required general"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "To minimise risk of infection"
+                    },
+                    {
+                        "text": "purpose detergent and dry thoroughly needed. Discard systems after use."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "(Single patient device)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 8: Equipment used in the delivery of oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Choose the appropriate delivery device)"
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "h1)  Nasal cannula"
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "type": "table",
+            "sequence_num": 238,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "DEVICE"
+                    },
+                    {
+                        "text": "DESCRIPTION"
+                    },
+                    {
+                        "text": "PURPOSE"
+                    },
+                    {
+                        "text": "Nasal Cannulae"
+                    },
+                    {
+                        "text": "Nasal cannulae consist of pair of tubes about 2cm long, each projecting into the nostril and stemming from a tube which passes over the ears and which is thus self-retaining. Uncontrolled oxygen therapy"
+                    },
+                    {
+                        "text": "Cannulae are preferred to masks by most patients. They have the advantage of not interfering with feeding and are not as inconvenient as masks during coughing and sneezing. It is not advisable to assume what percent oxygen (FI02) the patient is receiving according to the Litres delivered but this is not important if the patient is in the correct target range."
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 239,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "(When using nasal cannula). Position the tips of the cannula in the patient's nose so that the tips do not extend more than 1.5cm into the nose."
+                    },
+                    {
+                        "text": "Overlong tubing is uncomfortable, which may make the patient reject the procedure. Sore nasal mucosa can result from pressure or friction of tubing that is too long."
+                    },
+                    {
+                        "text": "Place tubing over the ears and under the chin as shown above. Educate patient re prevention of pressure areas on the back of the ear."
+                    },
+                    {
+                        "text": "To allow optimum comfort for the patient. To prevent pressure sores."
+                    },
+                    {
+                        "text": "Adjust flow rate, usually 2-4 l/min but may vary from 1-6 l/min in some circumstances."
+                    },
+                    {
+                        "text": "Set the flow rate to achieve the desired target oxygen saturation."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 240,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.017.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 241,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.018.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Connect appropriate venturi barrel to the connection on the aerosol mask, ensure a firm fit"
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "type": "table",
+            "sequence_num": 243,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "DEVICE"
+                    },
+                    {
+                        "text": "DESCRIPTION"
+                    },
+                    {
+                        "text": "PURPOSE"
+                    },
+                    {
+                        "text": "Venturi mask"
+                    },
+                    {
+                        "text": "A mask incorporating a device to enable a fixed concentration of oxygen to be delivered independent of patient factors or fit to the face or flow rate. Oxygen is forced out through a small hole causing a Venturi effect which enables air to mix with oxygen. Controlled oxygen therapy"
+                    },
+                    {
+                        "text": "This is a high performance oxygen mask designed to deliver a specified oxygen concentration regardless of breathing rate or tidal volume. Venturi devices come in different colours for % Blue = 24% White = 28% Orange = 31% - (available on the respiratory wards) Yellow = 35% Red = 40% Green = 60%"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 244,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "(When using Venturi mask) Connect the mask to the appropriate Venturi barrel attached firmly into the mask inlet."
+                    },
+                    {
+                        "text": "To ensure that patient receives the correct concentration of oxygen"
+                    },
+                    {
+                        "text": "Fasten oxygen tubing securely."
+                    },
+                    {
+                        "text": "Correctly secured tubing is comfortable and prevents displacement of mask/cannulae."
+                    },
+                    {
+                        "text": "Assess the patient's condition and functioning of equipment at regular intervals according to care plan."
+                    },
+                    {
+                        "text": "To ensure patient's safety and that oxygen is being administered as prescribed."
+                    },
+                    {
+                        "text": "Adjust flow rate. The minimum flow rate is indicated on the mask or packet. The flow should be doubled if the patient has a respiratory rate above 30 per minute."
+                    },
+                    {
+                        "text": "Higher flows are required for patients with rapid respiration and high inspiratory flow rates. This does not affect the concentration of oxygen but allows the gas flow rate to match the patient's breathing pattern."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "h3)  Simple face mask (variable flow) (Not to be used on general wards at BTUH)"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "type": "table",
+            "sequence_num": 246,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "DEVICE"
+                    },
+                    {
+                        "text": "DESCRIPTION"
+                    },
+                    {
+                        "text": "PURPOSE"
+                    },
+                    {
+                        "text": "Simple face mask"
+                    },
+                    {
+                        "text": "Mask has a soft plastic face piece, vent holes are provided to allow air to escape. Maximum 50%-60% at 15ltrs/minute flow."
+                    },
+                    {
+                        "text": "This is a variable performance device. The oxygen concentration delivered will be influenced by: the oxygen flow rate( litres per minute) used,"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 247,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "DEVICE"
+                    },
+                    {
+                        "text": "DESCRIPTION"
+                    },
+                    {
+                        "text": "PURPOSE"
+                    },
+                    {
+                        "text": "Variable Percentage (Delivers unpredictable concentrations that vary with flow rate) Nasal cannulae should be used for most patients who require"
+                    },
+                    {
+                        "text": "Uncontrolled Oxygen therapy"
+                    },
+                    {
+                        "text": "leakage between the mask and face; b. the patient's tidal volume and breathing rate."
+                    },
+                    {
+                        "text": "medium dose oxygen but a simple face mask may be used due to patient preference or if the nose is blocked"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NOT to be used for CO 2 retaining patients."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 248,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "(If using simple face mask) Gently place mask over the patient's face, position the strap behind the head or the loops over the ears then carefully pull both ends through the front of the mask until secure."
+                    },
+                    {
+                        "text": "Ensure a comfortable fit and delivery of prescribed oxygen is maintained."
+                    },
+                    {
+                        "text": "Check that strap is not across ears and if necessary insert padding between the strap and head. Adjust the oxygen flow rate. Must never be below 5L/min"
+                    },
+                    {
+                        "text": "To prevent irritation. Flows below 5L/m do not give enough oxygen."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 249,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.021.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "h4)  Reservoir mask (non re-breathe mask)"
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "type": "table",
+            "sequence_num": 251,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "DEVICE"
+                    },
+                    {
+                        "text": "DESCRIPTION"
+                    },
+                    {
+                        "text": "PURPOSE"
+                    },
+                    {
+                        "text": "Reservoir Mask"
+                    },
+                    {
+                        "text": "Mask has a soft plastic face piece with flap-valve exhalation ports which may be removed for emergency air-intake. There is also a one-way valve between the face mask and reservoir bag. Uncontrolled oxygen therapy"
+                    },
+                    {
+                        "text": "In non re-breathing systems the oxygen may be stored in the reservoir bag during exhalation by means of a one-way valve. High concentrations of oxygen 80-90% can be achieved at relatively low flow rates. NOT to be used for C0 2 retaining patients except in life-threatening emergencies such as cardiac arrest or major trauma."
+                    },
+                    {
+                        "text": "(Non-rebreathe Mask)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 252,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "(Non Rebreathe Reservoir Mask) Ensure the reservoir bag is inflated before placing mask on patient, this can be maintained by using 10-15 litres of oxygen per min."
+                    },
+                    {
+                        "text": "To ensure the optimal flow of oxygen to the patient."
+                    },
+                    {
+                        "text": "Adjust the oxygen flow to the prescribed rate."
+                    },
+                    {
+                        "text": "Inadequate flow rates may result in administration of inadequate oxygen concentration to the patient."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "In disposable reservoir, oxygen flows directly into the mask during inspiration and into the reservoir bag during exhalation. All exhaled air is vented through a port in the mask and a one-way valve between the bag and mask, which prevents re- breathing."
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "h5) Tracheostomy mask for patients with tracheostomy or laryngectomy"
+            },
+            "type": "ListItem",
+            "sequence_num": 254
+        },
+        {
+            "type": "table",
+            "sequence_num": 255,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "DEVICE"
+                    },
+                    {
+                        "text": "DESCRIPTION"
+                    },
+                    {
+                        "text": "PURPOSE"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Mask designed for \u201cneck breathing patients\u201d. Fits comfortably over tracheostomy or tracheotomy. Exhalation port on front of mask."
+                    },
+                    {
+                        "text": "This is a variable performance device for patients with tracheostomy or tracheotomy. The oxygen concentration delivered will be influenced by: the oxygen flow rate (litres per minute) used. the patient's tidal volume and breathing rate."
+                    },
+                    {
+                        "text": "Tracheostomy mask Variable Percentage (Delivers unpredictable concentrations that vary with flow rate)"
+                    },
+                    {
+                        "text": "Uncontrolled Oxygen therapy"
+                    },
+                    {
+                        "text": "Use cautiously at low flow rates in CO2 retaining patients as there may be no alternative."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 256,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "ACTION"
+                    },
+                    {
+                        "text": "RATIONALE"
+                    },
+                    {
+                        "text": "Gently place mask over the patient's airway, position the strap behind the head then carefully pull both ends through the front of the mask until secure."
+                    },
+                    {
+                        "text": "Ensure a comfortable fit and delivery of prescribed oxygen is maintained."
+                    },
+                    {
+                        "text": "Adjust the oxygen flow rate to achieve the desired target saturation range. Start at 4"
+                    },
+                    {
+                        "text": "To ensure that the correct amount of oxygen is given to keep the patient in the target"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 257,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "l/min and adjust the flow up or down as necessary to achieve the desired oxygen saturation range."
+                    },
+                    {
+                        "text": "range."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The oxygen should be delivered via warm humidifier systems in laryngectomy and tracheostomy patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "H6) Humidification Aerosol Therapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 259
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Respiflow Aerosol Therapy (Cold H2O) we only use 500ml bottles of Respiflow water due the weight on the oxygen port. The Respiflow adapter has percentages on that is moved to provide the correct percentage of oxygen this is changed to match the flow of oxygen on the device."
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Humidification is used to reduce the dryness of the oxygen."
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "type": "image",
+            "sequence_num": 262,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.025.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "H7) High Flow Nasal cannula (HFNC) (Optiflow)"
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To maximise efficiency in delivering humidity to the patient, oxygen is warmed, as the higher the temperature, the more H2O a gas can hold."
+            },
+            "type": "ListItem",
+            "sequence_num": 264
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heated humidification is valuable for the following reasons"
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Higher efficiency of loosening sticky secretions"
+            },
+            "type": "ListItem",
+            "sequence_num": 266
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prevention of bronchospasm"
+            },
+            "type": "ListItem",
+            "sequence_num": 267
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The oxygen is generally delivered in flow rates in excess of 30L /min therefore providing controlled oxygen therapy. The flow rate however can be reduced as the patient improves, therefore at rates below 30L/min the flow will be insufficient to deliver oxygen to meet the patients' peak inspiratory flow and the oxygen concentration will therefore become variable."
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "PURPOSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The High Flow Nasal cannula (HFNC) can effectively be used to treat patients with"
+            },
+            "type": "ListItem",
+            "sequence_num": 270
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "moderate levels of hypoxemic respiratory failure. HFNC could be considered as an initial"
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "appliance in certain settings (e.g., ED), as flow could be titrated based on response over a"
+            },
+            "type": "ListItem",
+            "sequence_num": 272
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "full range without having to change to other devices. It could also be viewed as an"
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "alternative delivery interface for situations in which hypoxaemia or dyspnoea was not"
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "corrected after a trial of low-flow cannula, NRB and/or air-entrainment mask with FIO > 0.4."
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "HFNC systems offer independent adjustment of FIO and flow. This allows greater flexibility to match the needs of acutely ill patients. Higher flow can match the inspiratory flow demands of tachypneic patients, which can prevent secondary air entrainment at the facial interface"
+            },
+            "type": "ListItem",
+            "sequence_num": 276
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A small amount of airway distending pressures, similar to CPAP, can be achieved with HFNC, however, this is difficult to measure and not predictable."
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heated and humidified gas from HFNCs may improve comfort and allow greater tolerance. It also has the advantage of easier speech, eating, drinking, and allows frequent expectoration."
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Please follow local policy for using Optiflow and Airvo2. DEVICE DESCRIPTION"
+            },
+            "type": "ListItem",
+            "sequence_num": 279
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Soft nasal cannula which delivers heated humidified oxygen through a blended oxygen delivery system such as Optiflow or Airvo."
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There are therefore 3 components:"
+            },
+            "type": "ListItem",
+            "sequence_num": 281
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a patient interface,"
+            },
+            "type": "ListItem",
+            "sequence_num": 282
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "a gas delivery device(s) to control flow and FiO a humidifier."
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The nasal prongs are held in place on the upper lip with an elastic over-ear head band. There is a larger diameter flex tubing proximal to the prongs and an around-the-neck elastic that connects to support the weight of the connecting tubing. They are available in large, medium, and small sizes."
+            },
+            "type": "ListItem",
+            "sequence_num": 284
+        },
+        {
+            "type": "image",
+            "sequence_num": 285,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.026.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 286,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.027.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Airvo 2"
+            },
+            "type": "ListItem",
+            "sequence_num": 287
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For using the Airvo 2 please check with your local site policy for who supports with using this as is different on each site. It provides humidification from air to about 60% oxygen. It works in a similar way to Optiflow by giving the patient warm humidified air or oxygen. As with the Optiflow it must not be allowed to run dry and only sterile water can be used."
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 9: Flow chart for oxygen administration on general wards"
+            },
+            "type": "ListItem",
+            "sequence_num": 289
+        },
+        {
+            "type": "image",
+            "sequence_num": 290,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.028.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 10: Monitoring of patients See local hospital policy and NEWS system"
+            },
+            "type": "ListItem",
+            "sequence_num": 291
+        },
+        {
+            "type": "image",
+            "sequence_num": 292,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.029.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 11: Health and safety"
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "type": "image",
+            "sequence_num": 294,
+            "data": {
+                "url": "MSEPO-21194 Oxygen therapy in adult patients 1.0.030.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management and administration of oxygen therapy in adult patients / MSEPO-21194 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 50.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 296
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management and administration of oxygen therapy in adult patients / MSEPO-21194 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 297
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix12: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 298
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Management and administration of oxygen therapy in adult patients policy and procedure (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 299
+        },
+        {
+            "type": "table",
+            "sequence_num": 300,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 301,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Incorporating the existing site-based information in a Trust wide policy"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To ensure clinical procedures are standardised across all our hospital sites"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "All staff responsible for prescribing and administration of oxygen therapy, with new updated guidance in a new MSE Trust-wide policy"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 302,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Joanne Peacock"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Lead Respiratory Clinical Nurse Specialist"
+                    },
+                    {
+                        "text": "16 November 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 49.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 303
+        }
+    ]
+}

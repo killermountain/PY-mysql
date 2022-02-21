@@ -1,0 +1,1584 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEGL-20001 Management of thromboembolic disease in patients with COVID19.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "PREVENTION AND MANAGEMENT OF THROMBOEMBOLIC DISEASE IN PATIENTS WITH COVID-19 (excluding pregnant women and children)"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEGL20001"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Guideline"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Prescribing, Pharmacy and Nursing staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "24 November 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "23 November 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Institute for Health and Care Excellence. COVID- 19 rapid guideline: Managing COVID-19. V4.0 Published 01.04.2021."
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Haematology"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Shankari Serumadar, Haematology Consultant"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2612 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "BTUH Medicines Management Committee Clinical Advisory Group for COVID MEH Medicine management and safety group"
+                    },
+                    {
+                        "text": "01 May 2020 01 May 2020 16 November 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Haematology Consultant Dr Shankari Serumadar"
+                    },
+                    {
+                        "text": "01 May 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "27 October 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "November 2020"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEGL-20001 Management of thromboembolic disease in patients with COVID19.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Georgia Winnett and Corrinne Duty"
+                    },
+                    {
+                        "text": "Renal consultant and pharmacist"
+                    },
+                    {
+                        "text": "01 May 2020 / 25 January 2021"
+                    },
+                    {
+                        "text": "DR Marcus Pittman"
+                    },
+                    {
+                        "text": "Respiratory Consultant"
+                    },
+                    {
+                        "text": "01 May 2021"
+                    },
+                    {
+                        "text": "Anna Man"
+                    },
+                    {
+                        "text": "Lead Pharmacist for Clinical Services, BTUH"
+                    },
+                    {
+                        "text": "25 January 2021 21st April 2021 26 Oct 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "BTUH Medicines Management Committee( chairman's approval via email) 22nd April 2021 Haematology Governance BTUH MEH Medicine management and safety group"
+                    },
+                    {
+                        "text": "21st April 2021"
+                    },
+                    {
+                        "text": "Dr Shankari Serumadar Dr Waseem Nagui Dr Pavel Kotoucheuk"
+                    },
+                    {
+                        "text": "Thrombosis subgroup MSE"
+                    },
+                    {
+                        "text": "07 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Unfractionated Heparin Infusion chart for COVID-19 patients"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Shankari Serumadar, Haematology Consultant"
+                    },
+                    {
+                        "text": "New document"
+                    },
+                    {
+                        "text": "24 November 2020"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Shankari Serumadar, Haematology Consultant"
+                    },
+                    {
+                        "text": "Section 1.1, 5, 5.1, 5.2, 5.3 updated. Use standard dose of VTE prophylaxis to all acutely ill patients with COVID19 irrespective of D-dimers. Inclusion of Intermediate dose LMWH/ UFH -VTE prophylaxis for high risk patients requiring respiratory support Post Discharge prophylaxis reduced to 7 days. Extending this document for VTE prophylaxis in community settings. Bleeding risk assessment tool added."
+                    },
+                    {
+                        "text": "5 February 2021"
+                    },
+                    {
+                        "text": "1.2"
+                    },
+                    {
+                        "text": "Maria Richards, Principal Clinical Pharmacist, Emergency"
+                    },
+                    {
+                        "text": "Document made Basildon site specific only, new guideline MEHT-21004 Pharmacological Management of"
+                    },
+                    {
+                        "text": "06 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Care"
+                    },
+                    {
+                        "text": "COVID-19 to replace this document at Broomfield site."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1.3"
+                    },
+                    {
+                        "text": "Shankari Serumadar, Haematology Consultant"
+                    },
+                    {
+                        "text": "Standard VTE prophylaxis for adult covid-19 patients not requiring supplemental oxygen. For COVID19 patients requiring advanced respiratory support with Invasive Ventilation/BIPAP/CPAP Extracorporeal support to receive standard or intermediate VTE prophylaxis guided by their bleeding risk. For COVID19 patients requiring supplemental oxygen and without any advanced respiratory support with Invasive ventilation CPAP/BIPAP or extracorporeal support to receive therapeutic anticoagulation. Palliative care patients on supplemental oxygen and has low bleeding risk can be offered intermediate VTE prophylaxis. Duration of prophylactic anticoagulation : Continue VTE prophylaxis for minimum of 14 days from the time of admission or until discharge whichever is longer.In this community settings, the VTE prophylaxis may be given for up to 14 days or longer under the guidance of senior physician with review on daily basis. Alternatives to LMWH added for special categories (HIT, VRTT). Anti-Xa target levels changed so it is consistent across the document for therapeutic anticoagulation."
+                    },
+                    {
+                        "text": "10 May 2021"
+                    },
+                    {
+                        "text": "1.4"
+                    },
+                    {
+                        "text": "Shankari Serumadar, Haematology Consultant"
+                    },
+                    {
+                        "text": "Change in NICE rapid guidelines published on 2nd September 2021. v12.2. Removed intermediate dosing. Recommend standard prophylactic dose of LMWH for specified respiratory support (low-flow or high-flow oxygen, continuous"
+                    },
+                    {
+                        "text": "07 December 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "positive airway pressure, non- invasive ventilation or invasive mechanical ventilation), with a duration of 7 days (previous version 14 days). To consider treatment dose LWMH who need low-flow oxygen and who do not have an increased bleeding risk, with a duration of 14 days. Change \u2018section 10' to \u2018Appendix 1'. VTE prophylaxis in community settings have been removed."
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "In Hospital ................................................................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Management of Heparin resistance: (Filter thrombosis \u2013in CVVH patients) ............... 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Training Requirements ............................................................................................... 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Monitoring and Audit ................................................................................................... 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Approval and implementation ..................................................................................... 11  Equality impact assessment ....................................................................................... 12  References ................................................................................................................. 12 Appendix 1: Preliminary equality analysis .......................................................................... 13"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "From the published data on COVID-19 infection, it is evident that there is marked increase in procoagulants (acute phase reactants) such as VIII, VWF and Fibrinogen, leading to increased risk of thrombosis. There are noticeable abnormalities in the coagulation profile with often high D-Dimers, due to thrombin generation and fibrinolysis. This may be a reflection of microvascular thrombi in the pulmonary vasculature and in some cases pulmonary emboli. The incidence of pulmonary embolism appears to be higher in symptomatic COVID-19 patients despite the use of pharmacological VTE prophylaxis. Routine use of therapeutic anticoagulation based on D-dimer results is not recommended."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to provide guidance on the prevention and management of thromboembolic disease in patients with COVID-19 whilst inpatient and on discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "AF"
+                    },
+                    {
+                        "text": "Atrial Fibrillation"
+                    },
+                    {
+                        "text": "BD"
+                    },
+                    {
+                        "text": "Twice daily"
+                    },
+                    {
+                        "text": "COVID-19"
+                    },
+                    {
+                        "text": "SARS-CoV-2 coronavirus"
+                    },
+                    {
+                        "text": "CPAP"
+                    },
+                    {
+                        "text": "Continuous Positive Airway Pressure"
+                    },
+                    {
+                        "text": "CrCl"
+                    },
+                    {
+                        "text": "Creatinine Clearance"
+                    },
+                    {
+                        "text": "CVVH"
+                    },
+                    {
+                        "text": "Continuous Veno Venous Haemofiltration"
+                    },
+                    {
+                        "text": "FBC"
+                    },
+                    {
+                        "text": "Full Blood Count"
+                    },
+                    {
+                        "text": "IV"
+                    },
+                    {
+                        "text": "Intravenous"
+                    },
+                    {
+                        "text": "LFT"
+                    },
+                    {
+                        "text": "Liver Function Test"
+                    },
+                    {
+                        "text": "LMWH"
+                    },
+                    {
+                        "text": "Low Molecular Weight Heparin"
+                    },
+                    {
+                        "text": "NOAC"
+                    },
+                    {
+                        "text": "Non-Vitamin K antagonist oral anticoagulant"
+                    },
+                    {
+                        "text": "OD"
+                    },
+                    {
+                        "text": "Once daily"
+                    },
+                    {
+                        "text": "PE"
+                    },
+                    {
+                        "text": "Pulmonary Embolism"
+                    },
+                    {
+                        "text": "SC"
+                    },
+                    {
+                        "text": "Subcutaneous"
+                    },
+                    {
+                        "text": "U&E"
+                    },
+                    {
+                        "text": "Urea and Electrolyte"
+                    },
+                    {
+                        "text": "UFH"
+                    },
+                    {
+                        "text": "Unfractionated Heparin"
+                    },
+                    {
+                        "text": "VTE"
+                    },
+                    {
+                        "text": "Venous Thromboembolism"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Medicines Assurance Group \u2013 ratification of this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Individual responsibilities:"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Divisional Clinical Directors are responsible for ensuring that systems and processes are in place throughout the Divisions to ensure that this document is disseminated appropriately and that monitoring of compliance is undertaken, with remedial action implemented as appropriate. In addition, the Divisional Clinical Directors are responsible for ensuring that all medical staff comply with the contents of the document."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Divisional General Managers are responsible for implementing the systems and processes required throughout the Divisions to ensure that this document is disseminated appropriately and that monitoring of compliance is undertaken, with remedial action implemented as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Heads of Nursing and Quality (HoNQ) are responsible for ensuring that the guideline is disseminated throughout the Division and that the required monitoring and audit are undertaken, with the resources provided to support this."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.6,
+                "text": "Clinical Service Unit Clinical Leads/ Unit Managers are responsible for implementing this document in the Clinical Service Unit and for monitoring the impact on the service and reporting compliance with the document. They are accountable to the Divisional Clinical Director and General Manager in this respect."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.7,
+                "text": "Lead Nurses are responsible for ensuring that all nursing staff (including nurse specialists, practitioners/advisors) within the Clinical Service Unit comply with the contents of this document and for taking action when this is not the case. The lead nurse will make sure that all necessary training is provided."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.8,
+                "text": "Medical Staff: All medical staff are to be aware and follow this local guideline. They should carry out the necessary monitoring in line with national and local guidance. Any deviations to be discussed with Haematologist"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.9,
+                "text": "Registered nursing staff are to be aware and follow this local guideline. Any deviations to be discussed with Haematology."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Pharmacy staff are to be aware and follow this local guideline. Any deviations to be discussed with Haematology."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "In Hospital"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Hospital Admission and Inpatient management"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assess the risk of bleeding as soon as possible after admission or by the time of the first consultant review."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assess for contraindications to LMWH."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Offer standard prophylactic dose of Inhixa as soon as possible, and within 14 hours of admission to patients who need any of the following respiratory support and who do not have an increased bleeding risk:"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Low-flow oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "High-flow oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Continuous Positive Airway Pressure (CPAP)"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Non-invasive ventilation"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Invasive mechanical ventilation"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Treatment should be continued for a minimum of 7 days, including after discharge."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review regularly bleeding risk and contraindications to LMWH."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Consider treatment dose Inhixa for patients who need low-flow oxygen and who do not have an increased bleeding risk. Treatment should be continued for 14 days or until discharge, whichever is sooner."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do not base prophylactic dosing of heparin on levels of D-dimer."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For people at extremes of body weight or with impaired renal function, refer to trust guideline \u2018Prevention and management venous thromboembolism' for adjusting the dose of low molecular weight heparins."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For people who cannot have low molecular weight heparins (LMWHs), use fondaparinux sodium or unfractionated heparin (UFH) as per trust guidelines."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For people who are already having anticoagulation treatment for another condition when admitted to hospital:"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Continue their current treatment dose of anticoagulant unless contraindicated by a change in clinical circumstances."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider switching to a LMWH if their current anticoagulant is not an LMWH and their clinical condition is deteriorating."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a person's clinical condition changes, assess the risk of VTE, reassess bleeding risk and review VTE prophylaxis."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "All COVID-19 suspected, hospitalised patients with platelet count 50 x10/L or above should receive pharmacological VTE prophylaxis unless any significant bleeding risk (using a risk assessment tool in appendix 1)."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "If the platelet count is between 30-50 x10/L and the clinical risk of VTE is high, and no active bleeding, then thromboprophylaxis may be considered if the responsible consultant feels VTE prophylaxis is justified."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "In the absence of bleeding, coagulopathy is not an absolute contra-indication to VTE prophylaxis unless the platelet count is less than 30 x10/L for prophylaxis and less than 50 x10/L for therapeutic anticoagulation. Speak with Haematologist if required."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reassess VTE and bleeding risks daily, and check FBC, U&Es, LFTs, clotting profile."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "Mechanical thromboprophylaxis should be considered for patients with platelet count less than 30 x10/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Fondaparinux/Argatroban can be used as alternatives to LMWH where there is progressive thrombosis despite therapeutic anticoagulation with LMWH or in suspected cases of Heparin-induced thrombocytopenia or vaccine related thrombosis. Where there is high bleeding risk Argatroban (with APTTR monitoring) is preferred over Fondaparinux."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Discharge"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment should be continued for a minimum of 7 days, including after discharge"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For patients with platelet count > 50"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Discharge Category 1: No proven VTE and creatinine clearance > 15ml/min"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "type": "image",
+            "sequence_num": 65,
+            "data": {
+                "url": "MSEGL-20001 Management of thromboembolic disease in patients with COVID19.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider Apixaban 2.5mg BD or"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "type": "image",
+            "sequence_num": 67,
+            "data": {
+                "url": "MSEGL-20001 Management of thromboembolic disease in patients with COVID19.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Inhixa prophylactic dose  For creatinine clearance < 15ml/min:"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "type": "table",
+            "sequence_num": 69,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Weight \u2264 100 kg"
+                    },
+                    {
+                        "text": "Inhixa 20mg OD"
+                    },
+                    {
+                        "text": "Weight >100- 150 kg"
+                    },
+                    {
+                        "text": "Inhixa 40mg OD if continued beyond 14 days for any reason the patient needs anti-Xa monitoring (aim to keep between 0.2-0.4 units/ml"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Table 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Discharge Category 2: Proven VTE"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "type": "image",
+            "sequence_num": 72,
+            "data": {
+                "url": "MSEGL-20001 Management of thromboembolic disease in patients with COVID19.005.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 73,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "CrCl \u226515 ml/min"
+                    },
+                    {
+                        "text": "Apixaban 5mg BD"
+                    },
+                    {
+                        "text": "Include loading dose as per SmPC taking into account if patient has received treatment dose Heparin during inpatient stay."
+                    },
+                    {
+                        "text": "CrCl < 15ml/min"
+                    },
+                    {
+                        "text": "Warfarin"
+                    },
+                    {
+                        "text": "If any contra-indication to oral anticoagulants: CrCl \u2265 30ml/min Inhixa 1.5mg/kg once daily CrCl < 30ml/min Inhixa 1mg/kg once daily \u2013 check anti-Xa level, 4 hours after injection at 3rd dose. Aim to keep antiXa 0.5-1.0 units/ml"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Table 2"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.0,
+                "text": "5.2.1  If patient has significant thrombocytopenia (platelet <30x10/L) at the time of discharge, discuss with on call haematologist."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Management of Heparin resistance: (Filter thrombosis \u2013in CVVH"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "patients)"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Failure to achieve adequate APTT ratio (2.0-2.5) despite therapeutic dose titration of UFH infusion rate."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider checking AT 3 (Anti Thrombin 3) levels. Discuss with haematologist."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "UFH can be switched to LMWH with monitoring anti\u2013Xa levels (aiming to keep between 0.5- 1.0 units/ml) or consider systemic Argatroban as per Trust protocol."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If new thrombosis on full anticoagulation and thrombocytopenia : Do 4-T score, consider HIT (heparin induced thrombocytopenia) screen and switch to Argatroban after discussion with haematologist."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Fondaparinux and Danaparoid can be used as alternatives to Argatroban for HIT. Please refer to the trust guidelines on management of heparin induced thrombocytopenia."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "No specific training requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Monitoring and Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "type": "table",
+            "sequence_num": 88,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Prescribing of anticoagulant in COVID-19 patients."
+                    },
+                    {
+                        "text": "Audit and feedback from related incidents"
+                    },
+                    {
+                        "text": "Prescribing, pharmacy and nursing staff"
+                    },
+                    {
+                        "text": "Annual or more frequent if issues raised."
+                    },
+                    {
+                        "text": "Divisional Governance."
+                    },
+                    {
+                        "text": "Prescribing, pharmacy and nursing staff"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "All policies, procedures and guidelines will be approved by the Medicines Assurance Group which is the specialist group with the authority to approve local guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "It is the author's responsibility to inform the target staff of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 2)."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Bleeding risk assessment tool"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "type": "table",
+            "sequence_num": 96,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Patient related"
+                    },
+                    {
+                        "text": "Tick"
+                    },
+                    {
+                        "text": "Admission related"
+                    },
+                    {
+                        "text": "Tick"
+                    },
+                    {
+                        "text": "Active bleeding"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Neurosurgery Spinal surgery Eye surgery"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Acquired bleeding disorder (e.g. liver failure)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Procedures with high bleeding risk"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Concurrent use of anticoagulants (warfarin INR >2)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Lumbar puncture/epidural/spinal anaesthesia expected within next 12 hours"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Acute stroke"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Lumbar puncture/epidural/spinal anaesthesia expected within the previous 4 hours"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Platelet count (< 50 x 10/L)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Uncontrolled systolic Hypertension 230/120mmhg or higher"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Untreated inherited bleeding disorders( e.g. haemophilia/VWD"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "11 References"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prevention and management of thromboembolic disease in patients with COVID-19/ MSEGL20001/1.4"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prevention and management of thromboembolic disease in patients with COVID-19/ MSEGL20001/1.4"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Prevention and management of thromboembolic disease in patients with Covid-19/ MSEGL20001  (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "type": "table",
+            "sequence_num": 103,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 104,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Prevention and Management of thromboembolic disease in patients with COVID-19"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To provide up to date guidance on VTE management in COVID-19 patients"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 105,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Shankari Serumadar"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Consultant Haematologist"
+                    },
+                    {
+                        "text": "06 September 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        }
+    ]
+}

@@ -1,0 +1,558 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21026"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "05/10/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "04/10/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group"
+                    },
+                    {
+                        "text": "24/09/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "05/10/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Kerry Hodges: Lead Pharmacist Frailty Broomfield"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Initial Pharmacological management of agitated behaviour symptoms arising from an underlying delirium in adults"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Follow Trust Delirium Policy MSEPO-21056: use this guide only if non-pharmacological interventions not effective & patient at risk of harm. Patients must be individually assessed risk vs benefit for treatment choice."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "First Line Option (NICE CG103) Patient WITH one or more diagnoses of Parkinson's Disease (PD), Contraindicated: Parkinson's disease (PD)  Dementia with Lewy Bodies (DLB), withdrawal of benzodiazepines, history of or Dementia with Lewy Bodies (DLB)  Second adverse reaction to antipsychotics (i.e. NMS), severe heart failure / cardiac"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Cautions: severe HF, cardiac arrhythmias, cardiomyopathy,  Line  arrhythmia and cardiomyopathy."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "medication that prolong QT-interval. Cautions: COPD / LTOT/ respiratory depression"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Cardiac Risk factors - consider ECG prior to haloperidol"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Give tablet for PO/SL"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "(can give tablet sublingually or disperses  Give IM if oral/SL not possible Give oral liquid for PO Give IM if oral not possible easily in water) (Injection kept in fridge)"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "After 1hour, if necessary After 1hour, if necessary"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "type": "table",
+            "sequence_num": 12,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "A) OR"
+                    },
+                    {
+                        "text": "Refer patient for follow-up with site Admiral Nurse, Dementia/Delirium nurse or Older Person's Consultant"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Review/Repeat ECGs \u2013 see cautions above"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "type": "image",
+            "sequence_num": 14,
+            "data": {
+                "url": "MSEGL-21026 Initial Pharmacological Management of Delirium in Adults.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Always state clear plan for continuation(review/monitoring) beyond 3 days, and on discharge summary to GP."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Chemical Restraint intervention (pharmacological treatment)"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.1,
+                "text": "Chemical restraint is to be used as last resort for short term management where non- pharmacological interventions (e.g. de-escalation) have failed to control symptoms and the patient is placing themselves or others at risk of physical harm. It may also be necessary to conduct essential investigations and administer medical treatment which cannot be delayed until the delirium resolves."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "There is currently no evidence to support routine use of antipsychotics or sedatives in preventing delirium or that routine use reduces the duration of a delirium episode."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Pharmacological treatment principles"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Medication should be used with caution because of association with significant patient risks: cardiac events and sudden death, airway compromise, respiratory suppression, reduction in GCS and medication interactions. Medication can worsen cognitive impairment, increase the risk of falls and increase length of hospital stay."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "Before treatment with medication to manage a delirium undertake a risk assessment including a review of recent investigations (ECG, blood tests, and observations) and medication interactions. If physical checks cannot be carried out prior to administration, then document reason in the medical notes and included in the capacity assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Medications should be given via the oral route if possible/practical to do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Benzodiazepine prescribing considerations"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Respiratory depression: risk increased if co-prescribed with other medications causing CNS depression (e.g. opioids, sedatives, barbiturates (phenobarbital)) or pre-existing respiratory disease."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Antipsychotic prescribing considerations"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Parkinson's disease (PD) or dementia with Lewy bodies (DLB): contraindicated, however may be considered under specialist advice only."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Cardiovascular events: antipsychotics are associated with tachycardia, arrhythmias, hypotension and orthostatic hypotension."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "QT-interval prolongation: particularly at higher doses. Cases of sudden death have occurred. Always consider patient risk factors for ventricular arrhythmias. An ECG is advised prior to starting antipsychotics, particularly if physical examination identifies cardiovascular risk factors or personal history of cardiovascular disease. Avoid antipsychotics (especially haloperidol) where possible in patients at risk of QT-interval prolongation or used with caution and after assessing the ECG and plasma electrolytes. Monitor ECGs arrhythmias during treatment and at dose changes. Medication interactions may also prolong the QT-interval."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "Increased mortality in elderly people with dementia: from studies causes of death have been varied however most were cardiovascular or infectious in nature."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Initial Pharmacological Management of Delirium in Adults/MSEGL-21026/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.5,
+                "text": "Cerebrovascular events: all antipsychotics are associated with an increased risk of stroke. People with dementia seem to be at a higher risk of a stroke. Avoid antipsychotics where possible in these patients; and if are needed only initiated by a specialist. Higher incidence of death is not believed to be associated with dose or duration of treatment."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.6,
+                "text": "Venous Thromboembolism (VTE): may slightly increase the risk of VTE, many cases reported within 3 months of starting treatment. No clear evidence linking any particular antipsychotics with higher risk of thromboembolism."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Dose adjustments in renal or hepatic impairment"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.7.1  Monitor patients frequently and adjust dose carefully according to response. Lower doses may be sufficient in these patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1: Dose adjustments in renal and hepatic impairment"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "type": "table",
+            "sequence_num": 38,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Drug"
+                    },
+                    {
+                        "text": "Renal impairment"
+                    },
+                    {
+                        "text": "Hepatic impairment"
+                    },
+                    {
+                        "text": "Haloperidol"
+                    },
+                    {
+                        "text": "CrCl <10ml/min: start with lower doses. For single doses use 100% of normal dose. Accumulation with repeated dosage. Increased CNS sensitivity: start with small doses. Monitor for hypotension and excessive sedation."
+                    },
+                    {
+                        "text": "Extensively metabolised in the liver. Use 50% of initial dose. If dose adjustment needed adjust with smaller increments and at longer intervals."
+                    },
+                    {
+                        "text": "Lorazepam"
+                    },
+                    {
+                        "text": "CrCl >10ml/min: dose as normal renal function. CrCl <10ml/min: start with lower doses. Increased CNS sensitivity in patients with renal impairment."
+                    },
+                    {
+                        "text": "Contraindicated in severe hepatic insufficiency as may precipitate encephalopathy. Use reduced doses in mild to moderate hepatic impairment."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "Regular doses of medication to manage delirium"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.8.1 Titrate doses slowly and review daily for efficacy and clinical need. Duration of medication varies according to response and ongoing clinical need. Ideally medication trials should be kept to less than 7 days."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.8.2 Do not discharge patients with antipsychotic or sedative medication unless there is clear documented rationale evidencing ongoing benefit. Discharge medication must state a clear review date, follow-up plan and the documented rationale communicated to the GP."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "BNF (electronic): Joint Formulary Committee. British National Formulary (online). London: BMJ Group and Pharmaceutical Press http://www.medicinescomplete.com  (Accessed 03/09/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Renal Drug Database (2018) Haloperidol. Available at:"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "https://renaldrugdatabase.com/monographs/haloperidol  (Accessed 05/08/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Renal Drug Database (2017) Lorazepam. Available at:"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "https://renaldrugdatabase.com/monographs/lorazepam  (Accessed 05/08/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "National Institute of Clinical for Health and Excellence (2010) Delirium: prevention, diagnosis and management (CG 103), London: Available at: https://www.nice.org.uk/guidance/cg103 (Accessed 093/09/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Summary of Product Characteristics \u2013 haloperidol 1mg/ml oral solution. Thame Laboratories. Available at: https://www.medicines.org.uk/emc/product/10907/smpc  (Accessed 03/09/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Summary of Product Characteristics \u2013 lorazepam 0.5mg tablets. ADVANZ Pharma. Available at https://www.medicines.org.uk/emc/product/10285/smpc (Accessed 03/09/2021)."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Initial Pharmacological Management of Delirium in Adults/MSEGL-21026/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        }
+    ]
+}

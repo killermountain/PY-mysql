@@ -1,0 +1,4108 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document title:"
+                    },
+                    {
+                        "text": "POLICY FOR THE TRANSFER OF PATIENTS (CLINICAL HANDOVER OF CARE)"
+                    },
+                    {
+                        "text": "Document reference/register no:"
+                    },
+                    {
+                        "text": "MSEPO-21201"
+                    },
+                    {
+                        "text": "Version number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff"
+                    },
+                    {
+                        "text": "Ratification issue date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "22 December 2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "21 December 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Transfer, Handover"
+                    },
+                    {
+                        "text": "Developed in response to: (National guidance/recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Site guidance on patient safety"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Care group/division:"
+                    },
+                    {
+                        "text": "Care Groups 1,2,3 and 4"
+                    },
+                    {
+                        "text": "Multi-divisional"
+                    },
+                    {
+                        "text": "Author/contact: (asset administrator)"
+                    },
+                    {
+                        "text": "Anthony Schirn"
+                    },
+                    {
+                        "text": "Deputy Director of Nursing (DDoN), Emergency Care"
+                    },
+                    {
+                        "text": "Hospital sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval group/ committee(s):"
+                    },
+                    {
+                        "text": "MSE Quality Governance Meeting members"
+                    },
+                    {
+                        "text": "05 December 2021"
+                    },
+                    {
+                        "text": "Professionally approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dawn Patience/Kelly McGovern"
+                    },
+                    {
+                        "text": "Director of Nursing (CG 1 and 2)"
+                    },
+                    {
+                        "text": "22 November 2021"
+                    },
+                    {
+                        "text": "Ratification group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "14 December 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and clinical directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "January 22"
+                    },
+                    {
+                        "text": "Distribution method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted with: (Must include specialist pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dawn Patience"
+                    },
+                    {
+                        "text": "Director of Nursing \u2013 Care Group 1"
+                    },
+                    {
+                        "text": "22 November 2021"
+                    },
+                    {
+                        "text": "Kelly McGovern"
+                    },
+                    {
+                        "text": "Director of Nursing \u2013 Care Group 2"
+                    },
+                    {
+                        "text": "22 November 2021"
+                    },
+                    {
+                        "text": "Emma Dowling"
+                    },
+                    {
+                        "text": "Lead Infection Prevention and Control MSE"
+                    },
+                    {
+                        "text": "26 November 2021"
+                    },
+                    {
+                        "text": "Sarah Charlton"
+                    },
+                    {
+                        "text": "Tissue Viability \u2013 Clinical Lead"
+                    },
+                    {
+                        "text": "30 November 2021"
+                    },
+                    {
+                        "text": "Richard Ketley"
+                    },
+                    {
+                        "text": "Medicine Safety Officer"
+                    },
+                    {
+                        "text": "03 December 2021"
+                    },
+                    {
+                        "text": "Liz Shaughnessy"
+                    },
+                    {
+                        "text": "Head of Nursing - Radiology"
+                    },
+                    {
+                        "text": "03 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Virtual Agreement outside MSE Quality Governance Meeting"
+                    },
+                    {
+                        "text": "05 December 2021"
+                    },
+                    {
+                        "text": "MSE Quality Governance Meeting Agenda for noting"
+                    },
+                    {
+                        "text": "14 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust documents (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSEPO-21203 NEWS2 Escalation policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document review history:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/ Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Anthony Schirn"
+                    },
+                    {
+                        "text": "Newly created MSE policy which supersedes: Southend Hospital CM58 Policies for the transfer"
+                    },
+                    {
+                        "text": "22 December 2021"
+                    },
+                    {
+                        "text": "of patients (Clinical Handover of Care); Basildon Hospital COPO00092 Safe Transfer"
+                    },
+                    {
+                        "text": "and Handover of Adult Inpatients internally between Wards and Departments; Broomfield Hospital 11042 Patient transfer"
+                    },
+                    {
+                        "text": "policy."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "type": "image",
+            "sequence_num": 10,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "type": "image",
+            "sequence_num": 12,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Definitions ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "type": "image",
+            "sequence_num": 14,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "type": "image",
+            "sequence_num": 16,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).006.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Process ......................................................................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "type": "image",
+            "sequence_num": 18,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Training requirements ................................................................................................. 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "type": "image",
+            "sequence_num": 20,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).008.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring and audit ................................................................................................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "type": "image",
+            "sequence_num": 22,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Approval and implementation ..................................................................................... 16"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "type": "image",
+            "sequence_num": 24,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).010.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Preliminary Equality Analysis ...................................................................................... 16  References ................................................................................................................. 16 Appendix 1: SBAR / Transfer Sheet 1 .............................................................................. 18 Appendix 2: Escort Guidance ............................................................................................ 20 Appendix 3: SBAR Diagnostic Transfer Form .................................................................... 21 Appendix 4: Preliminary Equality Analysis ......................................................................... 22"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "type": "image",
+            "sequence_num": 26,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid and South Essex NHS Foundation Trust recognises that there is a frequent"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "type": "image",
+            "sequence_num": 30,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).014.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "requirement to transfer adult in-patients internally and externally for the purposes of the provision of clinical care, undertaking diagnostic procedures, consultations, treatments, and therapies; or to facilitate patient flow. This policy aims to facilitate the safe, timely, dignified, comfortable transfer of patients, by stipulating the standards to be adhered to, and for the types of transfers and the escort required."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients are transferred between wards, departments and other healthcare providers"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).015.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "for the purpose of:"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Diagnostic procedures, consultation, treatment or therapy. For example imaging procedures, renal dialysis or out-patient appointments."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Movement of patients from the Emergency Department to Assessment Units and to wards for in-patient care and treatment;"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Relocation from one specialty ward to another ward"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The principal responsibility of all staff is to maintain patient wellbeing, preserve their"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "type": "image",
+            "sequence_num": 39,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "privacy and dignity, provide optimal care during the period away from the principal care area/ward, and to report and document outcomes and actions taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All wards and departments must ensure their patient is properly prepared for transfer, including the timely completion of the patient transfer checklist (Appendix 1)."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "type": "image",
+            "sequence_num": 42,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).017.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Portering staff will not undertake the transfer of any patient without a completed"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "type": "image",
+            "sequence_num": 44,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).018.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "transfer checklist."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Departments may not undertake any diagnostic investigation, treatment or therapy on"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "type": "image",
+            "sequence_num": 47,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).019.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a patient if a completed transfer checklist does not accompany the patient. The exception to this is where it is unavoidable due to the acuity of a patient's condition, in emergency or exceptional situations. The principles contained within this policy, however, still apply and adequate handover remains the responsibility of the nurse in charge of the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "type": "image",
+            "sequence_num": 50,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).020.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy applies to all adult in-patients requiring transfer between A&E and"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "type": "image",
+            "sequence_num": 52,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).021.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "assessment units, wards and departments internal and external to the Trust, and to all staff who are involved in those transfers."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The principles apply equally to external transfers."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "type": "image",
+            "sequence_num": 55,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).022.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It does not apply to maternity, paediatrics and transfers into and out of Intensive/High"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "type": "image",
+            "sequence_num": 57,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).023.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dependency Care and Theatres/Catheter lab; these are covered under local specific policy and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It addresses the need to minimise patient moves between the hours of 23:00 and"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "type": "image",
+            "sequence_num": 60,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).024.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "07:00 unless clinically indicated or to maintain overall site safety."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For clarification, the term nurse may be interchangeable for other professional groups"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "type": "image",
+            "sequence_num": 63,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).025.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "including for example Therapists, Midwives and Operating Department Practitioners (OPD)."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The policy applies to both trust permanent staff as well as temporary"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "type": "image",
+            "sequence_num": 66,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).026.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "bank/agency/locum staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The purpose of this policy is to provide a risk assessment based framework for use by"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "type": "image",
+            "sequence_num": 69,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).027.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "clinical staff to facilitate safe transfer of adult patients between wards and departments. It is intended to provide staff with direction, guidance regarding the underlying principles that support safe and appropriate transfer of patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The key to safety is through risk assessment and communication. All patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "type": "image",
+            "sequence_num": 72,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).028.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "undergoing transfer must be risk assessed for clinical need during transfer by a registered professional, who must take responsibility for deciding if an escort is required, ensuring the patient is properly prepared and fit for safe transfer, and for providing either a face-to-face or verbal handover of the patient to the receiving area."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u2018In the event of an infection outbreak, flu pandemic or major incident, the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "type": "image",
+            "sequence_num": 75,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).029.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "recognizes that it may not be possible to adhere to all aspects of this document. In such circumstances, staff should take advice from their manager and/or infection control teams and all possible action must be taken to maintain ongoing patient and staff safety'"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "type": "image",
+            "sequence_num": 78,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).030.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 79,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Internal transfer"
+                    },
+                    {
+                        "text": "An internal transfer takes place when a patient remains under the care of Trust Health Professionals and who is not removed from the Electronic Patient Record (EPR) System. This includes transfers of referred patients from the Emergency Department to assessment/admissions units and wards, assessment units to wards and other departments, and from ward to ward and from wards to other departments."
+                    },
+                    {
+                        "text": "External transfer"
+                    },
+                    {
+                        "text": "an external transfer takes place when a patient either remains under the care of the Trust, but who needs to attend temporarily another healthcare provider, or permanent transfer of a patient to an external healthcare provide for continuing health care."
+                    },
+                    {
+                        "text": "Temporary/perm anent patient transfers"
+                    },
+                    {
+                        "text": "patients may be transferred both internally and externally to the Trust for the purposes of the provision of clinical care, undertaking diagnostic procedures, consultations, treatments, therapies; or to facilitate patient flow."
+                    },
+                    {
+                        "text": "Diagnostic/treat ment/consultatio n transfer"
+                    },
+                    {
+                        "text": "The transfer of a patient from one ward/department to another within the Trust for an assessment, consultation or diagnostic procedure or treatment."
+                    },
+                    {
+                        "text": "NEWS2"
+                    },
+                    {
+                        "text": "National Early Warning Score is a nationally agreed assessment tool where a scoring of a patients physiological observations that can be calculated at the point of care, using individually identified parameters to identify the unwell and/or deteriorating patient and guides clinical staff in the further assessment, escalation and review."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 80,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Patient Transfer Checklist"
+                    },
+                    {
+                        "text": "the checklist that must be completed for patient transfers covered by the scope of this policy."
+                    },
+                    {
+                        "text": "Escort"
+                    },
+                    {
+                        "text": "any member of staff who is involved with escorting patients and who has the relevant knowledge and skills to provide a high standard of care during the transfer; to ensure patient safety is not compromised. An escort can be: Registered professionals, doctors, registered nurses, midwives and therapists, and operating department practitioners Non-registered professionals, healthcare assistants and other healthcare support staff, who are adequately trained and deemed competent to undertake this role. \uf0b7"
+                    },
+                    {
+                        "text": "Patient Acuity"
+                    },
+                    {
+                        "text": "Patient acuity relates to the complexity of illness, intensity of care needs or the potential for deterioration in the clinical condition of a patient. The criteria used to classify a patients level of acuity, for the purposes of this policy, is the same criteria used for critical care patients, and as defined in Comprehensive Critical Care, (DH 2000) and by the Intensive Care Society (2009)."
+                    },
+                    {
+                        "text": "SBAR Record"
+                    },
+                    {
+                        "text": "SBAR is an easy to remember mechanism used to frame handovers; It enables staff to clarify what information should be communicated between members of the team, and how. It will also help to develop teamwork and foster a culture of patient safety. The tool consists of standardised prompt questions within four sections, to ensure that staff are sharing concise and focused information. It allows staff to communicate assertively and effectively both using the SBAR record at Appendix 2, or verbally, reducing the need for repetition. The tool helps staff anticipate the information needed by colleagues and encourages assessment skills. Using SBAR prompts staff to formulate information with the right level of detail. Situation \u2013 Background \u2013 Assessment \u2013 Response"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "type": "image",
+            "sequence_num": 82,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).032.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Chief Executive as accounting officer is responsible for the safety and quality of care"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "type": "image",
+            "sequence_num": 84,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).033.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "provided by the Trust. They have delegated the responsibility for the transfer of all patients between all wards, departments and external healthcare providers to the Director of Nursing and the Medical Director."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Director of Nursings / Medical Directors are responsible for the development and"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "type": "image",
+            "sequence_num": 87,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).034.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Implementation of the policy, ensuring that all patient transfers are compliant with the standards identified within this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Duty Clinical Site Manager is responsible for resolving any operational issues"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "type": "image",
+            "sequence_num": 90,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).035.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "relating to the transfer of patients, as escalated by the clinical teams and for providing support and guidance. They are also responsible for the tracking and reporting of patient transfers which happen out of hours."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Clinical Directors are responsible for the implementation of this policy for their"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "type": "image",
+            "sequence_num": 93,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).036.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Divisions. They must ensure that those delegated with operational responsibility for the safe transfer of patients, report on the implementation and monitoring of the standards identified within this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Deputy/Associate Directors of Nursing have operational responsibility for the"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "type": "image",
+            "sequence_num": 96,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).037.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "implementation and monitoring of compliance against the standards set out in this policy. They will be required to report on the auditing and monitoring of the document to the relevant governance groups and to the patient safety groups. They will be responsible for ensuring that all staff within the division receive education and training regarding the transfer policy and appropriate documentation. They must ensure that this education forms part of the local induction procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Matrons are responsible for the daily operations, ensuring patients are transferred in"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "type": "image",
+            "sequence_num": 99,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).038.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "line with the requirements of this policy, including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Escalating  any  unresolvable  matters  associated  with  patient transfer  to  the ADoN/DDoN, in particular those matters relating to patient care, patient safety and other quality issues."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Escalating any operational issues related to transfer to the Duty Clinical Site Managers."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure processes are in place for educating ward staff to ensure they have the appropriate skills and knowledge to implement safe patient transfer"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Receiving information on all adverse incidents and near misses relating to patient transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Undertake an annual review of this policy, to ensure it continues to meet the operational needs of the Trust, clinical divisions and for patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Development and implementation of an action plan, with defined timescales to address any changes to the transfer process, as highlighted by review of the policy  and/or  trends  identified  through  adverse  incidents  and  near  misses; escalating  any  problems  with  the  implementation  of  the  action  plan  to  the ADoN/DDoN/Clinical Director."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Patient Escort regardless of status; is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "type": "image",
+            "sequence_num": 108,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).039.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Positively identifying the patient to be transferred and ensuring an identification band is in-place."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring  all  relevant  documentation  is  completed  and  transferred  with  the patient, including the patient transfer slip (Appendix 1)."
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures that a complete set of observations is completed immediately prior to transferring the patient to ensure a safe transfer is undertaken and the risk of deterioration during transfer is reduced."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confirming the correct destination for the transfer and providing comprehensive handover, verbally or in-person according to the risk assessment undertaken."
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Using the SBAR handover form to communicate patient clinical status and care requirements with the receiving ward/department (Appendix 2)."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring the status of the patient during the transfer, using the appropriate"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "monitoring devices."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Taking all appropriate action, should the patient's condition change."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Senior Sisters and Charge Nurses are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "type": "image",
+            "sequence_num": 118,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).040.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring their teams are aware of the requirements of this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring there are operational systems in place within their teams to fulfill the requirements of this policy at local level."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting any transfer issues to the relevant Matron, for support, to ensure the ongoing safety of their patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Registered Nurses (in charge of the patients care) are responsible for ensuring that"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "type": "image",
+            "sequence_num": 123,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).041.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "they are aware of their responsibilities in relation to the Transfer policy this includes completing or updating the transfer slip. When providing handover by telephone or direct to the receiving ward/ department, the SBAR (Situation/Background/Assessment/Response) tool will be used. They must ensure that departments are briefed on any specific care patients will require on their immediate arrival and on-going. For example, cardiac monitoring, supplemental equipment, oxygen supplies, medications, level of observation and arrangements for escort. Ward to ward and external transfers will include a summary of medical and nursing plans of care."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Ward Clerks"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "type": "image",
+            "sequence_num": 126,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).042.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ward Clerks are responsible for any required administrative duties to support safe patient transfer, including provision of copies or the original health care records as appropriate and the timely admission or transfer of a patient on the EPR system."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Portering staff and Departmental Assistants are responsible for assisting clinical"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "type": "image",
+            "sequence_num": 129,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).043.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "staff with the transfer of patients between wards and departments. A transfer form must be completed for all transfers. The porters are responsible for escalating to their manager, or to the Ward Senior Sister/Matron, any issues which prevent them from carrying out their function safely and effectively."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "type": "image",
+            "sequence_num": 132,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).044.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 1 provides staff with a checklist for patients undergoing permanent transfer"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "type": "image",
+            "sequence_num": 134,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).045.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "to another ward/department. Appendix 3 provides the document required for temporary transfer to a service for purpose of diagnostic i.e. imaging, ultrasound etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Internal Transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "type": "image",
+            "sequence_num": 137,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).046.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Internal transfers normally take place between 07:00 hrs and 23:00hrs"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Staffing"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "type": "image",
+            "sequence_num": 140,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).047.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Transfers will be undertaken by appropriate skilled and knowledgeable staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1 Transfers from A&E and the assessment units are generally supported via their own Departmental Assistants at the Basildon Site. Extra support of the general porters may be drafted in at times of increased activity, and as agreed with the portering service. At other sites, general porters are booked via the TeleTracking system for these areas."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.2 If a patient's NEWS2 score has changed significantly when checked immediately before transfer or if there is a concern regarding the patients stability, then nurse in charge or clinician should be consulted to confirm that transfer is still safe/appropriate. If required activate escalation of the deteriorating patient"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.3 Porters will support the transfer process from wards with requests submitted via the porter's service via Tele Tracking"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 All staff involved in the transfer process are required to follow infection control practice guidance related to personal protective equipment (PPE), bare below the elbow and hand hygiene."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.5 Ward staff are responsible for ensuring patients are suitably dressed and blankets provided if necessary, to ensure comfort, and maintain privacy and dignity."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.3.6 For ward to ward transfers, the transferring ward must ensure observations/NEWS are recorded within 15 minutes of leaving. The receiving ward must ensure that a member of staff is available to receive and welcome the patient to the ward and take handover from the escort using the SBAR handover form and complete a full set of observations within 15 mins of arrival to ascertain the patient's current NEWS2 score."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Escorts"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "type": "image",
+            "sequence_num": 149,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).048.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.4.1 The nurse-in-charge of the patient's care will assess (Appendix 1) to identify if an escort is required and record any such requirement in the patient's healthcare record. The nurse-in-charge will remain accountable for the patient's care at all times."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.2 The nurse-in-charge will ensure that the patient is ready for the transfer in a timely manner and for the arrival of the porter assisting, to include ensuring the patient is physically and psychologically prepared for the transfer, ensuring that all documentation is complete and observations have been completed and a NEWS2 score is calculated immediately prior to transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.3 Prior to transfer of patients between departments; all medications, therapies and treatments that have been prescribed to preserve a patient's well-being, must be commenced, given or carried out. Staff MUST NOT delay treatments, therapies or, in particular, provision of urgent medication until after a transfer has occurred. This may compromise patients' safety, fragment care and put undue pressure on receiving departments."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.4 The staff member acting as an escort must be competent to use any equipment that is being transferred with the patient, and ensure it has sufficient battery life (and/or medication present) for the period of the transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.5 Adjuncts used for moving and handling MUST accompany the patient. For example single use glide sheets."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.4.6 All patients categorised as level 1, 2 and 3, or those assessed as requiring increased nursing supervision, will require a suitably competent escort. For levels 2 and above, this MUST be a registered nurse/professional."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.7 A suitably competent escort is an individual trained or qualified to the necessary level to carry out the transfer and to support the patient's observation and supervision needs safely and competently during the process."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.8 When other investigations are undertaken during the transfer process e.g. X-rays or CT/MRI scanning then the escorting nurse should complete a repeat set of observations to identify if deterioration has occurred, due to the potential delays encountered in getting to the receiving ward."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.9 Escorts are required to ensure that the patient's wellbeing is considered at all times and must actively engage with the patient (and attending relatives) during the whole transfer process."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Transfers to Imaging/Radiology/Diagnostic"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "type": "image",
+            "sequence_num": 160,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).049.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1 Patients being transferred to Radiology from inpatient areas should be accompanied as per Escort Guidance contained within this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.2 The transfer document should be completed (Appendix 3) and accompany the patient, with the exception of patients transferred from Emergency Departments (although escort guidance must be applied)."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.3 For patients transferred from the Emergency Department to imaging, the Escort Guidance must be followed; however patients should also be accompanied in the following situations. (Please note the list is not exhaustive and clinical discretion should be applied)."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Patients with imposed restricted mobility i.e. collar/blocked due to potential aspiration risk."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Increased confusion/agitation."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Impaired level of consciousness."
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.4 For patients with specific needs or symptoms, the ED staff should communicate with attending radiographer prior to leaving patient i.e. known immobility/weakness etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Communication"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "type": "image",
+            "sequence_num": 169,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).050.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1 There must be adequate and effective communication between the transferring and receiving wards/departments using the SBAR handover tool."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.2 Ward-to-ward transfers will be facilitated by the nurse-in-charge of the ward/department and the clinical site managers."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.3 The nurse-in-charge of the patient's care on the transferring ward must provide a verbal telephone handover to the receiving nurse using the SBAR handover tool."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.4 The escort from the transferring ward will hand over to the nurse on the receiving ward using the SBAR handover record."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.5 The escort and the ward/department where the patient is being transferred to, whether permanently or temporarily for investigations/intervention, must be aware of any current infection risk prior to transfer. Where there is a previous or current history of infection, the nurse in charge is responsible for informing in advance, the receiving ward/department. Patients exhibiting signs of gastrointestinal disturbance (such as unexplained diarrhoea, particularly if C.Difficile is suspected) must not be transferred unless advice is gained from the Infection Control Team, or out of Hours notification to the Duty Clinical Site Manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.6 Vital Information regarding DNARCPR/TEP (ceiling of treatment) and safeguarding issues, including those associated with Mental Capacity Act Assessment, Deprivation of Liberty or Mental Health Act plans must be communicated to the receiving staff where relevant."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.7 Patients will be informed at the earliest opportunity of the need for a transfer and provided with an explanation of why the transfer is necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.8 With the consent of the patient; relatives, carers or Next of Kin will be advised of transfer of the patient to another ward. Note: it is not necessary to notify relatives, carers or others when a patient is temporarily absent from the ward e.g. for diagnostic procedures or interventions."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Transfer of Patients between Outlying Buildings within the Site"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "type": "image",
+            "sequence_num": 179,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).051.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1 The Nurse will assess the mode of transportation required by the patient based on their clinical condition, weather conditions, time of day and lighting levels. Transfer of the patient may be by wheelchair, trolley or bed."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.2 Portering staff should be contacted and a time for transfer agreed. Porters should be informed of the mode of transfer and asked to ensure appropriate moving and handling equipment is available including \u2018mechanical bed pusher'/all-terrain trolley where required and appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.3 If there are inclement weather conditions the nurse should ensure that appropriate protection is afforded to the patient. In severe weather conditions, if the patient's clinical condition allows, a decision may be made (between nurse and clinicians) to"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "either delay the transfer of the patient until the weather eases or make arrangements for ambulance transport to undertake the patient transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Documentation"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "type": "image",
+            "sequence_num": 185,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).052.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 The nurse-in-charge is responsible for ensuring that all appropriate healthcare records accompany the patient and that the patient is ready for the transfer in a timely fashion in particular, to coincide with the arrival of assisting porters."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.8.2 The transfer checklist (Appendix A) must be completed by the nurse responsible for the patient's care at the time of the transfer. Verbal and face-to-face handovers between staff will be undertaken using the SBAR handover tool."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.3 Patients must have an accurate patient identification band on prior to transfer, which should be checked (for patient identification purposes) on arrival to the receiving ward or department. For procedural/therapeutic transfers, standard patient identification procedures must be followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.4 A complete set of NEWS2 observations must be completed prior to transfer (should be a complete set of observations completed no more than 15 minutes prior to the transfer) and the patients NEWS2 score must be documented on the SBAR form (Appendix 2)"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Patient Property"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "type": "image",
+            "sequence_num": 191,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).053.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.1  During any transfer, patient property and valuables must be safeguarded. This remains the responsibility of the nurse in charge of the patient undertaking the transfer. The Trusts policy for managing property and valuables must be adhered to, including proper management and disposal of soiled items, safekeeping of clothing, valuable items and money, and completion of disclaimers."
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "type": "image",
+            "sequence_num": 194,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).054.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.1  The nurse in charge of the patient is responsible for ensuring all appropriate equipment is available to ensure a safe transfer and that the escort is trained in its use e.g. Defibrillator or transfer monitor, deciding if existing pressure relieving equipment should move with the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NOTE: In general, beds and pressure relieving and clinical equipment in use, will accompany  the  patient  from  the  transferring  ward  to  remain  with  the  receiving ward/department. For temporary internal transfers for investigations or interventions it still  may  be  necessary  for  some  medications  and/or  pressure  relieving  aids  to accompany the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Medicines including Intravenous Infusions"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "type": "image",
+            "sequence_num": 198,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).055.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.1 For permanent transfers, all dispensed medications must accompany the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.2 All infusions containing drugs, including, but not exhaustive to, insulin potassium or TPN must be on an infusion pump with appropriate battery life for the transfer and the registered professional escort must have been trained and competent to use the"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "equipment. Pumps must not be disconnected and left free-flowing as this may result in inadvertent bolus administration and patient harm."
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.3 If the patient requires a continuous infusion or the infusion cannot be stopped during the transfer (advice sought from a doctor as necessary) the Registered Nurse responsible for the risk assessment must clearly state, on the transfer checklist, the action required for any on-going intravenous infusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.4 If close observation of the patient is required, or if drug administration is required, a registered professional must always act as the escort for the patient. It is acceptable for a non\u2013registered healthcare support worker to escort a patient connected to an IVAC infusion pump but ONLY when infusion fluids without drug additives or potassium being administered for fluid maintenance (i.e. 0.9% sodium chloride, 5% Glucose, sodium chloride/glucose combinations or Hartmann's)."
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.11.5 Non-registered staff are not allowed to transfer patients receiving intravenous drug therapies and they are not allowed to touch, tamper with or use any infusion device. If a patient has been assessed as competent to self-administer medication by a registered professional, in accordance with MSEPO-21129 Adult self-administration of medicines SAM policy, and is using an ambulatory infusion device, then it is acceptable for a non\u2013registrant to act as an escort, however, the device must have been checked by a registered professional prior to commencement of the transfer, to ensure there is sufficient battery life and medication for the duration of the escort."
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Oxygen Therapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "type": "image",
+            "sequence_num": 206,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).056.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.12.1 If the patient's respiratory or cardiovascular status is unstable a registered nurse/registered professional must always act as the escort for the patient."
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.2 The nurse in charge of the patient is responsible for ensuring that all required information is given to the patient's escort and that the percentage of oxygen to be delivered clearly noted on the transfer checklist."
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.3 Prior to commencement of the transfer, the nurse in charge of the patient must check and ensure there is sufficient oxygen in the cylinder for the full duration of the transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tissue Viability and Risk of Falls"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "type": "image",
+            "sequence_num": 211,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).057.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.1 All patients must have a documented, up to date, Waterlow Score Assessment prior to transfer (Anderson score for ED to ward transfers). Any wounds Identified must be documented on the body map, and description of the wound and tissue type present including approximate sizes, site on body clearly documented in the clinical record. For all pressure ulcers an incident report must be completed. The pressure ulcer must be accurately categorised and the body site documented. Care actions pertaining to pressure ulcer care taken or required must be handed over to the receiving clinician on transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.2 The nurse should refer to / adhere to the pressure relieving equipment selection criteria and combine with their clinical judgement when considering what pressure relieving equipment is appropriate etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.3 For patients at risk of falls, this must be documented on the transfer form to alert receiving staff of the potential for increased observation whilst a patient is mobile. Where safety rails are in place, this must have been risk assessed prior to use. Where"
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a risk of entrapment is considered to be a problem, the appropriate level of supervision must be provided throughout the transfer process."
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "External Transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "type": "image",
+            "sequence_num": 217,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).058.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.14.1 All conditions and arrangements relating to internal transfers apply to external transfers, plus:"
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.2 A copy of the current health record must accompany the patient; the original must be retained by the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.3 If an escort is to accompany the patient, confirmation of the return journey arrangements for the escort must be made by the nurse-in-charge of the transferring ward/department"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.4 Local arrangements apply to areas to include ITU/HDU/NICU/CTC and paediatric external transfers."
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.5 When transferring a patient to another health care facility, the transferring hospital remains responsible for patient care until accepted into receiving facility."
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.6 Escorts should be considered as per policy to maintain care unless a specified pre- arranged pathway where ambulance service can take over care."
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.14.7 An escort is required when any equipment from the transferring hospital is required to accompany the patient \u2013 escorting staff must be trained on use of equipment."
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Out of Hours Transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "type": "image",
+            "sequence_num": 226,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).059.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.1 \u2018Out of hours' transfers are those that occur between 23:00 and 07:00 hours. It is accepted that Assessment Units may need to transfer patients throughout the night to ensure Emergency Department flow and safety. However, it is recognized that such transfers are far from ideal and negatively impact on the psychological status of some patient groups, particularly the confused, the elderly and those with dementia or a learning disability and should be avoided unless:"
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.15.2 The patient's condition deteriorates, necessitating a transfer out of hours"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.15.3 The operational demands of the organisation make such a transfer unavoidable.  If an out of hours transfers is necessary"
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "type": "image",
+            "sequence_num": 230,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).060.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The nurse-in-charge of the transferring ward must risk assess all patients, to determine which patient is in the most favorable clinical condition for transfer. The assessment must include, but is not necessarily limited to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Level of acuity of the patient"
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Instability of clinical condition"
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Behavioral risks and concerns"
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.1 The on-call FY2, Registrar or Critical Care Outreach Teams may be called to identify or review patients for suitability to transfer if the nursing teams need confirmation of suitability, or are unable to identify safe, suitable patients from a clinical perspective."
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.2 The nurse-in-charge must inform the Duty Clinical Site Manager who will support the decision making regarding suitability of patients for transfer."
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.3 Any decision to transfer out of hours and the rationale must be clearly documented in the patient's health record."
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.16.4 The relatives will be informed as soon as possible in hours, unless the patient requests otherwise, or there is an overriding clinical reason for informing them out of hours. Any decision to notify relatives, carers or others out of hours is the responsibility of the nurse in charge of the transferring ward/department."
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "type": "image",
+            "sequence_num": 240,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).061.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Senior Sisters and Charge Nurses, in conjunction with Matrons and Practice"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "type": "image",
+            "sequence_num": 242,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).062.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Development Staff are responsible for proactively inducting and educating staff, temporary or substantive, to ensure they have the required knowledge and skills to allow the safe and timely transfer of all patients covered under this policy. The learning outcomes will be linked to the responsibilities of individuals also outlined in this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Department of Organisational Development and Learning is responsible for"
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "type": "image",
+            "sequence_num": 245,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).063.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "educating staff in the care and transfer of patients to and from wards and departments. This will be covered in HCA, Foundation and Induction training provided to staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Portering Management Team are responsible for training, supervising and"
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "type": "image",
+            "sequence_num": 248,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).064.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "supporting porters involved in the transfer of patients. They will liaise with Matrons regarding issues that prevent timely transfer, to ensure these are remedied in practice."
+            },
+            "type": "ListItem",
+            "sequence_num": 249
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy will be available to staff via electronic distribution to wards, via the HuB,"
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "type": "image",
+            "sequence_num": 251,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).065.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and a copy in the Trust's hard copy policy libraries."
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "type": "image",
+            "sequence_num": 254,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).066.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitoring will be via the Patient Safety & Experience and incident management"
+            },
+            "type": "ListItem",
+            "sequence_num": 255
+        },
+        {
+            "type": "image",
+            "sequence_num": 256,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).067.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Groups. Responsibility for actions and recommendations being acted upon are the responsibility of the Senior Sisters and Charges Nurses/Matrons, through ADoN's and DDoN's."
+            },
+            "type": "ListItem",
+            "sequence_num": 257
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adverse incidents \u2013 If any adverse incidents occur with regards to the transfer of"
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "type": "image",
+            "sequence_num": 259,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).068.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "patients, the health care worker accompanying the patient must report the incident to senior member of staff on receiving ward and transferring ward/dept. A Datix report should be submitted for any such incident. Responsibility should lie with the transferring staff member. In the absence of an escort, this should be reported by receiving ward."
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "type": "image",
+            "sequence_num": 262,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).069.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All policies, procedures and guidelines will be approved by the MSE quality"
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "type": "image",
+            "sequence_num": 264,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).070.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "governance, which is the specialist group with the authority to approve local MSE quality governance documents. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is the author's responsibility to inform the MSE quality of the approved policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 266
+        },
+        {
+            "type": "image",
+            "sequence_num": 267,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).071.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "type": "image",
+            "sequence_num": 270,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).072.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets"
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "type": "image",
+            "sequence_num": 272,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).073.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 4)"
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "type": "image",
+            "sequence_num": 276,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).074.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The National Audit Office (2003) Ensuring the Effective Discharge of Older Patients from NHS Acute Hospitals. Online at https://webarchive.nationalarchives.gov.uk/ukgwa/20170207052351/https://www.nao.o rg.uk/wp-content/uploads/2003/02/0203392.pdf  [Accessed 09/12/2021]"
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Royal College of Physicians (2013) Acute care toolkit 6 - The medical patient at risk: recognition and care of the seriously ill or deteriorating medical patient. On-line at https://www.yumpu.com/en/document/read/50509661/rcp-acute-care-toolkit-6-royal- college-of-physicians [Accessed 09/12/2021]"
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 94.0,
+                "text": "NICE (2018) Chapter 34 Standardised systems of care for intra- and inter-hospital transfers Emergency and acute medical care in over 16s: service delivery and organisation NICE guideline  On-line at https://www.nice.org.uk/guidance/ng94/evidence/34.standardised-systems-of-care-for- intra-and-interhospital-transfers-pdf-172397464673 [Accessed 09/12/2021]"
+            },
+            "type": "ListItem",
+            "sequence_num": 279
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS England and NHS Improvement (2021) National framework for inter-facility transfers Version 2, 22 March 2021. On-line at https://www.england.nhs.uk/wp- content/uploads/2019/07/B0461-aace-national-framework-for-inter-facility-transfers- v2.pdf [Accessed 09/12/2021]"
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Association of Anaesthetists of Great Britain and Ireland (2009) AAGBI SAFETY GUIDELINE: Interhospital Transfer Online at https://anaesthetists.org/Portals/0/PDFs/Guidelines%20PDFs/Guideline_interhospital_ transfer_2009_final.pdf?ver=2018-07-11-163754-600&ver=2018-07-11-163754-600 [Accessed 09/12/2021]"
+            },
+            "type": "ListItem",
+            "sequence_num": 281
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Royal College of Physicians (2017) National Early Warning Score (NEWS) 2 On-line at https://www.rcplondon.ac.uk/projects/outputs/national-early-warning-score-news-2 [Accessed 09/12/2021]"
+            },
+            "type": "ListItem",
+            "sequence_num": 282
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: SBAR / Transfer Sheet 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "type": "table",
+            "sequence_num": 284,
+            "data": {
+                "num_rows": 18,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of Birth:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Hosp No."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transferring from:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "To:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "S Situation"
+                    },
+                    {
+                        "text": "Admitted on:____________ Date of transfer:_________Time:________ Diagnosis/reason for admission: Treatment so far: Observations immediately prior to transfer of patient (within 15mins):"
+                    },
+                    {
+                        "text": "BP:"
+                    },
+                    {
+                        "text": "Pulse/HR:"
+                    },
+                    {
+                        "text": "Resps:"
+                    },
+                    {
+                        "text": "O2 Sats:"
+                    },
+                    {
+                        "text": "Supp. O2:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Temp:"
+                    },
+                    {
+                        "text": "Blood Glucose:"
+                    },
+                    {
+                        "text": "AVPU:"
+                    },
+                    {
+                        "text": "Pain Score:"
+                    },
+                    {
+                        "text": "NEWS:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "B Background"
+                    },
+                    {
+                        "text": "Infectious Status (circle)"
+                    },
+                    {
+                        "text": "Increased Supervision (circle)"
+                    },
+                    {
+                        "text": "Past Medical History: Allergies:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "MRSA"
+                    },
+                    {
+                        "text": "+"
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Unk"
+                    },
+                    {
+                        "text": "Risk of Falls"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Covid-19"
+                    },
+                    {
+                        "text": "+"
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Unk"
+                    },
+                    {
+                        "text": "Cognitive Impairment"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "C-Diff"
+                    },
+                    {
+                        "text": "+"
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Unk"
+                    },
+                    {
+                        "text": "MCA/DoLs in Place"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Isolation Required"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Resuscitation Status (circle)"
+                    },
+                    {
+                        "text": "Family Informed of Transfer (circle)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Receiving Ward Aware"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "For Resus"
+                    },
+                    {
+                        "text": "Not For Resus"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A Assessment"
+                    },
+                    {
+                        "text": "Escort Required:"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": "Summary of Current Nursing Needs:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Oxygen Req:"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Suction Req:"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Neuro Obs Req."
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pressure Mattress"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "R Recommendations"
+                    },
+                    {
+                        "text": "Treatment plan: Specific actions required: Pending diagnostics:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "SBAR / Transfer Sheet 2"
+            },
+            "type": "ListItem",
+            "sequence_num": 285
+        },
+        {
+            "type": "image",
+            "sequence_num": 286,
+            "data": {
+                "url": "MSEPO-21201 Policy for the transfer of patients (clinical care handover).075.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 287,
+            "data": {
+                "num_rows": 35,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Date of Transfer:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Time of Transfer:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transfer from:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transfer to:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": "Narrative"
+                    },
+                    {
+                        "text": "Patient Identification"
+                    },
+                    {
+                        "text": "Does the patient have a wrist band?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Can the patient communicate?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Are there any issues of mental capacity or safeguarding concerns (inc. deprivation of liberty, mental health, LD or behavioural issues)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Health Records"
+                    },
+                    {
+                        "text": "Health Records complete and available?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Records scanned prior to transfer (if appropriate)?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "DNACPR form completed (if appropriate)?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "TEP form completed and accompanying?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Manual Handling, mobility and falls risk"
+                    },
+                    {
+                        "text": "Manual Handling equipment/mobility devices required and accompanying patient? Specify:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is the patient at risk of falls/injury?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "How does the patient transfer? (walk/chair/trolley,bed own wheelchair) Specifiy:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Medical Devices and Equipment"
+                    },
+                    {
+                        "text": "Does the patient require oxyugen therapy? Specify details and % oxygen."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Does the patient have any ibvasive devices? Tracheostomy/IVI/CVC/drains/catheter/NG/PEG?PCA \u2013 Specify:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Equipment required to accompany patient? (IVAC, cardiac monitor/SaO2 monitoring). Specify:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Infection Control Status"
+                    },
+                    {
+                        "text": "Are there any known infection risks? (Covid/MRSA/C- Diff). Specifiy:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Does the patient require isolation?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Have the receiving department been informed?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pre-transfer clinical condition"
+                    },
+                    {
+                        "text": "Full set of Obs undertaken within 30 mins of transfer?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NEWS Score on transfer: Specify:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NEWS="
+                    },
+                    {
+                        "text": "Is the patient clinically safe for transfer?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Support in Transit"
+                    },
+                    {
+                        "text": "Does the patient require an escort? (none, RN, HCA, Doctor) Specifiy:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Medicine Management"
+                    },
+                    {
+                        "text": "Medications transferred along with patients (including Controlled Drugs and fridge items)."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Does the patient have any of their own medication?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient Property"
+                    },
+                    {
+                        "text": "Does the patient have any valuables? Patient disclaimer and property record completed."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is patients property transferred in a green property bag?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Communication"
+                    },
+                    {
+                        "text": "Has the patient been informed of the transfer and rationale?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Has the patients next of kin been notified of the transfer?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reverse of this form \u2013 SBAR Form completed?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Receiving ward given verbal handover as per SBAR form?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Form Completed by:"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signed:"
+                    },
+                    {
+                        "text": "Job Title:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient Transferred by:"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signed:"
+                    },
+                    {
+                        "text": "Job Title:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient Received by:"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signed:"
+                    },
+                    {
+                        "text": "Job Title:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Escort Guidance"
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "type": "table",
+            "sequence_num": 289,
+            "data": {
+                "num_rows": 13,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Criteria"
+                    },
+                    {
+                        "text": "Patient Acuity Level"
+                    },
+                    {
+                        "text": "Suggested Escort"
+                    },
+                    {
+                        "text": "Patient is moved to MHDU"
+                    },
+                    {
+                        "text": "Level 1, 2."
+                    },
+                    {
+                        "text": "Registered Nurse"
+                    },
+                    {
+                        "text": "Patient is being stepped down from ITU or MHDU to a general ward area."
+                    },
+                    {
+                        "text": "Level 1, 2."
+                    },
+                    {
+                        "text": "Registered Nurse"
+                    },
+                    {
+                        "text": "Patient is being stepped down from ITU to MHDU."
+                    },
+                    {
+                        "text": "Level 1, 2."
+                    },
+                    {
+                        "text": "Registered Nurse"
+                    },
+                    {
+                        "text": "Patient is being stepped up to ITU from any area."
+                    },
+                    {
+                        "text": "Level 1, 2, 3."
+                    },
+                    {
+                        "text": "Registered CCOT Nurse / Doctor"
+                    },
+                    {
+                        "text": "Patient is intubated and receiving ventilation."
+                    },
+                    {
+                        "text": "Level 3."
+                    },
+                    {
+                        "text": "Doctor"
+                    },
+                    {
+                        "text": "Patient is on Oxygen of any percentage"
+                    },
+                    {
+                        "text": "Level 1."
+                    },
+                    {
+                        "text": "Registered Nurse"
+                    },
+                    {
+                        "text": "Patient with a NEWS of 0 being transferred from an emergency area to a general ward."
+                    },
+                    {
+                        "text": "Level 0."
+                    },
+                    {
+                        "text": "Health Care Assistant / Departmental Assistant."
+                    },
+                    {
+                        "text": "Patient of a NEWS of 1 or more"
+                    },
+                    {
+                        "text": "Level 1."
+                    },
+                    {
+                        "text": "Registered Nurse (May be delegated following assessment for reason of NEWS)."
+                    },
+                    {
+                        "text": "Patient has a Tracheostomy"
+                    },
+                    {
+                        "text": "Level 1, 2."
+                    },
+                    {
+                        "text": "Registered Nurse"
+                    },
+                    {
+                        "text": "Patient transferred to discharge lounge and not receiving oxygen."
+                    },
+                    {
+                        "text": "Level 0."
+                    },
+                    {
+                        "text": "No escort required"
+                    },
+                    {
+                        "text": "Intubated patient transferring off of site."
+                    },
+                    {
+                        "text": "Level 3."
+                    },
+                    {
+                        "text": "Doctor"
+                    },
+                    {
+                        "text": "Patient being transferred to another hospital who will be taking over their inpatient acute care"
+                    },
+                    {
+                        "text": "Level 1, 2, 3."
+                    },
+                    {
+                        "text": "Registered Nurse or Doctor (dependent on Level of care)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: SBAR Diagnostic Transfer Form"
+            },
+            "type": "ListItem",
+            "sequence_num": 290
+        },
+        {
+            "type": "table",
+            "sequence_num": 291,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of Birth:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Hosp No."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transferring Ward:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "S Situation B Background"
+                    },
+                    {
+                        "text": "Date of transfer:_________Time:________ Being Transferred for: Observations immediately prior to transfer of patient (within 15mins):"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "BP:"
+                    },
+                    {
+                        "text": "Pulse/HR:"
+                    },
+                    {
+                        "text": "Resps:"
+                    },
+                    {
+                        "text": "O2 Sats:"
+                    },
+                    {
+                        "text": "Supp. O2:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "AVPU: Allergies:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "MRSA"
+                    },
+                    {
+                        "text": "+"
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Unk"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Risk of Falls"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Covid-19"
+                    },
+                    {
+                        "text": "+"
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Unk"
+                    },
+                    {
+                        "text": "Cognitive Impairment"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "C-Diff"
+                    },
+                    {
+                        "text": "+"
+                    },
+                    {
+                        "text": "-"
+                    },
+                    {
+                        "text": "Unk"
+                    },
+                    {
+                        "text": "MCA/DoLs in Place"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "A Assessment"
+                    },
+                    {
+                        "text": "Oxygen Req:"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": "Summary of Specific Needs: IPC Issues:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Suction Req:"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "R Recommendations"
+                    },
+                    {
+                        "text": "Escort Required"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": "Rationale:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Barrier Nursing"
+                    },
+                    {
+                        "text": "Y"
+                    },
+                    {
+                        "text": "N"
+                    },
+                    {
+                        "text": "Rationale:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Transferring on"
+                    },
+                    {
+                        "text": "Bed"
+                    },
+                    {
+                        "text": "Chair"
+                    },
+                    {
+                        "text": "Trolley"
+                    },
+                    {
+                        "text": "Other:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Any other information:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Form Completed by:"
+                    },
+                    {
+                        "text": "Name:"
+                    },
+                    {
+                        "text": "Signed:"
+                    },
+                    {
+                        "text": "Job Title:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Policy for the transfer of patients (clinical handover of care)/ MSEPO-21201/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 292
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Policy for the transfer of patients (clinical handover of care)/ MSEPO-21201/0.01"
+            },
+            "type": "ListItem",
+            "sequence_num": 294
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix4: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Policy for the transfer of patients (clinical handover of care): (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 296
+        },
+        {
+            "type": "table",
+            "sequence_num": 297,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 298,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "This document combines the three separate documents: Southend Hospital"
+                    },
+                    {
+                        "text": "CM58 Policies for the transfer of patients (Clinical Handover of Care); Basildon Hospital COPO00092 Safe Transfer and Handover of Adult Inpatients"
+                    },
+                    {
+                        "text": "internally between Wards and Departments; Broomfield Hospital 11042 Patient"
+                    },
+                    {
+                        "text": "transfer policy."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To ensure standardisation of policies and processes across the sites, now that that are one organisation."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Patients can expect the same standard of care regarding transfer across all three sites. Staff can be aware of safe practices as per policy regardless of which site they are working at."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No \u2013 minimal changes in process for the purposes of standardisation. None of which will impact negatively on safety or quality of care."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "DoN and IPC lead review."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 299,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Anthony Schirn"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Deputy Director of Nursing"
+                    },
+                    {
+                        "text": "26 November 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 22.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 300
+        }
+    ]
+}

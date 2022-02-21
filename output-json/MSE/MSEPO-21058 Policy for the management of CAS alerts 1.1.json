@@ -1,0 +1,2356 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21058 Policy for the management of CAS alerts 1.1.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "MANAGEMENT OF CENTRAL ALERTING SYSTEM (CAS) ALERTS POLICY"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEPO-21058"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "21 April 2024"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "National Guidance/Recommendations"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12, 17"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "MSE Governance, Risk & Compliance"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Jake Elby \u2013 Risk and Compliance Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Risk and Compliance Group"
+                    },
+                    {
+                        "text": "15 April 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Tracy Turner \u2013 Associate Director of Risk and Compliance"
+                    },
+                    {
+                        "text": "23 March 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "20 April 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "April 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-21058 Policy for the management of CAS alerts 1.1.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Helen Clarke"
+                    },
+                    {
+                        "text": "Associate Director of Patient Safety"
+                    },
+                    {
+                        "text": "05 April 2021"
+                    },
+                    {
+                        "text": "Gary Cordery"
+                    },
+                    {
+                        "text": "Head of MEMS"
+                    },
+                    {
+                        "text": "01 April 2021"
+                    },
+                    {
+                        "text": "Richard Ketley"
+                    },
+                    {
+                        "text": "Medication Safety Officer"
+                    },
+                    {
+                        "text": "07 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Risk management policy or equivalent Incident management policy or equivalent Medical equipment management policy or equivalent"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Jake Elby"
+                    },
+                    {
+                        "text": "New policy supersedes the following documents: Southend Hospital: CM76 T1 - POL - Safety Alert Handling; Basildon Hospital: COPO00149 Central Alert System"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    },
+                    {
+                        "text": "1.1"
+                    },
+                    {
+                        "text": "Helen Clarke"
+                    },
+                    {
+                        "text": "Addition of details as follows Patient Safety Specialist added to section 3 definitions. Notification to Board of new National Patient Safety Alerts section 5.1.2 Process for closure of action plans for NatPSA's 7.1.3 Addition of references to section 12."
+                    },
+                    {
+                        "text": "27 July 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Process ......................................................................................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Reporting Adverse Incidents and Equipment Failure .................................................. 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Review, Monitoring and Escalation ............................................................................. 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Training Requirements ............................................................................................... 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Monitoring and Audit ................................................................................................... 11  Approval and Implementation ..................................................................................... 12  Equality Impact Assessment ....................................................................................... 12  References ................................................................................................................. 12   Appendix I \u2013 Preliminary Equality Analysis ................................................................. 1  Appendix II \u2013 CAS Alert Action Plan .......................................................................... .  Appendix III \u2013 Trust Leads by Alert Type ................................................................... .  Appendix IV \u2013 Quick Reference Flowchart ................................................................. 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The Central Alert System (CAS) is a digital cascade system developed by the Department of Health and Social Care (DHSC) and is a key means by which to communicate and disseminate important safety and device alerts within the NHS."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The system is the principle means by which organisations such as NHS England and Improvement (NHSE&I) and DHSC circulate important safety and device alerts to NHS organisations."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The Trust is expected to acknowledge receipt of each alert and complete a feedback form within the designated time to the Department of Health identifying what has been done in response to the alert. The responses are monitored externally and are available for public scrutiny via the national CAS web page."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "This policy is designed to ensure a consistent approach for dealing with the management of alerts received through the CAS. It is important that all Trust personnel are aware of their roles and responsibilities with regard to dissemination and actions required in complying with alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "Alerts may originate from any of the following organisations:"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Medicines and Healthcare products Regulatory Agency (MHRA);"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHSE&I Estates & Facilities Alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "DHSC Supply Distribution Alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHSE&I National Patient Safety Alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Healthcare Safety Investigation Branch (HSIB);"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alerts from the CAS team."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.6,
+                "text": "It may also be necessary for the Trust to distribute \u201cinternal alerts\u201d. These alerts will be used to provide rapid dissemination of information, e.g. medical device/equipment recall."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.7,
+                "text": "CAS is also used to send out emergency alerts, i.e. Chief Medical Officer Messaging and MHRA Drug Alerts. These do not require a response and are sent directly to senior Trust staff as opposed to the CAS Liaison Officer."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.8,
+                "text": "It is the aim of the Trust to ensure that all alerts are communicated promptly to all relevant members of staff employed within the Trust and that action to comply with alerts is taken within the Department of Health timescales in order to safeguard patients, visitors, and staff from harm."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "This policy has been developed to ensure that there are robust arrangements in place for the co-ordination and management of CAS Alerts"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This policy applies to all safety alerts received by the Trust via CAS. This policy does not extend to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Security Management Service (SMS) Alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "National Health Service Resolution (NHSR) Alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health & Safety Executive (HSE) Alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Medication Supply Disruption Alerts (SDA) which are co-ordinated by the pharmacy directorate via the Medication Safety Officer (MSO)."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "type": "table",
+            "sequence_num": 40,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Central Alerting System (CAS)"
+                    },
+                    {
+                        "text": "Central Alerting System (CAS) is web-based system for distributing Patient Safety Alerts and other safety related alerts and messages to NHS Trusts and other healthcare organisations. It is accessible to all for purposes of viewing an alert via the CAS website."
+                    },
+                    {
+                        "text": "CAS Liaison Officer"
+                    },
+                    {
+                        "text": "Alerts are disseminated to a CAS Liaison Officer in NHS Trusts and other healthcare organisations through CAS. The CAS Liaison Officer ensures onward distribution of the alerts to the relevant Alert Leads, manages the CAS system and records action taken."
+                    },
+                    {
+                        "text": "Designated Alert Officers"
+                    },
+                    {
+                        "text": "Takes responsibility for managing individual alerts within the Trust, managing an alert Action Plan and co- ordinating responses within the timescales specified in the alerts."
+                    },
+                    {
+                        "text": "Field Safety Notice (FSN)"
+                    },
+                    {
+                        "text": "A \u2018Field Safety Notice' (FSN) is an important communication about the safety of a medical device that is sent to customers by a device manufacturer, or their representative."
+                    },
+                    {
+                        "text": "Medical Device Safety Officer (MDSO)"
+                    },
+                    {
+                        "text": "The Medical Device Safety Officer (MDSO) is responsible for the management of device-related safety alerts and supports medical device incident reporting. They will also be the main contact for NHS England, the MHRA and manufacturers."
+                    },
+                    {
+                        "text": "Medication Safety Officer (MSO)"
+                    },
+                    {
+                        "text": "NHS Trusts and other healthcare organisations have a designated Medication Safety Officer (MSO). This is the Principal Pharmacist for Medication Safety, supporting medication incident reporting, quality improvement and is the main contact for NHS England & Improvement."
+                    },
+                    {
+                        "text": "Medicines and Healthcare products Regulatory Agency (MHRA)"
+                    },
+                    {
+                        "text": "The Medicines and Healthcare products Regulatory Agency (MHRA) is a regulatory agency of the Department of Health & Social Care (DHSC) focusing on promoting public health and patient safety by ensuring that medicines, healthcare products and medical equipment meet defined standards of quality and safety."
+                    },
+                    {
+                        "text": "Patient Safety & Quality Group"
+                    },
+                    {
+                        "text": "The Patient Safety & Quality Group (PS&Q) meet on a monthly basis to ensure oversight of the patient safety agenda. As part of this, the"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 41,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "group will also oversee the progress of National Patient Safety Alerts."
+                    },
+                    {
+                        "text": "Patient Safety Specialist"
+                    },
+                    {
+                        "text": "NHS Trusts are required to identify one or more Patient Safety Specialists to provide oversight and influence in all patient safety processes within the organisation. This includes supporting compliance with National Patient Safety Alerts."
+                    },
+                    {
+                        "text": "Risk Assurance Framework (RAF)"
+                    },
+                    {
+                        "text": "The Risk Assurance Framework (RAF) is a part of the Trust's risk management system and provides a mechanism for recording details of each risk within a database so that risk records can be analysed and facilitate effective oversight of risk management at all levels."
+                    },
+                    {
+                        "text": "Risk & Compliance Group (R&C)"
+                    },
+                    {
+                        "text": "The Risk & Compliance Group (R&C) meet on a monthly basis to ensure there is appropriate oversight of the CAS process."
+                    },
+                    {
+                        "text": "Safety Alert Management System"
+                    },
+                    {
+                        "text": "The Risk & Compliance Team maintain a system to keep a record of all details relating to an alert. This includes all correspondence and the associated action plans."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Risk & Compliance Group is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Approval of this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing and monitoring the CAS process and escalating key issues or risks to the Governance Oversight Committee;"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing and reviewing the overall response to safety alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Safety Alerts Assurance Group - The purpose of the Safety Alerts Assurance Group (SAAG) is to"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "provide assurance to the Risk and Compliance Group on behalf of the Quality Governance Committee in relation to compliance with national safety alerts published through the Central Alerting System (CAS)."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "monitor the implementation of actions required in response to published safety alerts and ensuring that actions are embedded into practice."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operate as a gatekeeper for the escalation of issues or risks to the Risk and Compliance Group in relation to non-compliance with safety alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Medical Devices Group is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The scrutiny and monitoring of all equipment management processes including this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting to Health and Safety Group annually."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Medication Assurance Group (MAG) is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The scrutiny and monitoring of all medicines usage and optimisation processes including medication-related aspects of this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting by exception into Patient Safety & Quality Group and Risk & Compliance Group quarterly."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Patient Safety and Quality Group (PS&Q) is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Overseeing and reviewing the distribution and response to National Patient Safety Alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Chief Executive Officer (CEO) is responsible for overall responsibility for patient safety. Operational management is delegated to the Chief Nursing Officer."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Chief Nursing Officer (CNO) is responsible for ensuring that Mid & South Essex NHS Foundation Trust (the Trust) has the necessary systems in place to enable the effective management of CAS Alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "Associate Director of Risk & Compliance is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management of the CAS Alerts process and management of the Risk and Compliance Team;"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that there is a nominated CAS Liaison Officer in place to support the Trust in the management of CAS Alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.9,
+                "text": "Head of Risk & Compliance is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The day-to-day management of central alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Formulating and reviewing policy guidance for the alert process"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Providing support and guidance to Divisions regarding alerts with the Risk & Compliance Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Risk and Compliance Manager is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acting at the Trust's CAS Liaison Officer to ensure the practical application of the alerts process;"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Receiving alerts via CAS on behalf of the Trust;"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Liaise with MEMS, Estates and Facilities, Pharmacy, Patient Safety and Procurement teams to ascertain the relevance of received alerts"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain a central record of alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Distributing alerts to the designated personnel within the Divisions;"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain records confirming dissemination and completion of actions within timescales;"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintaining the web-based CAS system, including acknowledging alerts,"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "updating the system when further information is available and the closure of alerts when completed;"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Produces a monthly report on alert status to the Risk and Compliance Group and on National Patient Safety Alerts to the Patient Safety and Quality Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.11,
+                "text": "Nominated Trust Leads and Designated Alert Officers are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assessing whether an alert is relevant to the Trust, disseminating further within their areas of responsibility as appropriate;"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that alerts relevant for their areas are managed appropriately and to given timescales;"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring an action plan is developed for the management of the alert (refer to Appendix 2);"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring the Risk and Compliance Team is updated on the current progress of an alert, including any delays to meeting the alert deadline;"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where an alert cannot be completed within the deadline or implemented, ensuring a risk assessment is carried out and included on the appropriate risk"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "register."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.12,
+                "text": "Clinical Directors and Divisional Triumvirates are responsible for ensuring that there is a robust system for sharing and recording alerts received where there is action required and that all of the actions detailed in any relevant CAS alerts are implemented, managed and monitored within the required timeframes."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.13,
+                "text": "Ward Managers/Service Managers/Heads of Department are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that all staff members adhere to this policy;"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Line managers are responsible for ensuring all medical equipment is purchased and maintained in accordance with this policy working with Procurement to complete the process. This includes completion of the Authority to Invest (ATI) form. They are also responsible for ensuring any significant risks associated with medical equipment, informs the local Risk Assurance Framework (RAF)."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.14,
+                "text": "Medical Devices Safety Officer (MDSO) is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supporting local medical device incident reporting and learning, act as the main contact for NHSE&I, the MHRA and medical device manufacturers. The MDSO should also be a member of the National Medical Devices Safety Network;"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Providing support and guidance to Divisions regarding alerts, medical device adverse incident reporting and any other related issues;"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Attend the Medical Devices Group and provide feedback on related alerts"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Notifying the MHRA of any changes in the MDSO."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.15,
+                "text": "Medication Safety Officer (MSO) is responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supporting local medication incident reporting and learning, act as the main contact for NHSE&I and the MHRA;"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The MSO is a member of the National Medication Safety Officer Network;"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Providing support and guidance to divisions regarding alerts, medication adverse incident reporting and any other related issues;"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Supporting the completion of actions in relation to medication use alerts;"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring actions are taken in relation to medication Supply Disruption Alerts (SDA)."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.16,
+                "text": "Procurement Department is responsible for supplying details of equipment and / or consumables procured by the Trust when detailed in an alert. Details will include when the equipment and / or consumables were last purchased, which area uses the equipment and / or consumables and the amount that is available."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.17,
+                "text": "All staff using / operating medical equipment will be responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring they are suitably trained to use the equipment in accordance with the appropriate policies, competencies and Standard Operating Procedures (SOPs)."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that, where medical equipment is found to be faulty, it is taken out of use, cleaned in accordance with the Trust's Decontamination Policy and reported to MEMS"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adverse incidents involving medical equipment should be reported using the Trust's Incident Reporting System. Dependent on the circumstances, consideration should also be given to reporting the incident to the MHRA. Where doubt exists, advice should be sought from the Health and Safety Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.17,
+                "text": "All members of staff are responsible for ensuring that they are familiar with the contents of this policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "The Central Alerting System is managed by the CAS Liaison Officer. This is integrated into the role of the Risk & Compliance Manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Upon receiving an alert, the CAS Liaison Officer will:"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Acknowledge the alert within two working days on the CAS website;"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify the type of alert received and disseminate via e-mail to the appropriate Trust Lead (refer to appendix 3). Following up on this with the Lead/divisional team if receipt of the alert is not confirmed;"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor for any responses or other correspondence received in relation to the alerts within the allocated deadline;"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the CAS website is updated within the allocated deadline;"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Keep the Trust's safety alert management system up to date with information received;"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Escalate to the Head of Risk & Compliance where an alert becomes overdue, updates are not being provided or where there are any other significant concerns;"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where an alert received requires no response on the system, the alert will be recorded on the Trust's safety alert management system for information (e.g. Chief Medical Officer Messages);"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 Upon receiving an alert from the CAS Liaison Officer, the Trust Lead will:"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Assess whether the alert is relevant to the Trust and where necessary, disseminate the alert and take any other necessary action within their areas of responsibility;"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Respond to the CAS Liaison Officer, indicating the relevance of the alert and confirm actions required within five working days;"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appoint a Designated Alert Officer to lead on the implementation of a relevant alert;"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the CAS Alert is actioned promptly and that the Risk and Compliance Team is informed."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that where a National Patient Safety Alert has been issued, details are be included in the monthly Patient Safety and Quality report to the Quality Governance Committee to ensure the Board are notified."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 Upon receiving an alert from the Trust Lead, the Designated Alert Lead will:"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Create an action plan to address all elements of the alert and share this with the Risk and Compliance Team, providing updates as appropriate;"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Complete the action plan with evidence of compliance and sustainability, returning this to the Risk and Compliance Team before the deadline;"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confirm to the Risk and Compliance Team that the alert can be closed on the CAS website as fully completed and compliant;"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Conduct a risk assessment and add a risk to the appropriate RAF if the deadline cannot be met or the alert cannot be implemented."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "A Field Safety Notice (FSN) is a communication from a manufacturer relating to the safety of a medical device. This will detail any safety concerns, including action to be taken that will mitigate any risks. Where an FSN is received by a divisional representative, the notice should be acknowledged and action taken as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "If an FSN is received into the Risk and Compliance Team, this should be recorded on the Trust's safety alert management system and disseminated to the appropriate team for review and action."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "All CAS Alerts have an allocated deadline within which any actions required must be completed. The Trust will keep the CAS website up to date with the current progress to monitor the implementation of actions within the prescribed time limit."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Reporting adverse incidents and equipment failure"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Refer to the Trust's Risk Management Policy, Incident Management Policy and Medical Equipment Policy. Where an issue arises with medical equipment that results in a near miss or patient safety incident, this should be reported on the Trust's Risk and Incident Management System."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "If appropriate, an incident may need to be shared with an external organisation or a specific piece of equipment may need to be reported to MHRA. This should be done by the department identifying the fault in co-ordination with the MEMS."
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "The findings and learning from any incidents or reports will be shared with MEMS and the appropriate Trust staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Review, monitoring and escalation"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "This policy will be reviewed every three years or following identification that changes are required in relation to the management of CAS Alerts."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The CAS Liaison Officer will ensure that any relevant alerts are monitored to ensure they are completed within the allocated deadline. When an alert is not going to be completed on time, or is overdue without assurance of progression, they will discuss this with the Trust Lead and Designated Alert Officer. Where applicable, the Trust Lead and Designated Alert Officer should ensure a risk is added to the appropriate risk register"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "The CAS Liaison Officer will produce a monthly report to the Safety Alerts Assurance Group outlining the current status of open CAS Alerts. The group will seek assurance that the alerts have been allocated appropriately, that action plans to address the recommendations are in place and that they have been implemented. Compliance with CAS alerts will be escalated to the Risk and Compliance Group through the monthly risk dashboard report."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.3.1  National Patient Safety Alerts"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The current position of National Patient Safety Alerts will also be reviewed by the Patient Safety and Quality Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where the Designated Alert Lead and the Trust Lead propose that actions have been completed to comply with a National Patient Safety Alert, the associated action plan must be submitted to the Patient Safety and Quality Group for assurance the requirements are met. This will also ensure executive oversight and authorisation to record \u2018action completed' on the CAS portal."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Non-compliance with National Patient Safety Alerts will be monitored at the Patient Safety and Quality and reported to the Quality Governance Committee and the Board within the Integrated Quality and Performance Board report."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.4,
+                "text": "The  CAS  Liaison  Officer  will  escalate  to  the  Associate  Director  of  Risk  and Compliance where alerts are not completed within the timeframe, where an initial action plan is not received or at any point where there are concerns regarding the progress of an alert."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Managers should ensure that appropriate staff are aware of their responsibilities regarding the management of safety alerts, ensuring appropriate training and support as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "type": "table",
+            "sequence_num": 148,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Monitoring the status of alerts received and ensuring compliance with all issued alerts"
+                    },
+                    {
+                        "text": "Monthly reports"
+                    },
+                    {
+                        "text": "Safety Alerts Assurance Group"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "Risk and Compliance Group"
+                    },
+                    {
+                        "text": "Safety Alerts Assurance Group"
+                    },
+                    {
+                        "text": "The status of National Patient Safety Alerts"
+                    },
+                    {
+                        "text": "Exception reports within Integrated Quality and Performance Board report"
+                    },
+                    {
+                        "text": "MSE Governance, Risk & Compliance"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "Quality Governance Committee"
+                    },
+                    {
+                        "text": "MSE Governance, Risk & Compliance"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "This document will be submitted for approval to the Risk and Compliance Group and on approval, will be uploaded on to the intranet following final approval by the Trust Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals. (Refer to appendix 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHSI Patient Safety Alert Stage two: resources Patient Safety incident reporting and responding to Patient Safety Alerts NHS/PSA/RE/2016/003."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alert from the Central Alerting System Helpdesk Team, The introduction of National Patient Safety Alert CHT/2019/001."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update from the CAS Helpdesk: Changes to MHRA alerts and amendments to the website CHT/2020/002."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "National Patient Safety Strategy updated 2021 Available at: https://www.england.nhs.uk/wp-content/uploads/2021/02/B0225-NHS-Patient- Safety-Strategy-update-Feb-2021-Final-v2.pdf"
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management of central alerting system alerts policy/ MSEPO-21058 / 1.1"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Management of central alerting system alerts policy/ MSEPO-21058 (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "type": "table",
+            "sequence_num": 162,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 163,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Harmonising the policies and process for the management of CAS Alerts across the Trust."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To ensure the robust and sustainable management of CAS Alerts to further the quality improvement agenda."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "All Trust Staff by ensuring there is a clear process for handling CAS Alerts and any changes they require."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 164,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Jake Elby"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Risk and Compliance Manager"
+                    },
+                    {
+                        "text": "07 January 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: CAS alert action plan"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CAS Alert Action Plan"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "type": "image",
+            "sequence_num": 167,
+            "data": {
+                "url": "MSEPO-21058 Policy for the management of CAS alerts 1.1.003.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 168,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "CAS Alert:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Deadline for actions completed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "CAS Alert title:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Last updated"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Designated Alert Officer:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Last updated by:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Exec Lead:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sites where action required"
+                    },
+                    {
+                        "text": "All \uf02a Basildon Broomfield \uf02a Southend"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 169,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "No."
+                    },
+                    {
+                        "text": "Alert Action"
+                    },
+                    {
+                        "text": "Action required to achieve compliance"
+                    },
+                    {
+                        "text": "Compliance evidence achieved Comments"
+                    },
+                    {
+                        "text": "Lead"
+                    },
+                    {
+                        "text": "Completion Date"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Has a Risk Assessment if required been completed & submitted to  \uf02a Yes \uf02a No \uf02a Not required Risk Manager for inclusion on the Operational Risk Register?"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "type": "image",
+            "sequence_num": 171,
+            "data": {
+                "url": "MSEPO-21058 Policy for the management of CAS alerts 1.1.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management of central alerting system alerts policy/ MSEPO-21058 / 1.1"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Trust leads by alert type"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "type": "table",
+            "sequence_num": 175,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Nominated Trust Leads by Alert Type"
+                    },
+                    {
+                        "text": "MHRA Alerts (formerly MDA)"
+                    },
+                    {
+                        "text": "Assistant Head of MEMS Head of MEMS Health & Safety Manager"
+                    },
+                    {
+                        "text": "EFA / EFN / NHSEI Alerts"
+                    },
+                    {
+                        "text": "Health & Safety Manager Health & Safety Officer"
+                    },
+                    {
+                        "text": "SDA (MHRA/DHSC Medication Alert)"
+                    },
+                    {
+                        "text": "Medication Safety Officer Pharmacy Medication Safety Team"
+                    },
+                    {
+                        "text": "NatPSA"
+                    },
+                    {
+                        "text": "Associate Director of Patient Safety Head of Patient Safety"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Quick reference flowchart"
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alert Received"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "type": "image",
+            "sequence_num": 178,
+            "data": {
+                "url": "MSEPO-21058 Policy for the management of CAS alerts 1.1.006.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CAS Liaison Officer:"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Capture alert detail management system"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Sends alert detail to appropriate lead to confirm relevance"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Confirmation of relevance received from lead"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Relevant  Not Relevant"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Management of central alerting system alerts policy/ MSEPO-21058 / 1.1"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 18.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appropriate Lead:"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Ensure all actions from alert take completed within the"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "allocated deadline"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Provides completed action"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "plan to CAS Liaison Officer"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Confirms alert can be closed"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CAS Liaison Officer:"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Closes alert on CAS website as not relevant and"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "documents narrative on"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "safety alert management"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "system"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "CAS Liaison Officer:"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Receives completed action plan and confirmation that alert can be closed"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Updates CAS website with closure"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u25aa Updates safety alert"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "management system"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        }
+    ]
+}

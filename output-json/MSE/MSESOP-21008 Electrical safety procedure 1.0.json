@@ -1,0 +1,3644 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "ELECTRICAL SAFETY PROCEDURE"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-21008"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "17 June 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "16 June 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Electrical, generator, PAT, Testing, Lock off, Danger Tags"
+                    },
+                    {
+                        "text": "Developed in response to: (National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "The Electricity at Work regulations 1989"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12, 17"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Estates and Facilities"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Phil Robson"
+                    },
+                    {
+                        "text": "EFM Site Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Health and Safety Management Group (Chairs action)"
+                    },
+                    {
+                        "text": "11 June 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "John Henry"
+                    },
+                    {
+                        "text": "Senior Director of Estates and Facilities"
+                    },
+                    {
+                        "text": "11 June 2021"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "15 June 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "July 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: (Must include Specialist Pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Steve Taylor"
+                    },
+                    {
+                        "text": "Electrical Supervisor"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    },
+                    {
+                        "text": "Andy Butler"
+                    },
+                    {
+                        "text": "Electrical Engineering Manager"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    },
+                    {
+                        "text": "John Allen"
+                    },
+                    {
+                        "text": "Hospital Engineer"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    },
+                    {
+                        "text": "Phil Robson"
+                    },
+                    {
+                        "text": "EFM Site Manager"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    },
+                    {
+                        "text": "Greg Niccol"
+                    },
+                    {
+                        "text": "Head of Compliance"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    },
+                    {
+                        "text": "Bill Hurst"
+                    },
+                    {
+                        "text": "Maintenance Manager"
+                    },
+                    {
+                        "text": "24 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Committee if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Health and Safety Management Group"
+                    },
+                    {
+                        "text": "28 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSEPO-20209 Health and safety policy MSEPO-19014 Incident reporting policy MSEPO-20242 Risk management strategy MSEPO-21014 Control of contractors MSEPO-20201 PPE policy MSEPO-21095 Electrical safety policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Phil Robson"
+                    },
+                    {
+                        "text": "New MSE document which replaces the following at Broomfield Hospital: 11048 Portable and fixed electrical equipment policy; Southend Hospital: EFM PRO 19 Electricity (LV) safety rules, EFM PRO 34 Generator testing procedure, EFM PRO 30 Lock off and isolation procedure."
+                    },
+                    {
+                        "text": "17 June 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Safety Rules ................................................................................................................. 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Lock off and Isolation .................................................................................................. 16"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "PAT Testing ................................................................................................................ 18"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Generator Testing ....................................................................................................... 20"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Record Keeping .......................................................................................................... 21  Training Requirements ............................................................................................... 22  Monitoring and Audit ................................................................................................... 23  Approval and Implementation ..................................................................................... 23  Equality Impact Assessment ....................................................................................... 23  References ................................................................................................................. 23 Appendix 1: Identification of devices suitable for isolation ................................................. 25 Appendix 2: Flow chart of isolation and lock off by competent person ............................... 26 Appendix 3: Electrical Permits to work ............................................................................... 27 Appendix 4: Danger tags ................................................................................................... 31 Appendix 5: Suggested PAT testing intervals for checking electrical equipment INDG23632 Appendix 6: Generator test process at Southend Hospital ................................................ 33 Appendix 7: Preliminary Equality Analysis ......................................................................... 38"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Mid and South Essex NHS Foundation Trust is committed to meeting its responsibilities under the Health and Safety etc Act 1974 and all associated legislation to ensure, as far as reasonably practicable, the health, safety and welfare of all employees and others who may be affected by its undertakings."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The Electricity at Work Regulations (1989) require that electrical systems are maintained as so far as is reasonably practicable places a duty on employers to ensure that any associated risk to staff, patients or property is minimised through the usage of electrical appliances."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The Trust takes its duties under these regulations seriously, and aims to satisfy its duties a far as is reasonably practicable to protect staff, patients, and all persons who enter or use electrical appliances within The Trust and satellite premises under the Trust's responsibility."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all staff are aware of their duties laid out in this procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Highlight actions that need to be carried out to assist with fulfilling the duties under the legislation requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that electrical equipment used within the Trust and satellite premises under the Trust's responsibility are safe and fit for their intended purpose."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Portable Appliances"
+                    },
+                    {
+                        "text": "An appliance of less than 18kg in mass that is intended to be moved while in operation, or an appliance which can easily be move from one place to another such as a toaster, food mixer, vacuum cleaner, fan heater, kettle, phone power leads, mains operated printers, laptop power supplies."
+                    },
+                    {
+                        "text": "Trust"
+                    },
+                    {
+                        "text": "Mid and South Essex NHS Foundation Trust"
+                    },
+                    {
+                        "text": "Moveable Equipment"
+                    },
+                    {
+                        "text": "This is equipment which is either 18kg or less and not fixed such as electric fire, or equipment with wheels or other means to facilitate movement, such as portable fans, air conditioning unit. This section should include mobile computer workstations."
+                    },
+                    {
+                        "text": "Handheld Appliances"
+                    },
+                    {
+                        "text": "This is portable equipment intended to be held in the hand during normal use, such as hair dryer, drill, soldering iron."
+                    },
+                    {
+                        "text": "Stationary"
+                    },
+                    {
+                        "text": "The equipment has a mass exceeding 18kg and is not provided with"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 29,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Equipment"
+                    },
+                    {
+                        "text": "a carrying handle, such as refrigerator, washing machine, driers."
+                    },
+                    {
+                        "text": "Fixed equipment"
+                    },
+                    {
+                        "text": "This is equipment which is fastened to a support or otherwise secured in a specified location, such as a bathroom heater, towel rail, and water boilers."
+                    },
+                    {
+                        "text": "IT Equipment"
+                    },
+                    {
+                        "text": "IT equipment includes electrical business equipment such as computers and mains powered telecommunications equipment, and other equipment for general business use."
+                    },
+                    {
+                        "text": "PAT"
+                    },
+                    {
+                        "text": "Portable Appliance Test \u2013 an electrical test carried out to ensure electrical integrity"
+                    },
+                    {
+                        "text": "Earthed equipment"
+                    },
+                    {
+                        "text": "Class I equipment has an earth connection. If there is a fault within the equipment there is a possibility that the outside of the equipment could cause an electric shock if the earth connection is not there. As a result, it is recommended that Class I equipment has a portable appliance test to ensure the earth connection is sound."
+                    },
+                    {
+                        "text": "Double insulated equipment"
+                    },
+                    {
+                        "text": "Class II equipment is sometimes referred to as \u2018double insulated' equipment. This means that there is extra insulation within the construction of the equipment to prevent accidental contact with live parts, even if there is a fault. Class II equipment will not need a portable appliance test, although users should ensure that checks and visual inspections are carried out as the integrity of the equipment casing is a key safety feature. Class II equipment is marked with If this symbol cannot be detected the user should assume the item is a Class I appliance."
+                    },
+                    {
+                        "text": "MEMs"
+                    },
+                    {
+                        "text": "Medical Equipment Maintenance Services"
+                    },
+                    {
+                        "text": "User"
+                    },
+                    {
+                        "text": "the person about to use the electrical equipment;"
+                    },
+                    {
+                        "text": "Competent Person"
+                    },
+                    {
+                        "text": "who performs the formal visual inspection on a routine basis;"
+                    },
+                    {
+                        "text": "Test operative"
+                    },
+                    {
+                        "text": "who inspects and tests electrical equipment on a routine basis; The person repairing faulty electrical equipment"
+                    },
+                    {
+                        "text": "EFM"
+                    },
+                    {
+                        "text": "Estates and Facilities Management"
+                    },
+                    {
+                        "text": "PPM"
+                    },
+                    {
+                        "text": "Planned preventative Maintenance"
+                    },
+                    {
+                        "text": "Isolation"
+                    },
+                    {
+                        "text": "Removing or stopping the path of sources of energy"
+                    },
+                    {
+                        "text": "Lock Off"
+                    },
+                    {
+                        "text": "Putting a physical barrier which can only be removed by a key"
+                    },
+                    {
+                        "text": "U.P.S"
+                    },
+                    {
+                        "text": "Uninterrupted Power supply"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Health and Safety Committee feed via chair assurance to the Trust Board regarding compliance with statutory legislation."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Chief Executive (Duty Holder)"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has the overall responsibility for health and safety and the implementation of this procedure within the Trust and remote premises under the Trust's responsibility."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure compliance with statutory legislation, Approved Codes of Practice and Department of Health requirements regarding electrical safety."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure appropriate funds are available to carry out capital and revenue works."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will assume the role of \u2018Duty Holder' on whom the Electricity at Work Regulations 1989 imposes a duty relating to safety."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.1 Designated Person"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Designated Person, appointed by the Chief Executive, who has the overall authority and responsibility for the electrical systems within the Trust premises and has a duty under the Health and Safety at Work etc Act 1974 to prepare and issue a general policy statement on health and safety at work including the organisation and arrangements to carry out that policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Designated Person shall appoint in writing an Authorising Engineer (AE) for the system that the Trust retain the responsibility to manage. The Authorising Engineer will ideally be a Chartered Electrical Engineer, who is competent to advise on safety arrangements for defined low voltage electrical systems. The AE should be independent of the Trust and will also assess the suitability and appointment of all Authorised Persons - Electrical."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.2 Authorising Engineer (AE)"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Specific responsibilities assigned to AE are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for implementing, administering and monitoring the application to the Health Technical Memorandum's HTM06-02 and HTM06-03."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Access and recommend and appoint in writing sufficient Authorised Persons HV and LV to provide the necessary cover for all systems and installation for which management has responsibility"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Define the exact extent of the systems and installations for which each Authorised Persons HV and LV is responsible"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If necessary, recommend the suspension or cancellation of the appointment of an Authorised Person HV and LV and withdraw the certification."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain a register of all Authorised Persons HV and LV and make available to the Designated Person. This record to be kept up to date and valid."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that candidates for appointment as Authorised persons HV and LV:"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Satisfy the qualification requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Satisfy the training and familiarisation requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Can demonstrate adequate knowledge of each system, installation and type of equipment for which authorisation is sought"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "- Have satisfied the Authorising Engineer HV and LV as to their competence and ability"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.3 Authorised Person (HV and/or LV)"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appointed by the Designated Person on the recommendation of the Authorising Engineer"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Is an electrical engineer with the required knowledge, training and experience"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for the practical implementation and operation of guidance HTM06- 02 and HTM06-03 and the systems and installations for which the Authorised Person HV and or LV has been appointed."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appoint in writing of competent persons HV and LV and maintain a register of all appointments and make available to the Designated Person. Records will be kept by the Designated Person and will be audited on an annual basis"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Co-operate with the Authorising Engineer HV and or LV in matters of policy concerning HV and or LV systems"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Shall appoint the Competent Persons (HV & LV)"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Approval of electrical contractors to undertake work for the Trust shall be by the Authorised Person only. This will be conducted as section 4 of the HTM06 \u2013 02 and HTM06 \u2013 03 Electrical safety guidance, appointment of contractors' competent person"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintain a register of all Competent Persons HV and LV and make available to the Designated Person. This record to be kept up to date and valid."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Must be a First aider"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.4 Accompanying Safety Person (HV and/or LV)"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Must not directly be involved with the work or test being carried out, but must have adequate knowledge, experience to avoid danger"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Required to observe and prevent unauthorised interruption of the work or test, and be able to apply first aid or summon assistance"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.5 Competent Person/s"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Competent Person/s are craftsmen, who, in the opinion of the Authorised Person/s"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "have sufficient technical knowledge, training and experience to prevent danger while carrying out work on defined electrical systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Be responsible for undertaking tasks on electrical systems, which have been clearly defined, by agreement in the Authorised Person/s instructions."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that all safety measures are taken to avoid injury and prevent danger during the course of any work on the systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.6 Project Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Must ensure that all new works shall comply with this electrical safety procedure and all current legislation and HTM's"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the contractors they employ adhere to this and other Trust policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide adequate information to the Authorised Persons (HV & LV) so the new installations can be accessed and approved for connection into the system to which they are responsible."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Commissioning certificates and handover documentation will be handed to the Authorised Persons (HV & LV) on completion and handover of the project Must consult with Fire Safety Advisor to ensure planned electrical works do not compromise integrity of fire compartments throughout Trust buildings."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.7 Directorate / Service Leads and Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that staff are made aware of the contents of this procedure and understand their responsibilities to comply with its contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To implement procedure within their areas of responsibility"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide access at all reasonable times to properties and equipment in order that Trust staff and Contractors can discharge their duties under this procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report electrical circuits or equipment in need of repair to EFM Helpdesk"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Make available electrical systems or equipment to carry out repairs"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide access to systems for the purpose of routine testing and inspection"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure any electrical equipment delivered to and for use in the Trust has been tested and cleared for use by the EFM Maintenance Service, I.T., Medical Equipment Maintenance Services i.e. equipment must be tested before use"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide access to portable electrical equipment for testing and inspecting at"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "mutually convenient times"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.8 All Staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adhere to this procedure and others relating to electricity in place within the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure all relevant safe working practices are followed and take adequate precautions where necessary to prevent the risk of personal injury or death from electrical shock."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report any electrical faults or other shortfalls to EFM Helpdesk"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report all incidents and accidents on DATIX in line with the Trust policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Safety rules"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Access to Electrical Switchrooms"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 All access control to any switchroom space to carry out any work or testing shall be the responsibility of the duty Authorised Person (LV). No person other than Authorised Personnel (LV) and / or Competent Persons (LV) may enter a switchroom area unless they are accompanied by an Authorised Person (LV) and / or Competent Person (LV), or have a permit to work or a limitation of access issued by an Authorised Person (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 All switch room space shall be properly identified via an approved sign and each access doors must be kept securely locked when unattended via a locking suite, where a single key will enable access to be gained to these areas. Alternatively access shall be controlled via a combination lock and the code will be changed"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "every six (6) months. The code of the combination locks shall be only given to Authorised Person (LV) and Competent Persons (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 Access key to switchroom areas may be the same as for other engineering space and this arrangement will be reviewed on a regular basis. A deviation from this may be where access to other engineering spaces need to be controlled in a similar but different manner, i.e. boiler house, medical gas distribution, etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.4 Access to switchroom key(s) shall be controlled via a log book and only issued by the Authorised Person (LV) to Competent Persons (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "For work on low voltage systems made dead"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 All work on low voltage electrical equipment including conductors shall only be carried out by competent Persons (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 All work on low voltage electrical equipment including conductors should be carried out while such electrical equipment and conductors are dead and isolated from all sources of electrical supply, and only after being proved dead at the point of work by means of an approved voltage testing device, which must itself be tested in an approved manner immediately before and after its use."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.3 It is important to ensure that the correct point of isolation is identified before proving dead and it should never be assumed that equipment is dead because a particular isolation device has been placed in the \u2018OFF' position. Operatives must assume that every circuit and / or equipment is live until it has been proved safe."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.4 All reasonable practical steps must be taken to prevent the electrical equipment and / or conductors being made live inadvertently during the course of the work, including locking-off any switchgear, removal of any fuses, links or similar approved methods, and unless a key safe is available (see section 6.4\u2013 Safety Key Boxes), person working on the equipment shall retain the key(s) and such links, fuses, etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.5 Alternatively, a multi-lock off scenario can be used to control the isolation when more than one person is working on the installation. A warning / caution sign shall be fixed at each point of the isolation with the name of the person in charge of the work clearly visible. Work on a final circuit can be safely carried out with isolation at the controlling distribution board fuse-way."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.6 When working on equipment, the means of isolation can be an adjacent local isolation device such as a plug and socket \u2013outlet, fused connection unit, switch- disconnector, circuit breaker, fuse, etc., as appropriate, which is under the direct control of the Competent Person carrying out the work."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.7 Where there is no such local means of isolation or where there is a risk of reinstatement of the supply voltage, the circuit or equipment to be worked on shall be securely isolated by isolation using a main switch or distribution board switch- disconnector, which shall be locked in the isolated position and the key kept under the direct control of the competent person carrying out the work. A list of devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "that can be used for isolation is identified in (Appendix 1) and reflects table 53.2 of BS 7671:2008."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.8 However, work on the busbars of a sub-main switchboard would require isolation of all circuits connected to the board and not just the incomer or known voltage supply, i.e. possible generator back up."
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.9 If electrical equipment and / or conductors cannot be isolated and proved dead at the point of work, the procedure described in section 5.3\u2018Working On or Near Live Equipment) shall apply."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Working on or near live equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1 All efforts shall be made to keep working on or near live low Voltage Systems shall be kept to a minimum and restricted to special cases, like the examples listed below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Specific forms of testing, fault finding or adjustments"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The removal and replacement of fuse carriers in final circuits"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The removal and replacement of plug-in components"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Basic battery maintenance (cleaning, topping up, checking voltage, etc.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "Work on battery systems if less than 25V and / or  Ah (ampere / hour)"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.0,
+                "text": "5.3.2 Only suitable authorised Competent Persons (LV) will be allowed to work on or near any low voltage live systems, using only approved test equipment compliant with Health and Safety Executive Guidance Note GS38 \u2018Electrical Test Equipment for use by Electricians', and any hand tools must have grips adequately insulated against the circuit voltage to be worked on. All efforts shall be made to ensure full compliance with Regulation  of the Electricity at Work Regulations 1989."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.3 Dead working should always be considered as the first and safer option. When there is no alternative, this activity will require written authorisation by the Authorised Engineer (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.4 Other modes of live workings other than those specified at the beginning of section 5.3 should not normally be considered except where all possible alternatives have been considered and eliminated."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.5 Authorised Persons (LV) should consult the Authorising Engineer (AE) before undertaking any work (except for work on a battery) which will require them to issue a certificate of authorisation for live working. Permission should be obtained if a decision is taken to go ahead."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.6 When this condition applies and live working is deemed essential, it will require specific written authorisation in the form of a certificate of authorisation for live working issued by an approved person (LV) to a Competent Person (LV) in accordance with the procedures detailed."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.7 In all circumstances when work is to be carried out on live low voltage electrical equipment and / or conductors, the following conditions shall be observed:"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Suitable precautions may be taken by the use of screening, insulated tools and other appropriate means to avoid danger from advertent contact with the live circuit conductors or earthed network;"
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Authorised Person (LV) carrying out the work shall be satisfied by examination that the precautions taken are adequate;"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adequate means shall be provided to prevent unauthorised access to the area of work, particularly if working on electrical equipment in public areas, i.e. corridors;"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A second person shall be present where, in the opinion of the Authorised Person (LV), that person could contribute to ensuring that injury is prevented"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The second person should have adequate knowledge and experience, be trained to recognised and avoid danger and, if necessary, render assistance in the event of an emergency / incident."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Working on main distribution cables"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.1 Before the conductors of a cable associated with electrical distribution are cut or exposed, the point of isolation for the cable and the point of work on the cable are to be identified with certainty."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.2 Identification of a mains voltage or street lighting cable other than at a labelled termination point may be regarded as clear and certain if the cable can be physically seen through its entire length, or if it can be clearly seen between the point of isolation and the point of work."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.3 In the absence of clear / certain identification, the cable is to be spiked at the point of work. Before spiking, it may be necessary to carry out signal injection using the cable cores. Further tests can be repeated after spiking and results compared."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "UPS systems"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1 Working on any UPS system is considered live working and must be carried out in accordance with section 5.3"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.2 Where possible, any work or test undertaken on these systems should be carried out with the equipment completely isolated from all sources but this type of equipment is supplied with an internal bypass designed to allow automatic changeover to the mains supply in the event of a UPS failure. In some instances this bypass is arranged to provide a no-break changeover to mains supply for maintenance, which will not allow complete isolation. Power points should be coloured RED."
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.3 Clear guidance is to be obtained from the manufactures of the equipment to facilitate the operational procedures to be applied before planned and / or reactive maintenance can be carried."
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Switching methods"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.6.1 Planned switching"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Planned switching on any complex circuit or switching in preparation for the issue of permit to work (isolation), shall be supported by a task specific written safety programme, detailing all associated activities."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The switching programme shall be written by an Authorised Person (LV) in advance of the proposed action date and approved by another Authorised Person (LV), to confirm that the programme is reasonably practical and safe."
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "During the implementation of the switching schedule, ensure that all relevant documentation is addressed, completed and recorded, i.e. record time of each switching action, issued permit ref number, etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once work is carried out, tested and approved, cancel safety document by destroying original copy of permit, and complete switching programme to restore mains voltage supply."
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Safety documentation used during these activities will be in accordance with the templates in HTM 06-02; Electrical Safety Guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.6.2 Fault switching"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is the switching on the LV network to disconnect / isolate a faulty part of the network and restore mains voltage supply to the remaining healthy section of the system that is affected by the fault."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If more than one person is switching, only one Authorised Person (LV) shall be in overall control of the switching exercise. This person will act as the Control Engineer and will direct and sanction all fault switching activities."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.6.3 Emergency switching"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is switching that is needed to remove an immediate threat to life, i.e. disconnect supplies to an LV board and isolate mains voltage to deal with an incident or where accidental contact is made with live bus bars. In these instances, emergency switching may be undertaken without the need to complete any of the conditions detailed in paragraphs 5.1.2. Persons who undertake emergency switching shall do so in a manner that does not expose themselves or others to risk of injury"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "Test equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1 The procedure for proving dead should be by use of a proprietary test lamp or two- pole voltage detector as recommended in the HSE Guidance Note GS38, Electrical test equipment for use by electricians."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.2 The use of multimeters, makeshift devices and non-contact voltage indicators (voltage sticks) is not acceptable."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.3 Test lamps and voltage detectors should be proved to be working on a known live source before and after use. All live, neutral and protective conductors of the circuit shall be tested and proved to be dead."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.4 The duty Authorised Person (LV) shall ensure that only the appropriate test equipment is used."
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.5 Test equipment shall be inspected by the user for any visible defects on each occasion before and after use."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.6 All test equipment shall be inspected on annual basis by the Authorised Person (LV) for defects and prompt remedial action addressed where necessary. This equipment shall also be maintained and where appropriate recalibrated in accordance with the manufacturer's recommendations. All actions shall be recorded in the relevant logbook."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Protective equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 Appropriate protective equipment shall be provided by the Trust and it shall be readily available at all times to those who need it and have been trained in its use."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2 Protective equipment shall be inspected by the user for any visible defects before and after use and any suspect items shall not be used and shall be reported to the Authorised Person (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.3 Unless more frequent intervals are specified by the manufacturer of the equipment, all test equipment shall be inspected on annual basis by the Authorised Person (LV) for condition and wear and shall take remedial action where necessary. These inspections shall be recorded in the relevant logbook."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.4 The location of protective and testing equipment is to be identified in the respective logbooks and these shall be kept by the duty Authorised Person (LV) in an easily accessible place."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Safety documentation"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "5.9.1 Permit to work"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "An electrical permit-to-work must be used for all work on LV systems that have been made dead, and can be useful in certain situations for LV work such as;"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "On a complex circuit"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "On a main or sub-main LV distribution board"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "On cable external to a building"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "On stand-by-generators"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Whenever an Authorised Person (LV) deems necessary to have a safe system of work"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.2 An electrical permit-to-work is primarily a statement that a circuit or item of equipment is isolated and has been made safe to work on. They must not be used for any form of live working as this will require a live permit to work. (see appendix 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.3 The various types of permit-to-work that will be issued when working on or near a low voltage installation will be based on the Health Technical Memorandum (HTM) 06-02: Electrical Safety Guidance and are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Permit-to-work"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Limitation-of- access"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Isolation and earthing diagram"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Certificate of authorisation for live working"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Safety programme"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sanction-for-test"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Permission for disconnection / interruption of electrical services"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Logbook"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.4 An electrical permit-to-work shall be issued by an Authorised Person (LV) to a Competent Person (LV) and should be completed in capital letters printed to aid clarity)."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.5 The Authorised Person (LV) shall ensure that the Competent Person (LV) receiving the permit fully understands all details and safety precautions required to undertake the work safely by:"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.6 An electrical permit-to-work shall only be issued after:"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.7 A contractor may be issued with an electrical permit-to-work, providing the Authorised Person (LV) is satisfied with the capability and competence of the individual / contractor's employee."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.8 The Authorised Person (LV) shall be given confirmation that checks have been made to determine the satisfactory technical and safety competence of the company and be issued with written confirmation, or evidence of:"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Limitation of access"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This is a safety document, which is a form of declaration, signed and issued by an Authorised Person (LV) to a person in charge of non electrical work to be carried out in an area or location which is under the control of an Authorised Person (LV) and for which a permit-to-work is not required."
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.11,
+                "text": "Certificate of authorisation for live working"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A safety document which is a form of declaration, issued and signed by an Authorised Person (LV) to a Competent Person (LV) in charge of the work to be carried out live."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It makes known to that person exactly what equipment should be worked on, with details of the work to be undertaken live, what safety equipment is to be used and details the safety precautions to be taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.12,
+                "text": "First aid"
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "First-Aid Boxes and First-Aid Kits shall be provided and maintained in accordance with the Health and Safety (First Aid) Regulations 1981 and the Approved Code of Practice and Guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It will be the responsibility of the Authorised Person (LV) to ensure that First-Aid Boxes and First-Aid Kits are present and fit for purpose."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All Authorised Persons (LV) shall be given training in emergency First-Aid and will include the following items:-"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Resuscitation for the treatment of electrical shock"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment of burns"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Control bleeding"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment of the unconscious casualty"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contents of First-Aid boxes and kits"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This training shall be repeated every three (3) years."
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.13,
+                "text": "Fire precautions"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All personnel employed by the Trust on the maintenance, installation and operations of low voltage installations / systems shall be trained in basic fire precautions, and this will include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The characteristics of and the correct use of different types of hand held fire extinguishers"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The importance of avoiding the storage of combustible materials in electrical switch rooms"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The action to be taken in the event of an electrical fire"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The need to keep means of escape properly identified and clear at all times"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This training shall be repeated every three (3) years."
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Fire safety inspections of these areas shall be carried out on a basis, i.e. emergency lighting \u2013 monthly functional test, and recorded accordingly"
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Lock off and isolation"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Lock-off and isolation devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All isolation and lock-off devices will be safely stored when not in use. Under no circumstance may they be removed from this area unless they are to be put in use, this will ensure a robust isolation and lock-off system is maintained."
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.1.1 It will be the responsibility of the Estates and Facilities Supervisor to ensure all devices on the Lock-Off Station are present and can be accounted for and are replaced when lost or damaged beyond repair."
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Permits"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.1 Each time an isolation and lock off is carried out a dynamic risk assessment will be completed, to identify the duration of the works and type of lock-out required. In cases over 3 hour duration a dedicated permit will be put into place. This will ensure that both the Competent Person carrying out the isolation and lock off and more importantly the contractor or person requiring the isolation can be assured that the energy sources have been removed and it is safe to proceed with carrying out the relevant works. For short term works, under three hours in duration a Competent person can lock off a device (see 6.3 for Self Isolations)."
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.2 The permit is to be completed correctly with all the relevant information regarding the work to be carried out, including the exact location and the nature of the work."
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.3 All the copies of the permit should be signed by the relevant Competent Persons, and if necessary the Contractors representatives and that contractors and staff understand the implications of the conditions listed on the permit."
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.4 The correct copy of the permit is to be displayed prominently at the work. The precise time limits for which the permit is valid are to be indicated and observed at all times."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.5 If issued for a contractor, that the company name is to be included and the contractor's supervisor is to be identified."
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.6 On commencement of the lockout please note:"
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pulling a fuse is not a substitute for a lock-out device"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check the lock-out has worked by normal means of starting or using the device"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.2.7 When the work has been completed the Competent Person will inspect the site to ensure that:"
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The works have ceased."
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All tools and equipment have been removed"
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The work area has been left in a satisfactory and safe condition."
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Equipment has been left operationally intact"
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "6.2.8 When the Competent Person is satisfied that these conditions have been met the permit is then closed. The competent person will then remove the danger tag and lock of device and allow the source of energy to resume. See flow chart of actions in Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "Competent persons self-isolations and lock offs"
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There may be the requirement for Competent Persons to carryout isolations and lock offs for the works they are carrying out themselves e.g. isolation and locking off a control panel to allow them to work on a piece of equipment. It would be impracticable each time this is required for a permit to work to be put in place unless the works fall under the need to isolate medical gases or low voltage electrical sources."
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.3.1  Self-isolations and lock offs can be used by the Competent Person, by signing out the lock off devices if required and using padlocks and danger tags which will be uniquely identifiable to each of the Competent Persons. Risk assessments will be produced for these tasks to ensure all risk are maintained as low as is reasonably practicable. Health and safety advisors can be used to assist with carrying out risk assessments as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.4,
+                "text": "Safety key boxes"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A suitable key safe shall be used to control access to any keys used to \u2018locking-off' the electrical equipment and / or conductors that are to be worked on."
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The safety key box shall contain the keys to all safety locks associated with only one permit-to-work. If more than one permit-to-work is to be issued a different box must be used for each permit and each box must be clearly labelled and numbered against the relevant permit-to-work."
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.4.1  After the safety lock has been applied and before the appropriate permit-to-work is issued, the key(s) to all safety locks shall be placed in the safety key box and both locks of the box secured. All keys shall be locked in the safety lock box and only one key shall be kept by the Authorised Person (LV) and one key by the Competent Person (LV)."
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "6.4.1  The Competent Person (LV) shall retain his key until he returns the permit-to-work and this document is cancelled by the Authorised Person (LV). When not in use, the keys to the safety key box(s) are to be kept in an approved key cabinet."
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.5,
+                "text": "Monitoring works"
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is the responsibility of the NHS Staff member requiring the isolation and lock off to monitor those that are carrying out the works. This is to ensure that they are following the correct safe systems of works/method statements. As detailed in Control of Contractors Policy/Procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.6,
+                "text": "Danger tags"
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Danger tags will be attached to the lock off device by the Competent Person. This tag will indicate the name of the Competent Person, expected completion date of the works and any appropriate remarks e.g. waiting parts, etc. these tags will be fitted in addition to the lock for the lock off device, as a failsafe and as a way for others to see who has applied the lock-off device. Appendix 4 shows an example of a danger tag."
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.7,
+                "text": "Removal of danger tags/lock off devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Anybody other than the Competent Person or the Estates and Facilities Supervisor who removes the danger tag and/or the lock-off device will be open to disciplinary action being taken. In the case of contractors, their contract will be terminated."
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "PAT testing"
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Existing electrical equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Most faults or damage can be found by visual inspection."
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prior to using electrical equipment, users shall inspect the equipment, cable and plug for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "type": "image",
+            "sequence_num": 241,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "New equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Newly purchased electrical equipment may be used on receipt prior to receiving any in-house electrical appliance test providing it is \u201cCE\u201d marked and has been supplied from a reputable supplier in its original packing with full user instructions, a moulded plug and lead is fitted and a visual inspection has been carried out to determine there are no obvious faults."
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.2.1  The Estates and Facilities Directorate via Facilities Help Desk must be advised of all new electrical equipment details to ensure that the asset register and the equipment is programmed to be tested during the next scheduled visit."
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.3,
+                "text": "Staffs personal equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff shall NOT bring in or use personal items of electrical equipment on Mid and South Essex NHS Foundation Trust and satellite premises under the Trust's responsibility."
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.4,
+                "text": "Multi plug adaptors / multi point bar extension leads"
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Multi plug adaptors: This type of adaptor is particularly hazardous as the weight of the plugs & leads attached to it can put strain on the Multi Plug at the socket, causing it to be displaced creating a poor connection which can cause overheating and fires. The use of Multi plug adaptors is strongly discouraged throughout all Trust sites."
+            },
+            "type": "ListItem",
+            "sequence_num": 248
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.4.1  Multi point bar extension leads: Safe if used correctly, never plug a second extension or a 3 way multi block adaptor into the socket bar end. This would increase the resistance and the possibility of overheating"
+            },
+            "type": "ListItem",
+            "sequence_num": 249
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.5,
+                "text": "Extension leads"
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In general terms, extension leads should only be used to supply equipment on a temporary basis. For permanent use, BS 7671 requires that a sufficient number of conveniently placed socket- outlets be provided."
+            },
+            "type": "ListItem",
+            "sequence_num": 251
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.1 However, when extension leads are to be considered, their quantity should be kept to a minimum and based upon a risk assessment by the departmental manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.2 Any extension leads so identified should be of an industrial type and manufacture (not domestic). The Trust Procurement Department will offer guidance on appropriate types to be purchased."
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.3 Where extension leads are fitted with a standard 3 pin socket outlet, they should be tested as a Class 1 appliance."
+            },
+            "type": "ListItem",
+            "sequence_num": 254
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.4 The length of extension leads should be checked to ensure that the appliance is not affected by a significant volt drop, but the length should not exceed the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 255
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.5.5 Cable size maximum length"
+            },
+            "type": "ListItem",
+            "sequence_num": 256
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.0,
+                "text": "1.25 mm  metres"
+            },
+            "type": "ListItem",
+            "sequence_num": 257
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 25.0,
+                "text": "1.5 mm  metres 2.5mm  metres (should be fitted with a BS4343 industrial plug)"
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 30.0,
+                "text": "7.5.6 Extension leads exceeding the above lengths should be fitted with a  mA r.c.d manufactured to BS 7071."
+            },
+            "type": "ListItem",
+            "sequence_num": 259
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.6,
+                "text": "Microwave ovens"
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Microwave ovens in good order are unlikely to have excessive microwave leakage. They should however be subject to either a Class 1 or Class 2 equipment test at an appropriate frequency plus a door leakage test following any repair."
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "7.6.1 A functional test is also required to ascertain that opening the door results in a reliable interruption of the power supply."
+            },
+            "type": "ListItem",
+            "sequence_num": 262
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.7,
+                "text": "Movement of equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Stationary equipment which is relocated should be re-tested to ensure correct new safe functionality at new site."
+            },
+            "type": "ListItem",
+            "sequence_num": 264
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Generator testing"
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "When work is to be carried out on generating plant and directly connected equipment, the following additional precautions shall be taken;"
+            },
+            "type": "ListItem",
+            "sequence_num": 266
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) the generator must be at rest and isolated from all sources of supply"
+            },
+            "type": "ListItem",
+            "sequence_num": 267
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) the field circuit must be isolated and locked off where it is energised from a different supply"
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "c) where motor-driven exciters are provided, the switch controlling the motor must be isolated and locked off"
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "d) the prime mover providing the motive power to the generator, and any associated valves controlling the flow of fuel or steam, should be isolated and locked off"
+            },
+            "type": "ListItem",
+            "sequence_num": 270
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "e) the starting equipment of internal combustion engine prime mover should be made inoperative by removing both battery connections."
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "f) plant can only operate without protective enclosure (mechanical or electrical) for testing purposes and with suitable temporary precautions in place in possible."
+            },
+            "type": "ListItem",
+            "sequence_num": 272
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Generator tests"
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There are three different ways to test the generators, which have a different impact on the site (see appendix 6 for Southend Site):"
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "8.2.1 Test run on load bank"
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This runs the generator, but uses a simulated load (load bank). The load bank can be adjusted to increase the load that the generator is put under. This tests the generators running capability and reliability, but does not test the transfer switch gear, which connects the generator supply to the sites electrical system. During this test the generator is unavailable to the site, but can be transferred over by the transfer switch gear in a few minutes. This has no impact on the operation of the site but only provides limited testing of the generator system."
+            },
+            "type": "ListItem",
+            "sequence_num": 276
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "8.2.2 Test run on Load"
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This method of testing runs the generators on the hospital load, as indicated in the introduction. This test run would require that the hospital has a more restricted service as at this time 100% generator back up would not be achieved."
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This testing would be performed at a time where there is typically low load requirement from the site and there is minimal risk to clinical services e.g. Sunday morning."
+            },
+            "type": "ListItem",
+            "sequence_num": 279
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "8.2.3 Black out test"
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This test is not only to test the generators ability/reliability, but also the staff's response to the loss of power and helps the hospital prepare/test business continuity plans. This simulates an unplanned outside failure of incoming power."
+            },
+            "type": "ListItem",
+            "sequence_num": 281
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Record keeping"
+            },
+            "type": "ListItem",
+            "sequence_num": 282
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "A wide range of documentation will be used for a number of different reasons (control measures, historic data, investigation, performance analysis, etc) and these will be kept long after they were originally used and by establishing retention periods in advance it is less likely that these documents will be inadvertently destroyed while they might still be needed for operational or historical purposes. Therefore, a records retention system will be implement, which has the following advantages:"
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Eliminates accumulation of valueless / duplicate records."
+            },
+            "type": "ListItem",
+            "sequence_num": 284
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Improves ability to handle important information."
+            },
+            "type": "ListItem",
+            "sequence_num": 285
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Saves space, staff, and equipment."
+            },
+            "type": "ListItem",
+            "sequence_num": 286
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures compliance with the standards and regulations."
+            },
+            "type": "ListItem",
+            "sequence_num": 287
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Aids the audit process"
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "A comprehensive set of records associated with all aspects of working on or near a low voltage electrical installation (those operating at up to 1000V a.c. or 1500V d.c.), or working on electrical equipment shall be maintained and as a minimum the following documents shall be kept for at least five (5) years, or longer if legal"
+            },
+            "type": "ListItem",
+            "sequence_num": 289
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "requirement."
+            },
+            "type": "ListItem",
+            "sequence_num": 290
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) Training records of all personnel involved with low voltage electrical installation work."
+            },
+            "type": "ListItem",
+            "sequence_num": 291
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) The name and appointment date of all Authorised Persons (APs)"
+            },
+            "type": "ListItem",
+            "sequence_num": 292
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "c) The name and appointment date of all Competent Persons."
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "d) Details of all Access to Switchroom (Electrical Mains and Sub-Mains Systems) areas"
+            },
+            "type": "ListItem",
+            "sequence_num": 294
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "e) Records of all Working On or Near Live Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "f) Details of Working on Mains Distribution Cables"
+            },
+            "type": "ListItem",
+            "sequence_num": 296
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "g) Records of all Work on Standby Generating Plant"
+            },
+            "type": "ListItem",
+            "sequence_num": 297
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "h) Details of all UPS Systems"
+            },
+            "type": "ListItem",
+            "sequence_num": 298
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "i) Calibration certification for all Testing Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 299
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "j) Records of all Protective Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 300
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "k) Details of all Safety Documentation issues for all such purposes"
+            },
+            "type": "ListItem",
+            "sequence_num": 301
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "l) Records of all First Aid training"
+            },
+            "type": "ListItem",
+            "sequence_num": 302
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "m) Actions and equipment used to address Fire Safety"
+            },
+            "type": "ListItem",
+            "sequence_num": 303
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "n) Safety and operational integrity records of electrical distribution systems, i.e. five-year fixed wiring testing and inspection"
+            },
+            "type": "ListItem",
+            "sequence_num": 304
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "o) Portable Appliance Testing (PAT) records including:"
+            },
+            "type": "ListItem",
+            "sequence_num": 305
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A register of all equipment;"
+            },
+            "type": "ListItem",
+            "sequence_num": 306
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A record of formal inspection and tests;"
+            },
+            "type": "ListItem",
+            "sequence_num": 307
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A repair register;"
+            },
+            "type": "ListItem",
+            "sequence_num": 308
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A register of all faulty/condemned equipment;"
+            },
+            "type": "ListItem",
+            "sequence_num": 309
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "p) Updated record drawing of the electrical (LV) distribution system"
+            },
+            "type": "ListItem",
+            "sequence_num": 310
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "q) Accurate records of final sub-circuits / fuse board distribution schedules"
+            },
+            "type": "ListItem",
+            "sequence_num": 311
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "r) Risk assessment and method statements of actions and control measures."
+            },
+            "type": "ListItem",
+            "sequence_num": 312
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "s) Remedial work required, carried out, and the date of completion."
+            },
+            "type": "ListItem",
+            "sequence_num": 313
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "t) A log detailing visits and actions by contractors, consultants and other personnel."
+            },
+            "type": "ListItem",
+            "sequence_num": 314
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 315
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "All Authorised Persons (LV) shall be given training in emergency First-Aid and will include the following items:-"
+            },
+            "type": "ListItem",
+            "sequence_num": 316
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Resuscitation for the treatment of electrical shock"
+            },
+            "type": "ListItem",
+            "sequence_num": 317
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment of burns"
+            },
+            "type": "ListItem",
+            "sequence_num": 318
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Control bleeding"
+            },
+            "type": "ListItem",
+            "sequence_num": 319
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Treatment of the unconscious casualty"
+            },
+            "type": "ListItem",
+            "sequence_num": 320
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contents of First-Aid boxes and kits"
+            },
+            "type": "ListItem",
+            "sequence_num": 321
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This training shall be repeated every three (3) years."
+            },
+            "type": "ListItem",
+            "sequence_num": 322
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 323
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 324
+        },
+        {
+            "type": "table",
+            "sequence_num": 325,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "An annual report on the effectiveness of the Trust's compliance with HTM 06- 03 (HV) and HTM 06-02 (LV)"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Authorising Engineer"
+                    },
+                    {
+                        "text": "Annual"
+                    },
+                    {
+                        "text": "Health and Safety Management Group"
+                    },
+                    {
+                        "text": "Health and Safety Management Group"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 326
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.1,
+                "text": "All policies, procedures and guidelines will be approved by the Health and Safety Management Group which is the specialist group with the authority to approve local Policy and procedure guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 327
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "It is the author's responsibility to inform the Health and Safety Management Group of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 328
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 329
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 330
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 7)"
+            },
+            "type": "ListItem",
+            "sequence_num": 331
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 332
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Safety at Work etc Act 1974"
+            },
+            "type": "ListItem",
+            "sequence_num": 333
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Safety (Safety Sign and Signals) Regulations 1996"
+            },
+            "type": "ListItem",
+            "sequence_num": 334
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health and Safety (First Aid) Regulations 1981, Approved Code of Practice and Guidance L74"
+            },
+            "type": "ListItem",
+            "sequence_num": 335
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 1995 Electricity Supply Regulations 1988 (and Amendments)"
+            },
+            "type": "ListItem",
+            "sequence_num": 336
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electricity at Work Regulations 1989"
+            },
+            "type": "ListItem",
+            "sequence_num": 337
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Memorandum of Guidance on the Electricity at Work Regulations 1989 Approved Code of Practice for Management of Health and Safety at Work Regulations 1992"
+            },
+            "type": "ListItem",
+            "sequence_num": 338
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BS 7671:2018 Requirements for Electrical Installations, IET Wiring Regulations 18th Edition HSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 339
+        },
+        {
+            "type": "image",
+            "sequence_num": 340,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.005.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Avoiding danger from underground services. Health and Safety series booklet HS(G)47, HSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 341
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electricity at Work \u2013 Safe Working Practices. Health and Safety series booklet HS(G)85, HSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 342
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health Technical Memorandum (HTM) 06-02: Electrical Safety Handbook. DOH Health Technical Memorandum (HTM) 06-03Electrical safety guidance for high voltage systems"
+            },
+            "type": "ListItem",
+            "sequence_num": 343
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health Technical Memorandum (HTM) 06-01 Electrical services supply and distribution \u2013 part B: Operational management"
+            },
+            "type": "ListItem",
+            "sequence_num": 344
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Health Technical Memorandum 06-01: Electrical Services supply and distribution Part A: Design Considerations"
+            },
+            "type": "ListItem",
+            "sequence_num": 345
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Identification of devices suitable for isolation"
+            },
+            "type": "ListItem",
+            "sequence_num": 346
+        },
+        {
+            "type": "image",
+            "sequence_num": 347,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.006.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Flow chart of isolation and lock off by competent person"
+            },
+            "type": "ListItem",
+            "sequence_num": 348
+        },
+        {
+            "type": "image",
+            "sequence_num": 349,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.007.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Electrical Permits to work"
+            },
+            "type": "ListItem",
+            "sequence_num": 350
+        },
+        {
+            "type": "image",
+            "sequence_num": 351,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.008.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 352,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.009.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 353,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.010.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 354,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.011.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Danger tags"
+            },
+            "type": "ListItem",
+            "sequence_num": 355
+        },
+        {
+            "type": "image",
+            "sequence_num": 356,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.012.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5: Suggested PAT testing intervals for checking electrical equipment INDG236"
+            },
+            "type": "ListItem",
+            "sequence_num": 357
+        },
+        {
+            "type": "image",
+            "sequence_num": 358,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6: Generator test process at Southend Hospital"
+            },
+            "type": "ListItem",
+            "sequence_num": 359
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Test run on load bank"
+            },
+            "type": "ListItem",
+            "sequence_num": 360
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Generators 1& 2 are located in/near the Trusts main energy centre the configuration of the associated switch gear for load bank testing is shown"
+            },
+            "type": "ListItem",
+            "sequence_num": 361
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Circuit diagrams as shown below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 362
+        },
+        {
+            "type": "image",
+            "sequence_num": 363,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.014.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 364,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.015.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Generator 3, located adjacent to the multi storey car park, does not have the capability to be tested with a load bank on site. The circuit diagram below show Generator 3 in the normal running mode when there is no power for the incoming mains;"
+            },
+            "type": "ListItem",
+            "sequence_num": 365
+        },
+        {
+            "type": "image",
+            "sequence_num": 366,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.016.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Test Run on Load"
+            },
+            "type": "ListItem",
+            "sequence_num": 367
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Generators 1 & 2, the service must be informed of any on load test prior to it commencing and only to proceed with agreement from the trust as these generators have a \u2018break before make' switching system. This will cause an interruption to power even while on test."
+            },
+            "type": "ListItem",
+            "sequence_num": 368
+        },
+        {
+            "type": "image",
+            "sequence_num": 369,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.017.jpeg"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 370,
+            "data": {
+                "url": "MSESOP-21008 Electrical safety procedure 1.0.018.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Generator 3 has the type of switch gear (G59) which enables it to test on load without power interruption to the service"
+            },
+            "type": "ListItem",
+            "sequence_num": 371
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electrical safety procedure / MSESOP-21008/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 372
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 39.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 373
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electrical safety procedure / MSESOP-21008/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 374
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 7: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 375
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Electrical safety procedure / MSESOP-21008 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 376
+        },
+        {
+            "type": "table",
+            "sequence_num": 377,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 378,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Site based policies into 1 MSE version"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To align all documents under the MSE structure"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "All staff"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "no"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "EFM board members/ Health and Safety Management Group. Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 379,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Hayley Beare"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "BSI Lead"
+                    },
+                    {
+                        "text": "18 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 38.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 380
+        }
+    ]
+}

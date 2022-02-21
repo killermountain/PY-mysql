@@ -1,0 +1,1065 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21005"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "6.1"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "14/06/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "14/06/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group Chair approval: A.Kabir"
+                    },
+                    {
+                        "text": "07/07/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "Email approval 08/07/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Anna Man, Clinical Lead Pharmacist, BTUH"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Remdesivir Initiation, Supply and required Monitoring"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "General information"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Remdesivir is a licensed drug, indicated for the treatment of coronavirus disease 2019 (COVID-19) in adults and adolescents (aged 12 years and older with body weight at least 40 kg) with pneumonia requiring supplemental oxygen (low- or high-flow oxygen or other non-invasive ventilation at start of treatment)"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This document outlines roles and responsibility for individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Therapeutic indication for Remdesivir in line with Interim Clinical Commissioning Policy: Remdesivir for patients hospitalised with COVID-19 (adults and children 12 years and older)"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.2,
+                "text": "Pregnancy"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remdesivir should be avoided in pregnancy unless clinicians believe the benefits of treatment outweigh the risks to the individual (please see SmPC for further information)."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.3,
+                "text": "Eligibility criteria 2,3,4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient characteristics are:"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospitalised with coronavirus disease 2019 (COVID-19) \u2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "With pneumonia requiring low-flow\u2020\u2020 supplemental oxygen."
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adults, and adolescents \u2265 12 years of age and \u2265 40 kg"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "eGFR \u2265 30ml/min"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Alanine Aminotransferase (ALT) below 5 times the upper limit of normal at baseline"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u2020 In the absence of a confirmed virological diagnosis, remdesivir should only be used when a multidisciplinary team have a high level of confidence that the clinical and radiological features suggest that COVID-19 is the most likely diagnosis."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u2020\u2020Low-flow oxygen supplementation: oxygen delivered by a simple face mask or nasal cannula at a flow rate usually up to 15 litres/min."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Exemptions"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients with end-stage renal disease on haemodialysis are exempt from the eGFR treatment threshold above."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For \u2018Immunocompromised patients, see below."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following criteria have been developed based on expert consensus and should be followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Initiation of treatment"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The decision to initiate treatment with remdesivir should be made by the admitting care consultant."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remdesivir should not be initiated in patients who present to hospital more than 10 days after symptom onset."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.4,
+                "text": "Risk assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical judgement around treatment with remdesivir can be informed by a risk score. Those with a low 4C Mortality Score (0 to 3) are highly likely to recover without treatment with remdesivir."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remdesivir should not be initiated in patients who present to hospital and are unlikely to survive (determined by clinical judgment). The 4C Mortality Score might be helpful in this assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.5,
+                "text": "Duration"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All patients must receive a maximum of 5 days of remdesivir in total (comprising a loading dose plus 4 further days of maintenance doses)."
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients re-admitted with COVID-19 (and meeting the eligibility criteria above, with the exception of the requirement on the timing from symptom onset) are permitted a second course of up to 5 days upon readmission."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Significantly immunocompromised patients are eligible for an extended course of remdesivir (up to 10 days), if agreed following multidisciplinary team assessment."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.6,
+                "text": "Reassessment and review"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The use of remdesivir should be reassessed daily. Consider stopping remdesivir if:"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient clinically improves and no longer requires supplemental oxygen 72 hours after commencement of treatment; or"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient continues to deteriorate despite 48 hours of sustained mechanical ventilation."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.7,
+                "text": "Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "The recommended dosage is a single loading dose of remdesivir 200mg intravenously on day 1, followed by a once daily maintenance dose of remdesivir 100 mg for the remainder of the treatment course, which should not exceed five days (see exemption in immunocompromised patients below)."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.8,
+                "text": "Immunocompromised patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For significantly immunocompromised patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(patients with a significant impairment of humoral immune response (antibody production) and/or cellular immune competence:"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A course of remdesivir can be extended to a maximum of 10 days"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The criterion on time between symptom onset and treatment initiation does not apply"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The criterion on the need for supplemental oxygen requirement does not apply"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.9,
+                "text": "Stopping criteria"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Remdesivir should be discontinued in patients who develop any of the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ALT \u2265 5 times the upper limit of normal during treatment with remdesivir (remdesivir may be restarted when ALT is < 5 times the upper limit of normal)"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ALT elevation accompanied by signs or symptoms of liver inflammation or increasing conjugated bilirubin, alkaline phosphatase, or international normalised ratio (INR)"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "eGFR <30 mL/min (except in patients with end-stage renal disease on haemodialysis)."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Responsibility for the prescriber"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.1,
+                "text": "Initiation process by the prescriber:"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Blueteq form is part of the requirement in line with the interim clinical commissioning policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pharmacy will complete the blueteq form on receipt of a completed Appendix 1 form from the prescriber. This step needs to be completed prior to pharmacy supplying the drug."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient will only qualify to receive the drug if the answer to all the questions is YES. If the answer to any question is no, the patient is not eligible to receive remdesivir under the interim policy and pharmacy will be unable to provide the drug."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hand completed Appendix 1 forms to your ward pharmacist or email:"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For BTUH patients btu-tr.PharmacyHomeCare@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Mid-Essex patients mse.homecaremeht@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Southend patients Clinical.pharmacy@southend.nhs.uk"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Prescribe remdesivir on patients drug chart as per dosage regimen."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.2,
+                "text": "Clinical Outcome reporting by prescriber"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hospitals managing COVID-19 patients are encouraged to submit data through the ISARIC 4C Clinical Characterisation Protocol (CCP) case report forms (CRFs), as coordinated by the COVID-19 Clinical Information Network (CO-CIN) (https://isaric4c.net/protocols/)."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.3,
+                "text": "Adverse events and safety reporting requirements by prescriber"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any suspected adverse drug reactions (ADRs) for patients receiving remdesivir should be reported directly to the MHRA via the new dedicated COVID-19 Yellow Card reporting site at: https://coronavirus-yellowcard.mhra.gov.uk/."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.4,
+                "text": "Monitoring requirement"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Renal and liver function should be monitored carefully during treatment with remdesivir as clinically appropriate"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Responsibility for nursing staff"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.1,
+                "text": "Administration of remdesivir1,5"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remdesivir is to be administered via intravenous infusion in a total volume of 250 mL 0.9% sodium chloride over 30 to 120 minutes. Refer to medusa https://injmed.wales.nhs.uk/ for full details on reconstitution, dilution and administration."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In fluid restricted patients then speak with your ward pharmacist for further advice."
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Note. There are two different formulations of remdesivir (powder for reconstitution and concentrated solution). Select the correct monograph for the formulation used."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Joint responsibility for the nursing and pharmacy"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Nursing and pharmacist responsibility for unused vials"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nursing staff are responsible to ensure that the product is stored correctly while in use and for unused vials"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Nursing staff to inform ward pharmacist of any unused vials"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ward pharmacist to return unused vials to the pharmacy maintaining the appropriate temperature chain, return and update the allocated Controlled Drug (CD) register in pharmacy, ensuring that you enter the Batch Number (BN) (this process is only applicable to the pharmacy department for the tracking purposes \u2013 remdesivir is not a CD)."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Responsibility for the pharmacy department"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Available products:"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remdesivir 100 mg concentrate for solution for infusion (each vial contains 100 mg of remdesivir, each mL of concentrate contains 5 mg of remdesivir)"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Remdesivir 100 mg powder for concentrate for solution for infusion (each vial contains 100 mg of remdesivir, after reconstitution, each vial contains 5 mg/mL of remdesivir solution)"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Note. Remdesivir is now only available in the Powder form, although there may still be the Solution in pharmacy stock."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Procurement team:"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When the product is received the procurement team is responsible to check there is an expiry date present on the product label, if not present then to add expiry date which is supplied by GILEAD to each vial if applicable. Once the EAMS stock used up, the resupply may already have the expiry date."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "High cost drug pharmacist and team"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To complete the blueteq form in line with the email information supplied by the prescriber and inform dispensary when funding available"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update the local tracking spreadsheet for all patients who have had blueteq form and funding approval"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Pharmacists ordering the drug from dispensary"
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinical screening"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Funding screening"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ordering appropriate number of vials (consider weekend supplies and hand over process)"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Endorse the order requisition and prescription with \u201cFunding available\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Deliver all Blueteq paperwork (i.e. appendix 1) to the High Cost Drug Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Endorse on the drug chart (at BTUH use the Noticeboard section) the date that the patient received the drug. This information should be transferred to any new drug charts upon rewriting."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Dispensing process"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the requisition/prescription is endorsed with \u201cfunding available\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dispense as per prescription"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the product has an assigned expiry date if not one already given"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Checking process"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check in line with normal checking procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check that the requisition/prescription is endorsed with \u201cfunding available\u201d"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: - Remdesivir"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Table to be completed by prescriber and returned to the following email address:"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For Basildon patients:    btu-tr.PharmacyHomeCare@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For Mid-Essex patients:  mse.homecaremeht@nhs.net  For Southend patients:   mse.pharmacists.soh@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Please ensure all sections are fully complete to avoid delay in patient receiving their treatment. Patient related information and eligibility criteria:"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "type": "table",
+            "sequence_num": 106,
+            "data": {
+                "num_rows": 14,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "First name"
+                    },
+                    {
+                        "text": "Surname"
+                    },
+                    {
+                        "text": "Hospital no"
+                    },
+                    {
+                        "text": "DoB"
+                    },
+                    {
+                        "text": "NHS no"
+                    },
+                    {
+                        "text": "Treatment start date"
+                    },
+                    {
+                        "text": "GP practice address and practice code"
+                    },
+                    {
+                        "text": "Consultant name"
+                    },
+                    {
+                        "text": "I confirm that the patient is an adult, or 12 years old or above and at least 40kg and is hospitalised with SARS-CoV-2 infection* with pneumonia requiring supplemental oxygen** * In the absence of a confirmed virological diagnosis, remdesivir should only be used when a multidisciplinary team have a high level of confidence that the clinical and radiological features suggest that COVID-19 is the most likely diagnosis. **The requirement for supplemental oxygen does not apply to immunocompromised patients"
+                    },
+                    {
+                        "text": "Yes No"
+                    },
+                    {
+                        "text": "I confirm all the following apply: The patient's eGFR is \u226530ml/min or the patient is receiving haemodialysis The patient's ALT is below 5 times the upper limit of normal The patient is not receiving invasive ventilation or extracorporeal membrane oxygenation (ECMO) at the start of treatment*** **In line with the updated SmPC found here: https://www.ema.europa.eu/en/documents/product-information/veklury-epar-product- information_en.pdf"
+                    },
+                    {
+                        "text": "Yes No"
+                    },
+                    {
+                        "text": "I confirm that the following criteria apply: The patient has presented to hospital 10 days or less since symptom onset or the patient is immunocompromised**** The decision to initiate treatment has been made by the admitting care consultant"
+                    },
+                    {
+                        "text": "Yes No"
+                    },
+                    {
+                        "text": "I confirm that the patient will receive a maximum treatment course of 5 days or a maximum of 10 days if the patient is immunocompromised****"
+                    },
+                    {
+                        "text": "Yes No"
+                    },
+                    {
+                        "text": "I confirm that the patient will receive remdesivir according to the interim clinical commissioning policy***** **** For further detail refer to the interim clinical commissioning policy ***** As part of the policy sites are encouraged to submit data through the ISARIC 4C Clinical Characterisation Protocol (CCP) case report forms (CRFs), as coordinated by the COVID-19 Clinical Information Network (CO-CIN)."
+                    },
+                    {
+                        "text": "Yes No"
+                    },
+                    {
+                        "text": "Prescriber Name and Signature"
+                    },
+                    {
+                        "text": "Date:"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix: 2 Blueteq form version number."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Remdesivir submissions to be made using form REM03_ver4.0 - Interim Clinical Commissioning Policy - Remdesivir for patients hospitalised with COVID-19 (adults and children aged 12 years and over) [reference RPS 2008]"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "References:"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust Remdesivir Initiation, Supply and required Monitoring/ MSEGL-21005 /6.1"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        }
+    ]
+}

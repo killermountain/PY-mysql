@@ -1,0 +1,1090 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSESOP-21023"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "23/12/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "22/12/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medical Gas Group Chairs Action E. Allen"
+                    },
+                    {
+                        "text": "23/12/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group \u2013 chairs email approval"
+                    },
+                    {
+                        "text": "23/12/2021"
+                    },
+                    {
+                        "text": "Author:"
+                    },
+                    {
+                        "text": "Simon Worrall \u2013 Deputy Chief Pharmacist Chris Howlett \u2013 Senior Director of Estates & Facilities"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Oxygen (O ) Emergency Procedure"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In the event of oxygen supply being unable to meet the demand the following will happen."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A sudden drop in pressure will set off local oxygen alarms, if this is a site wide issue then the sounder at the nurses station will alarm."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Actions to take to avoid the compromise of the oxygen (O) system.  Clinical: Medical and Nursing responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Site Director of Operations to make a decision if hospital site to close to all admissions."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "type": "image",
+            "sequence_num": 8,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Site Medical or Site Nursing Director to decide with immediate effect target saturations to"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "type": "image",
+            "sequence_num": 10,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.002.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "drop to 85% for all patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Clinicians and senior nursing staff to walk all wards and review every patient on oxygen (if"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "type": "image",
+            "sequence_num": 13,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "out of hours consultants to be called in)."
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen to be provided to the sickest patients only.  ITU patients to be transferred out."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "type": "image",
+            "sequence_num": 16,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Estates responsibilities"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Under these circumstances the standby manifold will be automatically be brought into use"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "type": "image",
+            "sequence_num": 19,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.006.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and should be continuously monitored to ensure the oxygen supply to the hospital site is maintained."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact BOC emergency number 0800 222 888 or 0800111333 as a secondary back up"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "type": "image",
+            "sequence_num": 22,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "number."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that the state of emergency situation is stressed as critical and request that a BOC"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "type": "image",
+            "sequence_num": 25,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.008.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "service engineer is sent to the hospital urgently."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Continue to replenish the standby manifold cylinders to ensure continuation of the oxygen"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "image",
+            "sequence_num": 28,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "supply."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Arrange with site pharmacy the urgent delivery of additional cylinders."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "type": "image",
+            "sequence_num": 31,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.010.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Contact East of England Ambulance service for urgent oxygen on support number 01245"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "type": "image",
+            "sequence_num": 33,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Supply W cylinders to the wards according to the site ward priority list, see Appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "type": "image",
+            "sequence_num": 35,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.012.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Oxygen supply monitoring process"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "There are trigger points in place for the level of demand on the O supply as very high"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "type": "image",
+            "sequence_num": 38,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "demand over a sustained period has the potential to cause catastrophic damage to the system."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "There is remote telemetry available on the O demand which shows demand minute-by-"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "type": "image",
+            "sequence_num": 41,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.014.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "minute."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "3.2.1  The remote telemetry is accessed via:"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 1: Remote telemetry access"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "type": "table",
+            "sequence_num": 45,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Website:"
+                    },
+                    {
+                        "text": "https://app.outpostcentral.com/english/login2.aspx"
+                    },
+                    {
+                        "text": "Site specific details"
+                    },
+                    {
+                        "text": "Username:"
+                    },
+                    {
+                        "text": "Southend Hospital"
+                    },
+                    {
+                        "text": "Basildon Hospital"
+                    },
+                    {
+                        "text": "Broomfield Hospital"
+                    },
+                    {
+                        "text": "Password:"
+                    },
+                    {
+                        "text": "12345"
+                    },
+                    {
+                        "text": "12345"
+                    },
+                    {
+                        "text": "12345"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Estates will de-ice the evaporator and take a reading of the demand on the system. This"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "type": "image",
+            "sequence_num": 47,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.015.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "reading will be reported by estates to the clinical site team and nursing controller if applicable."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The triggers and actions below are based on the estates advice on trigger points for overall"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "type": "image",
+            "sequence_num": 50,
+            "data": {
+                "url": "MSESOP-21023 Oxygen emergency SOP.016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "demand. The demand figure is based on either a single reading direct from the O store by estates, or on a 30 minute average demand figure from the remote telemetry."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "***Procedure continues on next page***"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Table 2: Alert and Response"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "type": "table",
+            "sequence_num": 54,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Demand (litres / minute)"
+                    },
+                    {
+                        "text": "Alert Level And Response"
+                    },
+                    {
+                        "text": "Less than 1,900"
+                    },
+                    {
+                        "text": "Level 0 \u2013 no escalation Demand is less than 75% of planned capacity. No action required"
+                    },
+                    {
+                        "text": "1,900 to 2,250"
+                    },
+                    {
+                        "text": "Level 1 \u2013 Green escalation Demand is between 75% and 90% of planned capacity. Action \u2013 Inform Clinical Site team / Hospital Out of hours (HOO) for"
+                    },
+                    {
+                        "text": "forward planning and liaison with emergency planning officer"
+                    },
+                    {
+                        "text": "2,250 to 2,400"
+                    },
+                    {
+                        "text": "Level 2 \u2013 Amber escalation Demand is between 90% and 100% of planned capacity. Action \u2013 HOO team to undertake a virtual O2 round to:"
+                    },
+                    {
+                        "text": "identify from nerve centre or equivalent patients on O2 and contact wards to review SATS and wean patients above target range 88- 92% identify patients on less than 5 litres of O2 and ensure all are on - concentrators Virtual O2 rounds to be repeated 2 hourly if O2 remains in amber status continually. Action \u2013 Clinical site team to put in place O2 monitoring via remote"
+                    },
+                    {
+                        "text": "telemetry every 30 minutes. Inform Site Director of Operations & SLT in hours / SMOC and Exec on call out of hours. Consider declaration of internal critical incident"
+                    },
+                    {
+                        "text": "Over 2,400"
+                    },
+                    {
+                        "text": "Level 3 \u2013 Red escalation Demand is over 100% of planned capacity. If based on single reading from estates: Action \u2013 Clinical site team to immediately review remote telemetry and"
+                    },
+                    {
+                        "text": "establish escalation level based upon 30 minute average demand. If based on 30 minute average via remote telemetry: Action \u2013 Clinical site team to inform Site Director of Operations & SLT in"
+                    },
+                    {
+                        "text": "hours / SMOC and Exec on call out of hours Consider declaration of Critical / major incident dependent on the extent and impact Instigate business continuity by the reduction of oxygen use by adjusting oxygen demand by patients, and the use of oxygen concentrators Any incident can be either stepped up or down following review of situation and what effects the lack of supply is having on patient care and if this is causing a risk to life"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Note \u2013 the monitoring system in place on the main O tank will also alert estates management if demand exceeds the green, amber, red trigger points above."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Ward Priority List"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "type": "table",
+            "sequence_num": 57,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "PRIORITY"
+                    },
+                    {
+                        "text": "SOUTHEND WARDS"
+                    },
+                    {
+                        "text": "BROOMFIELD WARDS"
+                    },
+                    {
+                        "text": "BASILDON WARDS"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "ITU/HDU/Post Op Rochford Westcliff ED NICU Theatres/Maternity"
+                    },
+                    {
+                        "text": "ITU/HDU/Post Op ITU/HDU Burns ITU Terling Felsted ED NNU Theatres/Maternity Theatres/Recovery"
+                    },
+                    {
+                        "text": "ITU Fredrick Banting Burstead Theatres"
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "AMU/SAU/Cherry Tree Stambridge Cardiac Care Unit / Gordon Hopkins Blenheim Chalkwell Balmoral Eleanor Hobbs Paglesham Shopland Southbourne"
+                    },
+                    {
+                        "text": "AMU 1,2/SAU Tollesbury Tiptree Baddow Bardfield Braxted Phoenix Stroke SEW Lister Writtle Rayne Notley Billericay"
+                    },
+                    {
+                        "text": "Pasteur Lister Elizabeth Fry Linford Roding"
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Benfleet Castlepoint Princess Anne Estuary Windsor"
+                    },
+                    {
+                        "text": "Frailty Heybridge Stock Mayflower John Ray Gosfield"
+                    },
+                    {
+                        "text": "Stroke Wards Frailty Wards"
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Elizabeth Loury Maternity Day Stay Unit"
+                    },
+                    {
+                        "text": "Maternity Day Stay Unit"
+                    },
+                    {
+                        "text": "Maternity Opd Day Unit Renal ward"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: Clinical Site Team Oxygen Monitoring Record Sheet Date: ___________"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "type": "table",
+            "sequence_num": 59,
+            "data": {
+                "num_rows": 25,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "Time"
+                    },
+                    {
+                        "text": "Estates count"
+                    },
+                    {
+                        "text": "Telemetry count & time (level 2/3 amber/red only)"
+                    },
+                    {
+                        "text": "Escalation level"
+                    },
+                    {
+                        "text": "Action taken"
+                    },
+                    {
+                        "text": "0000"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0100"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0200"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0300"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0400"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0500"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0600"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0700"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0800"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "0900"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1000"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1100"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1200"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1300"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1400"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1500"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1600"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1700"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1800"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "1900"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2000"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2100"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2200"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2300"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oxygen (O2) Emergency Procedure/ MSESOP-21023/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        }
+    ]
+}

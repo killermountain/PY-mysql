@@ -1,0 +1,2277 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-2007 Measuring neonatal bilirubin using the Bilimeter 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "PROCEDURE FOR MEASURING NEONATAL BILIRUBIN USING THE BILIMETER 3"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-2007"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Ward staff trained to use the Bilimeter 3"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "07 October 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "06 October 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "Harmonisation of two existing documents to a single document."
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Pathology"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Hope Grey, POCT Team Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2612 Basildon Hospital \u2610 Broomfield Hospital \u2612 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "SUH POCT Committee (Chair) BTUH POCT Committee (Chair)"
+                    },
+                    {
+                        "text": "14 September 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Sarah Mapplebeck, Clinical Biochemist (SUH POCT Committee Chair) Michaela Dowley, Principal Biochemist (BTUH POCT Committee Chair)"
+                    },
+                    {
+                        "text": "14 September 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "06 October 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "October 20"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-2007 Measuring neonatal bilirubin using the Bilimeter 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Sarah Mapplebeck"
+                    },
+                    {
+                        "text": "Consultant Biochemist"
+                    },
+                    {
+                        "text": "14 September 2020"
+                    },
+                    {
+                        "text": "Michaela Dowley"
+                    },
+                    {
+                        "text": "Principal Biochemist"
+                    },
+                    {
+                        "text": "14 September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Needle stick, sharps and splash injuries policy. Decontamination and sterilisation policy. Health and Safety policy. Policy for management of incidents. POCT policy and procedure."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Revie wer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "Newly created. Supersedes the following documentation at Basildon Hospital: CP/PC/00059 Paediatric Bilirubin Measurement using the Bilimeter 3 \u2013 Standard Operating Procedure and Southend Hospital CG275 Procedure for Measuring Neonatal Bilirubin using the Bilimeter 3"
+                    },
+                    {
+                        "text": "07 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Instructions for use ....................................................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Training Requirements ............................................................................................... 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit .................................................................................................. 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Approval and Implementation ..................................................................................... 15"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Equality Impact Assessment ....................................................................................... 15  References ................................................................................................................. 15 Appendix 1: Preliminary Equality Analysis ......................................................................... 16"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.1,
+                "text": "Clinical Relevance/Purpose of the Test"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "The Bilimeter  may be used for production of rapid quantitative total bilirubin results for use in the assessment and monitoring of neonatal jaundice."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Neonatal jaundice associated with an elevated serum bilirubin level is a common physiological condition occurring shortly after birth due to immaturity of hepatic systems, and usually resolves without treatment. However, a high concentration of bilirubin can cause brain damage (kernicterus) and requires investigation of the underlying cause. A dangerously high level of bilirubin is treated by phototherapy or exchange transfusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.2,
+                "text": "Principle of the Test"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "The Bilimeter  is a bilirubinometer designed for in-vitro spectrophotometric measurement of total bilirubin in neonates. The device measures the absorbance of bilirubin at 455nm through plasma in a capillary tube. The sample is blanked at 575nm to correct for interference from haemoglobin, which is the only interfering pigment in un-weaned neonates."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "Point of Care Testing (POCT) is an established part of clinical practice, offering in many instances, rapid and convenient provision of test results that can be of benefit to the patient. It is however, a significant risk management issue for the Trust. Results obtained by non-specialist staff carry as much weight in patient management as results from sophisticated equipment in the care of professional laboratory staff. Incorrect results have the same health and legal implications, whatever their origin."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "The purpose of this document is to ensure reliable performance and management of the risks associated with testing outside the main laboratory. This procedure describes correct use of POCT equipment in order to minimise risk to both patient and user, and ensure consistent procedures are in place throughout the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "Individuals who have not been trained and competency assessed in the use of the Bilimeter 3 are not authorised to use this device. This document has not been written as a substitute for practical training and competency assessment offered by designated Trust staff and the Point of Care Testing Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Point of Care Testing (POCT)"
+                    },
+                    {
+                        "text": "The performance of analytical tests on patient specimens outside the laboratory by non-laboratory staff."
+                    },
+                    {
+                        "text": "User"
+                    },
+                    {
+                        "text": "Any individual using a POCT device."
+                    },
+                    {
+                        "text": "Internal Quality Control (IQC)"
+                    },
+                    {
+                        "text": "Internal quality control (QC) is a means of determining that the POCT equipment is technically performing correctly at that specific time and that the patient result is reliable before it is released and acted on."
+                    },
+                    {
+                        "text": "External Quality Assurance (EQA)"
+                    },
+                    {
+                        "text": "External quality assessment (EQA) is a means of determining how a particular POCT device is performing in comparison to similar devices elsewhere."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role & Responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Committees/Teams"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Point of Care Testing Committee"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The POCT committee is responsible for overseeing and co-ordinating all aspects of the POCT service within their Trust. Clinical Governance for POCT services is provided through the POCT policy. This policy is reviewed and updated every 2 years as a collaborative effort between committees at both SUH and BTUH Trusts."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "POCT Operational Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This team comprises of relevant personnel from Pathology First. Teams should be adequately resourced to enable them to implement and monitor compliance with the POCT policy and procedure. They are responsible for ensuring any recommendations imposed on the service by the committee are carried out."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Role & Responsibilities of Individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Chief Executive/Medical Director/Director of Nursing"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As the accountable officer, has overall responsibility for ensuring SUH and BTUH have robust, complete and up to date procedures in place to govern and guide activities so that legal, and national requirements are met."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for the implementation of this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Pathology Clinical Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Holds the ultimate responsibility for Point of Care Testing as guardian of Clinical Governance."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Advises and arbitrates if necessary if agreement about the introduction of a POCT service cannot be reached."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures guidelines are in place for interpretation of results and further patient management."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.23,
+                "text": "Clinical Lead for POCT"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has clinical oversight for Point of Care Testing, liaising between the Trust and Pathology First on matters including current testing protocols and implementation of new equipment/ tests."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Holds the role of Chairperson of the Point of Care Testing Committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reviews POCT EQA and reports upon it."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.4 Heads of Nursing and Midwifery and Matrons"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heads of nursing and midwifery and matrons have a responsibility to ensure correct procedures are followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.5 Ward or Departmental Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To take on managerial ownership of any POCT equipment within their area and to ensure that it is maintained and used correctly."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They will ensure the competency of all users of POCT in their area. They will keep records of initial training, competency statements and update training."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If appropriate they will appoint a link person to oversee the day-to-day operation of POCT equipment within their area. The use of a Link Person does not absolve the ward/department manager of full responsibility for POCT"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where there has been an incident involving POCT devices, including inadequate performance or documentation of patient or Quality Assurance results, Ward or Departmental managers will investigate the incident and be responsible for reporting this to POCT. All such incidents should be brought to the attention of the POCT manager and the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any request for new, upgraded or replacement POCT processes must be submitted to the POCT committee for approval. This includes free, trial and loan"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "devices."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.6 Point of Care Testing Link Person"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A Link Person may be designated within a ward/department for the purpose of ensuring the day to day operation of POCT systems, ensuring equipment is functioning and necessary consumables are available. They may provide cascade training, having been trained to a high level of competence, ensuring staff undertaking POCT are suitable to do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.7 Pharmacy"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pharmacy is responsible for standardising, ordering and supplying the majority of POCT consumables as directed by the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.8 POCT Operations Manager & Team Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The POCT service managers monitor the POCT service within each Trust. They ensure that POCT policies and procedures are adhered to and that adequate resources and support from Pathology First are available to facilitate a safe and reliable service."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.9 Clinicians"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To identify areas of clinical need where the introduction of POCT could be appropriate and provide the information necessary for the cost-benefit analysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To approach POCT in the spirit of the policy and not to attempt to introduce new testing without referring to the POCT policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To undertake POCT themselves only after adequate training and certification."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To be familiar with the information provided by and shortcomings of the POCT results that they use for their patient management."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that results of POCT are recorded accurately, unequivocally and safely and that information about tests upon which they base patient management decisions can be retrieved in retrospect."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The responsibility for patient results obtained using POCT and therapeutic decisions based on those results lies with the requesting clinician for the ward/department."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "4.2.10 All Users"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The individual conducting the analysis is accountable for the results they generate using POCT devices. They must ensure their POCT training is up to date and that their competence is maintained. It is the responsibility of the user:"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To follow procedures as set out in the documented Standard Operating Procedure, including sample taking and handling, instrument checks and/or Quality Control, recording of results and disposal of consumables."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To undertake and record External Quality Control analysis as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report suspect Quality Control results or possible instrument malfunction immediately to the Link person or person in charge at the time and to stop using the equipment until the matter has been resolved."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report abnormal or suspect patient results to the responsible person immediately"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report adverse incidents related to POCT devices to the Link nurse where used and to the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Instructions for use"
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Health & Safety/COSHH"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.1 Users must make use of personal protective equipment (PPE) when handling patient samples according to Trust policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.2 Waste must be disposed of according to Trust policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.3 The device should be cleaned with Clinell universal sanitising wipes. A decontamination certificate may be issued before servicing and repair as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.4 Bloodstained putty sealant blocks must be discarded as clinical waste."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.1.5 In order to safely use the Haematocrit Centrifuge:"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The rotor must be firmly in place;"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No persons or dangerous materials should be within 30cm of the centrifuge whilst it is running;"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The centrifuge must not be knocked or moved whilst running;"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In case of fault or emergency release, never touch the rotor before it has stopped turning;"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The centrifuge must be balanced (within the bounds of acceptability)."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "Special Precautions"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 To ensure that the Bilimeter 3 functions properly place the device as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Horizontally on a flat vibration free surface;"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In a well ventilated area, not in direct sunshine or where there is much dust;"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At a room temperature of between 15 and 30 degrees centigrade;"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In an area where the humidity is under 70%;"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Away from strong magnetic fields;"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protected from corrosive, flammable or volatile gases/vapours;"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 To ensure the Haematocrit Centrifuge functions properly it must be placed on a stable surface."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Equipment & Special Supplies"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1  This procedure requires:"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pfaff Bilimeter 3 (supplied in the UK by Sartorius);"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Haematocrit Centrifuge (supplied by Hettich);"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pfaff Bilimeter capillary tubes (available from the POCT team (SUH)/ ordered by ward (BTUH));"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Sealing putty (available from the POCT team (SUH)/ ordered by ward (BTUH));"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record of Neonatal Bilirubin Patient Results book (available from the POCT team, Pathology)."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Reagents"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.4.1  No reagents are required."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Calibration"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.5.1  The Bilimeter is calibrated at manufacture and this is checked yearly as part of the engineer's maintenance."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.6,
+                "text": "Internal Quality Control (IQC)"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.1 To ensure that the meter is working correctly and producing accurate results the Bilimeter should be checked at least once per day using the technical internal quality control (IQC) Pr\u00fcfsonde. The Pr\u00fcfsonde IQC should also be processed if the Bilimeter is moved or switched off."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.2 Please note that the Pr\u00fcfsonde must always be:"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Removed from the Bilimeter after use to prevent overheating;"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Stored at room temperature and kept dry (never store in the refrigerator);"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Kept free from dust (clean with a small soft brush but do not touch the glass insert);"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Protected from light."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.3 The Pr\u00fcfsonde IQC produces results on the meter that must fall within a pre-defined range determined by the manufacturer of the meter. The Pr\u00fcfsonde IQC results must be reported in the ward's IQC log, together with the operator's initials."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.4 The meter must only be used on patient samples if the IQC checks are within acceptable limits. If the IQC result does not fall within the target range, re-zero the Bilimeter, and repeat the IQC procedure. If it is still outside the range the POCT team should be contacted and the device must not be used for patient samples until authorised by the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.6.5 Performing Internal Quality Control (IQC)"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "type": "table",
+            "sequence_num": 118,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Zero Adjustment of Bilimeter"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Ensure the Bilimeter 3 is switched off"
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Pull out the cell holder from the instrument and confirm the following: a) A capillary tube is not present in the cell holder b) The cell holder is dust free and clean"
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Place the clean cell holder into the instrument without a capillary tube present. Switch on the Bilimeter 3. Countdown will start from '30 to 0'. When the display shows \u20180.0\u00b5mol/L' preparation is complete. If the instrument is ZERO'd while a capillary tube is inserted in the cell holder, zero adjustment will not be completed and patient results will not be accurate."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 119,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Checking the Pr\u00fcfsonde"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Remove the Pr\u00fcfsonde (Coloured Quality Control Filter) from the box where it is stored."
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Insert the Pr\u00fcfsonde into the meter, coloured spot on the top."
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "The result should be shown on the display."
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Before proceeding any further, ensure that the result falls within the stated range. If the result falls outside the range contact the Point of Care Team."
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "Record result in the folder provided with operator name, date & time of the test."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.7,
+                "text": "External Quality Assurance (EQA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.1 The POCT team obtain External Quality Assurance (EQA) samples on a monthly basis. These samples are analysed by the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.7.2 Samples are processed in the same way as patient samples (see section 5.6) omitting the centrifugation step."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.8,
+                "text": "Sample Collection and Handling"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.1 A whole blood sample is usually obtained from a clean dry heel into a Pfaff Bilimeter capillary tube and sealed with putty. The area of skin to be lanced should be warm and relaxed. It should be cleaned with water and dried to avoid interference from contaminants on the skin or dilution from water used for washing. Alternatively, blood can be taken from indwelling venous or arterial lines."
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.2 If a phototherapy unit is in use, this should be switched off while obtaining the sample."
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.3 A very small amount of serum is required for bilirubin analysis and the capillary tube should only be \u00bd to \u00be filled with blood."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.4 Blood samples containing bilirubin are extremely sensitive to light and heat, therefore once a sample has been taken it should be spun down and measured as quickly as possible to prevent erroneous results"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.5 Using the Hettich Haematokrit 210 Centrifuge"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "type": "table",
+            "sequence_num": 129,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Centrifugation of Sample"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Ensure gloves are worn at all times."
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Obtain a capillary tube of the patients' blood."
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Seal one end of the tube with the putty provided. It should be sealed by placing the capillary at a 90\u00b0 angle to the putty block and twisting the capillary. The block should be replaced as required. If the capillary tube is placed at a 45\u00b0 angle and putty is scooped into the tube, this will not seal properly under centrifugation and the sample will be spun out."
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Open the centrifuge by unlocking on the front panel, which will release the lid."
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "Remove rotor cover by depressing centre button and lifting cover"
+                    },
+                    {
+                        "text": "6"
+                    },
+                    {
+                        "text": "Place the capillary into a slot with the putty facing outwards. Always ensure that the rotor is balanced (e.g. If only one specimen is to be centrifuged, another capillary filled with water should be placed opposite so that the rotor is balanced as it spins)."
+                    },
+                    {
+                        "text": "7"
+                    },
+                    {
+                        "text": "Replace the rota cover ensuring that a click is heard"
+                    },
+                    {
+                        "text": "8"
+                    },
+                    {
+                        "text": "Shut the centrifuge lid and lock"
+                    },
+                    {
+                        "text": "9"
+                    },
+                    {
+                        "text": "The centrifuge should be set to 130 (1300 rpm) and the time set for 7 minutes."
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Press Start"
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "At the end of the cycle the lid can be unlocked, the rota lid removed and the sample taken out for analysis."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Note: As long as the Bilimeter 3 has been properly controlled and the results of the QC are recorded in the correct place, you can proceed and carry out a patient test."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.8.6 Performing patient sample analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "type": "table",
+            "sequence_num": 132,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Processing the Sample on the Bilimeter 3"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Centrifuge sample as described above"
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Ensure the bilirubinometer is switched on and ready for use."
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Zero the machine as described above if it has been in standby for a long time."
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Ensure the daily Internal Quality Control sample has been performed and that the result is within the stated range."
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "Place the capillary in the sample holder with the separated serum/plasma across the slit. The slit must be completely covered by the serum fluid column."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 133,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "6"
+                    },
+                    {
+                        "text": "Put the sample holder with the patient's sample into the instrument. The measurement will start automatically."
+                    },
+                    {
+                        "text": "7"
+                    },
+                    {
+                        "text": "The value of the total bilirubin is indicated in digital numbers."
+                    },
+                    {
+                        "text": "8"
+                    },
+                    {
+                        "text": "Record result in the folder provided with operator name, date & time of the test.These results must be kept in accordance with national guidelines (See reference 6)."
+                    },
+                    {
+                        "text": "9"
+                    },
+                    {
+                        "text": "All measured samples should be disposed of in the sharps bin."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "These instructions are summarised in a quick user guide in Appendix  The quick user guide may be displayed on the wards where required, however only laminated copies distributed by the POCT team are valid."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.9,
+                "text": "Recording and Interpretation of Results"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.1 Recording Results"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All results must be recorded in the patient's medical record, and include:"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Date & time of the test"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Bilirubin result"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "o  Designated, for example, as \u2018Bilirubin (POCT)' to avoid confusion with results from the lab"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Name of person who carried out the test"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Results may also be recorded on the appropriate NICE Treatment Threshold Graph."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Additionally, patient results may be recorded in the Record of Neonatal Bilirubin Patient Results book provided by POCT."
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.2 Reference Range"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Results should be interpreted in view of all available clinical information."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the test result is questionable or if clinical signs and symptoms appear inconsistent with the test result, re-test with a fresh sample or confirm the result by sending a sample to the laboratory."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.9.3 Alert/Critical Values"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The NICE Treatment Threshold Graphs are used to define phototherapy and exchange transfusion treatment thresholds at the appropriate week's gestation."
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Results should be escalated to senior staff as appropriate according to local protocols."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Limitations"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.1 Test only suitable for use in un-weaned neonates."
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.2 Umbilical cord blood is not suitable for analysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.3 Care should be taken if babies are on TPN containing lipids. Highly lipaemic samples (plasma appears cloudy) are not suitable for analysis. Ideally samples should be taken 4 hours after the TPN has been stopped."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.4 Blood samples containing bilirubin are extremely sensitive to light and heat, therefore once a sample has been taken it should be spun down and measured as quickly as possible to prevent erroneous results."
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.5 Only the approved Pfaff Bilimeter capillary tubes should be used for the test, to ensure optical quality."
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.6 Capillary tubes must be clean and undamaged. Either of these factors could affect the optical reading of the sample once placed into the analyser, and cause erroneous results."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.7 The measurement slit must be centred in the plasma to ensure accurate absorbance reading of the plasma portion of the sample (rather than red cells)."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.8 The capillary tube must be removed from the device immediately after measurement. If the capillary tube is left inside the device, the sample is exposed to continued light which breaks down bilirubin and results in a lower reading."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.10.9 The capillary holder measure slit should not be cleaned with any metallic or sharp object that may scratch the black paint from the capillary holder, as this will cause internal light scattering which will give erroneous results."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.11,
+                "text": "Maintenance"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.1 It is the ward's responsibility to keep the centrifuge socially clean, and the users' responsibility to wipe the centrifuge with a Clinell wipe after each use. This includes removing and cleaning the padded shells where necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.11.2 A yearly service and calibration is carried out by a Pfaff/Sartorius engineer."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.12,
+                "text": "Performance Criteria"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.12.1 The measuring range is 0-1690 \u00b5mol/L."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.13,
+                "text": "Basic Troubleshooting & Error Messages"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "type": "table",
+            "sequence_num": 166,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Display"
+                    },
+                    {
+                        "text": "Probable Cause"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "\u2018Lamp is dead'"
+                    },
+                    {
+                        "text": "Capillary holder is inserted upside down"
+                    },
+                    {
+                        "text": "Remove and replace with the black dot facing upwards"
+                    },
+                    {
+                        "text": "\u2018Lamp is dark' Or \u2018F'"
+                    },
+                    {
+                        "text": "Zero adjustment was performed with a patient sample in the capillary holder"
+                    },
+                    {
+                        "text": "Remove capillary from holder and re-zero"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.13.1 If these measures fail to correct the error, or there is any other issues please contact the POCT team for assistance on ext. 6612 (SUH) or 8382 (BTUH) between 9am \u2013 5pm on weekdays."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The test should only be carried out by a trained member of staff. Each staff member accepts responsibility for ensuring the quality of all monitoring carried out by themselves. The staff member must ensure their Bilimeter 3 training is updated and that their competence to perform tests on this instrument is maintained. Practical training and competence assessment is available via the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "All Clinical Unit managers are responsible for monitoring the Bilimeter 3 machine in their area. They must ensure that the standard operating procedure is followed on a day to day basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "The POCT team will perform audit on the use of the Bilimeter 3 machines and report their findings to the appropriate Clinical Unit Manager, Matron and governance leads. A copy will also be sent to the Director of Nursing, Infection control, Risk and Litigation and the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "type": "table",
+            "sequence_num": 173,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group/Committee/forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee/ individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Equipment Accuracy & Precision"
+                    },
+                    {
+                        "text": "IQC"
+                    },
+                    {
+                        "text": "Ward"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "POCT team (Pathology)"
+                    },
+                    {
+                        "text": "Ward Manager"
+                    },
+                    {
+                        "text": "Equipment Accuracy & Precision"
+                    },
+                    {
+                        "text": "EQA"
+                    },
+                    {
+                        "text": "POCT Team"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "POCT Committee"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "Equipment Cleanliness"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "POCT Team"
+                    },
+                    {
+                        "text": "Bi-annually"
+                    },
+                    {
+                        "text": "POCT Committee"
+                    },
+                    {
+                        "text": "Ward Manager/ POCT Team Manager"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All policies, procedures and guidelines will be approved by the Point of Care Testing Committee and Pathology Clinical Governance Committee, which is the specialist group with the authority to approve local documents. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "It is the author's responsibility to inform the service users of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 1)"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pfaff Medical Bilimeter 3 User Manual"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hettich Haematocrit 210 Centrifuge Operating Instructions"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MHRA DB2010(02) Management and Use of In Vitro Diagnostic Point of Care Test Devices"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BS EN ISO 15189 Medical laboratories: Particular requirements for quality and competence"
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BS EN ISO 22870 Point of care testing (POCT): Requirements for quality and competence"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NICE Guideline CG 98 Jaundice in Newborn Babies Under 28 days."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Procedure for Measuring Neonatal Bilirubin Using the Bilimeter  / MSESOP-2007 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procedure for Measuring Neonatal Bilirubin Using the Bilimeter 3 / MSESOP-2007 /1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Procedure for measuring neonatal bilirubin using the Bilimeter 3 / MSESOP-2007: (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "type": "table",
+            "sequence_num": 192,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 193,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Format of SOP changed to new, harmonised MSE format for implementation at Southend and Basildon hospitals"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "SOP requires review."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Ward staff. Single operating procedure across sites ensures common processes in place for those working between sites."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No, procedure already in place. Change in format."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes. See pages 1 and 2."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 194,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "14 September 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If you have identified any negative impact in the preliminary analysis above, please request and complete the full Equality Impact Assessment (EIA) from Document Control."
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        }
+    ]
+}

@@ -1,0 +1,2723 @@
+{
+    "elements": [
+        {
+            "type": "table",
+            "sequence_num": 1,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document title:"
+                    },
+                    {
+                        "text": "POLICY AND PROCEDURES FOR ACCESS AND USE OF PATIENT IDENTIFIABLE DATA FOR SECONDARY USE"
+                    },
+                    {
+                        "text": "Document reference/register no:"
+                    },
+                    {
+                        "text": "MSEPO-21233"
+                    },
+                    {
+                        "text": "Version number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All staff"
+                    },
+                    {
+                        "text": "Ratification issue date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "14 December 2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "13 December 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Pseudonymisation, PID, anonymisation, confidentiality, de- identification"
+                    },
+                    {
+                        "text": "Developed in response to: (National guidance/recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "National guidance"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12, 17"
+                    },
+                    {
+                        "text": "Care group/division:"
+                    },
+                    {
+                        "text": "Corporate"
+                    },
+                    {
+                        "text": "Planning and Performance"
+                    },
+                    {
+                        "text": "Author/contact: (asset administrator)"
+                    },
+                    {
+                        "text": "Ian Harrison"
+                    },
+                    {
+                        "text": "Associate Director of Healthcare Analytics"
+                    },
+                    {
+                        "text": "Hospital sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval group/ committee(s):"
+                    },
+                    {
+                        "text": "Information Governance and Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Professionally approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Martin Callingham"
+                    },
+                    {
+                        "text": "Chief Information Officer and SIRO"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Ratification group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "14 December 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and clinical directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "December 2021"
+                    },
+                    {
+                        "text": "Distribution method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted with: (Must include specialist pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Caroline Holmes"
+                    },
+                    {
+                        "text": "Deputy Director of Clinical Coding, Data Quality and Health Records"
+                    },
+                    {
+                        "text": "16 November 2021"
+                    },
+                    {
+                        "text": "Matt Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance and Data Protection Officer"
+                    },
+                    {
+                        "text": "22 November 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Information Governance and Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust documents (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "Pseudonymisation/De-identification policy (legacy document) or equivalent Safe Haven Policy or equivalent Policy and Procedures for access and use of Patient Identifiable Data for secondary use (including de-identification through pseudonymisation) or equivalent"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document review history:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Ian Harrison"
+                    },
+                    {
+                        "text": "14 December 2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction .................................................................................................................. 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions .................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ..................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Pseudonymisation process .......................................................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Inter-organisational data transfers .............................................................................. 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Breaches of the policy ................................................................................................ 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Training requirements ................................................................................................ 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Monitoring and audit ................................................................................................... 11  Approval and implementation ..................................................................................... 12  Preliminary equality analysis ...................................................................................... 12  References ................................................................................................................. 12 Appendix 1: Information request form ............................................................................... 13 Appendix 2: De-pseudonymisation request form ............................................................... 15 Appendix 3: Local safe haven set up form ........................................................................ 17 Appendix 4: Safe haven user access form ........................................................................ 20 Appendix 5: Process for access/removal of access to safe havens .................................. 21"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appendix 6: Processing PID for secondary use ................................................................ 22 Appendix 7: Preliminary equality analysis ......................................................................... 23"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The Data Protection Act 2018, Human Rights Act 1998 and Common Law \u2013 Duty of Confidentiality, applies to all NHS organisations. These regulations require that:"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The minimum amount of personal data must be used to satisfy any particular purpose:"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Organisations respect people's private lives unless there is a lawful exemption to the Human Rights Act."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The information obtained in confidence should not normally be used in an identifiable form without the permission of the service user concerned."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "It is NHS policy and a legal requirement that when patient information is used for purposes not involving direct care, or information required as part of a referral / treatment process, (i.e. secondary use) the patient should not be identified. This is clearly set out in the NHS Confidentiality Code of Practice, which states the need to \u2018effectively anonymise' patient data prior to secondary usage being made of the data, unless other legal means hold, such as patient consent or section 251 of the NHS Act 2006."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "To comply with the NHS Confidentiality Code of Practice and NHS Digital Pseudonymisation guidelines, staff requiring the use of patient data to fulfil secondary use business processes must where possible use de- identified/ pseudonymised data."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Access to Patient Identifiable Data (PID) must only be for authorised users. These are staff that use patient data for primary use, or staff working within the Trust's \u2018secondary use' New Safe Haven environment. It is legitimate to hold data in identifiable form, but it is essential to ensure that only authorised users are able to have PID disclosed to them, and that for general reporting purposes where PID is not required (i.e. trend analysis) then the data is pseudonymised or appropriately de- identified. This requirement will be met by the Trust's \u2018New Safe Haven' (NSH) system for secondary use."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "The Trust's NSH will provide the means of restricting access to identifiable data to authorised users, specifically for the purposes of receiving and sending identifiable data that is to be used for a secondary use."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The NSH can be defined in terms of:"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The activities to be undertaken to support de-identification."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Posts/people authorised to access identifiable data for the purpose of supporting de-identification."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Posts/people authorised to access identifiable data for the purpose of supplying identifiable data to authorised users."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The facilities necessary to support the activities."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.7,
+                "text": "The intention of the NSH is that it will ensure that:"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The facilities can only be used by a small number of authorised staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Authorisation of those staff is closely controlled."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There is restricted access to the systems used to generate the data used for secondary use."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Trust conforms to NHS good practice concerning the handling of identifiable data (as predicated by ISO 27001 and 27002 and the NHS Digital Good Practice Guidance)."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide a clear process and accountability to ensure the identity of patients is protected when their information is used for secondary purposes."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Provide clarity as to who can access identifiable information and for what purpose."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that staff and managers are clear about their responsibilities and the limits to which they can and cannot access identifiable patient information."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "type": "table",
+            "sequence_num": 42,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Accredited Safe Haven (ASH)"
+                    },
+                    {
+                        "text": "Accredited organisation, or designated part of an organisation, which is contractually and legally bound to process data in ways that prevent the identity of individuals becoming known."
+                    },
+                    {
+                        "text": "Caldicott Guardian"
+                    },
+                    {
+                        "text": "Term derived from the 1997 report on the Review of Patient Identifiable Information, chaired by Dame Fiona Caldicott (the Caldicott Report). This review recommended establishing the role of the Caldicott Guardian to serve as the \u201cconscience\u201d of the organisation in relation to decisions about disclosure and to ensure senior level management of the confidentiality function."
+                    },
+                    {
+                        "text": "Clinical Commissioning Group (CCG)"
+                    },
+                    {
+                        "text": "Group of GP practices responsible for commissioning most health care services for local residents."
+                    },
+                    {
+                        "text": "Commissioning Support Unit (CSU)"
+                    },
+                    {
+                        "text": "Organisation that provides CCGs with external support, specialist skills and knowledge to support them in their role as commissioners, for example by providing:"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 43,
+            "data": {
+                "num_rows": 20,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Business intelligence services Business support services such as HR, payroll, procurement and informatics."
+                    },
+                    {
+                        "text": "Data Flow"
+                    },
+                    {
+                        "text": "A data flow describes the routes by which information can come in and leave the organisation/work area."
+                    },
+                    {
+                        "text": "Data Management Integration Centre (DMIC)"
+                    },
+                    {
+                        "text": "Organisations legally part of the HSCIC, covered by HSCIC's statutory powers to process PID for non-direct care purposes. They will receive and process PID on behalf of CSUs and CCGs for contract monitoring, service development and contract payment purposes."
+                    },
+                    {
+                        "text": "Data Security and Protection Toolkit (DSPT)"
+                    },
+                    {
+                        "text": "The DSPT is an online self-assessment tool that allows organisations to measure their performance against the National Data Guardian's 10 data security standards. All organisations that have access to NHS patient data and systems must use this toolkit to provide assurance that they are practising good data security and that personal information is handled correctly"
+                    },
+                    {
+                        "text": "Data Services for Commissioners (DSC)"
+                    },
+                    {
+                        "text": "Service provided by HSCIC which processes data to support local commissioning whilst protecting patient confidentiality. Made up of the DMICs."
+                    },
+                    {
+                        "text": "De-identification"
+                    },
+                    {
+                        "text": "Removal of information that can identify the patient"
+                    },
+                    {
+                        "text": "Health and Social Care Information Centre (HSCIC)"
+                    },
+                    {
+                        "text": "A national data, information and technology resource for health and social care. Playing a key role in driving better care, services and outcomes for patients. The trusted source of authoritative data and information relating to healthcare."
+                    },
+                    {
+                        "text": "IAA"
+                    },
+                    {
+                        "text": "Information Asset Administrator"
+                    },
+                    {
+                        "text": "IAO"
+                    },
+                    {
+                        "text": "Information Asset Owner"
+                    },
+                    {
+                        "text": "Informatics"
+                    },
+                    {
+                        "text": "Knowledge skills and tools which enable information to be collected, managed, used and shared to support business functions"
+                    },
+                    {
+                        "text": "Information Asset Register (IAR)"
+                    },
+                    {
+                        "text": "The Trust's IAR is a register of information holdings. Information holdings are information or collections of information which are held by the Trust either electronically or in hard copy."
+                    },
+                    {
+                        "text": "New Safe Haven"
+                    },
+                    {
+                        "text": "A term used to describe a location or nominated person where patient identifiable information used for secondary purposes is received, processed and pseudonymised for further use"
+                    },
+                    {
+                        "text": "Payment by Results (PbR)"
+                    },
+                    {
+                        "text": "A transparent, rules based system, which aims to support NHS modernisation by paying Trusts for the work they do and rewarding efficiency and quality."
+                    },
+                    {
+                        "text": "PCD"
+                    },
+                    {
+                        "text": "Personal Confidential Data"
+                    },
+                    {
+                        "text": "PID"
+                    },
+                    {
+                        "text": "Person Identifiable Data"
+                    },
+                    {
+                        "text": "PII"
+                    },
+                    {
+                        "text": "Person Identifiable Information"
+                    },
+                    {
+                        "text": "Primary Use"
+                    },
+                    {
+                        "text": "The use of PII for healthcare purposes which directly contribute to the safe care and treatment of individuals and includes diagnosis, referral and treatment processes, together with the relevant administrative processes."
+                    },
+                    {
+                        "text": "Pseudonymisation"
+                    },
+                    {
+                        "text": "A method which disguises the identity of patients by creating a pseudonym for each patient identifiable data item. This allows patient linking analysis needed within secondary uses."
+                    },
+                    {
+                        "text": "De-identification"
+                    },
+                    {
+                        "text": "De-identification is the process of removing identifiers from patient data to ensure confidentiality/anonymity. This enables NHS organisations to use identifiable data for non-direct care purposes in a secure legal manner"
+                    },
+                    {
+                        "text": "Registration Authority (RA)"
+                    },
+                    {
+                        "text": "Identity management standards and checks carried out by an authorised agency within NHS organisations, to verify an"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 44,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "individual's identity before allowing access to national Spine based systems."
+                    },
+                    {
+                        "text": "Report Register"
+                    },
+                    {
+                        "text": "Record of regular and ad-hoc requests for reports containing identifiable information."
+                    },
+                    {
+                        "text": "Secondary Use"
+                    },
+                    {
+                        "text": "The use of identifiable data for indirect / non-healthcare medical purposes which do not directly contribute to the safe care of individuals (e.g. invoice validation, service redesign, performance monitoring)."
+                    },
+                    {
+                        "text": "SIRO"
+                    },
+                    {
+                        "text": "Senior Information Risk Officer. The SIRO acts as an advocate for information risk on the Trust Board and in internal discussions."
+                    },
+                    {
+                        "text": "Secondary Uses Service (SUS)"
+                    },
+                    {
+                        "text": "System to provide anonymous patient based data for purposes other than direct clinical care, such as healthcare planning, commissioning, public health, clinical audit, governance, benchmarking, performance improvement, research and policy development."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Duties of Committees with the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Governance and Cyber Security Steering Group (IGCSSG) \u2013 is responsible for providing assurance and support on information governance to the Trust, including the use of patient data. They will use regular reports to ensure information is held within or processed by the Trust is handled legally, securely and complies with the requirements of the Data Security and Protection Toolkit (DSPT)"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Duties of individuals within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Chief Executive \u2013 acts as the Trust's accountable officer and has overall responsibility for ensuring the legal and responsible use of PII."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Senior Information Risk Owner (SIRO) \u2013 Director nominated by the Trust Board, has strategic responsibility for information risks including information security. This entails supporting the conformance of legal and national requirements and raising the profile of good information governance."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caldicott Guardian \u2013 Executive Clinical Director nominated by the Trust Board, has responsibility for ensuring the ethical, responsible and lawful use and sharing of identifiable information. This entails authorising appropriate disclosures of PID and approving access and secondary use of PID."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Associate Director of Healthcare Analytics \u2013 has responsibility for ensuring Pseudonymisation / de-identification policies and procedures are developed and implemented in line with national best practice and legislative requirements. Will present Pseudonymisation reports to the Information Governance and Cyber Security Steering Group, in line with the terms of reference; liaise with Trust staff in the development of support, training and guidance; and maintain the Trust register of all authorised internal Safe Havens and collate Information Asset Administrators (IAA's) New Safe Haven compliance declarations."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Healthcare Analytics Team \u2013 as approved members of the Trust's main New Safe Haven for secondary use of identifiable data, are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Pseudonymisation / de-identification of PID for secondary uses."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Converting pseudonymised data back into an identifiable form, if the data is subsequently required for primary use."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Providing support for staff requiring assistance with de-identifying PID before secondary use."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that the access control measures to restrict access to PID are adhered to within the main New Safe Haven."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Human Resources Team \u2013 as approved members of one of the Trust's local Safe Havens are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The de-identification of staff data for purposes other than direct staff management or for data transfer to a secure NHS web based system such as Electronic Staff Record (ESR)."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Liaising with the main New Safe Haven staff to pseudonymise data where full de-identification is not appropriate and to convert data back into an identifiable form, if subsequently required for direct staff management."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that access control measures to restrict access to PID are adhered to within their safe haven."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Establish and maintain a report register ensuring that a record of any authorised transfer of identifiable data is maintained."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Governance Team \u2013 has responsibility for auditing the access and use of PID, investigating confidentiality issues identified through the review of reported incidents, also training and supporting staff on information governance best practice."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Asset Owners (IAO) \u2013 are generally Clinical Directorate Directors (CDD) or Associate Clinical Directorate Directors (ACDD) and are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring data flows within their units are mapped and information assets are included in the Information Asset Register (IAR)."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confirming to the SIRO and Caldicott Guardian as required that the purpose of any transfer of PID is justified and can be undertaken lawfully."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that a record of any authorised transfer of PID is maintained in order for compliance audits to be undertaken."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Making sure breaches or potential breaches of confidentiality are reported through DATIX and in line with Trust incident reporting processes."
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Work with the Trust's governance team to investigate reported confidentiality incidents, disseminate lessons learned as appropriate and ensure changes in practice are implemented."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Asset Administrators (IAA) \u2013 are generally system managers and will be responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring up to date maps of data flows are maintained in their areas of work."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring safe haven principles are adhered to within their working areas."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Making sure that staff with access to their information asset / system have completed their role appropriate Information Governance training."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintaining and regularly reviewing a system access log."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Establishing and maintaining a report register for their information asset / system."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring that risk assessments are in place, and kept under review for their information asset and that security risks identified are controlled."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "All Staff (including those directly employed, temporary, contractors, agency and all whom MSEFT has legal responsibility) \u2013 are responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring they are familiar with, and follow the Trust's policies and procedures relating to information security; in particular, applying safe haven processes when handling PID."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Report to their line manager, any breaches of confidentiality or information security."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Complete their annual mandatory role appropriate Information Governance training."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Pseudonymisation process"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Patient identifiable data must not be used for secondary uses unless other legal means hold, such as patient consent. All PID intended to be used for secondary purposes must be de-identified appropriately if there is no patient consent."
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Patient identifiable data intended to be used for secondary purposes should ideally be sourced from the Trust's New Safe Havens for secondary use. The Healthcare Analytics Team has been designated as the Trust Main New Safe Haven, e-mail:"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "mse.analysis.reporting@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "Transfers of PID intended for secondary uses by other NHS organisations may be carried out in its identifiable form (clear form) only to the recipient organisations Safe Haven. Only the minimum amount of personal data required to satisfy any particular purpose must be supplied."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.4,
+                "text": "All requests and transfers (both internal and external) for Patient Identifiable Data for secondary use must be recorded in the New Safe Haven Reports log."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.5,
+                "text": "Trust staff must not pass on PID intended for secondary uses to each other, instead, data for secondary use must be sourced from the Trust's main New Safe Haven or local New Safe Havens, where requests will be logged and data de-identified appropriately."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.6,
+                "text": "Only authorised staff must have access to PID when using the data for secondary purposes. Non clinical staff that have not been identified and registered as Main/Local New Safe Haven staff for the secondary use of patient data must not be exposed to PID"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.7,
+                "text": "All requests for technical support regarding safe use of patient data must be sent to the Trust's Information Team. All requests for support regarding Information Governance must be sent to Trust's Information Governance Manager."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Inter-organisational data transfers"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Where a data transfer between organisations is for a secondary use the data must be de-identified in line with the MSE Trusts' MSBPO-18003 Overarching Information Sharing Protocol."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "Where a data transfer is between NSHs or the Trust NSH and a service supporting direct care, then it is appropriate to use identifiable data, such as NHS number and date of birth as patient labels if they are available."
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Breaches of the policy"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "All perceived and potential breaches must be reported to the Trust Information Governance Manager or SIRO so that a judgement can be made as to whether the incident constitutes a \u201cSerious Incident\u201d to be investigated under the Serious Incident Requiring Investigation policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Outcomes of all investigations will be reported at the Information Governance"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "& Cyber Security Steering Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Healthcare Analytics staff will be sent a personal copy by e-mail and the policy will be discussed at the first monthly team meeting following approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "New Healthcare Analytics staff will be given a copy at their local induction."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "type": "table",
+            "sequence_num": 102,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "National best practice / legal requirements on use of PID are being met."
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Healthcare Analytics Team"
+                    },
+                    {
+                        "text": "Quarterly"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group."
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group."
+                    },
+                    {
+                        "text": "Access controls to Safe Haven Systems are appropriate"
+                    },
+                    {
+                        "text": "Audit"
+                    },
+                    {
+                        "text": "Associate Director of Healthcare Analytics"
+                    },
+                    {
+                        "text": "Annually"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group."
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "All policies, procedures and guidelines will be approved by the Information Governance and Cyber Security Steering Group, which is the specialist group with the authority to approve local psuedonymisation and de-identification guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.2,
+                "text": "It is the author's responsibility to inform the Information Governance and Cyber Security Steering Group of the approved policy documents when they are uploaded to the Trust Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 7)"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Digital Code of practice on confidential information (HSCIC Dec-14)"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Digital Data Security and Protection https://digital.nhs.uk/data-and-information/looking-after-information/data- security-and-information-governance/data-security-and-protection-toolkit"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Digital Payment by Results Guidance https://digital.nhs.uk/services/secondary-uses-service-sus/payment-by-results- guidance"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Protection Act 2018 https://www.gov.uk/data-protection"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS England Information Governance Policies"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Information request form"
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Healthcare Analytics"
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Britannia House"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Email: mse.analysis.reporting@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Information Request Form and Request for Personally Identifiable Information (PII)"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Part 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "type": "table",
+            "sequence_num": 121,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Requestor:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Clinical Directorate / Directorate:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Ext No:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Department:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of Request:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date Required By: (Normally completed in 5 Working Days)"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "I confirm that I have assessed the risk and confirm that this data transfer is necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Part 2"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "type": "table",
+            "sequence_num": 124,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Details of information required:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Period of data required:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Do you require numbers only or patient level information?:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "What will the report be used for?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "PII Data Fields Required?: (Please indicate which ones are required)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If PII is required please state why each data field is necessary?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Other Data Fields Required:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Whom will this report need to be distributed to and why?:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is the report ad hoc or regular?"
+                    },
+                    {
+                        "text": "Ad Hoc"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 125,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Please tick as appropriate."
+                    },
+                    {
+                        "text": "Regular: Yearly Quarterly Monthly Weekly Other period (specify)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Please understand that the report will be created on the information provided and that  you  are  responsible  for  its  security,  distribution  and  disposal  according  to Information  Security  Policy  (IS30)  and  Pseudonymisation/De-Identification  Policy (IS41)."
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "SAFE HAVEN Use Only"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Request Accepted: Yes    No  For Escalation to Caldicott Reviewed By (Information Staff Name):"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "type": "image",
+            "sequence_num": 129,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If Rejected/For Escalation - please indicate the reason below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caldicott Guardian Use Only Approved: Yes  No"
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "type": "image",
+            "sequence_num": 132,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.004.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date: Reason:"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Signature: Name:"
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Title:"
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "type": "image",
+            "sequence_num": 136,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.007.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: De-pseudonymisation request form"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Healthcare Analytics"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Britannia House"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Email: mse.analysis.reporting@nhs.net"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Request for De-Pseudonymisation"
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Part 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "type": "table",
+            "sequence_num": 143,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Requestor:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Clinical Directorate / Directorate:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Ext No:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Department:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of Request:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date Required By: (Normally completed in 5 Working Days)"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "I confirm that I have assessed the risk and confirm that this identifiable data is necessary."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Part 2"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "type": "table",
+            "sequence_num": 146,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Reference Number of Original Report:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Pseudonyms or Row Numbers of information required:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Details of the need to link back to identifiable data:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Whom will this report need to be distributed to:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reason for distribution to recipients named previously:"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Please understand that the report will be created on the information provided and that you are responsible for its security, distribution and disposal according to Information Security Policy (IS30) and Pseudonymisation/De-Identification Policy (IS41)."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "SAFE HAVEN Use Only"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Request Accepted: Yes   No   For Escalation to Caldicott  Reviewed By (Information Staff Name):"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "type": "image",
+            "sequence_num": 150,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.010.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If Rejected/For Escalation - please indicate the reason below:"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caldicott Guardian Use Only Approved: Yes  No"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "type": "image",
+            "sequence_num": 153,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date:"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Reason:"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Signature: Name: Title:"
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "type": "image",
+            "sequence_num": 157,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Local safe haven set up form"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Guidance Notes"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This form must be used by Information Asset Owners (IAO), Information Security Co-Ordinator and Data Quality Co-Ordinator, when applying for authorisation of and setting up of \u201cLocal New Safe Havens\u201d."
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In order to be granted the status of \u201cLocal New Safe Haven\u201d, the IAO must demonstrate that the nominated staff require PII to carry out business processes (other than direct patient care), that would otherwise be impossible with anonymised / de-identified data."
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Before staff members are approved to form part of the \u201cLocal New Safe Haven\u201d, they must have had their identification verified to standards specific to the Registration Authority (RA), been CRB checked in accordance with human resources policy, and have Caldicott Guardian (or their delegated representative) approval to access / use full identifiable datasets."
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The information supplied via this form and the outcome of the approval decision will construct the register of all New Safe Havens within the Trust. This will be held and managed by the Information Governance team in line with Data Security and Protection Toolkit (DSPT)."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Following approval, any subsequent changes to the membership of the \u201cLocal New Safe Haven\u201d must be notified using the \u201cNew Safe Haven User Access Form\u201d (see IS-41 Pseudonymisation/De-identification Policy); this includes revoking access rights of staff when no longer required."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "See over to complete application form."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Safe Haven Application Form"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "type": "image",
+            "sequence_num": 167,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.014.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 168,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Information Asset Owner:"
+                    },
+                    {
+                        "text": "Department:"
+                    },
+                    {
+                        "text": "Base:"
+                    },
+                    {
+                        "text": "E-mail:"
+                    },
+                    {
+                        "text": "Contact Telephone:"
+                    },
+                    {
+                        "text": "System(s):"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Reason for application (please state clearly the need for use of PII):"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "type": "image",
+            "sequence_num": 170,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.015.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Safe Haven Staff Nominations:"
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "type": "table",
+            "sequence_num": 172,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "User Name:"
+                    },
+                    {
+                        "text": "PC Log In:"
+                    },
+                    {
+                        "text": "ID Verified (Y/N):"
+                    },
+                    {
+                        "text": "CRB Checked (Y/N):"
+                    },
+                    {
+                        "text": "IG Training Pass Date:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "IAO Declaration:"
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "By completing this Safe Haven application form; I hereby confirm that the business process detailed above cannot be carried out without access to, and processing of, PII, and that non-performance of this task would put Southend NHS Foundation Trust at significant risk."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "I also confirm that the above named users are required to access identifiable data as part of their duties, have had their identification verified, been CRB checked and have successfully completed their mandatory Information Governance training."
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Name:   Signature:"
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "type": "image",
+            "sequence_num": 177,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date:  Title:   Directorate:"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "type": "image",
+            "sequence_num": 179,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.017.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 180,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.019.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caldicott Guardian Approval:"
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "I hereby confirm that the above named users have been approved to form a \u201cLocal New Safe Haven\u201d, with access to process identifiable data only for the purpose specified in this document."
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Name:  Signature:  Date:"
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "type": "image",
+            "sequence_num": 184,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.020.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Safe haven user access form"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This form should be completed by the Information Asset Owner, when they wish a member of staff to have access to their system, or if access is being withdrawn."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To be granted access, staff must be part of an established \u201cNew Safe Haven\u201d have had their ID verified to the standards specific to the Registration Authority, been CRB checked in  accordance  with  the  Human  Resources  policy,  and  have  Caldicott  Guardian  (or delegated representative) approval for access to the full identifiable dataset. This form should also be completed to revoke their access if they leave the Safe Haven, or they lose their Caldicott Guardian approval."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "type": "table",
+            "sequence_num": 188,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "User Name: (e.g. John Smith)"
+                    },
+                    {
+                        "text": "PC Login ID (e.g. Jo.Smith)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Department"
+                    },
+                    {
+                        "text": "IG Training Pass Date"
+                    },
+                    {
+                        "text": "ID Verified?"
+                    },
+                    {
+                        "text": "CRB Checked?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient Information System Access"
+                    },
+                    {
+                        "text": "Name of System"
+                    },
+                    {
+                        "text": "Grant"
+                    },
+                    {
+                        "text": "Revoke"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Authorisation: Safe Haven Information Asset Owner"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Name: _______________________________________"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Signature: _____________________________________ Date: _____________________ Job Title: _________________________________ Directorate: _____________________"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Caldicott Guardian Approval (only required when granting access)"
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Name: ________________________ Signature: _________________ Date: __________"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5: Process for access/removal of access to safe havens"
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "type": "image",
+            "sequence_num": 195,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.022.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6: Processing PID for secondary use"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "type": "image",
+            "sequence_num": 197,
+            "data": {
+                "url": "MSEPO-21233 Policy and procedures for access and use of PID 1.0.023.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Policy and procedures for access and use of patient identifiable data for secondary use / MSEPO-21233 /"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Policy and procedures for access and use of patient identifiable data for secondary use / MSEPO-21233 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix7: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Policy and procedures for access and use of patient identifiable data for secondary use / MSEPO-21233 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "type": "table",
+            "sequence_num": 203,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2610 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 204,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "The three existing policies for pseudonymisation/de-identification have been merged into one single document for MSE"
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "Following the merger of the Trust"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "MSE staff will have one single document to reference rather than three legacy documents"
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No"
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 205,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Ian Harrison"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Associate Director of Healthcare Analytics"
+                    },
+                    {
+                        "text": "20 October 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 23.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        }
+    ]
+}

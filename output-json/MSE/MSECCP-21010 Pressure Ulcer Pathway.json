@@ -1,0 +1,227 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSECCP-21010 Pressure Ulcer Pathway.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pressure ulcer pathway"
+            },
+            "type": "ListItem",
+            "sequence_num": 2
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSECCP-21010 Pressure Ulcer Pathway.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Admission to ED: Complete Anderson score within 4 hrs and skin inspection/body map within 1 hr For all in-patients: Follow the aSSKINg pathway. Complete Waterlow Risk Assessment (RA) and body map within 6 hrs/Nutritional Risk Assessment within 24 hrs. Reassess on change of condition, on transfer and at least weekly. Document assessment outcome accurately in the patient s records."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pressure ulcer (PU) present?"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "NO YES Prevention"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Manag"
+                    },
+                    {
+                        "text": "ement"
+                    },
+                    {
+                        "text": "Document PU category in th"
+                    },
+                    {
+                        "text": "e patient notes."
+                    },
+                    {
+                        "text": "Complete Datix incident rep appropriate PU category and Acquired (HA) Complete saf if required."
+                    },
+                    {
+                        "text": "ort selecting Inherited or Hospital e guarding referral"
+                    },
+                    {
+                        "text": "Complete SSKIN bundle/Car protocol; follow the aSSKIN a Assessment of risk (Water S Skin inspection/assessmen S Surface (appropriate pressequipment; follow selectio patients)K Keep moving (repositioni I Incontinence/increased m N Nutritional statusg Giving information (verba your skin or if non-concor informed decision about p"
+                    },
+                    {
+                        "text": "e rounds as per g pathway: low, Nutrition) t (at least daily) ure relieving n criteria for in-ng) oisturel/leaflet: Caring for dant making an ressure ulcers)."
+                    },
+                    {
+                        "text": "Request Medical Photograph plan. Commence Wound Car /electronic wound care docu appropriate dressing/dressing care formulary). Reassess pla"
+                    },
+                    {
+                        "text": "y. Commence PU care e template pathway mentation. Select regime (see wound n at least weekly."
+                    },
+                    {
+                        "text": "Follow DTI pathway and hee Refer to Tissue Viability if m category, 3,4, unstageable, D"
+                    },
+                    {
+                        "text": "l care pathway ultiple category 2 or TI."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "HA PU category 2, 3, 4 unst"
+                    },
+                    {
+                        "text": "ageable?"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 8,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Waterlow sc"
+                    },
+                    {
+                        "text": "ore \u226410 Waterlow scoCommence at pressure ulcer"
+                    },
+                    {
+                        "text": "re \u226510 risk care plan."
+                    },
+                    {
+                        "text": "Follow the a Reassess wat changes, on t Complete Ca (follow heel"
+                    },
+                    {
+                        "text": "SSKINg pathwayerlow score if patient s condition ransfer, at least weekly.re rounds/SSKIN bundle as per care pathway)."
+                    },
+                    {
+                        "text": "protocol"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document all care actions."
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Skin remains intact with no pressure damage."
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "YES NO"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "RCA Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "type": "table",
+            "sequence_num": 13,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Harm Free Care (HFC) send RC and return to HFC within 5 work"
+                    },
+                    {
+                        "text": "A to Ward to complete ing days."
+                    },
+                    {
+                        "text": "RCA reviewed at weekly PU Pa outcome: No lapses found/lapse confirm level of harm consider i to be raised."
+                    },
+                    {
+                        "text": "nel meeting to confirm s in care identified, f safeguarding incident"
+                    },
+                    {
+                        "text": "Outcomes: Ward advised of eith SI process to be followed if t Ward action plan to address r Incident closed if no further a Timeline for completion set in H"
+                    },
+                    {
+                        "text": "erhreshold triggered. ecommendations. ctions required FC PU Panel process."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "YES NO"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "On patient discharge Inform Community Health Care  Continue with standard pressure ulcer care as Provider of patient s pressure ulcer history and ensure  per protocol. Follow aSSKINg pathway. Complete request for appropriate pressure relieving equipment  SSKIN bundle/care rounds as per protocols. (mattress/cushion) is sent to Community. document outcome of these."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Page  of  Asset number: MSECCP-21010/Version: 1/Date published: August 2021 Date/Review date: August 2024"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        }
+    ]
+}

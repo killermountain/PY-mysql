@@ -1,0 +1,274 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "COVID-19 Vaccine Handling and Management Policy Appendix 5 / MSEPO20252 / 02"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "image",
+            "sequence_num": 2,
+            "data": {
+                "url": "MSEPO20252 Appendix 5 Expired and Wasted COVID-19 Vaccine Returns Form 2.0.001.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "EXPIRED/WASTED COVID-19 VACCINE"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "RETURNS FORM"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "RETURN TO PHARMACY - DO NOT USE"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Full vials - Return all expired or wasted FULL diluted and undiluted vials to the Pharmacy Vaccine Hub at Basildon hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Broken and Part used vials - Dispose of at vaccination centre in appropriate clinical waste bin."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2990.0,
+                "text": "Defects - If a defect is identified the vial MUST not be used and pharmacy MUST be contacted immediately onext  or 2997"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "type": "table",
+            "sequence_num": 9,
+            "data": {
+                "num_rows": 12,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "ID"
+                    },
+                    {
+                        "text": "Reason"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Number of vials"
+                    },
+                    {
+                        "text": "Detailed reason for wastage (Continue overleaf)"
+                    },
+                    {
+                        "text": "1"
+                    },
+                    {
+                        "text": "Contamination"
+                    },
+                    {
+                        "text": "The item (e.g. vaccine, diluent) has been contaminated"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "2"
+                    },
+                    {
+                        "text": "Site fridge malfunction"
+                    },
+                    {
+                        "text": "The item was stored in a temperature controlled environment that failed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "3"
+                    },
+                    {
+                        "text": "Transport Breakdown"
+                    },
+                    {
+                        "text": "The item was in transit between locations when the vehicle it was in broke down, resulting in a temperature excursion"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "4"
+                    },
+                    {
+                        "text": "Excess Stock"
+                    },
+                    {
+                        "text": "Where a vaccination team reach the end of an allotted shift, and have surplus vaccines that cannot be returned to stock"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "5"
+                    },
+                    {
+                        "text": "Expired Shelf-life"
+                    },
+                    {
+                        "text": "Where the expiry date for the product in its current state have been exceeded"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "6"
+                    },
+                    {
+                        "text": "Waste at point of care"
+                    },
+                    {
+                        "text": "Where the prepped dose was refused by the patient"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "7"
+                    },
+                    {
+                        "text": "Improper storage"
+                    },
+                    {
+                        "text": "The item had not been stored in accordance with instructions (e.g. left out of fridge)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "8"
+                    },
+                    {
+                        "text": "Damaged/Dropped"
+                    },
+                    {
+                        "text": "The item is broken (e.g. vial dropped onto floor)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "9"
+                    },
+                    {
+                        "text": "Lost/Stolen"
+                    },
+                    {
+                        "text": "The item has gone missing and is assumed lost or stolen"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "10"
+                    },
+                    {
+                        "text": "Refused at Delivery"
+                    },
+                    {
+                        "text": "The item has been delivered in a form that is unusable (e.g. temperature excursion or damaged item)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "11"
+                    },
+                    {
+                        "text": "Reconstitution/ dilution/ prep error"
+                    },
+                    {
+                        "text": "A mistake was made when drawing up the vaccine, making the dose unusable"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "VACCINATION SITE: BASILDON / SOUTHEND / BROOMFIELD (Please circles the site where wastage occurred) DATE:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..  FORM COMPLETED BY:\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Department of Pharmacy  Page 1 of 1  v2.0, 11/01/21"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        }
+    ]
+}

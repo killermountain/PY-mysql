@@ -1,0 +1,3859 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 15,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "REFERRAL TO TREATMENT (RTT) HARM REVIEW PROCESS"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSEPO-20257"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All Staff"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "24 December 2020"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "23 December 2023"
+                    },
+                    {
+                        "text": "Developed in response to:"
+                    },
+                    {
+                        "text": "NHS England 2013/14"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "17"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Corporate"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Miss Emma Gray, RTT Harm Review Task and Finish Group Nicola Riches, Improvement Change Specialist Toby Stock, Operational Manager to the Medical Director \u2013 Broomfield Julia White, Operational Manager to the Medical Director \u2013 Southend"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box/es to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "Planned Care Board"
+                    },
+                    {
+                        "text": "01 December 2020"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Dr David Walker, Chief Medical Officer"
+                    },
+                    {
+                        "text": "26 November 2020"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "15 December 2020"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Document Ratification Group)"
+                    },
+                    {
+                        "text": "January 2021"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet \u2610 Internet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 3,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Consulted With: this must include Pharmacy if the document has any reference to medication"
+                    },
+                    {
+                        "text": "Post/ Approval Committee/ Group:"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Kevin Beaton"
+                    },
+                    {
+                        "text": "Broomfield Medical Director"
+                    },
+                    {
+                        "text": "26 November 2020"
+                    },
+                    {
+                        "text": "Dr Stuart Harris"
+                    },
+                    {
+                        "text": "Southend Medical Director"
+                    },
+                    {
+                        "text": "26 November 2020"
+                    },
+                    {
+                        "text": "Dr Tayyab Haider"
+                    },
+                    {
+                        "text": "Basildon Medical Director"
+                    },
+                    {
+                        "text": "26 November 2020"
+                    },
+                    {
+                        "text": "Sharon Murrell"
+                    },
+                    {
+                        "text": "Head of Patient Safety"
+                    },
+                    {
+                        "text": "20 October 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "(Refer to the main body of the text) MSEPO-19014 Policy for Management of Incidents"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Miss Emma Gray, RTT Task & Finish Group"
+                    },
+                    {
+                        "text": "New created: supersedes section: Broomfield Hospital: 18020 Non cancer clinical harm review; new document at Basildon and Southend hospitals"
+                    },
+                    {
+                        "text": "24 December 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Roles & Responsibilities within the Trust ...................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Key Elements of Procedural Guideline ......................................................................... 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Training Requirements ............................................................................................... 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Monitoring and Audit ................................................................................................... 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Approval and Implementation ..................................................................................... 11"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 52.0,
+                "text": "Equality Impact Assessment ....................................................................................... 11  References ................................................................................................................. 11 Appendix 1: Initial Harm Review Template ........................................................................ 12 Appendix 2: RCA Template ............................................................................................... 14 Appendix 3: Timeline Template ......................................................................................... 15 Appendix 4: Harm Review Panel Meeting Record ............................................................. 16 Appendix 5: Standard Operating Procedure for Reporting  Week Breaches ................. 18 Appendix 6: Degree of Harm RAG Rating Guidance Table ............................................... 19 Appendix 7:Week Audit Review Quality Assurance Checklist ..................................... 20 Appendix 8: RTT  Week Harm Review Process Outpatients ......................................... 21 Appendix 9: RTT  Week Harm Review Process Inpatients and Day Cases ................... 22 Appendix 10: Terms of Reference for Harm Review Panel................................................ 23 Appendix 11Doc control admin to complete: Preliminary Equality Analysis ....................... 25"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 52.0,
+                "text": "In 2013/14, NHS England set an operational standard to ensure that no-one waits more than  weeks from referral to treatment (RTT)."
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Whilst there is an acknowledgement that there may be legitimate reasons for some waits, NHS England have set expectations that such long delays should be expected to trigger a review process, so that providers can understand the causes of these long waits and put in place processes to avoid them in future."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "This procedure provides oversight and management of the process for undertaking a root cause analysis (RCA) and Clinical Harm Review (CHR) for any RTT pathway closed over 52 weeks."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Clinical harm can be defined as unintended injury resulting from or contributed to by medical care or delayed treatment that requires additional monitoring, treatment or hospitalisation or that results in death"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "When a case of clinical or psychological harm is found to have occurred, the Trust Incident and Duty of Candour process will be followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.6,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this procedure is to provide guidance on the process for reporting and investigating the management of patients who have breached the national performance standard of 52 weeks on an RTT pathway."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.2,
+                "text": "Provide guidance on the process for the reporting and investigating of potential or actual harm caused."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.3,
+                "text": "The RCA undertaken as part of the incident process will take into account all contributory factors, including that a patient may choose to wait longer or clinically be unable to be seen or treated within these time frames."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.4,
+                "text": "The SOP aims to provide assurance that all avoidable pathway delays are monitored and actions implemented to reduce the risk of any future delays and patient harm"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.5,
+                "text": "An RTT backlog is defined as over 60 days (2 months) from the time of patient treatment (clock stop)."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "type": "table",
+            "sequence_num": 31,
+            "data": {
+                "num_rows": 10,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "CCG"
+                    },
+                    {
+                        "text": "Clinical Commissioning Group"
+                    },
+                    {
+                        "text": "ERG"
+                    },
+                    {
+                        "text": "Executive Review Group - Clinically led group that determines the level of investigation required for incidents that have occurred. This group also signs off root cause analysis investigations and action plans as a result of serious incidents, never events and internal investigations."
+                    },
+                    {
+                        "text": "LHRP"
+                    },
+                    {
+                        "text": "Local Harm Review Panel - Clinically led panel to review/validate/action completed harm reviews and develop lessons learnt or actions for system where applicable"
+                    },
+                    {
+                        "text": "NHSE/I"
+                    },
+                    {
+                        "text": "NHS England and Improvement"
+                    },
+                    {
+                        "text": "PA"
+                    },
+                    {
+                        "text": "Personal Assistant"
+                    },
+                    {
+                        "text": "RCA"
+                    },
+                    {
+                        "text": "Root cause analysis (RCA) was developed for the health services to promote a systematic approach to the investigation of serious incidents. The RCA investigation will identify any underlying system and process issues that may have caused or contributed to the incident."
+                    },
+                    {
+                        "text": "RTT"
+                    },
+                    {
+                        "text": "Referral to Treatment"
+                    },
+                    {
+                        "text": "SI"
+                    },
+                    {
+                        "text": "Serious Incident - an incident that occurred in relation to NHS-funded services and care resulting in unexpected or avoidable death, harm or injury to patient, carer, staff or visitor."
+                    },
+                    {
+                        "text": "SSRS"
+                    },
+                    {
+                        "text": "Reporting software"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Roles and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Chief Executive"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has overall responsibility for ensuring that the Trust has robust processes in place for harm reviews, oversight of completion, ensuring lessons learnt and actions identified are taken within the organisation."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Managing Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As the site's accountable officer is responsible for ensuring the hospital has robust, complete and up to date procedures in place to govern and guide activities so that legal and national requirements are met."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Medical Director:"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "To support and ensure all harm reviews are delivered within the agreed timeframes;"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Expected to co-chair the weekly review meetings;"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Expected to sign off and confirm the following on the breach report:"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Director of Nursing"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To support and ensure all harm reviews are delivered within the agreed timeframes."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Director of Operations"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Accountable for planned care performance, actions taken to mitigate non- performance and ensuring that each responsible service is compliant with governance arrangements in place for their area of responsibility."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Associate Directors of Operations and Clinical Directors"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for implementation and adherence to the procedure, ensuring that all staff required are aware of their roles and responsibilities and receive training to enable them to meet the requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Consultants (including Divisional / Directorate / Lead Clinical Representatives):"
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Expected to co-chair the weekly review meetings;"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Expected to sign off and confirm the following on the breach report:"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for managing patient care and treatment, working with their Directors/Associate Directors, Service Managers and clinical colleagues to ensure that this is provided within timescales laid down in national, local and NHS constitution targets and standards."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for completion of clinical harm reviews for patients breaching the 52 week standard and completed their pathway."
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 52.0,
+                "text": "Responsibility to review and clinically prioritise patients on an incomplete RTT pathway of greater than  weeks to determine likelihood of harm, and expedite any patients at risk of harm."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They should attend LHRP or arrange for clinical deputy to attend on their behalf."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They should decide whether the breach was avoidable or unavoidable."
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They should decide what level of harm is associated with the breach."
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.8,
+                "text": "Service Managers:"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review the harm review for each patient within their specialty, ensuring it is a true and accurate representation of the patient journey (refer to Appendix 1, 2 and 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure that clinical review is undertaken for all breaches and escalated for a harm review where required"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Complete outstanding harm reviews within a 4 week turnaround time"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Return the completed RCA back to the Harm Review Co-ordinator"
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If Low harm is identified then the case will be managed internally by the Division/Directorate."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If Moderate or Severe harm is identified, then the case will be reviewed at ERG"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Expected to review the RCA for patients identified with moderate or severe harm within their specialty, ensuring it is a true and accurate representation of the patient journey (see Appendix 2)"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Share breach reports and learning outcomes with their specialty teams and the wider MSE."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update the incident reporting system with the signed & completed Harm Review documentation after panel."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.9,
+                "text": "Performance and Validation Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To perform final validation of 52 week breaches and distribute this to the Divisions/Directorates and the Harm Review Co-ordinator."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Harm Review Co-ordinator is expected to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Receive the completed harm review forms from the service teams"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Log the 52+ breaches on the incident reporting system"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Compares the breach list to the completed forms already received from the Divisions/Directorates or Outpatients and save the completed forms on to the incident reporting system"
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the form is incomplete or not present, the Harm Review Co-ordinator will inform the Service Managers and Divisional/Directorate Governance Facilitators/Managers the 52+ breaches have been logged on to the incident reporting system."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Update the Tracker/s"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Arrange the Harm Review Panel meetings, in conjunction with the Site Medical Director's PA"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Document the outcomes from the Harm Review Panel & update the tracker"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Send the completed Harm Review forms to the Service Managers and upload them to the incident reporting system."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the completed forms are processed and presented at the local harm review panel within 30 days."
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Key elements of procedural guideline"
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Process"
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "type": "table",
+            "sequence_num": 80,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Step"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Purpose"
+                    },
+                    {
+                        "text": "Phase 1"
+                    },
+                    {
+                        "text": "Weekly access meetings will discuss all potential 52+ week pathways. Clinicians will still be able to escalate the need for a harm review on any patient below 52 weeks that they feel requires one regardless of the stage they are in their pathway."
+                    },
+                    {
+                        "text": "To identify patients who require review."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 81,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "P"
+                    },
+                    {
+                        "text": "hase 2"
+                    },
+                    {
+                        "text": "a) The list of 52+ breach patients who have completed their pathway will be emailed to the relevant specialties and the harm review co-ordinator, once the monthly 52 week breaches have been confirmed. The harm review co- co-ordinator will report the breach on the incident reporting system (Appendix 5). The Divisions/Directorates will complete the harm review (Appendix 1 and 2). This must be done within 4 weeks. b) Patients on an incomplete RTT pathway of greater than 52 weeks will be clinically prioritised by the Directorates/Divisions to determine likelihood of harm, and expedite any patients at risk of harm. Clinical prioritisation is a mandated programme from NHSE/I. Clinicians will still be able to escalate the need for a harm review on any patient on a breached incomplete RTT pathway. All RTT 52+ week breaches will be monitored by the Service Managers and Divisional/Directorate Governance Managers/Facilitators, as part of the internal Governance processes."
+                    },
+                    {
+                        "text": "Ensures accurate pathway guide to review"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "P"
+                    },
+                    {
+                        "text": "hase 3"
+                    },
+                    {
+                        "text": "Lead clinician and managerial leads, through their own governance structure have 4 weeks to review timelines, assess and action counter measures for avoidable delays. Lead clinician to assess whether pathway delays have impacted on the patient's outcome and resulted in clinical and/or psychological harm. Once the form has been completed they will be sent to the Harm Review Co-ordinator to prepare for the Local Harm Review Panel."
+                    },
+                    {
+                        "text": "To prevent avoidable delay re-occurring"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "P"
+                    },
+                    {
+                        "text": "hase 4"
+                    },
+                    {
+                        "text": "The Harm Review Co-ordinator will prepare the agenda for the harm review panel, which will take place each week. Membership of this meeting is as per the Harm Review Panel Terms of Reference (Appendix 10). Following review of the patient pathway, should there be any significant findings or queries that require further detail, these will be relayed to the lead clinicians and managerial leads, via the Harm Review Co-ordinator, so further evidence can be provided. The harm review paperwork must be processed and presented at the local harm review panel within 4 weeks."
+                    },
+                    {
+                        "text": "Share good practice and learning Any RCAs where the patient outcome is found to have been impacted and where the level of harm is assessed as moderate harm or above will be reviewed the Trust's Director Review Group where a decision on declaration will be made. Where moderate harm or above is confirmed, the Duty of Candour will be met."
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "P"
+                    },
+                    {
+                        "text": "hase 5"
+                    },
+                    {
+                        "text": "The Harm Review Co-ordinator will prepare summary reports to the Site Leadership Team and CCG as required. All patients escalated from the harm review panel as having had, or potentially, had an instance of moderate or above, clinical or psychological harm will be escalated to the Patient Safety team for review at the Executive Review Group (ERG)."
+                    },
+                    {
+                        "text": "Share good practice and learning"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Incident reporting and review"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.1 Every breach incident requiring harm review must be notified Division/Directorate wide via the incident reporting system following notification of validated 52 week breaches  through  the  RTT  reporting  process  to  NHSE  England  distributed  by Analysis & Reporting team"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.2 The Service Managers of each specialty will be responsible for completing the review of each patient with the support of the lead Clinician for that patient's care."
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.3 Incidents reported where the harm has been initially assessed as moderate or above will be reviewed by the Executive Review Group (ERG)."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.4 Breaches and action points/plans will be shared at Senior Management Group, Divisional/Directorate performance meetings and Planned Care Board. Following this it will be shared with the Clinical Quality Review Group (CCG)."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.5 For breaches where moderate patient harm or above has been identified then the Duty of Candour process must be followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.6 A representative of the CCG is invited to attend harm review meetings at agreed intervals."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.2.7 The number of 52 week breaches by specialty will be a standing agenda item at the Planned  Care  Board.  The  Planned  Care  Board  will  receive  and  monitor  the Divisional/Directorate exception reports as a standing agenda item, ensuring action is taken to mitigate avoidable delays."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "All clinical/non-clinical staff involved in RTT pathways will have specific induction in relation to the implementation of this procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Outlined  below  is  the  Trust's  process  of  monitoring  compliance  with,  and  the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "type": "table",
+            "sequence_num": 94,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "RTT Pathways adhering to National Guidance of 52 weeks from referral to treatment"
+                    },
+                    {
+                        "text": "Exception Report"
+                    },
+                    {
+                        "text": "Directorate / Division"
+                    },
+                    {
+                        "text": "Weekly / Fortnightly / Monthly (dependant on meeting)"
+                    },
+                    {
+                        "text": "SLT / Planned Care Board / Quality Improvement Board / Trust Board."
+                    },
+                    {
+                        "text": "Quality Improvement Board (formally CQRG)"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Themes and  Report  Harm  Quarterly  Planned/Elective  Planned/ learning from  review co- Care Board and  Elective Care completed  ordinator  Quality Improvement  Board"
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "harm reviews  Board"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "All policies, procedures and guidelines will be approved by the Planned Care Board, which is the specialist group with the authority to approve procedures for local RTT Harm Review Panels. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.2,
+                "text": "It is the author's responsibility to inform the Site Medical Directors and Harm Review Co-ordinators of the approved documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Equality impact assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 11)"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS Constitution, release date 27/07/2015"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Procedure for the reporting and management of incidents and Serious Incidents (SIs): Document reference MSEPO-19015, Version number 1.0 (Trust Intranet)"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2006.0,
+                "text": "National Patient Safety Agency \u2018Seven steps to patient safety for primary care' May"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "National Reporting and Learning system \u2018Degree of Harm FAQ',"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Department  of  Health  -  Referral  to  treatment  consultant-led  waiting  times \u2018Reviewing the pathways of patients who have waited longer than 18 weeks before starting their treatment'"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Initial harm review template"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "52 Week RTT Clinical Harm Review"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "type": "table",
+            "sequence_num": 111,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Incident Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NHS / Hospital Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient's Name"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Speciality"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Diagnosis"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date of Treatment"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Total Days/Weeks Wait"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 112,
+            "data": {
+                "num_rows": 19,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Was the treatment different than the originally planned treatment due to the delay?"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Was there more extensive treatment / surgery than first anticipated?"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "NO"
+                    },
+                    {
+                        "text": "N / A"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Is there any evidence of disease progression due to the delay?"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "N O"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Has a delay meant that the condition has progressed to an extent that some treatment"
+                    },
+                    {
+                        "text": "options that would have been applicable were no longer an option?"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "N O"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Has a delay in treatment meant that a patient has loss of functionality that is greater"
+                    },
+                    {
+                        "text": "than anticipated, commensurate with their condition?"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "N O"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Do the patient's notes indicate any prolonged Psychological harm (28 days or more)?"
+                    },
+                    {
+                        "text": "Psychological Harm is a type of damage to the mind that occurs as a result of a severely distressing event. Harm could be"
+                    },
+                    {
+                        "text": "the result of an overwhelming amount of stress that exceeds one's ability to cope, or integrate the emotions involved with"
+                    },
+                    {
+                        "text": "that experience"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "N O"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "If Yes, please provide details:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 113,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Identified Level of Harm to the Patient"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of Clinician / Reviewer and Designation"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date Form Completed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Final Comments"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Harm Review Panel outcome - to be completed at the meeting"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "type": "table",
+            "sequence_num": 115,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Date of Presentation to Panel"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Clinician Presenting to Panel"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Delay to Patient"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Identified Harm to the Patient"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "NO"
+                    },
+                    {
+                        "text": "Grading of Incident"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Further Comments/actions"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Name of Chair"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Declare as Serious Incident"
+                    },
+                    {
+                        "text": "YES"
+                    },
+                    {
+                        "text": "NO If yes, complete terms of reference and STEIS wording:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 116,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Terms of Reference"
+                    },
+                    {
+                        "text": "Recommend reflection for all staff involved A review of the \u201cTrust capacity status\u201d at the time the incident occurred A review of staffing levels to be undertaken"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2: RCA template"
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "type": "table",
+            "sequence_num": 118,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Care and Service Delivery problems"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 119,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Contributory Factors"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 120,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Root Cause"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 121,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Lessons Learnt"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 122,
+            "data": {
+                "num_rows": 8,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Planning act"
+                    },
+                    {
+                        "text": "ion"
+                    },
+                    {
+                        "text": "Detail actions to be taken following review of the breach, include clear actions, a named lead"
+                    },
+                    {
+                        "text": "and timescales."
+                    },
+                    {
+                        "text": "Issue"
+                    },
+                    {
+                        "text": "Action"
+                    },
+                    {
+                        "text": "Lead"
+                    },
+                    {
+                        "text": "To be completed by"
+                    },
+                    {
+                        "text": "Evidence"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 3: Timeline template"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "type": "table",
+            "sequence_num": 124,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Incident Reporting System Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 125,
+            "data": {
+                "num_rows": 23,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Key event / Diagnostic test"
+                    },
+                    {
+                        "text": "Request Date"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "Days waited"
+                    },
+                    {
+                        "text": "Comments/ Issues"
+                    },
+                    {
+                        "text": "Days in the pathway"
+                    },
+                    {
+                        "text": "Avoidable delays: number of days"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Total delay"
+                    },
+                    {
+                        "text": "XX"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to Treatment (RTT) Harm Review Process / MSEPO20257/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 30.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 4: Harm review panel meeting record"
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "type": "image",
+            "sequence_num": 129,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.007.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 130,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Site:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date & time of meeting:"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Welcome and Apologies"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Role"
+                    },
+                    {
+                        "text": "Apologies"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 131,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Action Log Review"
+                    },
+                    {
+                        "text": "See Excel for ongoing action log."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 132,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Harm Reviews"
+                    },
+                    {
+                        "text": "Incident Number"
+                    },
+                    {
+                        "text": "Treatment Date"
+                    },
+                    {
+                        "text": "Tumour site or Specialty"
+                    },
+                    {
+                        "text": "Case Summary"
+                    },
+                    {
+                        "text": "Identified Harm to Patient"
+                    },
+                    {
+                        "text": "Key Learning Identified from Harm Review"
+                    },
+                    {
+                        "text": "Action Planned"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to treatment (RTT) harm review process / MSEPO-20257/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "type": "table",
+            "sequence_num": 134,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Incident Number"
+                    },
+                    {
+                        "text": "Treatment Date"
+                    },
+                    {
+                        "text": "Tumour site or Specialty"
+                    },
+                    {
+                        "text": "Case Summary"
+                    },
+                    {
+                        "text": "Identified Harm to Patient"
+                    },
+                    {
+                        "text": "Key Learning Identified from Harm Review"
+                    },
+                    {
+                        "text": "Action Planned"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 135,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Deferred"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Completed awaiting date to present"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Any Other Business"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Date and time of the next meeting: Venue:"
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 5: Standard operating procedure for reporting 52 week"
+            },
+            "type": "ListItem",
+            "sequence_num": 138
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "breaches"
+            },
+            "type": "ListItem",
+            "sequence_num": 139
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Weekly monitoring of long waiting patients through  End of month validation completed by Validation RTT  Performance  Meeting  for  early  sight  of  team. 52 week breaches identified and finalised for potential 52 week breaches  monthly submission"
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "type": "image",
+            "sequence_num": 141,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.008.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Sign  off  of    week  breaches  by  Head  of   week  breaches  sent  to  Service  Manager  for  the Patient Access  specialty fornd level validation"
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Performance  and  Validation  team  to  do  final"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 52.0,
+                "text": "validation  of   week  breaches. Send  to the  Confirmed number of 52+ breaches is reported in the Trust's RTT Directorates/Divisions  and  the  Harm  Review  submission to NHS England, via the Analysis & Reporting team Co-ordinator.  within Healthcare Analytics."
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patients on an incomplete RTT pathway of greater than 52 weeks"
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "will  be  clinically  prioritised  by  the  Directorates/Divisions  to"
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "determine likelihood of harm, and expedite any patients at risk of Harm Review Co-ordinator logs the 52+ patient  harm. If a moderate, or above, risk of harm is identified during the"
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "stops on the incident reporting system  Clinical prioritisation process the Clinician is to escalate the need for"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a harm review."
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm  Review  Co-ordinator  compares  the breach  list  to  the  completed  forms  already received  from  the  Divisions/Directorates  or Outpatients"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Review Co-ordinator informs the Service Managers  and  Divisional/Directorate"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Governance Facilitators the 52+ breaches have Form Completed - Yes  Form Incomplete  been  logged  on  to  the  incident  management"
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "or not present  system"
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm  Review  Co-ordinator  saves  the"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "completed form on to the incident reporting  Divisions/Directorates complete the outstanding system  harm reviews within the 4 week turnaround time"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm  Review  Co-ordinator  lists  patient  on  the  Divisions/Directorates  return  completed  harm agenda for the Local Harm Review Panel  and"
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "review forms to the Harm Review Co-ordinator sends  the  completed  harm  review  forms,"
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "securely, to the Harm Review Panel."
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The  panel  review  cases  at  the  Local  Harm  Harm  Review  Co-ordinator  attends  Harm  Review  Panel Review Panel meeting  meeting to document learning and outcomes"
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Review Co-ordinator sends the assessed forms to Divisional/Directorate Service Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 160
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Moderate or Severe"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "No Harm"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Low"
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Root  Cause  Analysis  completed  by  Service Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The  case  will  be  managed"
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "internally  by  the  Division/"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Directorate  Trust reviews, at ERG, to determine whether to"
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "declare  an  SI  and  the  Division/Directorate ensures Duty of Candour is followed"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Service Manager uploads completed form to the incident management system and closes."
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 6: Degree of harm RAG rating guidance table"
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "type": "table",
+            "sequence_num": 171,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Level of Harm"
+                    },
+                    {
+                        "text": "Definition*"
+                    },
+                    {
+                        "text": "Examples"
+                    },
+                    {
+                        "text": "No Harm (GREEN)"
+                    },
+                    {
+                        "text": "There are two types of no harm incident: a) Impact prevented (i.e. a near miss): any adverse incident that had the potential to cause harm but was prevented, resulting in no harm to anyone b) Impact not prevented: any adverse incident that ran to completion but caused no harm to anyone."
+                    },
+                    {
+                        "text": "Pathway found to be an administrative failing with no delay to patient Patient waited excessively for treatment but no harm was caused as a result of the wait Patient died of a different condition to that for which they were referred."
+                    },
+                    {
+                        "text": "Minor harm (YELLOW)"
+                    },
+                    {
+                        "text": "Defined as: Any event or circumstance resulting in minor changes to the original treatment plan and caused minimal harm."
+                    },
+                    {
+                        "text": "Additional treatment and/or pain relief required Psychological impact of delayed treatment on the patient."
+                    },
+                    {
+                        "text": "Moderate Harm (AMBER)"
+                    },
+                    {
+                        "text": "Defined as: (a) harm that requires a moderate increase in treatment, and; (b) significant, but not permanent, harm; A \u201cmoderate increase in treatment\u201d means an unplanned change to the original treatment plan, an emergency admission for the same condition prior to treatment, extra time in hospital or as an outpatient, cancelling of treatment, transfer to another treatment area (such as intensive care), or prolonged psychological harm (prolonged in this context means waiting for treatment in excess of 52 weeks)."
+                    },
+                    {
+                        "text": "Multiple attendances to ED for the same condition (not admitted) Admitted via ED for the same condition Where the treatment plan is significantly different to the original treatment plan, requiring more recovery or protracted length of stay as a result."
+                    },
+                    {
+                        "text": "Severe / Catastrophic Harm or Death (RED)"
+                    },
+                    {
+                        "text": "Defined as: A permanent lessening of physiologic or intellectual functions, including organ or brain damage, that is related directly to the delay in managing the patient and not related to the condition for which the patient was referred."
+                    },
+                    {
+                        "text": "Patient died of the same condition prior to receiving treatment Missed opportunity to treat cancer as a result of the delay Patient has had life changing injury as a result of the delay."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 52.0,
+                "text": "Appendix 7:  week audit review quality assurance checklist"
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "type": "table",
+            "sequence_num": 173,
+            "data": {
+                "num_rows": 6,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Incident Management System Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "NHS Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Hospital Number"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Patient Name"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Speciality"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "RCA Owner"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Are the patient details included on the RCA?"
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Are the lead clinician, Service Manager and Divisional/Directorate Manager identifiable?"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Is the timeline complete with no gaps in events?"
+            },
+            "type": "ListItem",
+            "sequence_num": 176
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Are the outcomes and comments fields completed to a sufficient standard?"
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Are the actions relevant to the issues detailed?"
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Have the harm review questions been completed and agreed?"
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Is the RCA complete to a standard ready to be presented?"
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "type": "table",
+            "sequence_num": 181,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Name of Reviewer"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Reviewer's Job Role"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Signed"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "GUIDANCE NOTES:"
+            },
+            "type": "ListItem",
+            "sequence_num": 182
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This document is designed to be a failsafe check on the RCA before it is presented to the panel."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This document is to be completed by a Performance Manager or another suitable independent manager not associated with the speciality listed."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This document should be completed and signed off for each RCA audited before it is presented to the Harm review Panel."
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the RCA is incomplete it should be returned to the Service Manager with detail of why the RCA was rejected."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "It is the Service Manager's responsibility to ensure that the RCA is completed correctly and on time."
+            },
+            "type": "ListItem",
+            "sequence_num": 187
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 8: RTT 52 week harm review process outpatients"
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OPD admin staff members will run the Daily  Clinical  Harm  Reviews  Due report  which  will  indicate  which patients at 52 weeks or more in their pathway will be attending clinic"
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "type": "image",
+            "sequence_num": 190,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OPD  admin  staff  members  fill  in  the patient's  name,  speciality,  total days/weeks  wait  and  NHS/Hospital number on the Harm Review form"
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "OPD team leaders distribute the Harm Review  paperwork  to  the  relevant Nursing  /Admin  staff  that  will  ensure that the form goes into the notes."
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For  external  sites  and The  Clinician  seeing  the  patient  will  providers  performing  NHS complete the Harm Review form and  work"
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "type": "image",
+            "sequence_num": 194,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.010.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "give to the clinic nurse who will ensure  Staff  members  should  keep the proforma is put in confidential area  completed Harm Review forms in for collection at the end of clinic.  a  secure  location  in  the  main"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "reception  area.  The  Harm"
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Review form should be scanned The OPD admin team will collect the  and  sent  securely  to  the  Harm Harm Review forms from clinic areas  Review Co-ordinator on a daily and return to the Validation team  basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 9: RTT 52 week harm review process inpatients and day cases"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "EVERY FRIDAY TCI Lists  Surgeons informed a Harm for the forthcoming week  Review form will need to be"
+            },
+            "type": "ListItem",
+            "sequence_num": 199
+        },
+        {
+            "type": "image",
+            "sequence_num": 200,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.011.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "are reviewed by Service  52+ Breach Patients are  completed for these Manager / Assistant  identified on the TCI list  patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Service Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 202
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Operational team complete:"
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Review form is  \uf0b7  Patient Details section of"
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "taken to the  the Harm review form"
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reception team within  \uf0b7  Add the Theatre number  Harm Review Form is"
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Main Theatres by  printed for each 52+ breach"
+            },
+            "type": "ListItem",
+            "sequence_num": 207
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and date of procedure to"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Friday Afternoon the form"
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Review form is"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "distributed to the relevant"
+            },
+            "type": "ListItem",
+            "sequence_num": 211
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "pParotceiendtu arettends for  Theatre on the day of their  Procedure performed"
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "procedure by Theatre team  and Patient treated"
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Theatre team collate Harm  Surgeon completes Harm review forms for each 52+  Review Form and returns to breach patient throughout the  Theatre Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "week"
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "For external sites and providers performing NHS work"
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Staff members should keep completed Harm Review Operational Team collect the  forms in a secure location in the main reception area. completed Harm Review Forms from  The Harm Review form should be scanned and sent Theatres every Monday and return to  securely to the Harm Review Co-ordinator on a daily Harm Review Co-ordinator  basis."
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 10: terms of reference for harm review panel"
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Harm Review Panel Terms of Reference"
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The membership of the group will be as follows:"
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Site Medical Director (Chair)"
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Divisional / Directorate / Lead Clinical Representative/s (Deputy Chair)"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Divisional Medical Director"
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Review Co-ordinator"
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Group Clinical Director of Cancer Services"
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient Safety Representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Head of Patient Access"
+            },
+            "type": "ListItem",
+            "sequence_num": 227
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Service Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "CCG / Specialist Commissioning Representative"
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At least four members of the group must be present for the meeting to be quorate. This must include the Chair and/or Deputy Chair and the Harm Review Co-ordinator (or their deputy)."
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The group will be a constant weekly meeting, realigning into the appropriate governance structures of the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 231
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To provide assurance that all avoidable patient pathway delays are reviewed and actions implemented to reduce the risk to future patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Confirm if the breach was avoidable or unavoidable and what level of harm was associated with the breach."
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determine remedial actions or pathway changes for implementation by Divisions/Directorates"
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Meetings will be held weekly. Attendance is permitted virtually via either Microsoft Teams or StarLeaf."
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Panel will formally report to the Senior Management Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Trust Board"
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "type": "image",
+            "sequence_num": 238,
+            "data": {
+                "url": "MSEPO-20257 RTT Harm review process 1.0.012.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Site Governance Forum"
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Senior Management Group"
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Harm Review Panel"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Administration of the meeting will be supported by the Harm Review Co-ordinator."
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Harm Review Co-ordinator, or a nominated deputy, will take a log of key actions, outcomes and decisions taken. Agenda will be circulated at least two days before the meeting."
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to treatment (RTT) harm review process / MSEPO-20257/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 30.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 245
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Referral to treatment (RTT) harm review process / MSEPO-20257/ 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 11: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Referral to treatment (RTT) harm review process/MSEPO-20257 (please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 248
+        },
+        {
+            "type": "table",
+            "sequence_num": 249,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2612 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2612 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 250,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "The process has changed significantly since the previous SOP for RTT harm reviews was developed. The process was not the same across the MSE."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "We now have a more robust process which provides monitoring and assurance. The procedure now defines the whole process and responsibilities across the whole of the MSE."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "It will give Divisions/Directorates reviewing the RTT pathway the ability to develop action plans based on learning from harm reviews, thus improving patient care and experience, and reducing potential of future patient harm."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 251,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Miss Emma Gray"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "RTT Task & Finish Group"
+                    },
+                    {
+                        "text": "Date"
+                    },
+                    {
+                        "text": "November 2020"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 25.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        }
+    ]
+}

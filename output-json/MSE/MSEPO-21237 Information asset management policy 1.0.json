@@ -1,0 +1,1517 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSEPO-21237 Information asset management policy 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document title:"
+                    },
+                    {
+                        "text": "INFORMATION ASSET MANAGEMENT"
+                    },
+                    {
+                        "text": "Document reference/register no:"
+                    },
+                    {
+                        "text": "MSEPO-21237"
+                    },
+                    {
+                        "text": "Version number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "Policy"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "Information Asset Owners (IAO) and Information Asset Administrators (IAA)"
+                    },
+                    {
+                        "text": "Ratification issue date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "15 December 2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "14 December 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Information Asset Management"
+                    },
+                    {
+                        "text": "Developed in response to: (National guidance/recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Data Security Protection Toolkit"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014 (Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "17"
+                    },
+                    {
+                        "text": "Care group/division:"
+                    },
+                    {
+                        "text": "Digital Services"
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Author/contact: (asset administrator)"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "Hospital sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2612 MSE NHS Foundation Trust \u2610 Basildon Hospital \u2610 Broomfield Hospital \u2610 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval group/ committee(s):"
+                    },
+                    {
+                        "text": "Information Governance and Cyber Security Steering Group (IGCSSG)"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Professionally approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Martin Callingham"
+                    },
+                    {
+                        "text": "Senior Information Risk Owner (SIRO)"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Ratification group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "14 December 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Executive and clinical directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "December 2021"
+                    },
+                    {
+                        "text": "Distribution method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSEPO-21237 Information asset management policy 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted with: (Must include specialist pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Matthew Barker"
+                    },
+                    {
+                        "text": "Head of Information Governance and Data Protection Officer"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Angela Bridges"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Group if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Information Governance & Cyber Security Steering Group"
+                    },
+                    {
+                        "text": "06 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust documents (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSBPO-18001 Information Governance and Management Policy MSBPO-18002 Information Lifecycle Management Policy MSBPO-18004 Privacy Impact Assessment Procedure Policy MSBPO-18006 Information Technology (Cyber) Security Policy MSBPO-18007 Email Policy MSBPO-18014 DS Password Policy MSBPO-18015 DS User Access & Acceptable Usage of IT Policy MSEPO-19006 Estates and Facilities Management for Document Control MSEPO-19013 MSE IG Staff Handbook MSEPO-19014 Policy for Management of Incidents MSEPO-19015 Procedure Report Management of Incidents and Serious Incidents MSBPO-19016 Being Open & Duty of Candour Policy MSBPO-19023 Change Management Policy (Digital Services) MSEPO-19024 Data Subject Access Request (Data Disclosure) Policy MSEPO-20207 Data Opt-out Policy MSEPO-20212 Data Quality Policy MSEPO-20222 Disciplinary Policy MSEPO-20225 Access to Healthcare Records Policy MSEPO-20243 MSE Freedom of Information Policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document review history:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "A new MSE policy"
+                    },
+                    {
+                        "text": "15 December 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Scope ........................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Definitions ..................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust ...................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Author to rename accordingly (i.e. Procedure) ............................................................. 7"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Information asset register ............................................................................................. 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Training requirements ................................................................................................... 9"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Monitoring and audit ................................................................................................... 10"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Approval and implementation ..................................................................................... 10  Preliminary Equality Analysis ...................................................................................... 10  References ................................................................................................................. 10 Appendix 1 \u2013 Job description: Information Asset Owner (IAO) .......................................... 11 Appendix 2 \u2013 Job description: Information Asset Administrator (IAA) ................................ 13 Appendix 3: Preliminary equality analysis .......................................................................... 14"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "Information handling can represent a significant corporate risk in the sense that failure to protect information properly or use it appropriately can have a damaging impact on the Trust's reputation with patients, service users, the public and other public sector bodies. It also opens up the possibility of legal action against the Trust and its board under its duty of care to handle patient information appropriately."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "The risks associated with information assets are inherent in all administrative and business activities and everyone working for or on behalf of the Trust must continuously manage information assets. The Board recognises that the aim of information asset management is not to eliminate risks, but rather to provide the structural means to identify, prioritise and manage the risks involved in all Trust activities. It requires a balance between the cost of managing and treating information risks with the anticipated benefits that would be derived from having the assets in place."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The key requirement is for information assets to be managed in a robust way within work areas and not be seen as something that is the sole responsibility of Information Technology or Information Governance staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Assurances need to be provided in a consistent manner. To achieve this, a structured approach is needed, building upon the existing information governance framework within which the Trust is already working. This structured approach relies upon the identification of all information assets and assigning \u2018ownership' of assets to senior accountable staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.5,
+                "text": "The Board acknowledges that information asset management is an integral part of good management practice. The intent is to embed information assets management in a very practical way into business processes and functions. This is achieved through key approval and review processes/controls, and not to impose assets management as an extra requirement."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The purpose of this document is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To provide a clear Information Asset Management Framework that has effective management and accountability structures, governance processes, documented policies and procedures, trained staff and adequate resources. This policy sets out the arrangements that Mid & South Essex NHS Foundation Trust has in place to secure its information assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "type": "table",
+            "sequence_num": 28,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Information Asset"
+                    },
+                    {
+                        "text": "An information asset is a definable piece of information, in any"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 29,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "format and stored in any manner but which is recognised for example as: Valuable to the organisation Not easily replaceable without cost, skill, time etc. Information that would have an effect on the organisation if it could not be accessed or found"
+                    },
+                    {
+                        "text": "Information Asset Assessment"
+                    },
+                    {
+                        "text": "The systematic process for prioritising information assets on the basis of a combination of the severity of consequence and likelihood of occurrence."
+                    },
+                    {
+                        "text": "Information Asset Management"
+                    },
+                    {
+                        "text": "The systematic process for identifying, assessing, mitigating and reviewing information asset risks."
+                    },
+                    {
+                        "text": "General Data Protection Regulation"
+                    },
+                    {
+                        "text": "The General Data Protection Regulation (GDPR) applies across Europe from 25th May 2018. GDPR supersedes the previous UK Data Protection Act 2018 (DPA). GDPR brings significant and wide-reaching changes in the way we deal with data protection. It expands the rights of individuals to control how their personal data is collected and processed, and places a range of new obligations on organisations to be more accountable for data protection."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Role and responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Information Governance & Cyber Security Steering Group is responsible for the review and approval of the information governance and cyber security framework and regulations, including the Information Governance Strategy and Cyber Security Strategy, overseeing the monitoring of the information governance and cyber security framework, ensuring compliance with the Data Security and Protection Toolkit requirements and providing assurance of such for the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.2,
+                "text": "Chief Executive as the Trust's Accountable Officer has ultimate responsibility for compliance with legal requirements and achievement of standards of best practice and will delegate responsibility for the oversight and implementation of information asset management to the Senior Information Risk Owner"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.3,
+                "text": "Senior Information Risk Officer (SIRO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The SIRO is responsible for leading and fostering a culture that values, protects and uses information for the success of the Trust and the benefit of all its patients and staff. This includes:"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensuring the Trust has Information Asset Owners (IAOs) who understand their roles and are supported by the information Assets management specialists that they need."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Being directly accountable to the Board and will own the development and maintenance of information assets management policies, procedures and standards, act as an advocate for information assets on the board and in internal discussions, and provide written advice to the Chief Executive on the content of the Statement of Internal Control (SIC) relating to information Assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The nomination of information asset owners to be ascribed to Information assets. The IAOs will usually be the senior individuals involved with running the relevant business unit, department and/or system."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "That a line of communication is established with Chief Executive to brief, discuss and/or report upon matters on information asset assurance and information asset culture affecting the Trust, including input to the annual NHS IG reporting processes, (Data Security and Protection Toolkit)."
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Signing off an annual assessment of performance, including material from the IAOs and specialists, covering NHS Data Security and Protection reporting requirements."
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.4,
+                "text": "Head of Information Governance and Data Protection Officer"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The data protection officer is responsible for overseeing data protection and Information Governance strategy and implementation to ensure compliance with GDPR requirements. The DPO will monitor internal compliance, inform and advise on data protection obligations, provide advice regarding information asset management."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.5,
+                "text": "Information Governance Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will act as the focal point for information asset management within the Trust including resolution of any pan-organisation or other escalated asset issues raised by Information Asset Owners, Auditors, etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will develop and implement an IG Information Asset Management Policy that is appropriate to all departments within the Trust and their uses of information setting out how compliance will be monitored."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will ensure that the information asset management methods and standards are documented, applied and maintained consistently throughout the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Will ensure that information asset assessment is completed on an annual basis taking account of NHS Information Governance guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The Information Governance Team must also be made aware of any major changes made i.e. change in IAO, change in data processor, change in how data is collected, commissioning or decommissioning of an asset, etc."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.6,
+                "text": "Information Asset Owner (IAO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "\u201cInformation Asset Owners (IAOs) must be senior/responsible individuals involved in running the relevant business. Their role is to understand what information is held, what is added and what is removed, how information is moved, and who has access and why. As a result they are able to understand and address risks to the information, and ensure that information is fully used within the law for the public good. They provide a written judgement of the security and use of their asset annually to support the audit process.\u201d \u2013 Cabinet Office, Guidance on the IAO Role."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IAO's are usually at Director, Assistant Director or General Manager Level. They take ownership of their directorates Information Asset Register making it their responsibility to ensure that it is being maintained as a living document. The IAO can assign day to day responsibility for each Information Asset to an administrator or manager making them an Information Asset Administrator. The IAO's role is also to understand and assess risks to the Information Assets they \u201cown\u201d, to provide assurance to the SIRO on the security and use of those assets, the accuracy and quality of the information contained within the assets on at least an annual basis via an Annual Assurance Statement, and provide information when requested relating the assets owned, this may be in the form of a Freedom of Information (FOI) request. Full details of the role and responsibility of the IAO can be found in appendix 1"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.7,
+                "text": "Information Asset Administrator (IAA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "IAAs provide support to their IAO by ensuring that policies and procedures are followed, recognising actual or potential security incidents/threats, consulting their IAO on incident management and ensuring that Information Asset Registers and Data Flow Mapping activities are accurate and kept up to date. There must be at least one IAA for each IAO and they are typically Service Leads / Line Managers / operational staff responsible for one or more information Assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Full details of the role and responsibility of the IAA can be found in appendix"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Author to rename accordingly (i.e. Procedure)"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "type": "image",
+            "sequence_num": 55,
+            "data": {
+                "url": "MSEPO-21237 Information asset management policy 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.1,
+                "text": "Information Assets are those which are central to the efficient running of the Trust, i.e. patient, finance, stock control etc. Information Assets will also include the computer systems, network hardware and software which are used to process this data."
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.2,
+                "text": "Non-computerised systems holding information must also be included in the Information Asset Register, containing relevant file identifications and storage locations."
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "There are six main categories of Information Asset:"
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information \u2013 this includes databases, system documentation and procedures, archive media and data."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Software \u2013 this includes application programs, systems, development tools and utilities."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Physical \u2013 this includes infrastructure, equipment, furniture and accommodation used for data processing."
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Services \u2013 including computing and communications, heating, lighting, power, air conditioning used for data processing."
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "People \u2013 including qualifications, skills and experience in the use of information systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Other \u2013 for example the reputation and image of the Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where an information asset relates to the whole organisation then ownership resides with the Accountable Officer, e.g. public reputation and image. Where the information asset relates to non-computerised records, ownership resides with the Director responsible for the area of the organisation that it relates to e.g. finance related records would fall under the ownership of the Director of Finance."
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.3,
+                "text": "Information/Software Assets"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Each Information Asset Owner (IAO) is accountable for the implementation and maintenance of Information Assets relating to their system or work area. This role can be delegated to system management staff (IAA). Each IAO is responsible for ensuring that the relevant IAA is advised of any new assets or changes to existing assets so the Information Asset Register/Data Flow Mapping can be updated accordingly. It is the responsibility of IAOs to put in place systems of communication and consultation which allow them, with their IAAs, to undertake the risk assessment, management and reporting/providing evidence to meet the standards outlined in the Data Security and Protection Toolkit."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "Physical Assets"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where ownership of an item resides with the organisation then the Trust will be responsible for implementing and maintaining an asset register. No physical assets that have any capability for holding information can be purchased without the involvement of Digital Services and Information Governance Team."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "Services"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ownership of service related assets and accountability for them resides with the Director responsible for the area in which the person works. Each IAO is responsible for ensuring that new and existing people related assets are correctly reflected in the information asset register. The IG team must be notified if there is going to be change in services for data processing, as this will affect legal documents such as Information Sharing Agreements and Fair Processing/Privacy Notices."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Information asset register"
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "Information Assets must be documented as part of the Trust's Information Asset Register (IAR); without which it would be impossible to implement the required controls across the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.2,
+                "text": "The IAR will be held by the Information Governance Team and maintained and populated by the Trust's nominated Information Asset Owners (IAOs) and Administrators (IAAs). The template can be requested via mse.informationgovernance@nhs.net and is managed by the Information Governance Team, who will:"
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Define the asset register format and methodology"
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Facilitate regular reviews/audits reminding IAOs/IAAs of their responsibility to ensure accuracy of information held about their assets."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Audit of the Information Asset Register"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "In order to ensure the Information Asset Register remains current, accurate and complete it will be subject to regular audits and spot checks. IAOs must undertake regular reviews to manage the IG risks associated with their respective IAs. The IAR will need to be updated regularly and submitted annually to the IG team in line with the requirements of the Data Security and Protection Toolkit (DSPT)."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The IAR will be circulated to all IAO and IAAs listed on the Register, to be reviewed and returned by a specified deadline. This review will take place at least annually as a minimum."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Training requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Information Asset Owners and Information Asset Administrators are required to complete their annual Information Governance Training and the Information Asset Management training module on the Trust LEARN system."
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Monitoring and audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "type": "table",
+            "sequence_num": 84,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/ monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Review of Information Asset Register"
+                    },
+                    {
+                        "text": "Trust-wide audit/review"
+                    },
+                    {
+                        "text": "Information Governance"
+                    },
+                    {
+                        "text": "Quarterly"
+                    },
+                    {
+                        "text": "IG&CSG"
+                    },
+                    {
+                        "text": "SIRO"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Approval and implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.1,
+                "text": "All policies, procedures and guidelines will be approved by the Information and Cyber Security Steering Group (IGCSSC), which is the specialist group with the authority to approve Information Governance guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 9.2,
+                "text": "It is the author's responsibility to inform the IG&CSSC of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 3)"
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Data Security and Protection Toolkit (https://www.dsptoolkit.nhs.uk/)"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1 \u2013 Job description: Information Asset Owner (IAO)"
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Purpose of the Job:"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Asset Owners are senior individuals involved in running the relevant business."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The IAO's role is to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Specific Responsibilities:"
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "i.  Information Asset Registers are maintained including recording and reviewing of information flows;"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Nominated Departmental and Divisional FOI Leads (Information Asset Owners) are also responsible for:"
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information not included in the publication scheme is created and stored in accordance with Trust procedures and processes so that it can be found easily when required"
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 2 \u2013 Job description: Information Asset Administrator (IAA)"
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Purpose of the Job:"
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information Asset Administrators will provide support to their IAO to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Specific Responsibilities:"
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "a) Maintenance of Information Asset Registers"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "b) Ensure compliance with data sharing agreements within the local area"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "c) Ensure information handling procedures are fit for purpose and properly applied"
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "d) Under the direction of the IAO, ensure that personal information is not unlawfully exploited"
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "e) Act upon new information handling requirements and ensure the relevant IAO is consulted over appropriate procedures"
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "f) Act upon potential or actual security incidents and consult the appropriate IAO"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "g) Report to the relevant IAO on the current state of the information asset"
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "h) Act as a first port of call for local managers and staff seeking advice on the handling of information"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "i) Under the direction of the relevant IAO ensure that information is securely destroyed when there is no further requirement for it (Please refer to the Trust's Retention and Destruction of Records Policy for further information."
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "j) Ensure appropriate access to the system/s for end users, including activation/deactivation of user accounts, revising roles based access and issuing passwords for all level users."
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "k) Be thoroughly conversant with all the features and functionality of the system/s."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "l) Liaise with software vendors to resolve application problems."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "m) Liaise  with  the Trust  IT  Department  to  resolve  hardware,  communications and networking problems."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "n) Work with the department to document and update business continuity procedures in the event of a systems failure."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "o) Cascade training to staff on the use of the departmental systems."
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "p) Ensure that training records are kept up to date."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Identify and cascade additional end-user training/guidance following systems upgrade testing."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information asset management policy / MSEPO-21237 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Information asset management policy / MSEPO-21237 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix3: Preliminary equality analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to: Information asset management policy / MSEPO-21237 (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "type": "table",
+            "sequence_num": 127,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 128,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "To provide clarity on the purpose of the maintaining an Information Asset Register."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To comply with the Data Security Protection Toolkit Assertions, GDPR and the Data Protection Act 2018"
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "The Trust will benefit as this will contribute to the data protection compliance legislation that the Trust must maintain."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No. This is a record of the types, locations and formats of information that the Trust holds."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 and 2."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 129,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Goolam Ramjane"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "Information Governance Manager"
+                    },
+                    {
+                        "text": "20 September 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        }
+    ]
+}

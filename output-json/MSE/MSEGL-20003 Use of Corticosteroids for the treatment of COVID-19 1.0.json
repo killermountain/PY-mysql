@@ -1,0 +1,443 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-20003"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "04/12/2020"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "03/12/2023"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "BTUH Medicines Management Committee (29/10/2020), MEH Medicines Optimisation and Safety group (16/11/2020), SUH Medicine Optimisation Committee (19/10/2020)"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group (03/11/2020)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Guideline on use of Corticosteroids for the treatment of COVID-19"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Corticosteroids, and in particular dexamethasone and hydrocortisone1-3, have been demonstrated to have a place in the management of patients with COVID-19."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Indication"
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Corticosteroids  should  not  normally  be  prescribed in  patients  with  COVID-19  that is not severe or critical, because there is the possibility of harm to such patients1,2."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For the treatment of severe and critical COVID-19 infection patients with any of the following:"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "acute respiratory distress syndrome (ARDS)"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "sepsis or septic shock"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "other conditions that would normally need life-sustaining therapies such as ventilation or vasopressor therapy"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "signs of severe respiratory distress (i.e. accessory muscle use, inability to complete full sentences; and in children, very severe chest wall in-drawing, grunting, central cyanosis, or presence of any other general danger signs)."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "oxygen saturation <90% (or deteriorating) on air"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "increased respiratory rate"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Treatment"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For treating COVID-19:"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "- Dexamethasone can be given orally or intravenously"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "- Hydrocortisone can only be given intravenously."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The recommended dosage and duration of treatment for adults is:"
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Oral: Prescribe tablets for patients able to swallow and in whom there are no significant concerns about enteral absorption"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Dexamethasone 6mg (3 x 2mg tablets) ONCE daily 7 to 10 days1,2,3,4 Dexamethasone solution also available"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Intravenous: only use where tablets or oral solution are not appropriate, or not available"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Dexamethasone: 6 mg once a day intravenously for 7 to 10 days (1.8 ml of 3.3 mg/ml ampoules [5.94 mg])."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Hydrocortisone: 50 mg every 8 hours intravenously 1,2,3,5."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Lower doses of hydrocortisone can be continued for up to 28 days for patients with septic shock."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Treatment should stop if the patient is discharged from hospital before the 10 day course is completed."
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Pregnancy and breastfeeding"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 40.0,
+                "text": "In  pregnancy  or  breastfeeding  women;  prednisolone   mg  PO  once  daily  (or  IV hydrocortisone 80mg twice a day) should be used instead of dexamethasone1,3,4."
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Paediatric dosing"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "type": "table",
+            "sequence_num": 30,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Drug"
+                    },
+                    {
+                        "text": "Route"
+                    },
+                    {
+                        "text": "Formulation"
+                    },
+                    {
+                        "text": "Age / Weight"
+                    },
+                    {
+                        "text": "Dose"
+                    },
+                    {
+                        "text": "Duration"
+                    },
+                    {
+                        "text": "Comments"
+                    },
+                    {
+                        "text": "Hydrocortisone"
+                    },
+                    {
+                        "text": "PO/ NG/ IV"
+                    },
+                    {
+                        "text": "Oral tablets/ solution for injection"
+                    },
+                    {
+                        "text": "Neonates including preterm infants with a CGA of \u226444 weeks"
+                    },
+                    {
+                        "text": "0.5 mg/kg every 12 hours for 7 days then 0.5 mg/kg once daily for 3 days"
+                    },
+                    {
+                        "text": "Gastric protection should be co-prescribed"
+                    },
+                    {
+                        "text": "Dexamethasone"
+                    },
+                    {
+                        "text": "PO/ NG/ IV"
+                    },
+                    {
+                        "text": "Oral solution/ tablet/ solution for injection"
+                    },
+                    {
+                        "text": "All >44 weeks CGA"
+                    },
+                    {
+                        "text": "150 micrograms/ kg (base) once daily (max: 6 mg/dose)"
+                    },
+                    {
+                        "text": "10 days"
+                    },
+                    {
+                        "text": "Caution in dosing \u2013 doses are expressed in terms of dexamethasone base Gastric protection should be co-prescribed"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Notes"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Consider the use of proton pump inhibitors in those on full anticoagulation or at risk of peptic ulcer disease"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If not known to have diabetes check blood glucose and request HbA1c prior to steroids to establish baseline then continue to randomly monitor daily either pre meal or 2hrs after a lunch or evening meal. If any blood glucose is > 12 mmol/l then the frequency of testing should be increased to four times a day and referral made to the Diabetes Inpatient Service"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If known diabetes monitor blood glucose four times a day, before or 2 hours after a meal and before bed and refer to the Diabetes Inpatient Service"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Consider discontinuation of oral steroids given for other health conditions and restart if necessary when dexamethasone/hydrocortisone discontinued"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Guideline on use of Corticosteroids for the treatment of COVID-19/MSEGL-20003/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        }
+    ]
+}

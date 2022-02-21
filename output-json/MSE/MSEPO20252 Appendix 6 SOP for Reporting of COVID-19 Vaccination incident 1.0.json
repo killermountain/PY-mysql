@@ -1,0 +1,361 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Standard Operating Procedure for  Reporting of COVID-19 Vaccination incidents"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This SOP describes the process for reporting COVID-19 vaccination incidents at any stage of the process."
+            },
+            "type": "ListItem",
+            "sequence_num": 2
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This procedure covers the entire process including (and not exhaustive to) ordering vaccines, receipt, handling, storage, preparation, administration and post-administration services. Existing Trust processes must continue to be followed for all incidents. This SOP complements these policies, and does not replace them."
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSEPO-19014 Policy for Management of Incidents"
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSEPO-19015 Procedure Report Management of Incidents and Serious Incidents"
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "MSEPO-20206 Management of Learning from Medication Error Incidents."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "It is the responsibility of everyone involved in the COVID-19 vaccination programme to ensure that any incidents or enquiries are identified and escalated appropriately, by following this procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.2,
+                "text": "The Chief Pharmacist (or deputy in their absence) must acknowledge the received Regional Vaccination Operations Centre (RVOC) Incident Notification and Reporting Proforma and escalate to RVOC without delay."
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "The Site Vaccination Centre Nursing Lead is responsible for administration and clinical incident reporting and escalation; specific but not exhaustive to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Completing the local Datix/Ulysses incident report"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Completing a MHRA Yellow Card for reporting of adverse effect/side effects."
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Completing the East of England: COVID-19 Vaccination RVOC Incident Notification and Reporting Proforma (MSEPO20252- Appendix 7) and sending to the Chief Pharmacist immediately."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.4,
+                "text": "The Pharmacy Vaccination Hub Operational Lead (PVHL) is responsible for defects, ordering or pharmacy storage/handling incident reporting and escalation; specific but not exhaustive to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Completing the local Datix/Ulysses incident report"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Completing the East of England: COVID-19 Vaccination RVOC Incident Notification and Reporting Proforma (MSEPO20252- Appendix 7) and sending to the Chief Pharmacist immediately."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "All administration and clinical vaccination centre staff are responsible for escalating to the Vaccination Centre Nursing Lead immediately on identification of any type of incident/error regardless of impact on patient safety. Staff must first ensure the"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "immediate patient safety of the patient in line with standard Trust clinical policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.6,
+                "text": "All pharmacy vaccination centre staff are responsible for escalating to the Pharmacy Vaccination Hub Operational Lead and Vaccination Centre Nursing Lead immediately on identification of any type of incident/error regardless of impact on patient safety. Staff must first ensure the immediate patient safety of the patient in line with standard Trust clinical policies and procedures."
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.7,
+                "text": "This SOP must be followed with reference to MSEPO20252: Trust COVID \u2013 19 Vaccines Handling and management Policy 2020-21."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "Ensure actions taken to protect the immediate safety of patients and staff (i.e. treatment for adverse reactions, removal of staff/equipment to prevent further injury)."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "Administration and clinical vaccination centre staff report incident immediately to the vaccination centre nursing Lead (VCNL). Any incidents related to pharmacy processes must be escalated immediately to the Pharmacy Vaccination Hub Operational Lead (PVHL) to follow up."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.1,
+                "text": "Vaccination Centre Nursing Lead (VCNL) / Pharmacy Vaccination Hub Operational Lead (PVHL) obtains all information required from Vaccination centre staff and patient (where possible) to enable completion of incident forms."
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.2,
+                "text": "VCNL/PVHL accesses MHRA yellow card reporting website https://coronavirus- yellowcard.mhra.gov.uk/ and submit report for all adverse reaction/side effects."
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.3,
+                "text": "VCNL/PVHL accesses the hospital site incident reporting system (Datix or Ulysses) and completes incident report as per hospital site standard process."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "5.3.1  The location coding must be selected as:"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Directorate: Corporate"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Specialty: COVID-19 VACCINATION CENTRE"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Location (type): COVID-19 VACCINATION CENTRE"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Location (exact): [select hospital site] COVID-19 VACCINATION CENTRE"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.4,
+                "text": "VCNL/PVHL completes a blank RVOC Incident Notification and Reporting Proforma (MSEPO-20252 Appendix 7), including details of the completed yellow card and Datix/Ulysses reporting number."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.5,
+                "text": "VCNL/PVHL emails immediately to evelyn.allen@southend.nhs.uk"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.1,
+                "text": "The emailed RVOC Incident Notification and Reporting Proforma is reviewed and requests further information from reporter where needed."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "Decision whether to follow fast track incident response pathway or standard report pathway as per the national SOP."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.3,
+                "text": "Email sent to region using the designated email heading, or out of hours contact details held by the Chief Pharmacist."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.1,
+                "text": "Incidents should be investigated, documented and completed on the local incident report system (Datix/Ulysses) as per Trust Policies MSEPO-19014, MSEPO-19015 and MSEPO-20206. Any incident meeting the threshold for an Immediate Management Report (IMR) must be notified to the Chief Pharmacist immediately by the VHNL/PVHS."
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.2,
+                "text": "Incidents should be investigated and actioned using the latest version of the Clinical Advice and Support document links provided by NHS East of England (NHS-EI-RVOC- CV-Clinical Advice and Support). This is provided via the Chief Pharmacist to the VHNL and PVHS."
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.3,
+                "text": "Further actions requested by the regional or national incident escalation process will be disseminated by the Chief Pharmacist for action by the VHNL and/or PVHS."
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "East of England: Covid Vaccination RVOC Incident Notification and Reporting Proforma, NHS England and NHS Improvement. Version 1.1 05 January 2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "COVID-19 Vaccination Clinical Workstream Standard operating procedure Management of COVID-19 vaccination clinical incidents and enquiries. NHS England and NHS Improvement. Version 2.0 18 December 2020"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "NHS-EI-RVOC-CV Clinical Advice and Support. Version 1.0. 05 January 2021."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust COVID-19 Vaccine Handling and Management Policy Appendix 6 / MSEPO20252 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Department of Pharmacy  Page  of   Version 1.0, 20/01/2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        }
+    ]
+}

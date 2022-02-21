@@ -1,0 +1,888 @@
+{
+    "elements": [
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Mid & South Essex NHS Foundation Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 1
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 7,
+                "table_items": [
+                    {
+                        "text": "Ref:"
+                    },
+                    {
+                        "text": "MSEGL-21015"
+                    },
+                    {
+                        "text": "Version:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "13/07/2021"
+                    },
+                    {
+                        "text": "Review date:"
+                    },
+                    {
+                        "text": "12/07/2024"
+                    },
+                    {
+                        "text": "Approved by:"
+                    },
+                    {
+                        "text": "Medicines Assurance Group Chair action, 29/06/2021"
+                    },
+                    {
+                        "text": "Ratified by:"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "13/07/2021"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Vancomycin intermittent infusion guidelines for adult patients 1  Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 3
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "This guidance covers the use of intravenous vancomycin prescribed as intermittent infusion in adult patients."
+            },
+            "type": "ListItem",
+            "sequence_num": 4
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.2,
+                "text": "For patients on continuous vancomycin infusion in the hospital, please refer to the local site guidance."
+            },
+            "type": "ListItem",
+            "sequence_num": 5
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.3,
+                "text": "The aim of therapy is to maintain an appropriate vancomycin level to ensure efficacy whilst minimising risk of nephrotoxicity and oto-toxicity."
+            },
+            "type": "ListItem",
+            "sequence_num": 6
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.4,
+                "text": "Vancomycin is a glycopeptide antibiotic which has bactericidal activity against aerobic and anaerobic Gram-positive bacteria including multi-resistant staphylococcus aureus (MRSA). However, there are reports of Staphylococcus aureus with reduced susceptibility to glycopeptides. There are increasing reports of Vancomycin resistant enterococci (VRE). Please review with microbiology consultant if a patient is known to be colonised with VRE"
+            },
+            "type": "ListItem",
+            "sequence_num": 7
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "The guidelines aim to provide recommendations on dosing and monitoring of vancomycin levels in adult patients. It is for use by all healthcare professionals across MSE Foundation Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Dosing and administration"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.1,
+                "text": "Reconstitution"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "At the time of use, add 10 ml of sterile Water for Injections to each 500 mg vial of Vancomycin Hydrochloride and 20ml to each 1g vial to give 50mg/ml solution."
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reconstituted solutions would require further dilution prior to administration; see Table 1 below: Vancomycin loading dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.2,
+                "text": "Loading Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A loading dose of 25\u201330 mg/kg of body weight is used to facilitate rapid attainment of target trough serum concentration."
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The initial loading dose should be based on total body weight."
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where the patient cannot be weighed, use estimated ideal body weight(IBW)"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Where the patient looks underweight, use estimated weight, do NOT use IBW"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "In the critically ill patient with renal insufficiency, the initial loading dose should NOT be reduced."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Loading dose does not take account of renal function; on rare occasions a patient's clearance of vancomycin may be so high that the maintenance dose is higher than the loading dose. In these circumstances, give the maintenance dose as a loading dose instead."
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.3,
+                "text": "Follow the recommendation in Table 1 for initial loading dose."
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.4,
+                "text": "Table1: Vancomycin LOADING dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "type": "table",
+            "sequence_num": 23,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 4,
+                "table_items": [
+                    {
+                        "text": "Actual Body Weight"
+                    },
+                    {
+                        "text": "Dose"
+                    },
+                    {
+                        "text": "Volume Sodium Chloride 0.9% OR Glucose 5% (\u2264 5mg/ml)"
+                    },
+                    {
+                        "text": "Duration of Infusion"
+                    },
+                    {
+                        "text": "<40kg"
+                    },
+                    {
+                        "text": "750mg"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "90mins"
+                    },
+                    {
+                        "text": "40-59kg"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "(120mins) 2hours"
+                    },
+                    {
+                        "text": "60-90kg"
+                    },
+                    {
+                        "text": "1500mg"
+                    },
+                    {
+                        "text": "500ml"
+                    },
+                    {
+                        "text": "(180mins) 3hours"
+                    },
+                    {
+                        "text": ">90kg"
+                    },
+                    {
+                        "text": "2000mg"
+                    },
+                    {
+                        "text": "500ml"
+                    },
+                    {
+                        "text": "(240mins) 4hours"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Above quoted volumes are for peripheral administration only."
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Higher concentrations (> 5mg/ml) should be infused via a central line."
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.5,
+                "text": "Administration"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Vancomycin should be given via a slow intravenous infusion."
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Rapid administration may be associated with infusion related reactions such as hypotension, flushing, erythema, urticaria and pruritus, collectively known as the \u2018'Red man syndrome''. To avoid this, the rate of infusion should not exceed 10mg/min"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Concomitant administration of anaesthetic agents increases the frequency of these reactions."
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To minimize pain and thrombophlebitis, administer the medicinal product slowly as a dilute solution and change the infusion sites regularly."
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.6,
+                "text": "Maintenance Dose"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Recommended dose 15-20mg/kg body weight 12hourly (Max 2g per dose). See Table 2 for dosing."
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Maintenance dose is based on the patient's renal function, and adjusted for vancomycin serum concentration."
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Estimate renal function using creatinine clearance."
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use IBW to calculate Creatinine clearance using Cockcroft Gault equation"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.7,
+                "text": "Estimating Creatinine Clearance"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 50.0,
+                "text": "IBW= Female = 45.5 kg + (2.3 x number of inches over 5 ft height) Male =  kg + (2.3 x number of inches over 5 ft height)"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Creatinine clearance (ml/min) = [140 \u2013 Age (years)] x Ideal body weight (kg) x F"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Serum creatinine (\uf06dmol/L)"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Where F=1.04 (female) or 1.23 (male)"
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "(NB This method is not reliable if renal function is fluctuating)."
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.8,
+                "text": "Obese Patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Those who are grossly obese (greater than 20% over their ideal body weight) should receive a higher dose due to the increase in plasma volume. The dose should not exceed 1.5g BD and this should be infused over at least 180 minutes"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.9,
+                "text": "Table 2: MAINTENANCE DOSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "type": "table",
+            "sequence_num": 45,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 5,
+                "table_items": [
+                    {
+                        "text": "CrCl (ml/min)"
+                    },
+                    {
+                        "text": "DOSE"
+                    },
+                    {
+                        "text": "VOLUME 0.9% Sodium chloride OR 5% Glucose"
+                    },
+                    {
+                        "text": "INFUSION DURATION"
+                    },
+                    {
+                        "text": "DOSE INTERVAL (Also post loading dose)"
+                    },
+                    {
+                        "text": "TIMING of FIRST LEVELS"
+                    },
+                    {
+                        "text": ">90"
+                    },
+                    {
+                        "text": "1500mg"
+                    },
+                    {
+                        "text": "500ml"
+                    },
+                    {
+                        "text": "180mins"
+                    },
+                    {
+                        "text": "12hrs"
+                    },
+                    {
+                        "text": "Trough level just prior to the 3rd or 4th maintenance dose, whichever falls before morning dose."
+                    },
+                    {
+                        "text": "51-89"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "12hrs"
+                    },
+                    {
+                        "text": "30-50"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "24hrs"
+                    },
+                    {
+                        "text": "29-10"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "48hrs"
+                    },
+                    {
+                        "text": "Trough level at 46-48hrs post loading dose"
+                    },
+                    {
+                        "text": "<10"
+                    },
+                    {
+                        "text": "1000mg"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "Re-dose based on level"
+                    },
+                    {
+                        "text": "Intermittent haemodialysis (Not dialysed)"
+                    },
+                    {
+                        "text": "1g"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "Re-dose post dialysis based on level"
+                    },
+                    {
+                        "text": "Trough level pre-dialysis"
+                    },
+                    {
+                        "text": "Peritoneal Dialysis (Not dialysed)"
+                    },
+                    {
+                        "text": "1g"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "Re-dose based on level"
+                    },
+                    {
+                        "text": "Trough level at 48- 96hours post dose"
+                    },
+                    {
+                        "text": "Continuous Renal replacement (Dialysed)"
+                    },
+                    {
+                        "text": "1g"
+                    },
+                    {
+                        "text": "250ml"
+                    },
+                    {
+                        "text": "120mins"
+                    },
+                    {
+                        "text": "Re-dose based on level"
+                    },
+                    {
+                        "text": "24hrs post dose"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Monitoring and dose adjustments"
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Refer to Table 2 for the timing of the first level."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Bloods for vancomycin levels should be taken at the scheduled time immediately before the next dose is due."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Take a single venous sample (specimen container: Vacutainer SST 367354 yellow top)."
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Continue vancomycin administration after blood has been taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Do NOT await level result before giving the next dose unless:"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A) Patient is renally impaired;"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "B) The previous level was high."
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Peak levels are NOT required, unless recommended by a microbiologist;"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The pre-dose serum level should be between 10-20 mg/litre;"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Expected target range in mild-moderate infection: 10-15mg/l;"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Expected target range in endocarditis, staph aureus, severe and any other deep seated infections: 15-20mg/l;"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Check the results, review and adjust subsequent doses, according to Table 3 if the serum level is outside of the reference range."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.1,
+                "text": "Table3:  TARGET LEVEL and DOSE ADJUSTMENT"
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "type": "table",
+            "sequence_num": 60,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Pre-dose level <10mg/l"
+                    },
+                    {
+                        "text": "Check to ensure that previous dose(s) have been given as prescribed and no missed doses. If the levels appear genuine, consider increasing the dose and/or frequency. Increase dose step wise by 500mg, up to a maximum of 1.5g bd. Repeat level in 24hrs."
+                    },
+                    {
+                        "text": "Pre-dose level 10-20mg/L"
+                    },
+                    {
+                        "text": "Continue dose and monitoring as above."
+                    },
+                    {
+                        "text": "In deep seated infections, if trough >10mg/L but <15mg/L"
+                    },
+                    {
+                        "text": "Check to ensure that previous dose(s) have been given as prescribed and no missed doses. If the levels appear genuine, consider increasing the dose and/or frequency. Increase dose step wise by 500mg, up to a maximum of 1.5g bd. Repeat level in 24hrs."
+                    },
+                    {
+                        "text": "Pre-dose level >20mg/L"
+                    },
+                    {
+                        "text": "Check when the assay was taken in relation to the vancomycin dose - high levels can result from samples being taken too soon after the infusion. Check where blood sample was taken from \u2013 false high levels can be obtained from samples taken from the same line that the drug was infused through. Check patient's renal function. Increase in levels may be related to a decreased creatinine clearance. If level appears genuinely high, withhold the dose, and repeat the level until it is in normal range. Then widen the dosing interval from 12hrly to 24 hrly, or reduce the dose stepwise by 250mg-500mg daily, repeat level after 24hrs."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Injectable Medicines Guide. https://medusa.wales.nhs.uk/IVGuideDisplayNewFormat.asp Date published: 01/04/2020; Date accessed: 25/06/2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 62
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "BNF online. ---https://www.medicinescomplete.com/#/content/bnf/_664675707  Last Update: 02/12/2020; Date accessed: 25/06/2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Summary of Product Characteristics: Vancomycin 1g Powder for Solution. Bowmed Ibisqus Ltd."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Updated: 19/09/2019; Date accessed 25/06/2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Intravenous Vancomycin Use in Adults (Intermittent Infusion). Health Improvement Scotland, SAPG Published: June 2019."
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Online Renal Drug Handbook - last reviewed 09/09/2019; Date accessed 25/06/2021"
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Vancomycin Intermittent Infusion Guidelines for Adult Patients/ MSEGL-21015/1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        }
+    ]
+}

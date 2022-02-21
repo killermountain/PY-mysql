@@ -1,0 +1,3269 @@
+{
+    "elements": [
+        {
+            "type": "image",
+            "sequence_num": 1,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.001.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 2,
+            "data": {
+                "num_rows": 16,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Title:"
+                    },
+                    {
+                        "text": "BLOOD GAS SAMPLE ANALYSIS USING THE RADIOMETER ABL90 FLEX PLUS BLOOD GAS ANALYSER"
+                    },
+                    {
+                        "text": "Document Reference/Register no:"
+                    },
+                    {
+                        "text": "MSESOP-21002"
+                    },
+                    {
+                        "text": "Version Number:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Document type: (Policy/ Guideline/ SOP/CCP)"
+                    },
+                    {
+                        "text": "SOP"
+                    },
+                    {
+                        "text": "To be followed by: (Target Staff)"
+                    },
+                    {
+                        "text": "All ward staff required to carry out blood gas sample analysis"
+                    },
+                    {
+                        "text": "Ratification Issue Date: (Date document is uploaded onto the intranet)"
+                    },
+                    {
+                        "text": "04 May 2021"
+                    },
+                    {
+                        "text": "Review Date:"
+                    },
+                    {
+                        "text": "03 May 2024"
+                    },
+                    {
+                        "text": "Key word(s) to search for document on intranet:"
+                    },
+                    {
+                        "text": "Blood gas, Radiometer"
+                    },
+                    {
+                        "text": "Developed in response to: (National Guidance/Recommendations (i.e. NICE; RCOG)"
+                    },
+                    {
+                        "text": "Radiometer ABL90 Flex Plus Operator Manual MHRA Device bulletin. Management and use if IVD Point of care test devices, 2013 Point-of-care testing (POCT) \u2013 Requirements for quality and competence ISO 22870:2016"
+                    },
+                    {
+                        "text": "Contributes to HSC Act 2008 (Regulated Activities) Regulations 2014(Part 3); and CQC Regulations 2009 (Part 4) CQC Fundamental Standards of Quality and Safety:"
+                    },
+                    {
+                        "text": "12"
+                    },
+                    {
+                        "text": "Issuing Division/Directorate:"
+                    },
+                    {
+                        "text": "Pathology"
+                    },
+                    {
+                        "text": "Author/Contact: (Asset Administrator)"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "Hospital Sites: (tick appropriate box(s) to indicate status of policy review i.e. joint/ independent)"
+                    },
+                    {
+                        "text": "\u2610 MSE NHS Foundation Trust \u2612 Basildon Hospital \u2610 Broomfield Hospital \u2612 Southend Hospital \u2610 Other (please state)"
+                    },
+                    {
+                        "text": "Approval Group / Committee(s):"
+                    },
+                    {
+                        "text": "BTUH POCT Committee (Chair) SUH POCT Committee (Chair) MSE Pathology Governance Committee"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    },
+                    {
+                        "text": "Professionally Approved by: (Asset Owner)"
+                    },
+                    {
+                        "text": "Michaela Dowley"
+                    },
+                    {
+                        "text": "Consultant Clinical Biochemist"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    },
+                    {
+                        "text": "Consultation:"
+                    },
+                    {
+                        "text": "(Refer to page 2)"
+                    },
+                    {
+                        "text": "Ratification Group(s):"
+                    },
+                    {
+                        "text": "Joint Document Management Group"
+                    },
+                    {
+                        "text": "04 May 2021"
+                    },
+                    {
+                        "text": "Executive and Clinical Directors (Communication of minutes from Joint Document Management Group)"
+                    },
+                    {
+                        "text": "June 21"
+                    },
+                    {
+                        "text": "Distribution Method:"
+                    },
+                    {
+                        "text": "\u2612 Trust Intranet"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 3,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.002.png"
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 4,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consulted With: (Must include Specialist Pharmacists if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Dr Sarah Mapplebeck"
+                    },
+                    {
+                        "text": "Consultant Clinical Biochemist"
+                    },
+                    {
+                        "text": "19 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 5,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Post/ Approval Committee/ Group: (Must include Medication Assurance Committee if the document has any reference to medication)"
+                    },
+                    {
+                        "text": "Date:"
+                    },
+                    {
+                        "text": "Approved for SUH by Dr Sarah Mapplebeck (POCT Committee Chair)"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    },
+                    {
+                        "text": "Approved for BTUH by Michaela Dowley (POCT Committee Chair)"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    },
+                    {
+                        "text": "MSE Pathology Governance Committee"
+                    },
+                    {
+                        "text": "22 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 6,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 1,
+                "table_items": [
+                    {
+                        "text": "Related Trust Policies (to be read in conjunction with)"
+                    },
+                    {
+                        "text": "MSEPO-20209 Health and Safety Policy MSEPO-19014 Policy for Management of Incidents CP/PC/00028 Point of Care Testing policy and procedure MSEPO-21052 Management of needlestick sharps and splash injuries for staff CP/PO/00021 Decontamination, disinfection and sterilisation policy"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 7,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Document Review History:"
+                    },
+                    {
+                        "text": "Version No:"
+                    },
+                    {
+                        "text": "Authored/Reviewer:"
+                    },
+                    {
+                        "text": "Summary of amendments/ Record documents superseded by:"
+                    },
+                    {
+                        "text": "Issue Date:"
+                    },
+                    {
+                        "text": "1.0"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "Document reviewed to include SUH after implementation of Radiometer blood gas machines and addition of further information. Supersedes CP/GU00478 - Blood Gas sample analysis using the radiometer ABL90 Flex Plus blood gas analyser, version 1.0. CPPC00060 Blood Gas, Electrolytes and Haemoglobin derivatives - Measurement using Roche Cobas b221 Blood Gas Analyser \u2013 SOP."
+                    },
+                    {
+                        "text": "04 May 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Contents"
+            },
+            "type": "ListItem",
+            "sequence_num": 8
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.0,
+                "text": "Introduction ................................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 9
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "Principle of the Test ...................................................................................................... 4"
+            },
+            "type": "ListItem",
+            "sequence_num": 10
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.0,
+                "text": "Clinical Indications ........................................................................................................ 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 11
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.0,
+                "text": "Scope ........................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 12
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 5.0,
+                "text": "Definitions ..................................................................................................................... 5"
+            },
+            "type": "ListItem",
+            "sequence_num": 13
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 6.0,
+                "text": "Role & Responsibilities within the Trust ........................................................................ 6"
+            },
+            "type": "ListItem",
+            "sequence_num": 14
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 7.0,
+                "text": "Instructions for use ....................................................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 15
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 8.0,
+                "text": "Reagents, Consumables and Equipment ..................................................................... 8"
+            },
+            "type": "ListItem",
+            "sequence_num": 16
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "Calibration and Quality Control Procedures ................................................................ 11  Performing a Patient Sample ...................................................................................... 13  Running the sample .................................................................................................... 15  Maintenance ............................................................................................................... 22  Training Requirements ............................................................................................... 23  Monitoring and Audit ................................................................................................... 23  Approval and Implementation ..................................................................................... 24  Equality Impact Assessment ....................................................................................... 24  References ................................................................................................................. 24 Appendix 1: Analysing a blood gas syringe sample ........................................................... 25 Appendix 2: Preliminary Equality Analysis ......................................................................... 26"
+            },
+            "type": "ListItem",
+            "sequence_num": 17
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 1.0,
+                "text": "Introduction"
+            },
+            "type": "ListItem",
+            "sequence_num": 18
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.1,
+                "text": "The Radiometer ABL90 Flex Plus Blood Gas analyser is designed for use at Point of Care, to produce rapid blood gas results for healthcare workers treating critically ill patients. This procedure describes when and how to correctly use the analyser in order to minimise risk to both patients and user. Only individuals trained and competence assessed in the use of the Blood Gas analyser are authorised to use this procedure. This document has been written to supplement the practical training and competence assessment offered via the Point of Care Testing (POCT) team."
+            },
+            "type": "ListItem",
+            "sequence_num": 19
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 1.2,
+                "text": "Depending upon combination and configuration the ABL90 Flex Plus Blood Gas Analyser is used for the determination of the following parameters in whole blood and Quality Control materials:"
+            },
+            "type": "ListItem",
+            "sequence_num": 20
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "pH/blood gas: pH (acidity)"
+            },
+            "type": "ListItem",
+            "sequence_num": 21
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "pCO2 (carbon dioxide tension)"
+            },
+            "type": "ListItem",
+            "sequence_num": 22
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "pO2 (oxygen tension)"
+            },
+            "type": "ListItem",
+            "sequence_num": 23
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Oximetry: ctHb (total hemoglobin concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 24
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "sO2 (oxygen saturation)"
+            },
+            "type": "ListItem",
+            "sequence_num": 25
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "FO2Hb (fraction of oxyhemoglobin in total hemoglobin)"
+            },
+            "type": "ListItem",
+            "sequence_num": 26
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "FCOHb (fraction of carboxyhemoglobin in total hemoglobin)"
+            },
+            "type": "ListItem",
+            "sequence_num": 27
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "FHHb (fraction of deoxyhemoglobin in total hemoglobin)"
+            },
+            "type": "ListItem",
+            "sequence_num": 28
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "FMetHb (fraction of methemoglobin in total hemoglobin)"
+            },
+            "type": "ListItem",
+            "sequence_num": 29
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "FHbF (fraction of fetal hemoglobin)"
+            },
+            "type": "ListItem",
+            "sequence_num": 30
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ctBil (concentration of total bilirubin in plasma)"
+            },
+            "type": "ListItem",
+            "sequence_num": 31
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Electrolytes: cK+ (potassium ion concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 32
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "cNa+ (sodium ion concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 33
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "cCa2+ (calcium ion concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 34
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "cCl- (chloride ion concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 35
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Metabolites: cGlu (D-glucose concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 36
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "cLac (L(+)-lactate concentration)"
+            },
+            "type": "ListItem",
+            "sequence_num": 37
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "cCrea (Creatinine Concentration)*"
+            },
+            "type": "ListItem",
+            "sequence_num": 38
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "cUrea/BUN (Urea/BUN concentration)*"
+            },
+            "type": "ListItem",
+            "sequence_num": 39
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "* Parameters only available on analyzers configured to feature creatinine and urea/BUN."
+            },
+            "type": "ListItem",
+            "sequence_num": 40
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Principle of the Test"
+            },
+            "type": "ListItem",
+            "sequence_num": 41
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.1,
+                "text": "There are four different measuring principles employed in the sensors in the ABL90 FLEX Plus analyser."
+            },
+            "type": "ListItem",
+            "sequence_num": 42
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2.1.1 Potentiometry: The potential of an electrode chain is measured by a voltmeter,"
+            },
+            "type": "ListItem",
+            "sequence_num": 43
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "and related to the concentration of the sample (the Nernst equation). The potentiometric measuring principle is applied in the pH, pCO2, cK+, cNa+, cCa2+, cUrea/BUN and cCl- sensors."
+            },
+            "type": "ListItem",
+            "sequence_num": 44
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2.1.2 Amperometry: The magnitude of an electrical current that flows through an electrode"
+            },
+            "type": "ListItem",
+            "sequence_num": 45
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "chain is proportional to the concentration of the substance that is oxidized or reduced at an electrode in the chain. The amperometric measuring principle is applied in the cGlu, cLac and cCrea (creatinine) sensors."
+            },
+            "type": "ListItem",
+            "sequence_num": 46
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2.1.3 Optical pO2: The optical system for pO2 is based on the ability of O2 to reduce the intensity and time constant of the phosphorescence from a phosphorescent dye that is in contact with the sample. This measuring principle is applied in the pO2 sensor."
+            },
+            "type": "ListItem",
+            "sequence_num": 47
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "2.1.4 Spectrophotometry:  Light  passes  through  a  cuvette  that  contains  a  haemolysed  blood sample. The absorption spectrum is used to calculate oximetry parameters."
+            },
+            "type": "ListItem",
+            "sequence_num": 48
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 3.0,
+                "text": "Clinical Indications"
+            },
+            "type": "ListItem",
+            "sequence_num": 49
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.1,
+                "text": "Blood gas analysis is used as a tool to enable clinical staff to:"
+            },
+            "type": "ListItem",
+            "sequence_num": 50
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Establish the diagnosis and severity of respiratory failure"
+            },
+            "type": "ListItem",
+            "sequence_num": 51
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Manage and guide the treatment of patients in intensive therapy units"
+            },
+            "type": "ListItem",
+            "sequence_num": 52
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Determine prognosis in critically ill patients"
+            },
+            "type": "ListItem",
+            "sequence_num": 53
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Monitor patients during cardiopulmonary surgical procedures or therapy sessions"
+            },
+            "type": "ListItem",
+            "sequence_num": 54
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Evaluate the adequacy of ventilation, oxygenation, oxygen-carrying capacity of"
+            },
+            "type": "ListItem",
+            "sequence_num": 55
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "the blood and acid-base levels in neonates"
+            },
+            "type": "ListItem",
+            "sequence_num": 56
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 4.0,
+                "text": "Scope"
+            },
+            "type": "ListItem",
+            "sequence_num": 57
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.1,
+                "text": "POCT  is  an  established  part  of  clinical  practice,  offering  in  many  instances,  rapid  and convenient provision of test results that can be of benefit to the patient. It is however, a significant risk management issue for the Trust. Results obtained by non-specialist staff carry as much weight in patient management as results from sophisticated equipment in the care of professional laboratory staff. Incorrect results have the same health and legal implications, whatever their origin."
+            },
+            "type": "ListItem",
+            "sequence_num": 58
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.2,
+                "text": "The purpose of this document is to ensure reliable performance and management of the risks associated with testing outside the main laboratory. This procedure describes correct use of POCT equipment in order to minimise risk to both patient and user, and ensure consistent procedures are in place throughout the Trust."
+            },
+            "type": "ListItem",
+            "sequence_num": 59
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.3,
+                "text": "Individuals who have not been trained and competency assessed in the use of the ABL90 Flex Plus Blood Gas Analyser are not authorised to use this device. This document has not been written  as  a  substitute  for  practical  training  and  competency  assessment  offered  by Radiometer or Point of Care Testing, Pathology First."
+            },
+            "type": "ListItem",
+            "sequence_num": 60
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 5.0,
+                "text": "Definitions"
+            },
+            "type": "ListItem",
+            "sequence_num": 61
+        },
+        {
+            "type": "table",
+            "sequence_num": 62,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "TERM"
+                    },
+                    {
+                        "text": "DEFINITION"
+                    },
+                    {
+                        "text": "Point of Care Testing (POCT)"
+                    },
+                    {
+                        "text": "The performance of analytical tests on patient specimens outside the laboratory by non-laboratory staff"
+                    },
+                    {
+                        "text": "User"
+                    },
+                    {
+                        "text": "Any individual using a POCT device"
+                    },
+                    {
+                        "text": "Internal Quality Control (IQC)"
+                    },
+                    {
+                        "text": "Internal quality control (QC) is a means of determining that the POCT equipment is technically performing correctly at that specific time and that the patient result is reliable before it is released and acted on."
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "External Quality  External quality assessment (EQA) is a means of determining how a Assurance (EQA)  particular POCT device is performing in comparison to similar"
+            },
+            "type": "ListItem",
+            "sequence_num": 63
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "devices elsewhere."
+            },
+            "type": "ListItem",
+            "sequence_num": 64
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.0,
+                "text": "Role & Responsibilities within the Trust"
+            },
+            "type": "ListItem",
+            "sequence_num": 65
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "Point of Care Testing Committee"
+            },
+            "type": "ListItem",
+            "sequence_num": 66
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The POCT committee is responsible for overseeing and co-ordinating all aspects of the POCT service within the Trust. Clinical Governance for POCT services is provided through the POCT policy. This policy is reviewed and updated every 2 years. The Trust POCT committees report into site specific Pathology Governance committees."
+            },
+            "type": "ListItem",
+            "sequence_num": 67
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.2,
+                "text": "POCT Operational Team"
+            },
+            "type": "ListItem",
+            "sequence_num": 68
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "This team comprises of relevant personnel from Pathology First. Teams should be adequately resourced to enable them to implement and monitor compliance with the POCT policy and procedure. They are responsible for ensuring any recommendations imposed on the service by the committee are carried out."
+            },
+            "type": "ListItem",
+            "sequence_num": 69
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.3,
+                "text": "Chief Executive/Medical Director/Director of Nursing"
+            },
+            "type": "ListItem",
+            "sequence_num": 70
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "As the accountable officer, has overall responsibility for ensuring the Trust has robust, complete and up to date procedures in place to govern and guide activities so that legal, and national requirements are met."
+            },
+            "type": "ListItem",
+            "sequence_num": 71
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Responsible for the implementation of this policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 72
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.4,
+                "text": "Clinical Director Pathology MSE"
+            },
+            "type": "ListItem",
+            "sequence_num": 73
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Holds the ultimate responsibility for Point of Care Testing as guardian of Clinical Governance."
+            },
+            "type": "ListItem",
+            "sequence_num": 74
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Advises and arbitrates if necessary if agreement about the introduction of a POCT service cannot be reached."
+            },
+            "type": "ListItem",
+            "sequence_num": 75
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensures guidelines are in place for interpretation of results and further patient management."
+            },
+            "type": "ListItem",
+            "sequence_num": 76
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.5,
+                "text": "Trust Clinical Lead for POCT"
+            },
+            "type": "ListItem",
+            "sequence_num": 77
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Has clinical oversight for Point of Care Testing on respective sites, liaising between the Trust and Pathology First on matters including current testing protocols and implementation of new equipment/ tests."
+            },
+            "type": "ListItem",
+            "sequence_num": 78
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Holds the role of Chairperson of the Point of Care Testing Committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 79
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reviews POCT EQA and reports upon it."
+            },
+            "type": "ListItem",
+            "sequence_num": 80
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Reviews POCT related risks on the risk register and takes risks for ratification at the"
+            },
+            "type": "ListItem",
+            "sequence_num": 81
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "respective Pathology Governance committee"
+            },
+            "type": "ListItem",
+            "sequence_num": 82
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Raises risks or emerging risks to the respective Pathology Governance committee"
+            },
+            "type": "ListItem",
+            "sequence_num": 83
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.6,
+                "text": "Heads of Nursing and Midwifery and Matrons"
+            },
+            "type": "ListItem",
+            "sequence_num": 84
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Heads of Nursing and Midwifery and Matrons have a responsibility to ensure correct procedures are followed."
+            },
+            "type": "ListItem",
+            "sequence_num": 85
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.7,
+                "text": "Ward or Departmental Managers"
+            },
+            "type": "ListItem",
+            "sequence_num": 86
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To take on managerial ownership of any POCT equipment within their area and to ensure that it is maintained and used correctly."
+            },
+            "type": "ListItem",
+            "sequence_num": 87
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "They will ensure the competency of all users of POCT in their area. They will keep records of initial training, competency statements and update training."
+            },
+            "type": "ListItem",
+            "sequence_num": 88
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If appropriate they will appoint a link person to oversee the day-to-day operation of POCT equipment within their area. The use of a Link Person does not absolve the ward/department manager of full responsibility for POCT."
+            },
+            "type": "ListItem",
+            "sequence_num": 89
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Where there has been an incident involving POCT devices, including inadequate performance or documentation of patient or Quality Assurance results, Ward or Departmental managers will investigate the incident and be responsible for reporting this to POCT. All such incidents should be brought to the attention of the POCT manager and the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 90
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Any request for new, upgraded or replacement POCT processes must be submitted using the Assessment of Needs form to the POCT committee for approval. This includes free, trial and loan devices."
+            },
+            "type": "ListItem",
+            "sequence_num": 91
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.8,
+                "text": "Point of Care Testing Link Person"
+            },
+            "type": "ListItem",
+            "sequence_num": 92
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "A Link Person may be designated within a ward/department for the purpose of ensuring the day to day operation of POCT systems, ensuring equipment is functioning and necessary consumables are available. They may provide cascade training, having been trained to a high level of competence, ensuring staff undertaking POCT are suitable to do so."
+            },
+            "type": "ListItem",
+            "sequence_num": 93
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.9,
+                "text": "Pharmacy"
+            },
+            "type": "ListItem",
+            "sequence_num": 94
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Pharmacy is responsible for standardising, ordering and supplying the majority of POCT consumables as directed by the POCT committee."
+            },
+            "type": "ListItem",
+            "sequence_num": 95
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.1,
+                "text": "POCT Operations Manager & Team Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 96
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The POCT service managers monitor the POCT service within each Trust. They ensure that POCT policies and procedures are adhered to and that adequate resources and support from Pathology First are available to facilitate a safe and reliable service."
+            },
+            "type": "ListItem",
+            "sequence_num": 97
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.11,
+                "text": "Clinicians"
+            },
+            "type": "ListItem",
+            "sequence_num": 98
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To identify areas of clinical need where the introduction of POCT could be appropriate and provide the information necessary for the cost-benefit analysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 99
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To approach POCT in the spirit of the policy and not to attempt to introduce new testing without referring to the POCT policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 100
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To undertake POCT themselves only after adequate training and certification."
+            },
+            "type": "ListItem",
+            "sequence_num": 101
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To be familiar with the information provided by and shortcomings of the POCT results that they use for their patient management."
+            },
+            "type": "ListItem",
+            "sequence_num": 102
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To ensure that results of POCT are recorded accurately, unequivocally and safely and that information about tests upon which they base patient management decisions can be retrieved in retrospect."
+            },
+            "type": "ListItem",
+            "sequence_num": 103
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The responsibility for patient results obtained using POCT and therapeutic decisions based on those results lies with the requesting clinician for the ward/department."
+            },
+            "type": "ListItem",
+            "sequence_num": 104
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 6.12,
+                "text": "All Users"
+            },
+            "type": "ListItem",
+            "sequence_num": 105
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The individual conducting the analysis is accountable for the results they generate using POCT devices. They must ensure their POCT training is up to date and that their competence is maintained. It is the responsibility of the user:"
+            },
+            "type": "ListItem",
+            "sequence_num": 106
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To follow procedures as set out in the documented Standard Operating Procedure, including sample taking and handling, instrument checks and/or Quality Control, recording of results and disposal of consumables."
+            },
+            "type": "ListItem",
+            "sequence_num": 107
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To undertake and record External Quality Control analysis as required."
+            },
+            "type": "ListItem",
+            "sequence_num": 108
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report suspect Quality Control results or possible instrument malfunction immediately to the Link person or person in charge at the time and to stop using the equipment until the matter has been resolved."
+            },
+            "type": "ListItem",
+            "sequence_num": 109
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report abnormal or suspect patient results to the responsible person immediately"
+            },
+            "type": "ListItem",
+            "sequence_num": 110
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To report adverse incidents related to POCT devices to the Link nurse where used and to the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 111
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "To incident report where appropriate"
+            },
+            "type": "ListItem",
+            "sequence_num": 112
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.0,
+                "text": "Instructions for use"
+            },
+            "type": "ListItem",
+            "sequence_num": 113
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.1,
+                "text": "Health and Safety"
+            },
+            "type": "ListItem",
+            "sequence_num": 114
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Gloves must be worn when handling patient samples."
+            },
+            "type": "ListItem",
+            "sequence_num": 115
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Appropriate precautions must be taken when handling syringes and needles so as to avoid sharps injury."
+            },
+            "type": "ListItem",
+            "sequence_num": 116
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Waste must be disposed of in accordance with Trust Policy."
+            },
+            "type": "ListItem",
+            "sequence_num": 117
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Analysers should be cleaned only with a soft damp cloth and designated disinfection wipe."
+            },
+            "type": "ListItem",
+            "sequence_num": 118
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 7.2,
+                "text": "Precautions"
+            },
+            "type": "ListItem",
+            "sequence_num": 119
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Use only the power supply fitted, if this or the UPS fail please contact POCT, do not attempt to rectify yourself."
+            },
+            "type": "ListItem",
+            "sequence_num": 120
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The instrument should not be used in the presence of flammable agents."
+            },
+            "type": "ListItem",
+            "sequence_num": 121
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Do not allow blood or other liquids to enter the instrument via anywhere other than the sample inlet."
+            },
+            "type": "ListItem",
+            "sequence_num": 122
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Blood exposed to the analyser should never be returned to the patient as the sample inlets are not sterile."
+            },
+            "type": "ListItem",
+            "sequence_num": 123
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.0,
+                "text": "Reagents, Consumables and Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 124
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.1,
+                "text": "Equipment"
+            },
+            "type": "ListItem",
+            "sequence_num": 125
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.1 Radiometer ABL90 Flex Plus Blood Gas Analyser"
+            },
+            "type": "ListItem",
+            "sequence_num": 126
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.2 The analyser requires mains power and a connection to the Trust IT network. A built in battery is able to keep the analyser running in the event of a short interruption to the power supply. If the analyser has been disconnected from the mains a battery symbol on the analyser screen will show it is running on battery along with an indication of the percentage of battery power remaining. If disconnected from the mains the battery will have sufficient power to run the analyser for approximately an hour or until 25 patient samples have been run."
+            },
+            "type": "ListItem",
+            "sequence_num": 127
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 106.7,
+                "text": "8.1.3 The operating temperature range is 15-32oC, the barometric pressure range is 70-  kPa  at  15-30oC  and  80-106.7kPa  at  30-32oC.   The  analyser  detects temperature and barometric pressure and will prevent results from being released if they are outside of the above limits."
+            },
+            "type": "ListItem",
+            "sequence_num": 128
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.4 The relative humidity range is 20-80%."
+            },
+            "type": "ListItem",
+            "sequence_num": 129
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.5 There should be adequate bench space around the analyser, access to hand washing facilities, gloves, cleaning materials including PDI Sani-Cloth 70 and suitable disposal facilities for clinical waste."
+            },
+            "type": "ListItem",
+            "sequence_num": 130
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.1.6 There must be adequate ventilation around the analyser such that the ventilation panels are not blocked."
+            },
+            "type": "ListItem",
+            "sequence_num": 131
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.2,
+                "text": "Central Database and Connectivity"
+            },
+            "type": "ListItem",
+            "sequence_num": 132
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.1 All the ABL90 Flex Plus blood gas analysers are connected, via the Trust IT network, to a central database called AQURE. This allows the POCT team to control user access to the analysers, to remotely dial in to the analysers to assist with troubleshooting, and to remotely control the analysers."
+            },
+            "type": "ListItem",
+            "sequence_num": 133
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.2 AQURE also stores patient results, reagent details, and calibration, QC and activity logs."
+            },
+            "type": "ListItem",
+            "sequence_num": 134
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.3 The AQURE system is based within a server shared between Southend University Hospital and Basildon University Hospital. There is specific access to each site within the AQURE system. Users must ensure they select the correct hospital location when using the data manager. This is to ensure correct patient result management with respect to common hospital numbers which may be in use at either site."
+            },
+            "type": "ListItem",
+            "sequence_num": 135
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.2.4 Blood gas machines must not be moved between Southend and Basildon sites to prevent cross over of patient details or results to the wrong location in AQURE."
+            },
+            "type": "ListItem",
+            "sequence_num": 136
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.3,
+                "text": "Reagents and Consumables"
+            },
+            "type": "ListItem",
+            "sequence_num": 137
+        },
+        {
+            "type": "table",
+            "sequence_num": 138,
+            "data": {
+                "num_rows": 4,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Consumables"
+                    },
+                    {
+                        "text": "Description"
+                    },
+                    {
+                        "text": "Sensor Cassette 946-010 SC90 100/30 BG/LYT/MET/OXI+QC 946-005 SC90 300/30 BG/LYT/MET/OXI+QC 946-008 SC90 600/30 BG/LYT/MET/OXI+QC 946-009 SC90 900/30 BG/LYT/MET/OXI+QC 946-060 SC90 1200/30 BG/LYT/MET/OXI+QC"
+                    },
+                    {
+                        "text": "Contains sensors for the tests (except for the oximetry and bilirubin). These vary in test capacity, with allocation of specific sizes to locations controlled by the POCT team."
+                    },
+                    {
+                        "text": "Solution Pack 944-157 ABL90 FLEX solution pack 944-457 ABL90 FLEX solution pack High Volume"
+                    },
+                    {
+                        "text": "Contains pouches with QC and Calibration material, rinse solution, a gas mixture and closed containers to hold liquid and clot waste. These come in standard or high volume sizes, with allocation to locations controlled by the POCT team."
+                    },
+                    {
+                        "text": "Inlet Gasket Holder"
+                    },
+                    {
+                        "text": "Holds the inlet gasket. This is where the sampling device is placed for sample aspiration."
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 139,
+            "data": {
+                "num_rows": 9,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "903-585 Inlet gasket with holder"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Printer Paper"
+                    },
+                    {
+                        "text": "Paper for the thermal printer."
+                    },
+                    {
+                        "text": "Radiometer safePICO aspirator (Code 956-622)"
+                    },
+                    {
+                        "text": "Syringe to be used for venous and arterial line draw blood gas samples."
+                    },
+                    {
+                        "text": "Radiometer safePICO self-fill (Code 956-616)"
+                    },
+                    {
+                        "text": "Syringe to be used for arterial blood gas samples."
+                    },
+                    {
+                        "text": "Short capillaries CLINITUBES capillary tubes 45uL, (Code 942-969) with end caps and mixer bars"
+                    },
+                    {
+                        "text": "To be used for Neonatal blood gases."
+                    },
+                    {
+                        "text": "Clot Catchers (Code 906-026)"
+                    },
+                    {
+                        "text": "Sample adaptor to be used alongside the CLINITUBE capillaries."
+                    },
+                    {
+                        "text": "Clinical waste container"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sani-cloth 70% alcohol wipes (MPCXP00142)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Sharps bin"
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.1 The replacement of sensor cassettes and solution packs will be undertaken by the POCT team and laboratory staff as appropriate."
+            },
+            "type": "ListItem",
+            "sequence_num": 140
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.2 All reagents, calibrators and quality control material are contained within the solution pack listed above. These packs are stored at room temperature."
+            },
+            "type": "ListItem",
+            "sequence_num": 141
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.3.3 The sensor cassette contains all sensors and electrodes. These are available in different test sizes and are stored refrigerated."
+            },
+            "type": "ListItem",
+            "sequence_num": 142
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.4,
+                "text": "Environmental and safety controls"
+            },
+            "type": "ListItem",
+            "sequence_num": 143
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.0,
+                "text": "8.4.1 Ensure the ambient temperature is between  and 32\u00b0C"
+            },
+            "type": "ListItem",
+            "sequence_num": 144
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.4.2 The use of PPE must be worn during this procedure and when cleaning the analyser to minimise cross infection, users are advised to wash their hands and wear disposable gloves and apron for this procedure. The analyser surfaces should always be kept clean of blood and/or other liquids."
+            },
+            "type": "ListItem",
+            "sequence_num": 145
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.4.3 On completion of the test, dispose of the sample safely in the sharps bin, dispose of the apron, gloves as clinical waste and wash your hands at the end of the procedure."
+            },
+            "type": "ListItem",
+            "sequence_num": 146
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.4.4 Used fluid packs and sensor cartridges should be disposed of in clinical waste."
+            },
+            "type": "ListItem",
+            "sequence_num": 147
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.5,
+                "text": "Additional Maintenance Equipment (For POCT use only)"
+            },
+            "type": "ListItem",
+            "sequence_num": 148
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.5.1 Radiometer ABL90 flush kit (Code 905-918)"
+            },
+            "type": "ListItem",
+            "sequence_num": 149
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.5.2 Inlet gasket with holder (Code 903-585)"
+            },
+            "type": "ListItem",
+            "sequence_num": 150
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 8.6,
+                "text": "For cleaning the analyser:"
+            },
+            "type": "ListItem",
+            "sequence_num": 151
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "8.6.1 DO NOT use Clinell multi-purpose wipes to clean the analyser as this will cause damage to the casing of the machine."
+            },
+            "type": "ListItem",
+            "sequence_num": 152
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "8.6.2 The advised wipes to use to clean the blood gas machine are PDI Sani-Cloth 70% disinfectant wipes, Product code XP00142."
+            },
+            "type": "ListItem",
+            "sequence_num": 153
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.0,
+                "text": "Calibration and Quality Control Procedures"
+            },
+            "type": "ListItem",
+            "sequence_num": 154
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.1,
+                "text": "Calibration"
+            },
+            "type": "ListItem",
+            "sequence_num": 155
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.1.1 Calibration is the process that relates the sensor signals during the calibration sequence to the values of the calibrating solutions and air. Calibration enables the sensor signals to be converted to accurate values for an unknown sample."
+            },
+            "type": "ListItem",
+            "sequence_num": 156
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.1.2 Three calibrating solutions are used for the calibration of sensors and air is used for the calibration of the pO2 sensor."
+            },
+            "type": "ListItem",
+            "sequence_num": 157
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.1.3 Automatic calibrations are scheduled by default at regular intervals to compensate for small changes in the behaviour of the sensors. Automatic calibrations are also done in connection with consumable replacement, troubleshooting and start-up of the machine:"
+            },
+            "type": "ListItem",
+            "sequence_num": 158
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.1.4 Calibrations are more frequent following sensor pack replacement, troubleshooting and start- up."
+            },
+            "type": "ListItem",
+            "sequence_num": 159
+        },
+        {
+            "type": "image",
+            "sequence_num": 160,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.003.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.2,
+                "text": "Quality Control"
+            },
+            "type": "ListItem",
+            "sequence_num": 161
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.3,
+                "text": "Internal Quality Control"
+            },
+            "type": "ListItem",
+            "sequence_num": 162
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.3.1 Internal quality control (IQC) is important as it ensures that the machine is performing correctly and that patient results obtained are accurate and precise."
+            },
+            "type": "ListItem",
+            "sequence_num": 163
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.3.2 The analyser measures quality control automatically, with 3 ranges of quality control measured throughout the day. The liquid QC solutions are in the solution pack."
+            },
+            "type": "ListItem",
+            "sequence_num": 164
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.3.3 If a parameter fails an automatic quality control, this will be investigated by the POCT team or laboratory staff."
+            },
+            "type": "ListItem",
+            "sequence_num": 165
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 9.4,
+                "text": "External Quality Assurance"
+            },
+            "type": "ListItem",
+            "sequence_num": 166
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "9.4.1  External quality assurance (EQA) samples are sent to the POCT team on a monthly basis by WEQAS. The team will run these samples as if they were patient samples and return the results to the distributing company. EQA is a further quality check to ensure the analyser is performing correctly."
+            },
+            "type": "ListItem",
+            "sequence_num": 167
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.0,
+                "text": "Performing a Patient Sample"
+            },
+            "type": "ListItem",
+            "sequence_num": 168
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.1,
+                "text": "Sample requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 169
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "10.1.1 Accuracy of results is crucial and the correct procedure when collecting and analysing samples must be followed. Continuity of process from sample collection to results interpretation will minimise the risk of errors occurring. The person who collects the blood gas sample should be the person to analyse the sample."
+            },
+            "type": "ListItem",
+            "sequence_num": 170
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "10.1.2 Lithium heparin or balanced heparin salts are the only acceptable anticoagulants for blood gas and ISE analysis. Other anticoagulants such as EDTA, citrate, oxalate, fluoride and anticoagulants containing ammonium should not be used as they may give false patient results. EDTA must not be used as this will damage and decrease the lifetime of the calcium sensor."
+            },
+            "type": "ListItem",
+            "sequence_num": 171
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "10.1.3 Fluid samples are not to be run on the blood gas machines as they have not been validated for this use."
+            },
+            "type": "ListItem",
+            "sequence_num": 172
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "10.1.4 Serum samples may be analysed for direct sodium results."
+            },
+            "type": "ListItem",
+            "sequence_num": 173
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "10.1.5 Note:  Syringes without anticoagulant are not to be used for blood gas sampling. Transfer  of  a  sample  from  a  syringe  without  anticoagulant  to  a  syringe  with anticoagulant may compromise the sample integrity and produce inaccurate results and can adversely affect the blood gas machine."
+            },
+            "type": "ListItem",
+            "sequence_num": 174
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.2,
+                "text": "Adult arterial and venous samples"
+            },
+            "type": "ListItem",
+            "sequence_num": 175
+        },
+        {
+            "type": "image",
+            "sequence_num": 176,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.009.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Adult arterial & venous specimens should be collected into SafePICO syringes. For arterial  samples a safePICO self-fill aspirator with a safeTIPCAP containing an integrated mixing  device and balanced lyophilised heparin is to be used. For venous blood samples a safePICO  aspirator with a safeTIPCAP containing an integrated mixing device and balanced lyophilised heparin is to be used. The minimum recommended specimen volume is 1.0mL."
+            },
+            "type": "ListItem",
+            "sequence_num": 177
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Specimens taken from arterial lines in adults must be flushed with 3-6 times the dead space of the catheter before the specimen is drawn. This prevents dilution and contamination with infused solutions."
+            },
+            "type": "ListItem",
+            "sequence_num": 178
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 2.0,
+                "text": "Remove Air. After collection of the specimen remove any air bubbles. Failure to exclude air bubbles significantly affects results, especially pO. Remove the needle from the syringe safely and place the safeTIPCAP cap firmly on the tip."
+            },
+            "type": "ListItem",
+            "sequence_num": 179
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Note: Failure to remove the needle and place the safeTIPCAP on the syringe is a health and safety risk and will also compromise sample results given due to atmospheric air entering the sample."
+            },
+            "type": "ListItem",
+            "sequence_num": 180
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tap the syringe to move air bubbles to the top of the sampler and gently press the plunger to expel any air until resistance indicates that the tip cap is sealed. Excessive force may cause blood to leak out. This sampling device allows the expulsion of air without exposure of the operator to bodily fluids."
+            },
+            "type": "ListItem",
+            "sequence_num": 181
+        },
+        {
+            "type": "image",
+            "sequence_num": 182,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.010.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Mix thoroughly. Gently inverting the syringe vertically and rolling between the palms of the hands (approximately 20x) ensures the heparin is dissolved and the sample is thoroughly mixed. Failure to do so results in a clotted specimen which will prevent results being obtained and may damage the analyser making it unavailable for subsequent users. An unmixed specimen will also give inaccurate results, particularly for haemoglobin."
+            },
+            "type": "ListItem",
+            "sequence_num": 183
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Samples should be analysed as soon as possible. If this is not possible, samples must be stored at room temperature and mixed immediately prior to analysis before the 30 minute time period stated by Radiometer."
+            },
+            "type": "ListItem",
+            "sequence_num": 184
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.3,
+                "text": "Capillary Samples"
+            },
+            "type": "ListItem",
+            "sequence_num": 185
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Capillary samples must be collected into Radiometer safeClinitubes."
+            },
+            "type": "ListItem",
+            "sequence_num": 186
+        },
+        {
+            "type": "image",
+            "sequence_num": 187,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.013.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For neonates & paediatrics heel prick specimens are taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 188
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For Respiratory Physiology patients arterialised earlobe specimens are taken."
+            },
+            "type": "ListItem",
+            "sequence_num": 189
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Obtaining the specimen. Once the skin has been punctured, remove the first drop of"
+            },
+            "type": "ListItem",
+            "sequence_num": 190
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "blood produced as it is contaminated with tissue fluid. Collect the subsequent blood that is produced, but avoiding squeezing the puncture site as this can result in haemolysis and contamination with tissue fluid. A full capillary tube (45\u03bcL) with no air bubbles must be collected, a smaller specimen is most likely to result in no results being available."
+            },
+            "type": "ListItem",
+            "sequence_num": 191
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Mix thoroughly. When the capillary is full, insert a mixing wire and place the purple end caps on each end. Mix the specimen using a magnet to gently move the mixing wire from one end to the other 5-10 times. This dissolves and mixes the heparin (which coats the inside of the capillary) within the specimen, preventing clot formation. An unmixed specimen may clot, causing no results to be obtained and may damage the analyser making it unavailable for subsequent users. An unmixed specimen will also give inaccurate results, particularly for haemoglobin. Over mixing, however, may result in haemolysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 192
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Use a clot catcher. Immediately before analysis, re-mix the specimen and draw the mixing wire to one end. It is good practice to move the mixing wire to the end of the of the capillary that was next to the skin during collection, and to keep this end away from the analyser, especially if petroleum jelly, such as Vaseline\u00ae, was used, as this may damage the analyser if aspirated into the machine. Remove both the end caps and place a clot catcher firmly on the opposite end of the capillary to where the mixing wire is. This prevents clots and the mixing wire from entering the blood gas analyser."
+            },
+            "type": "ListItem",
+            "sequence_num": 193
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 10.0,
+                "text": "Capillary samples should be analysed as soon as possible. If this is not possible, samples must be stored at room temperature and mixed immediately prior to analysis before the  minute time period stated by Radiometer."
+            },
+            "type": "ListItem",
+            "sequence_num": 194
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 10.4,
+                "text": "Arterial and venous umbilical cord samples"
+            },
+            "type": "ListItem",
+            "sequence_num": 195
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Arterial and venous umbilical cord specimens should be treated in exactly the same way as arterial specimens, i.e. use safePICO syringes, remove air bubbles and mix thoroughly. The specimens must be clearly labelled as either arterial or venous."
+            },
+            "type": "ListItem",
+            "sequence_num": 196
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.0,
+                "text": "Running the sample"
+            },
+            "type": "ListItem",
+            "sequence_num": 197
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.1,
+                "text": "Syringes"
+            },
+            "type": "ListItem",
+            "sequence_num": 198
+        },
+        {
+            "type": "image",
+            "sequence_num": 199,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.014.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Have the patient details to hand"
+            },
+            "type": "ListItem",
+            "sequence_num": 200
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Ensure the analyser is ready to perform an analysis, all the analytes show as green and the word Ready is displayed in the top left of the screen."
+            },
+            "type": "ListItem",
+            "sequence_num": 201
+        },
+        {
+            "type": "image",
+            "sequence_num": 202,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.015.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Note: If the sample is in a safePICO syringe with a safeTIPCAP, DO NOT remove the safeTIPCAP cap during sample analysis."
+            },
+            "type": "ListItem",
+            "sequence_num": 203
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Note: Once the inlet is opened, you only have a short time to complete the actions necessary. Make sure the sample is properly prepared before tapping the Syringe button on the screen."
+            },
+            "type": "ListItem",
+            "sequence_num": 204
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Note: If an analyte is shown in red and the word Ready is displayed in the top left of the screen, then a sample may be analysed, however, the analyte in red will not produce a result."
+            },
+            "type": "ListItem",
+            "sequence_num": 205
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Log in by scanning your user barcode with the scanner."
+            },
+            "type": "ListItem",
+            "sequence_num": 206
+        },
+        {
+            "type": "image",
+            "sequence_num": 207,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "For safePICO syringes only -"
+            },
+            "type": "ListItem",
+            "sequence_num": 208
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "insert the syringe into the mixing chamber ensuring the safeTIPCAP is located over"
+            },
+            "type": "ListItem",
+            "sequence_num": 209
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "the lip in the mixing chamber. The blue light will blink when mixing is finished. (A magnet in the mixing chamber rotates the metal ball in the syringe to mix the sample thoroughly.)"
+            },
+            "type": "ListItem",
+            "sequence_num": 210
+        },
+        {
+            "type": "image",
+            "sequence_num": 211,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.017.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the syringe by its barrel."
+            },
+            "type": "ListItem",
+            "sequence_num": 212
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tap the Syringe button. The analyser opens the inlet."
+            },
+            "type": "ListItem",
+            "sequence_num": 213
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Note \u2013 If set parameter profiles are in place, select the profile required."
+            },
+            "type": "ListItem",
+            "sequence_num": 214
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Place and hold the tip of the syringe in the centre of the Inlet Gasket."
+            },
+            "type": "ListItem",
+            "sequence_num": 215
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the syringe at the same angle as the inlet to prevent bending the needle."
+            },
+            "type": "ListItem",
+            "sequence_num": 216
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Push the syringe into the analyser as far as it will go and hold it there."
+            },
+            "type": "ListItem",
+            "sequence_num": 217
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the syringe in the pushed-in position until the analyser beeps to alert you to remove it."
+            },
+            "type": "ListItem",
+            "sequence_num": 218
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The gasket is spring loaded so if you let go off the syringe the gasket will return to its previous position, the sample will not be measured and the probe could become damaged."
+            },
+            "type": "ListItem",
+            "sequence_num": 219
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When the analyser tells you to, remove the syringe. The analyser closes the inlet."
+            },
+            "type": "ListItem",
+            "sequence_num": 220
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enter the necessary data in the Patient Identification screen (see Section 6.3 below)"
+            },
+            "type": "ListItem",
+            "sequence_num": 221
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once analysis has completed the results will print automatically"
+            },
+            "type": "ListItem",
+            "sequence_num": 222
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If the Patient result screen opens up before you have entered the necessary data, tap the ID button and enter the correct ID. Once this has been completed the results will print out again automatically with the correct information included."
+            },
+            "type": "ListItem",
+            "sequence_num": 223
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.2,
+                "text": "Capillaries"
+            },
+            "type": "ListItem",
+            "sequence_num": 224
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Have the patient details to hand."
+            },
+            "type": "ListItem",
+            "sequence_num": 225
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Ensure the analyser is ready to perform an analysis, all the analytes show as green and the word Ready is displayed in the top left of the screen."
+            },
+            "type": "ListItem",
+            "sequence_num": 226
+        },
+        {
+            "type": "image",
+            "sequence_num": 227,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.015.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "11.2.1 Note: If an analyte is shown in red and the word Ready is displayed in the top left of the screen, then a sample may be analysed, however, the analyte in red will not produce a result."
+            },
+            "type": "ListItem",
+            "sequence_num": 228
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "11.2.2 Note: Once the inlet is opened, you only have a short time to complete the actions necessary. Make sure the sample is properly prepared before tapping the Capillary button on the screen."
+            },
+            "type": "ListItem",
+            "sequence_num": 229
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Log in by scanning your user barcode with the scanner."
+            },
+            "type": "ListItem",
+            "sequence_num": 230
+        },
+        {
+            "type": "image",
+            "sequence_num": 231,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.016.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the capillary tube close to the Clot Catcher."
+            },
+            "type": "ListItem",
+            "sequence_num": 232
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Tap the Capillary button. The analyser opens the inlet."
+            },
+            "type": "ListItem",
+            "sequence_num": 233
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Note \u2013 If set parameter profiles are in place, select the profile required."
+            },
+            "type": "ListItem",
+            "sequence_num": 234
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Place and hold the end with the Clot Catcher in the centre of the Inlet Gasket."
+            },
+            "type": "ListItem",
+            "sequence_num": 235
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Carefully push the capillary tube into the analyser as far as it will go and hold it there."
+            },
+            "type": "ListItem",
+            "sequence_num": 236
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the capillary steady as any movement could mean that the seal between the capillary and the inlet could break and air get into the analyser, causing an inhomogeneous error."
+            },
+            "type": "ListItem",
+            "sequence_num": 237
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hold the capillary tube in the pushed-in position until the analyser tells you to remove it."
+            },
+            "type": "ListItem",
+            "sequence_num": 238
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When the analyser tells you to, remove the capillary tube. The analyser closes the inlet."
+            },
+            "type": "ListItem",
+            "sequence_num": 239
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enter the necessary data in the Patient Identification screen (see Section 6.3 below)"
+            },
+            "type": "ListItem",
+            "sequence_num": 240
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Once analysis has completed the results will print automatically"
+            },
+            "type": "ListItem",
+            "sequence_num": 241
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If the Patient result screen opens up before you have entered the necessary data, tap the ID button and enter the correct ID. Once this has been completed the results will print out again automatically with the correct information included."
+            },
+            "type": "ListItem",
+            "sequence_num": 242
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.3,
+                "text": "Entering patient information"
+            },
+            "type": "ListItem",
+            "sequence_num": 243
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient information is entered using a touch screen and/or scanning patient barcodes."
+            },
+            "type": "ListItem",
+            "sequence_num": 244
+        },
+        {
+            "type": "image",
+            "sequence_num": 245,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.018.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The patient identification screen appears. Enter patient information using the screen keyboard/barcode reader. Hospital number/ NHS number and surname are mandatory."
+            },
+            "type": "ListItem",
+            "sequence_num": 246
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Scanning the patient barcode will fill in the Patient ID line only, the patient last name will populate automatically via PAS feed if number is recognised, if not this needs to be entered manually using the keyboard function."
+            },
+            "type": "ListItem",
+            "sequence_num": 247
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Enter the appropriate specimen type e.g. arterial/venous/capillary."
+            },
+            "type": "ListItem",
+            "sequence_num": 248
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient temperature can be entered in o C. This will allow the analyser to produce temperature corrected blood gas results on the print out."
+            },
+            "type": "ListItem",
+            "sequence_num": 249
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Temperature corrected blood gas results represent the in vivo patient situation more closely and should be used in patient management when available, and particularly in critical care."
+            },
+            "type": "ListItem",
+            "sequence_num": 250
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Inspired oxygen levels in % can also be entered for records."
+            },
+            "type": "ListItem",
+            "sequence_num": 251
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 11.4,
+                "text": "Results"
+            },
+            "type": "ListItem",
+            "sequence_num": 252
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "When the measurement is completed the patient results screen is visible and the results should print out automatically, if they do not, press \u2018Result' button at bottom of screen."
+            },
+            "type": "ListItem",
+            "sequence_num": 253
+        },
+        {
+            "type": "image",
+            "sequence_num": 254,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.019.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Record the results in the patient's notes by hand or by photocopying the printout and inserting this into the patient notes. Please note that the print out is not a permanent record and will fade with time, so must not be relied upon as the only record. Any manual transcription of results into the notes should be initialled by the person transcribing them, with date and time of results also noted."
+            },
+            "type": "ListItem",
+            "sequence_num": 255
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "."
+            },
+            "type": "ListItem",
+            "sequence_num": 256
+        },
+        {
+            "type": "image",
+            "sequence_num": 257,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.020.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Select Back and Log off."
+            },
+            "type": "ListItem",
+            "sequence_num": 258
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.5,
+                "text": "Reference Ranges"
+            },
+            "type": "ListItem",
+            "sequence_num": 259
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "The following reference ranges are set within the blood gas analysers and shown on the results printout in all areas."
+            },
+            "type": "ListItem",
+            "sequence_num": 260
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "pH  7.35 - 7.45"
+            },
+            "type": "ListItem",
+            "sequence_num": 261
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Blood gas sample analysis using the radiometer abl90 flex plus blood gas analyser / MSESOP-21002 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 262
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 263
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 2.0,
+                "text": "pCO pO"
+            },
+            "type": "ListItem",
+            "sequence_num": 264
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "SO2 CoHb Lactate Glucose Sodium Potassium Calcium Chloride tHb"
+            },
+            "type": "ListItem",
+            "sequence_num": 265
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Hct"
+            },
+            "type": "ListItem",
+            "sequence_num": 266
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "O2Hb MetHb HHb"
+            },
+            "type": "ListItem",
+            "sequence_num": 267
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "4.67 \u2013 6 kPa"
+            },
+            "type": "ListItem",
+            "sequence_num": 268
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 99.0,
+                "text": "10.67 - 13.33 kPa  \u2013  %"
+            },
+            "type": "ListItem",
+            "sequence_num": 269
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "0.5 - 2 %"
+            },
+            "type": "ListItem",
+            "sequence_num": 270
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "0.4 - 2.2 mmol/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 271
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 4.4,
+                "text": "- 6.1 mmol/L 133 \u2013 146 mmol/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 272
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 3.5,
+                "text": "- 5.3 mmol/L"
+            },
+            "type": "ListItem",
+            "sequence_num": 273
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 50.0,
+                "text": "1.12 - 1.32 mmol/L  - 108 mmol/L 115 \u2013 174 g/L  \u2013  %"
+            },
+            "type": "ListItem",
+            "sequence_num": 274
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 99.0,
+                "text": "\u2013  % 0.4 - 1.5 % 1 \u2013 5 %"
+            },
+            "type": "ListItem",
+            "sequence_num": 275
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.6,
+                "text": "Symbols on patient results"
+            },
+            "type": "ListItem",
+            "sequence_num": 276
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "If a result is outside the analytical range the analyser will not display a result. If the result is outside the normal range or an error has occurred, the analyser will display the following"
+            },
+            "type": "ListItem",
+            "sequence_num": 277
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "symbols:"
+            },
+            "type": "ListItem",
+            "sequence_num": 278
+        },
+        {
+            "type": "image",
+            "sequence_num": 279,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.021.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.7,
+                "text": "Recalling patient results"
+            },
+            "type": "ListItem",
+            "sequence_num": 280
+        },
+        {
+            "type": "table",
+            "sequence_num": 281,
+            "data": {
+                "num_rows": 5,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Option"
+                    },
+                    {
+                        "text": "Steps"
+                    },
+                    {
+                        "text": "To find a result in the data log"
+                    },
+                    {
+                        "text": "a)Tap Menu > Data logs> Patient results log. Select the measurement c) Tap the Result button"
+                    },
+                    {
+                        "text": "To find a number of results in the data log"
+                    },
+                    {
+                        "text": "Filter the data from the Patient results log"
+                    },
+                    {
+                        "text": "To find the latest result"
+                    },
+                    {
+                        "text": "Tap Menu > Latest result"
+                    },
+                    {
+                        "text": "To find a result under My results"
+                    },
+                    {
+                        "text": "Tap Menu > My results Select the measurement"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 282,
+            "data": {
+                "num_rows": 1,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "Tap the Result button"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 11.8,
+                "text": "Performance Criteria"
+            },
+            "type": "ListItem",
+            "sequence_num": 283
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Performance validation has been undertaken for the blood gas machines by the POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 284
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.0,
+                "text": "Maintenance"
+            },
+            "type": "ListItem",
+            "sequence_num": 285
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.1,
+                "text": "Replacing the thermal printer paper"
+            },
+            "type": "ListItem",
+            "sequence_num": 286
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "All users will be trained to change the printer paper. Purple/pink bands are seen on the print out when the printer paper is running out."
+            },
+            "type": "ListItem",
+            "sequence_num": 287
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tap Menu > Analyzer status"
+            },
+            "type": "ListItem",
+            "sequence_num": 288
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tap the Consumables > Replace > Paper buttons."
+            },
+            "type": "ListItem",
+            "sequence_num": 289
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Press the release button."
+            },
+            "type": "ListItem",
+            "sequence_num": 290
+        },
+        {
+            "type": "image",
+            "sequence_num": 291,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.023.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Open the cover and remove the used paper roll."
+            },
+            "type": "ListItem",
+            "sequence_num": 292
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Put in the new paper roll. Make sure the paper unwinds from below."
+            },
+            "type": "ListItem",
+            "sequence_num": 293
+        },
+        {
+            "type": "image",
+            "sequence_num": 294,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.025.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Make sure some paper extends out of the printer."
+            },
+            "type": "ListItem",
+            "sequence_num": 295
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Close the cover. The cover must click in place."
+            },
+            "type": "ListItem",
+            "sequence_num": 296
+        },
+        {
+            "type": "image",
+            "sequence_num": 297,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.027.png"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tap the Replaced button."
+            },
+            "type": "ListItem",
+            "sequence_num": 298
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Enter necessary data."
+            },
+            "type": "ListItem",
+            "sequence_num": 299
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Tap the OK button to exit to the main screen."
+            },
+            "type": "ListItem",
+            "sequence_num": 300
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 12.2,
+                "text": "The analyser and area must be kept clean from blood spillages as they occur and must be thoroughly cleaned on a weekly basis, or more frequently if required. Paper hand towels and tap water are usually adequate to remove blood spillages, followed by decontamination with a PDI Sani-Cloth 70% wipe. Pay particular attention to cleaning the mixing chamber."
+            },
+            "type": "ListItem",
+            "sequence_num": 301
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 12.3,
+                "text": "If there is an issue with the blood gas machine, please contact the POCT team on ext. 8382 for Basildon Hospital or ext. 6612 for Southend Hospital."
+            },
+            "type": "ListItem",
+            "sequence_num": 302
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 13.0,
+                "text": "Training Requirements"
+            },
+            "type": "ListItem",
+            "sequence_num": 303
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 13.1,
+                "text": "ABG sample analysis should only be carried out by a trained member of staff. Each staff member takes responsibility for ensuring the quality of all monitoring carried out by him/her. The staff member must ensure their Radiometer ABL90 Flex Plus training is updated and that their competence to perform tests on this instrument is maintained. Practical training and competence assessment is available via the Pathology First POCT team."
+            },
+            "type": "ListItem",
+            "sequence_num": 304
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 14.0,
+                "text": "Monitoring and Audit"
+            },
+            "type": "ListItem",
+            "sequence_num": 305
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 14.1,
+                "text": "Outlined below is the Trust's process of monitoring compliance with, and the effectiveness of the document's main points."
+            },
+            "type": "ListItem",
+            "sequence_num": 306
+        },
+        {
+            "type": "table",
+            "sequence_num": 307,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 6,
+                "table_items": [
+                    {
+                        "text": "Aspect of compliance or effectiveness being monitored"
+                    },
+                    {
+                        "text": "Monitoring Method"
+                    },
+                    {
+                        "text": "Individual department responsible for the monitoring"
+                    },
+                    {
+                        "text": "Frequency of the monitoring activity"
+                    },
+                    {
+                        "text": "Group / Committee / forum which will receive the findings/monitoring report"
+                    },
+                    {
+                        "text": "Committee / individual responsible for ensuring the actions are completed"
+                    },
+                    {
+                        "text": "Equipment Accuracy & Precision"
+                    },
+                    {
+                        "text": "IQC"
+                    },
+                    {
+                        "text": "POCT"
+                    },
+                    {
+                        "text": "Daily"
+                    },
+                    {
+                        "text": "POCT Team/ POCT Committee"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "Equipment Accuracy & Precision"
+                    },
+                    {
+                        "text": "EQA"
+                    },
+                    {
+                        "text": "POCT"
+                    },
+                    {
+                        "text": "Monthly"
+                    },
+                    {
+                        "text": "POCT Team/ POCT Committee"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Patient  Audit  All blood  6 monthly  POCT Team/ POCT  Ward manager/ demographic  gas  Committee  POCT Team input  machine  Manager"
+            },
+            "type": "ListItem",
+            "sequence_num": 308
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "operators"
+            },
+            "type": "ListItem",
+            "sequence_num": 309
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 15.0,
+                "text": "Approval and Implementation"
+            },
+            "type": "ListItem",
+            "sequence_num": 310
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.1,
+                "text": "All policies, procedures and guidelines will be approved by the Point of Care Testing Committee, which is the specialist group with the authority to approve local Point of Care Testing guidelines. These will then be forwarded to the Document control team for submission and ratification by the Joint Document Management Group."
+            },
+            "type": "ListItem",
+            "sequence_num": 311
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 15.2,
+                "text": "It is the author's responsibility to inform the service users of the approved policy documents when they are uploaded to the Trust's Intranets."
+            },
+            "type": "ListItem",
+            "sequence_num": 312
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 16.0,
+                "text": "Equality Impact Assessment"
+            },
+            "type": "ListItem",
+            "sequence_num": 313
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "prefix": 16.1,
+                "text": "The Trust is committed to the provision of a service that is fair, accessible and meets the needs of all individuals."
+            },
+            "type": "ListItem",
+            "sequence_num": 314
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "(Refer to appendix 2)"
+            },
+            "type": "ListItem",
+            "sequence_num": 315
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 17.0,
+                "text": "References"
+            },
+            "type": "ListItem",
+            "sequence_num": 316
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "ISO 15189:2012"
+            },
+            "type": "ListItem",
+            "sequence_num": 317
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Blood gas sample analysis using the radiometer abl90 flex plus blood gas analyser / MSESOP-21002 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 318
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 27.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 319
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix 1: Analysing a blood gas syringe sample"
+            },
+            "type": "ListItem",
+            "sequence_num": 320
+        },
+        {
+            "type": "image",
+            "sequence_num": 321,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.001.png"
+            }
+        },
+        {
+            "type": "image",
+            "sequence_num": 322,
+            "data": {
+                "url": "MSESOP-21002 Radiometer ABL90 Flex Plus SOP 1.0.028.jpeg"
+            }
+        },
+        {
+            "data": {
+                "is_heading": 0,
+                "text": "Blood gas sample analysis using the radiometer abl90 flex plus blood gas analyser / MSESOP-21002 / 1.0"
+            },
+            "type": "ListItem",
+            "sequence_num": 323
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "Appendix2: Preliminary Equality Analysis"
+            },
+            "type": "ListItem",
+            "sequence_num": 324
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "This assessment relates to Blood gas sample analysis using the radiometer abl90 flex plus blood gas analyser: (Please tick all that apply)"
+            },
+            "type": "ListItem",
+            "sequence_num": 325
+        },
+        {
+            "type": "table",
+            "sequence_num": 326,
+            "data": {
+                "num_rows": 3,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "\u2610 A change in a service to patients"
+                    },
+                    {
+                        "text": "\u2610 A change to an existing document"
+                    },
+                    {
+                        "text": "\u2610 A change to the way staff work"
+                    },
+                    {
+                        "text": "\u2612 A new document"
+                    },
+                    {
+                        "text": "\u2610 Something else (please give details)"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": ""
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 327,
+            "data": {
+                "num_rows": 7,
+                "num_cols": 2,
+                "table_items": [
+                    {
+                        "text": "Questions"
+                    },
+                    {
+                        "text": "Answers"
+                    },
+                    {
+                        "text": "1."
+                    },
+                    {
+                        "text": "What are you proposing to change?"
+                    },
+                    {
+                        "text": "Update to SOP to include Southend University Hospital following instrument implementation and update to some information included in SOP. Broomfield is not included in this as they use different instruments for blood gas analysis."
+                    },
+                    {
+                        "text": "2."
+                    },
+                    {
+                        "text": "Why are you making this change? (What will the change achieve?)"
+                    },
+                    {
+                        "text": "To ensure information is up to date and relevant to staff using the instruments at both hospitals."
+                    },
+                    {
+                        "text": "3."
+                    },
+                    {
+                        "text": "Who benefits from this change and how?"
+                    },
+                    {
+                        "text": "Staff who will be using the equipment and referring to this SOP."
+                    },
+                    {
+                        "text": "4."
+                    },
+                    {
+                        "text": "Is anyone likely to suffer any negative impact as a result of this change? If no, please record reasons here and sign and date this assessment. If yes, please complete a full EIA."
+                    },
+                    {
+                        "text": "No. Changes in information made are not significant to require a change in any practices currently undertaken."
+                    },
+                    {
+                        "text": "5."
+                    },
+                    {
+                        "text": "a) Will you be undertaking any consultation as part of this change?"
+                    },
+                    {
+                        "text": "Yes"
+                    },
+                    {
+                        "text": ""
+                    },
+                    {
+                        "text": "b) If so, with whom?"
+                    },
+                    {
+                        "text": "Refer to pages 1 & 2"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "table",
+            "sequence_num": 328,
+            "data": {
+                "num_rows": 2,
+                "num_cols": 3,
+                "table_items": [
+                    {
+                        "text": "Preliminary analysis completed by:"
+                    },
+                    {
+                        "text": "Name"
+                    },
+                    {
+                        "text": "Hope Grey"
+                    },
+                    {
+                        "text": "Job Title"
+                    },
+                    {
+                        "text": "POCT Team Manager"
+                    },
+                    {
+                        "text": "19 April 2021"
+                    }
+                ]
+            }
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "text": "If you have identified any negative impact in the preliminary analysis above, please request and complete the full Equality Impact Assessment (EIA) from Document Control."
+            },
+            "type": "ListItem",
+            "sequence_num": 329
+        },
+        {
+            "data": {
+                "is_heading": 1,
+                "prefix": 26.0,
+                "text": "Page  of"
+            },
+            "type": "ListItem",
+            "sequence_num": 330
+        }
+    ]
+}
