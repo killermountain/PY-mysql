@@ -1,5 +1,4 @@
 from rake_nltk import Rake
-from soupsieve import match
 from connDB import MySQLDB
 
 # import nltk
