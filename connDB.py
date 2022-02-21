@@ -21,7 +21,7 @@ class MySQLDB():
     def connectDB(self):
         self.conn = mysql.connector.connect(
         host=HOST,
-        port= PORT,
+#         port= PORT,
         user=USERNAME,
         passwd=PASSWORD,
         database=DATABASE
