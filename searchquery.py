@@ -1,6 +1,5 @@
 from rake_nltk import Rake
-from connDB import MySQLDB
-
+# from connDB import MySQLDB
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -45,7 +44,7 @@ def searchDocs(query_keys, docs, docsCount, lastID, conn_db, top_x=5):
         x={}
         for top_doc in top_5_docs.keys():
             name, id= top_doc.split(';')
-            x[id] = name
+            x[id] = name.lower().replace(".html","")
         results["matches"] = x
 
 
