@@ -71,9 +71,9 @@ def getjson(query: str):
     
     # return results["matches"]
     search_results = {}
-    print (query_keys)
-    search_results["docs"] = results["matches"]
-    print(results["matches"][0])
+    # print (query_keys)
+    search_results["docs"] = results["matches"][1]
+    # print(results["matches"][0])
     elements = searchElements(query_keys, results["matches"][0], conn_db)
     if len(elements) < 1:
         return {"Not Found":"No Element found with the given keyword(s)."}
