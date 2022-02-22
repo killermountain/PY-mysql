@@ -76,12 +76,13 @@ def searchElements(query_keys, doc_ids, conn_db, n_results=5):
             data["element_id"] = row[0]
             data["element_type"] = row[3]
             data["document_id"] = row[4]
-            try:
+            
+            if row[3] == "Table":
                 data["content"] = json.loads(row[2])
-            except:
+            else:
                 data["content"] = row[2]
             
-            data["keywords"] = row[1]
+            # data["keywords"] = row[1]
             matches.append(data)
         else:
             continue
