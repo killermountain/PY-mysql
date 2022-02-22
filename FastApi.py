@@ -1,4 +1,3 @@
-# from fileinput import filename
 from fastapi import FastAPI, File, UploadFile
 from fastapi.responses import FileResponse
 import os
@@ -10,8 +9,9 @@ from connDB import MySQLDB
 
 api = FastAPI()
 cwd = os.getcwd()
-hospital_name = "MSE"
-ouput_json = cwd + os.path.sep + "output-json"+ os.path.sep + hospital_name + os.path.sep
+# hospital_name = "Broomfield"
+# ouput_json = cwd + os.path.sep + "output-json"+ os.path.sep + hospital_name + os.path.sep
+ouput_all_json = cwd + os.path.sep + "output-json"+ os.path.sep
 
 documents = None
 last_doc_id = None
@@ -23,22 +23,36 @@ def welcome():
 
 @api.get("/getfilnames/")
 def getAlljsons():
-    # print(cwd)
-    filenames = []
-    # filepath = os.path.join(cwd, "output-json/")
-    files = os.listdir(ouput_json)
     
-    for file in files:
-        if file[-5:].lower() == ".json":
-            filenames.append(file[:-5])
-    return {"Hospital": hospital_name, "No of Files": len(filenames), "data":filenames}
+    # output={}
+    hospitals = []
+    hospital_names = os.listdir(ouput_all_json)
+    # output["Hospital names"]= hospital_names
+    
+    for hosp_name in hospital_names:
+        json_files = []
+        folder_path = os.path.join(ouput_all_json, hosp_name)
+        json_names = os.listdir(folder_path)
+        
+        for json_file in json_names:
+            if json_file[-5:].lower() == ".json":
+                json_files.append(json_file[:-5])
+        hospital = {"hospital_name":hosp_name, "No of Files": len(json_files), "Filenames":json_files}
+        hospitals.append(hospital)
+
+    # output["data"] =hospitals
+    return hospitals
 
 @api.get("/getjson/{filename}")
 def getjson(filename: str):
-    filepath = ouput_json + filename + ".json"
-    if os.path.exists(filepath):
-        return FileResponse(filepath, media_type="application/json")
-    return {"error":"JSON not found."}
+    hospital_names = os.listdir(ouput_all_json)
+    filename = filename + ".json"
+    for name in hospital_names:
+        folder_path = os.path.join(ouput_all_json, name)
+        filepath =  os.path.join(folder_path, filename)
+        if os.path.exists(filepath):
+            return FileResponse(filepath, media_type="application/json")
+    return {"Oops":"No JSON found with the name --> "+ filename[:-5]}
 
 @api.get("/search/{query}")
 def getjson(query: str):
@@ -57,8 +71,10 @@ def getjson(query: str):
     
     # return results["matches"]
     search_results = {}
+    print (query_keys)
     search_results["docs"] = results["matches"]
-    elements = searchElements(query_keys, results["matches"].keys(), conn_db)
+    print(results["matches"][0])
+    elements = searchElements(query_keys, results["matches"][0], conn_db)
     if len(elements) < 1:
         return {"Not Found":"No Element found with the given keyword(s)."}
     
@@ -87,3 +103,4 @@ initialize()
 
 if __name__ == "__main__":
     uvicorn.run("FastApi:api", host="127.0.0.1", port=5000, reload=True, log_level="info")
+

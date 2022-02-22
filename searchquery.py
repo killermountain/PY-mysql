@@ -41,11 +41,13 @@ def searchDocs(query_keys, docs, docsCount, lastID, conn_db, top_x=5):
                 score[doc] = score.get(doc, 0) + doc_row[3].lower().count(key.lower())
 
         top_5_docs = dict(sorted(score.items(), key=lambda item: item[1], reverse=True)[:top_x])
-        x={}
+        ids = []
+        names =[]
         for top_doc in top_5_docs.keys():
             name, id= top_doc.split(';')
-            x[id] = name.lower().replace(".html","")
-        results["matches"] = x
+            ids.append(id)
+            names.append(name.lower().replace(".html",""))
+        results["matches"] = [ids, names]
 
 
         return results
