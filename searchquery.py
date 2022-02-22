@@ -3,6 +3,7 @@ from rake_nltk import Rake
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
+import json
 
 def GetKeywords(text, unique=True):
     r = Rake()
@@ -54,12 +55,6 @@ def searchDocs(query_keys, docs, docsCount, lastID, conn_db, top_x=5):
 
 def searchElements(query_keys, doc_ids, conn_db, n_results=5):
     """searching elements"""
-    # print(docs)
-    # doc_ids = []
-    # for id in docs.keys():
-    #     _, id = doc.split(';')
-    #     # print(name, id)
-    #     doc_ids.append(id)
     
     matches = []
     elements = conn_db.getElements(doc_ids)
@@ -73,7 +68,7 @@ def searchElements(query_keys, doc_ids, conn_db, n_results=5):
             score[elem[0]] = score.get(elem[0], 0) + freq
     
     score = dict(sorted(score.items(), key=lambda item: item[1], reverse=True)[:n_results]) #[:n_results]
-    # return score
+    
     for elem_id in score.keys():
         if score[elem_id] > 0:
             row = list(elements[elem_id])
@@ -81,15 +76,15 @@ def searchElements(query_keys, doc_ids, conn_db, n_results=5):
             data["element_id"] = row[0]
             data["element_type"] = row[3]
             data["document_id"] = row[4]
-            data["content"] = row[2]
-            # data["keywords"] = row[1]
+            try:
+                data["content"] = json.loads(row[2])
+            except:
+                data["content"] = row[2]
+            
+            data["keywords"] = row[1]
             matches.append(data)
         else:
             continue
-    
-    # for elem in elements:
-    #     if elem[0] in score.keys():
-    #         matches.append(elem)
     
     return matches
     
