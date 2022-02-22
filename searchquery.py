@@ -46,7 +46,7 @@ def searchDocs(query_keys, docs, docsCount, lastID, conn_db, top_x=5):
         for top_doc in top_5_docs.keys():
             name, id= top_doc.split(';')
             ids.append(id)
-            names.append(name.lower().replace(".html",""))
+            names.append(name.replace(".html",""))
         results["matches"] = [ids, names]
 
 
