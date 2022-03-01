@@ -1,17 +1,5 @@
-from unittest import result
 import mysql.connector
-
-
-HOST="remotemysql.com"
-USERNAME="dcRNtOADDk"
-PASSWORD="ioc5W4pQPO"
-DATABASE="dcRNtOADDk"
-
-# HOST="localhost"
-# PORT= "3306"
-# USERNAME="root"
-# PASSWORD=""
-# DATABASE="pdfdb"
+from CREDENTIALS import HOST, PORT, USER, PASSWORD, DATABASE
 
 class MySQLDB():
 
@@ -21,8 +9,8 @@ class MySQLDB():
     def connectDB(self):
         self.conn = mysql.connector.connect(
         host=HOST,
-#         port= PORT,
-        user=USERNAME,
+        port= PORT,
+        user=USER,
         passwd=PASSWORD,
         database=DATABASE
         )
@@ -60,7 +48,6 @@ class MySQLDB():
 
         # return self.cursor.fetchall()
         return results
-
 
     def disconnectDB(self):
             self.conn.close()

@@ -1,5 +1,4 @@
 from rake_nltk import Rake
-# from connDB import MySQLDB
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -88,8 +87,6 @@ def searchElements(query_keys, doc_ids, conn_db, n_results=5):
             continue
     
     return matches
-    
-
 
 
 
